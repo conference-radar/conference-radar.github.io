@@ -1,0 +1,58 @@
+id: siphotonics
+name: IEEE SiPhotonics
+full_name: IEEE Silicon Photonics Conference
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Photonics Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [10]
+  conference_months: [4]
+links:
+  website: http://www.ieee-siphotonics.org/
+notes:
+- IEEE Photonics Society conference on silicon photonics, formerly the IEEE Group IV Photonics Conference (held since
+  2004)
+- Rotates worldwide every April (2023 Washington DC, 2024 Tokyo Bay, 2025 London, 2026 Ottawa, 2027 Taipei)
+- Topics cover active and passive silicon photonic devices, electronic-photonic and heterogeneous integration,
+  materials and fabrication, and applications such as AI, HPC, quantum, 6G and LiDAR, plus industry sessions
+- Submissions are 2-page papers with a 45-word abstract; accepted papers that are presented go to IEEE Xplore
+- All accepted authors must register and present in person
+- Photonic devices venue rather than computer science; not listed in ICORE2026 or CCF
+editions:
+- year: 2026
+  start: 2026-04-13
+  end: 2026-04-15
+  location: Ottawa, Canada
+  url: https://ieeexplore.ieee.org/xpl/conhome/11520699/proceeding
+- year: 2027
+  start: 2027-04-11
+  end: 2027-04-14
+  location: Taipei, Taiwan
+  url: http://www.ieee-siphotonics.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-26
+    label: Paper submission (extended deadline)
+sources:
+- http://www.ieee-siphotonics.org/
+- http://www.ieee-siphotonics.org/paper-submission/submission-guidelines/
+- http://www.ieee-siphotonics.org/paper-submission/topics/
+- http://www.ieee-siphotonics.org/about/past-conferences/
+- https://ieeexplore.ieee.org/xpl/conhome/1001045/all-proceedings
+- https://api.crossref.org/works/10.1109/siphotonics68911.2026
+- https://ieeephotonics.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=Silicon+Photonics&by=all&source=ICORE2026
+unverified:
+- The official site gives 11 to 14 April 2027, while the IEEE Photonics Society conference list gives 12 to 14 April
+  2027 (the 11th may be a tutorial or registration day)
+- Original (non-extended) 2027 submission deadline and notification date
+- Venue in Taipei, acceptance rate and fees
+last_verified: 2026-11-20

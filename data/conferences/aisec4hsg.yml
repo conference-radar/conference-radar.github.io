@@ -1,0 +1,58 @@
+id: aisec4hsg
+name: AISEC4HSG
+full_name: International Colloquium on Artificial Intelligence and Cybersecurity for Healthcare and Social Good
+type: conference
+tier: minor
+areas: [ai, security]
+region: africa
+language: english
+organizer: Faculty of Science and Technology, Cadi Ayyad University, with ISPITS and EMSI Marrakech
+organizer_country: [other]
+proceedings: Springer Studies in Computational Intelligence (SCI)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [9]
+links:
+  website: https://aisec4hsg.sciencesconf.org/
+notes:
+- 1st edition in 2026, hybrid, at the City of Innovation (CIM), Cadi Ayyad University, Marrakech, Morocco
+- Run by Cadi Ayyad University (Morocco); organizing committee entirely Moroccan, scientific committee mostly Moroccan with members from France, the USA and elsewhere
+- Papers to be published in Springer Studies in Computational Intelligence; a second Springer series (ASTI, IEREK) listed as pending
+- Selected papers may be invited as extended versions to Scopus-indexed journals
+- Very short cycle in 2026 with camera-ready three days before the event
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-25
+  end: 2026-09-26
+  location: Marrakech, Morocco (hybrid)
+  url: https://aisec4hsg.sciencesconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-08-31)
+  - kind: notification
+    date: 2026-09-18
+    time: "23:59"
+    tz: AoE
+    label: Notification (moved from 2026-09-07)
+  - kind: camera_ready
+    date: 2026-09-22
+    time: "23:59"
+    tz: AoE
+    label: Camera-ready (moved from 2026-09-14)
+sources:
+- https://aisec4hsg.sciencesconf.org/
+- https://aisec4hsg.sciencesconf.org/page/important_dates?lang=en
+- https://aisec4hsg.sciencesconf.org/page/publication?lang=en
+- https://aisec4hsg.sciencesconf.org/page/committees?lang=en
+- https://portal.core.edu.au/conf-ranks/?search=AISEC4HSG&by=all&source=ICORE2026
+unverified:
+- Frequency unknown; no 2027 edition announced as of 2026-11-20
+- Publication of the 2026 papers in Springer SCI not yet confirmed
+last_verified: 2026-11-20

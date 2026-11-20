@@ -1,0 +1,71 @@
+id: acmlc
+name: ACMLC
+full_name: Asia Conference on Machine Learning and Computing
+type: conference
+tier: minor
+areas: [ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat at iacsitp.com (contact acmlc@iacsitp.com); co-organized by Renmin University of China in 2026
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 505 USD regular author (2026; 470 USD early bird, 430 to 460 USD student); 315 to 350 USD presentation only
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://www.acmlc.org/
+notes:
+- Smaller commercially organized conference; secretariat works on China time (GMT+8)
+- 2026 is the 8th edition; proceedings published by IEEE and submitted to EI Compendex and Scopus
+- Proceedings history -> IJMLC journal (2017 to 2021), IEEE Xplore (2022), ACM ICPS in the ACM DL (2024, 2025), IEEE (2026)
+- Held in Asia (Singapore 2017, Ho Chi Minh City 2018, Hong Kong 2019 and 2025, Bangkok 2022 and 2024, Beijing 2026); 2021 was moved online from Bangkok; no 2020 or 2023 edition
+- At least 4 pages; one registration covers 5 pages; abstract only presentation without publication also offered
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  label: 7th ACMLC
+  start: 2025-07-25
+  end: 2025-07-27
+  location: Hong Kong, China (hybrid)
+  url: https://www.acmlc.org/acmlc2025.html
+- year: 2026
+  label: 8th ACMLC
+  start: 2026-07-10
+  end: 2026-07-12
+  location: Renmin University of China, Beijing, China
+  url: https://www.acmlc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-30
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-06-20
+  - kind: other
+    date: 2026-06-20
+    label: Author registration
+sources:
+- https://www.acmlc.org/
+- https://www.acmlc.org/date.html
+- https://www.acmlc.org/registration.html
+- https://www.acmlc.org/submission.html
+- https://www.acmlc.org/committee.html
+- https://www.acmlc.org/venue.html
+- https://www.acmlc.org/contact.html
+- https://www.acmlc.org/acmlc2025.html
+- https://www.acmlc.org/acmlc2024.html
+- https://www.acmlc.org/acmlc2022.html
+- https://www.acmlc.org/acmlc2021.html
+- https://www.acmlc.org/acmlc2019.html
+- https://www.acmlc.org/acmlc2018.html
+- https://www.acmlc.org/acmlc2017.html
+- https://portal.core.edu.au/conf-ranks/?search=ACMLC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ACMLC 2027 not announced on the official site yet
+- Legal name and country of the organizing body behind the iacsitp.com secretariat not stated on the site
+- No deadline time or time zone stated

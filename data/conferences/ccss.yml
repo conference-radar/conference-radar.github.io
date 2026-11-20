@@ -1,0 +1,63 @@
+id: ccss
+name: CCSS
+full_name: International Conference on Cybersecurity Systems
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+organizer: Steering committee from Europe and the USA; 2026 local organization by ESIEA (Paris); co-sponsored by IEEE
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://css-conference.org/2026/
+notes:
+- Hybrid conference co-sponsored by IEEE; the 2026 site also shows the IEEE-CS France Chapter, ESIEA and PayQlick logos
+- Accepted and registered papers are submitted to IEEE Xplore (PDF eXpress conference ID 72320X); at least one author must register and present, onsite or online
+- Papers in the IEEE conference template, submitted through Sparcly
+- Main track plus a later special track and a co-located QCSA symposium
+- Very fast review cycle (2026 main track notification 10 days after the submission deadline)
+- General chairs in 2026 from the University of Murcia, Texas A&M University-San Antonio and the University of Houston
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-30
+  location: Paris, France (hybrid)
+  url: https://css-conference.org/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+    label: Main track
+  - kind: notification
+    date: 2026-08-30
+    label: Main track
+  - kind: camera_ready
+    date: 2026-10-01
+    label: Main track
+  - kind: submission
+    date: 2026-09-20
+    label: Special track
+  - kind: notification
+    date: 2026-10-01
+    label: Special track
+  - kind: camera_ready
+    date: 2026-10-10
+    label: Special track
+sources:
+- https://css-conference.org/2026/
+- https://css-conference.org/2026/camera-ready.php
+- https://css-conference.org/2026/call-papers.php
+- https://css-conference.org/2026/organizing-committee.php
+- https://portal.core.edu.au/conf-ranks/?search=CCSS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No earlier editions are listed and the 2025 path returns 404, so frequency, region and typical months rest on the 2026 edition only
+- The site uses both CCSS and CSS as the acronym
+- Organizer country is not stated; the steering committee is spread over France, Spain, Portugal and the USA
+- CCSS 2027 not announced yet; deadline time zone not stated

@@ -1,0 +1,49 @@
+id: nwp-icassp
+name: Networked Wireless Perception
+full_name: "Networked Wireless Perception: Distributed Sensing, Localization, and Learning"
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: north-america
+language: english
+organizer: George C. Alexandropoulos (NKUA), Cheng Li (Simon Fraser University), Kaitao Meng (University of Manchester), Kawon Han (UNIST), Nanchi Su (HIT Shenzhen), Christos Masouros (UCL) and Xianbin Wang (Western University), as an IEEE ICASSP 2027 satellite workshop
+organizer_country: [canada, europe, korea, china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://nanchisu0831.github.io/networked-wireless-perception-icassp2027/
+notes:
+- Half-day ICASSP 2027 satellite workshop on networked and distributed wireless sensing, localization and learning (ISAC, cooperative sensing)
+- Submission instructions follow the ICASSP 2027 workshop guidelines
+- ICASSP 2027 satellite workshop papers are published in IEEE Xplore under a separate workshop record (per the ICASSP 2027 call for satellite workshops)
+- No earlier edition is mentioned; 2027 appears to be the first
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://nanchisu0831.github.io/networked-wireless-perception-icassp2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Extended (originally 2026-11-11)
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+    label: Final paper submission
+sources:
+- https://nanchisu0831.github.io/networked-wireless-perception-icassp2027/
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Wireless+Perception&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The workshop page does not name the proceedings; IEEE Xplore is taken from the ICASSP 2027 call for satellite workshops
+- The workshop page does not give the exact workshop day; 17 May 2027 is from the ICASSP 2027 satellite workshops page
+- region is based on the single 2027 edition

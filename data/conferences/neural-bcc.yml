@@ -1,0 +1,55 @@
+id: neural-bcc
+name: Neural-BCC
+full_name: Workshop on Neural Fields Beyond Conventional Cameras
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (Princeton, MIT Media Lab, ETH Zurich, Technion, Peking University, University of Toronto and others); co-located with ECCV and CVPR
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [6, 9]
+links:
+  website: https://neural-bcc.github.io/
+notes:
+- Workshop on neural fields and Gaussian splatting for non-RGB sensors (lidar, thermal, event cameras, cryo-EM, sonar, radar) and physics-based light transport
+- 1st edition at ECCV 2024, 2nd edition at CVPR 2025 (Nashville); moves between the major vision conferences
+- Non-archival; papers are not part of the ECCV or CVPR proceedings, and already published work may be presented
+- 2024 submissions via OpenReview; all accepted papers get a poster and a few are chosen as spotlight talks
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2024
+  label: 1st edition, with ECCV 2024
+  start: 2024-09-30
+  end: 2024-09-30
+  location: Milan, Italy
+  url: https://neural-bcc.github.io/2024/2024.html
+  deadlines:
+  - kind: submission
+    date: 2024-08-16
+    tz: AoE
+  - kind: notification
+    date: 2024-08-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-09-06
+    tz: AoE
+- year: 2025
+  label: 2nd edition, with CVPR 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Music City Center, Nashville, Tennessee, USA
+  url: https://neural-bcc.github.io/
+sources:
+- https://neural-bcc.github.io/
+- https://neural-bcc.github.io/2024/2024.html
+- https://portal.core.edu.au/conf-ranks/?search=Neural-BCC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Submission deadlines of the CVPR 2025 edition are not shown on the official site
+- No 2026 or 2027 edition announced as of 2026-11-20

@@ -1,0 +1,51 @@
+id: snw
+name: SNW
+full_name: IEEE Silicon Nanoelectronics Workshop
+type: workshop
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: Japan Society of Applied Physics (JSAP) Silicon Technology Division and IEEE Electron Devices Society
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+fee: 30,000 JPY regular early, 35,000 JPY regular late, 18,000 JPY student (2025)
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://annex.jsap.or.jp/snw/
+notes:
+- Satellite workshop of the VLSI Symposium on silicon-related nanoelectronics, held since 1996; 30th edition in 2025
+- Sponsored by the JSAP Silicon Technology Division and IEEE EDS
+- Follows the VLSI Symposium, alternating each June between Kyoto and Honolulu; registration goes through the VLSI Symposium site
+- Submissions are 2-page abstracts (one page of text, one of figures); accepted papers go to IEEE Xplore
+- Covers sub-10 nm transistors, nanodevice physics and modeling, 2D materials, quantum and neuromorphic devices
+editions:
+- year: 2025
+  start: 2025-06-08
+  end: 2025-06-09
+  location: Kyoto, Japan
+  url: https://annex.jsap.or.jp/snw/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-04-14
+    time: "23:59"
+    tz: JST
+    label: Abstract (extended from 2025-03-31)
+sources:
+- https://annex.jsap.or.jp/snw/index.html
+- https://annex.jsap.or.jp/snw/CFP.html
+- https://annex.jsap.or.jp/snw/Paper.html
+- https://annex.jsap.or.jp/snw/Reg.html
+- https://portal.core.edu.au/conf-ranks/?search=SNW&by=all&source=ICORE2026
+unverified:
+- SNW 2026 in Honolulu not recorded; its official site (snw2026.conf.nycu.edu.tw) was suspended and could not be checked (2026-11-20)
+- SNW 2027 dates not found on an official page
+- Organizers of the Honolulu editions, whose sites are hosted by NYCU in Taiwan, not confirmed
+- Not listed in the CORE ICORE2026 portal or the CCF list; acceptance rate not published
+last_verified: 2026-11-20

@@ -1,0 +1,59 @@
+id: icsct
+name: ICSCT
+full_name: International Conference on Software and Computing Technologies
+type: conference
+tier: minor
+areas: [software, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Commercial conference secretariat (contact icsct@iap.org, confsys.iconf.org submission system); 2025 sponsored by Duy Tan University
+organizer_country: [china]
+proceedings: Journals IJCTE or JSW (accepted full papers)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [7, 8]
+links:
+  website: https://icsct.org/
+notes:
+- Annual since 2017; held in Danang, Vietnam in 2023 and 2024 (hybrid) and at Duy Tan University, Danang in 2025; virtual 2020 to 2022; Hong Kong in 2019
+- No separate conference proceedings; all accepted, registered and presented full papers are published in the International Journal of Computer Theory and Engineering (IJCTE) or the Journal of Software (JSW)
+- Abstract only presentation without publication is also offered
+- Run by a commercial conference secretariat with a GMT+8 phone contact; 2025 sponsored by Duy Tan University and co-sponsored by the University of Da Nang and Ho Chi Minh City University of Technology
+- Not listed in ICORE2026
+editions:
+- year: 2024
+  label: 13th ICSCT
+  start: 2024-07-26
+  end: 2024-07-28
+  location: Danang, Vietnam (hybrid)
+  url: https://icsct.org/icsct2024.html
+- year: 2025
+  label: 14th ICSCT
+  start: 2025-08-28
+  end: 2025-08-30
+  location: Duy Tan University, Danang, Vietnam
+  url: https://icsct.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-07-10
+  - kind: notification
+    date: 2025-07-30
+  - kind: other
+    date: 2025-08-10
+    label: Registration
+sources:
+- https://icsct.org/
+- https://icsct.org/organizing.html
+- https://icsct.org/icsct2024.html
+- https://icsct.org/icsct2023.html
+- https://icsct.org/icsct2022.html
+- https://icsct.org/icsct2021.html
+- https://icsct.org/icsct2020.html
+- https://icsct.org/icsct2019.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSCT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ICSCT 2026 not announced; the official site still shows the 2025 edition as of 2026-11-20

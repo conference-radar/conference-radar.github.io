@@ -1,0 +1,47 @@
+id: tsai-cd
+name: TSAI-CD
+full_name: Workshop on Trustworthy and Secure AI for Cyber Defense
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+organizer: Co-located with IEEE DSC; co-chaired by Takeshi Takahashi (NICT) and Gregory Blanc (Telecom SudParis)
+organizer_country: [japan, europe]
+proceedings: IEEE Xplore (IEEE DSC proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://attend.ieee.org/dsc/trustworthy-secureai/
+notes:
+- Workshop of the IEEE Conference on Dependable and Secure Computing (DSC); first held at DSC 2026 at Fordham University, New York
+- Accepted papers are published in IEEE Xplore as part of the IEEE DSC proceedings; one author must register for the conference
+- Full papers up to 6 pages and poster papers up to 2 pages, IEEE two-column format, submitted through EDAS
+- Half-day workshop in 2026 with ten technical presentations and a distinguished talk; advance registration through DSC
+- Sometimes listed elsewhere as AICyDef; the official acronym is TSAI-CD
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-10
+  end: 2026-10-10
+  location: New York, USA (IEEE DSC 2026, Fordham University)
+  url: https://attend.ieee.org/dsc/trustworthy-secureai/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-09-04
+sources:
+- https://attend.ieee.org/dsc/trustworthy-secureai/
+- https://attend.ieee.org/dsc/tsai-cd-call-for-participation/
+- https://attend.ieee.org/dsc/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=TSAI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Whether the workshop continues at DSC 2027 is not announced
+- Deadline time zone not stated
+- The DSC homepage gave Jul 15 for workshop papers; the workshop page gives Jul 17 (workshop page used)

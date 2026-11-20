@@ -1,0 +1,42 @@
+id: amtso-crc
+name: AMTSO Cyber Research Conference
+full_name: AMTSO Cyber Research Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: AMTSO (Anti-Malware Testing Standards Organization)
+organizer_country: [usa]
+proceedings: None (talks only; past events have recordings, slides and a YouTube archive)
+archival: false
+typical:
+  conference_months: [10]
+links:
+  website: https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/
+notes:
+- Run by AMTSO, a California-incorporated 501(c)(6) non-profit of security vendors and testing labs founded in 2008
+- Two-day single-track event on anti-malware testing methodology, malware and threat intelligence, plus AMTSO working group updates and panels
+- Audience is testing labs, security vendors, government bodies, academics and students
+- 2025 edition in Lisbon, 2026 edition at the Renaissance Brussels Hotel
+- AMTSO member companies get two free tickets; non-member price not stated
+- No public call for papers or proceedings (non-archival)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-10-20
+  end: 2026-10-21
+  location: Renaissance Brussels Hotel, Brussels, Belgium
+  url: https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/
+  deadlines: []
+sources:
+- https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/
+- https://www.amtso.org/
+- https://www.amtso.org/about-amtso/
+- https://portal.core.edu.au/conf-ranks/?search=AMTSO&by=all&source=ICORE2026
+unverified:
+- Exact dates and venue of the 2025 Lisbon edition (not stated on the official 2026 page)
+- No call for presentations or speaker deadline published
+- 2027 edition not announced as of 2026-11-20
+last_verified: 2026-11-20

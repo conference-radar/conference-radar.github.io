@@ -1,0 +1,74 @@
+id: ume-workshop
+name: U&ME
+full_name: Workshop and Challenge on Unlearning and Model Editing
+type: workshop
+tier: minor
+areas: [ai, vision, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Sapienza University of Rome, IIT Jodhpur, Meta AI, Michigan State University and others); co-located with ECCV / ICCV
+organizer_country: [europe, india, usa]
+proceedings: ECCV / ICCV Workshops proceedings (archival full papers)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://sites.google.com/view/u-and-me-workshop/
+notes:
+  - Workshop and challenge on machine unlearning and model editing for vision and generative models
+  - 1st edition with ECCV 2024 (Milan), 2nd with ICCV 2025 (Hawaii), 3rd with ECCV 2026 (Malmo)
+  - Full papers (14 pages in LNCS style for ECCV 2026, 8 pages for ICCV 2025) appear in the workshop proceedings
+  - Non-archival papers up to 4 pages are presented but not published
+  - Submission through OpenReview; half-day workshop with a challenge track
+  - Different from the MUV, STMUS and WIPE-OUT unlearning workshops
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: 2nd edition, with ICCV 2025
+    start: 2025-10-19
+    end: 2025-10-19
+    location: Hawaii, USA (with ICCV 2025)
+    url: https://sites.google.com/view/u-and-me-workshop/eccv-2026/iccv-2025
+    deadlines:
+      - kind: submission
+        date: 2025-07-03
+        tz: AoE
+        label: Full and non-archival papers (extended from 2025-06-28)
+      - kind: notification
+        date: 2025-07-10
+        tz: AoE
+      - kind: other
+        date: 2025-08-01
+        tz: AoE
+        label: Challenge deadline
+      - kind: camera_ready
+        date: 2025-08-18
+        tz: AoE
+  - year: 2026
+    label: 3rd edition, with ECCV 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://sites.google.com/view/u-and-me-workshop/
+    deadlines:
+      - kind: submission
+        date: 2026-07-09
+        tz: AoE
+        label: Full and non-archival papers
+      - kind: camera_ready
+        date: 2026-08-15
+sources:
+  - https://sites.google.com/view/u-and-me-workshop/
+  - https://sites.google.com/view/u-and-me-workshop/call-for-papers
+  - https://sites.google.com/view/u-and-me-workshop/eccv-2026/iccv-2025
+  - https://sites.google.com/view/u-and-me-workshop/eccv-2026/iccv-2025/call-for-papers
+  - https://sites.google.com/view/u-and-me-workshop/eccv-2026/eccv-2024
+  - https://portal.core.edu.au/conf-ranks/?search=U%26ME&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - 2026 notification date unclear (the call lists both 2026-08-05 and 2026-08-09; the home page says notifications went out on 2026-08-10)
+  - Publisher of the ECCV 2026 workshop proceedings not named on the workshop site
+  - Whether ECCV 2024 papers appeared in the ECCV 2024 workshop proceedings
+  - No 4th edition announced as of 2026-11-20

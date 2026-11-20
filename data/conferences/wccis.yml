@@ -1,0 +1,62 @@
+id: wccis
+name: WCCIS
+full_name: World Conference on Computer Science and Information Security
+type: conference
+tier: minor
+areas: [security, general]
+region: china
+language: english
+frequency: annual
+organizer: Chinese host universities with AiScholar
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://www.wccis.org/
+notes:
+- Called World Conference on Computer and Information Security for the 2024 and 2025 editions; renamed from the 3rd edition (2026)
+- Host changes each year (2025 Xiangtan University, 2026 Huizhou University); AiScholar provided technical support and logistics in 2026
+- Proceedings of 2025 and 2026 in IEEE Xplore (2025 via IEEE CPS); 2024 proceedings in Springer LNICST
+- Broad CS topics (AI, vision, software, cloud, blockchain) plus information security (network security, IoT security, privacy, biometrics)
+- Held in China (2024 Guilin, 2026 Huizhou); 2025 edition was online
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-10
+  end: 2026-07-12
+  location: Huizhou University, Huizhou, China
+  url: https://www.wccis.org/jkfteomi
+- year: 2027
+  start: 2027-06-11
+  end: 2027-06-13
+  location: Changji, China
+  url: https://www.wccis.org/
+  deadlines:
+  - kind: submission
+    date: 2027-03-26
+  - kind: notification
+    date: 2027-04-26
+  - kind: camera_ready
+    date: 2027-05-11
+  - kind: other
+    date: 2027-05-26
+    label: Registration
+sources:
+- https://www.wccis.org/
+- https://www.wccis.org/jkfteomi
+- https://www.wccis.org/corzbvwz
+- https://www.wccis.org/gnowwuqs
+- https://www.wccis.org/publication
+- https://www.wccis.org/committee
+- https://ieeexplore.ieee.org/xpl/conhome/11649949/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/11482538/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=WCCIS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- WCCIS 2026 deadlines are not stated on the official site
+- The official site does not name the publisher for the 2027 proceedings; IEEE Xplore is inferred from the 2025 and 2026 volumes
+- Acceptance rate and fees not checked

@@ -1,0 +1,72 @@
+id: fmea
+name: FMEA
+full_name: CVPR Workshop on Foundation Models Meet Embodied Agents
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (mainly Northwestern University, with Stanford, UPenn, University of Utah and Texas A&M); co-located with CVPR
+organizer_country: [usa]
+proceedings: Workshop website (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://foundation-models-meet-embodied-agents.github.io/cvpr2026/
+notes:
+- CVPR workshop on LLMs, VLMs and other foundation models for embodied agents; held at CVPR 2025 (Nashville) and CVPR 2026 (Denver)
+- Non-archival; accepted papers are hosted on the workshop website and dual submission is allowed
+- Research papers up to 8 pages, short papers of 4 pages, plus position and survey papers, in CVPR format with anonymous review
+- 34 papers accepted in 2026 and 21 in 2025, all presented as posters
+- Runs embodied agent benchmarks and challenges (ENACT, EmbodiedBench, Embodied Agent Interface, RoboMME)
+- Same group also ran related tutorials at AAAI 2025, NAACL 2025 and ICCV 2025
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, Tennessee, USA (with CVPR 2025)
+  url: https://foundation-models-meet-embodied-agents.github.io/cvpr2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-17
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline (originally 2025-05-01)
+  - kind: notification
+    date: 2025-05-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-05-31
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://foundation-models-meet-embodied-agents.github.io/cvpr2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+    time: "23:59"
+    tz: AoE
+    label: Extended deadline (originally 2026-05-01)
+  - kind: notification
+    date: 2026-05-25
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://foundation-models-meet-embodied-agents.github.io/cvpr2026/
+- https://foundation-models-meet-embodied-agents.github.io/cvpr2025/
+- https://portal.core.edu.au/conf-ranks/?search=FMEA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Edition for CVPR 2027 not announced as of 2026-11-20

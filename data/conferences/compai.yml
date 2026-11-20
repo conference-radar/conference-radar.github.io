@@ -1,0 +1,47 @@
+id: compai
+name: CompAI
+full_name: Workshop on Composite AI
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Filuta AI and Czech Technical University in Prague, with Orebro University; co-located with ECAI or IJCAI
+organizer_country: [europe]
+proceedings: Workshop website (accepted papers online, non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://filuta.ai/compai25
+notes:
+- Workshop on integrating several AI approaches (planning, SAT/SMT, neurosymbolic AI, LLM plus symbolic AI, cognitive architectures)
+- 1st edition at ECAI 2024 (20 October 2024), 2nd at IJCAI 2025 in Montreal
+- No proceedings series named on the official pages; accepted papers are posted as PDFs on the workshop website
+- Full papers 7+1 pages, short papers 4+1 pages in IJCAI format, single-blind review via EasyChair
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-18
+  end: 2025-08-18
+  location: Montreal, Canada (with IJCAI 2025)
+  url: https://filuta.ai/compai25
+  deadlines:
+  - kind: submission
+    date: 2025-05-09
+  - kind: notification
+    date: 2025-06-06
+  - kind: camera_ready
+    date: 2025-06-30
+sources:
+- https://filuta.ai/compai25
+- https://filuta.ai/compai24
+- https://2025.ijcai.org/workshops/
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=CompAI&by=all&source=ICORE2026
+unverified:
+- Not in the IJCAI 2026 accepted workshops list; no 2026 or 2027 edition found as of 2026-11-20
+- Time and time zone of the 2025 deadlines not stated
+last_verified: 2026-11-20

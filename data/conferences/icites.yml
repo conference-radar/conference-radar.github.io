@@ -1,0 +1,59 @@
+id: icites
+name: ICITES
+full_name: International Conference on Intelligent Technology and Embedded Systems
+type: conference
+tier: minor
+areas: [systems, ai]
+region: china
+language: english
+frequency: annual
+organizer: Hangzhou International Innovation Institute of Beihang University (2026 sponsor) with Zhejiang Sci-Tech University and UESTC; earlier editions hosted by UESTC with IEEE CEDA Chengdu Section and IEEE EDS Chengdu Chapter
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://www.icites.net/
+notes:
+- Covers intelligent embedded systems, processors, AI accelerators, edge computing, IoT, cyber-physical systems, dependable AI and embedded security
+- Held since 2021 (virtual 2021 and 2022, Huzhou 2023, Chengdu 2024, Huzhou 2025, Hangzhou 2026)
+- Proceedings of all editions 2021 to 2025 are in IEEE Xplore, indexed in EI Compendex and Scopus
+- Listed in the IEEE conference calendar (conference 71818 for 2026)
+- Selected extended papers recommended to journals such as Journal of Systems Architecture and Sustainable Computing
+- Submission through EasyChair; bilingual Chinese and English site
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-19
+  end: 2025-09-22
+  location: Huzhou, China
+  url: https://www.icites.net/2025.html
+- year: 2026
+  start: 2026-09-18
+  end: 2026-09-21
+  location: Hangzhou, China
+  url: https://www.icites.net/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-08-30
+    label: Registration and camera ready
+sources:
+- https://www.icites.net/
+- https://www.icites.net/2025.html
+- https://www.icites.net/2024.html
+- https://www.icites.net/2023.html
+- https://www.icites.net/2022.html
+- https://www.icites.net/2021.html
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/71818
+- https://portal.core.edu.au/conf-ranks/?search=ICITES&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No 2027 edition announced yet
+- No deadline time or time zone stated

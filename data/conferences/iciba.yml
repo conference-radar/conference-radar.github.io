@@ -1,0 +1,59 @@
+id: iciba
+name: ICIBA
+full_name: IEEE International Conference on Information Technology, Big Data and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, data]
+region: china
+language: english
+frequency: irregular
+organizer: IEEE China Council and Chongqing Global Union Academy of Science and Technology
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 500 USD author, 450 USD student or IEEE member (2027)
+typical:
+  deadline_months: [7]
+  conference_months: [8]
+links:
+  website: http://www.iciba.org/
+notes:
+- Sponsored by IEEE China Council and Chongqing Global Union Academy of Science and Technology; chaired from
+  Chongqing University of Technology
+- Accepted papers are submitted for inclusion in IEEE Xplore; at least two reviewers per paper; papers of 4 pages or
+  more, five pages included in the fee
+- 2027 is the 6th edition; earlier editions were in 2020, 2021, 2023, 2024 and 2026 (no 2022 or 2025 edition), all with
+  IEEE conference proceedings
+- Short gap between deadline and conference (deadline about five weeks before the event)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-08-27
+  end: 2027-08-29
+  location: Chengdu, China
+  url: http://www.iciba.org/
+  deadlines:
+  - kind: submission
+    date: 2027-07-20
+    label: Full paper
+  - kind: notification
+    date: 2027-07-30
+  - kind: camera_ready
+    date: 2027-08-10
+  - kind: other
+    date: 2027-08-10
+    label: Author registration
+sources:
+- http://www.iciba.org/
+- http://www.iciba.org/Important_Dates.asp
+- http://www.iciba.org/Committees.asp
+- http://www.iciba.org/Registration.asp
+- https://api.crossref.org/works?query.bibliographic=Information+Technology+Big+Data+and+Artificial+Intelligence+ICIBA&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICIBA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of the 2026 (5th) edition are not on the official site
+- Past host cities not stated on the official site; Crossref records of the IEEE proceedings list Chongqing for 2020
+  to 2026
+- Some subpages of the official site (Publication, News) still show text from an unrelated 2015 conference

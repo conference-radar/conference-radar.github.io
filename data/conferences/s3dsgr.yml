@@ -1,0 +1,63 @@
+id: s3dsgr
+name: S3DSGR
+full_name: Workshop on Scalable 3D Scene Generation and Geometric Scene Understanding
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from Australian National University, NVIDIA, EPFL, University of Pennsylvania and Google; co-located with ECCV or ICCV
+organizer_country: [australia, usa, europe]
+proceedings: ECCV Workshops proceedings (Springer) or ICCV Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9, 10]
+links:
+  website: https://s3dsgr.github.io/
+notes:
+- Workshop on large-scale 3D scene generation, reconstruction and geometric scene understanding
+- 1st edition at ECCV 2024, 2nd at ICCV 2025 in Honolulu, 3rd at ECCV 2026 in Malmo
+- Papers up to 14 pages (ECCV format) or 8 pages (ICCV format), double-blind review on OpenReview, no dual submission
+- Accepted papers are included in the host conference workshop proceedings
+- Authors are expected to help with reviewing
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd S3DSGR, with ICCV 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Honolulu, Hawaii, USA
+  url: https://s3dsgr.github.io/index2025.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-30
+  - kind: notification
+    date: 2025-07-10
+  - kind: camera_ready
+    date: 2025-08-10
+- year: 2026
+  label: 3rd S3DSGR, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden
+  url: https://s3dsgr.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+  - kind: notification
+    date: 2026-08-05
+    label: Postponed from 2026-07-29
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://s3dsgr.github.io/
+- https://s3dsgr.github.io/index2025.html
+- https://openaccess.thecvf.com/ICCV2025_workshops/S3DSGR
+- https://portal.core.edu.au/conf-ranks/?search=S3DSGR&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Deadline times and time zones not stated
+- Dates of the 1st edition (ECCV 2024) not checked
+- Next edition (2027) not announced yet

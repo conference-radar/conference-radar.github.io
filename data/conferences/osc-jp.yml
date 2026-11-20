@@ -1,0 +1,65 @@
+id: osc-jp
+name: OSC
+full_name: Open Source Conference (OSPN Japan)
+name_local: オープンソースカンファレンス
+type: industry
+tier: domestic
+areas: [software, systems]
+region: japan
+language: japanese
+frequency: multiple-per-year
+organizer: Open Source Conference executive committee, operated by Beginet Inc. (OSPN)
+organizer_country: [japan]
+proceedings: None
+archival: false
+fee: Free (2026)
+typical:
+  conference_months: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+links:
+  website: https://www.ospn.jp/
+notes:
+- Community open source event series held since 2004, over 260 events in cities across Japan from Hokkaido to Okinawa
+- Each event has seminars by open source communities and sponsors plus community and company exhibit booths; no papers or proceedings
+- Free to attend with registration through connpass; usually one Saturday per city
+- Tokyo/Spring and Tokyo/Fall are the largest (730 visitors at Tokyo/Spring 2026, 400 at Tokyo/Fall 2026); an Online/Fall edition also runs
+- Communities and companies apply to exhibit or give seminars; company exhibits require sponsorship
+editions:
+- year: 2026
+  label: Tokyo/Spring 2026
+  start: 2026-02-27
+  end: 2026-02-28
+  location: Tokyo, Japan
+  url: https://www.ospn.jp/eventlist
+- year: 2026
+  label: Tokyo/Fall 2026
+  start: 2026-10-17
+  end: 2026-10-17
+  location: Tokyo, Japan
+  url: https://www.ospn.jp/eventlist
+- year: 2026
+  label: Fukuoka 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Fukuoka University, Fukuoka, Japan
+  url: https://event.ospn.jp/osc2026-fukuoka/
+- year: 2027
+  label: Osaka 2027
+  start: 2027-01-30
+  end: 2027-01-30
+  location: Osaka Business Innovation Center (Osaka Sangyo Sozokan), Osaka, Japan
+  url: https://event.ospn.jp/osc2027-osaka/
+  deadlines:
+  - kind: other
+    date: 2026-12-16
+    label: Exhibitor and seminar applications
+sources:
+- https://www.ospn.jp/
+- https://www.ospn.jp/eventlist
+- https://event.ospn.jp/osc2026-fukuoka/
+- https://event.ospn.jp/osc2027-osaka/
+- https://portal.core.edu.au/conf-ranks/?search=OSC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Venues of the 2026 Tokyo editions (the official event list gives dates only)
+- Upcoming events in Nagaoka (2026-11-21), Yamaguchi (2026-11-22) and Okinawa (2026-12-05) are listed on ospn.jp but not added here
+- OSC 2027 Tokyo/Spring not announced as of 2026-11-20

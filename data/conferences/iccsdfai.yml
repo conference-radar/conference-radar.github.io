@@ -1,0 +1,56 @@
+id: iccsdfai
+name: ICCSDFAI
+full_name: International Conference on Cybersecurity, Digital Forensics, and AI Applications
+type: conference
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Astana IT University (CyberTech Research and Innovation Center)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: 350 USD (2026, regular non-IEEE); 300 USD IEEE member; 200 USD student
+typical:
+  deadline_months: [5]
+  conference_months: [4, 6]
+links:
+  website: https://www.iccsdfai.org/
+notes:
+- Series led by the CyberTech Research and Innovation Center of Astana IT University, Kazakhstan
+- 2025 held at Astana IT University, Kazakhstan; 2026 at Istinye University, Istanbul, Turkey, with several Kazakh, Turkish, UK and Moroccan partner institutions
+- Technical sponsorship by IEEE from 2026; 2026 proceedings published in IEEE Xplore
+- 2025 proceedings published by Generis Publishing (Methods and Trends in Cybersecurity, Digital Forensics and AI Applications)
+- 4 to 6 page IEEE format papers submitted through Microsoft CMT
+- Three tracks in 2026 (cybersecurity and forensics, infrastructure and applied systems, governance and financial security); also hosts a CTF and hackathon
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-04-29
+  end: 2025-04-30
+  location: Astana IT University, Astana, Kazakhstan
+  url: https://www.iccsdfai.org/iccsdfai2025
+- year: 2026
+  start: 2026-06-25
+  end: 2026-06-27
+  location: Istinye University, Istanbul, Turkey
+  url: https://www.iccsdfai.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-12
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-10
+sources:
+- https://www.iccsdfai.org/
+- https://www.iccsdfai.org/call-for-papers
+- https://www.iccsdfai.org/iccsdfai2025
+- https://ieeexplore.ieee.org/xpl/conhome/11647771/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICCSDFAI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ICCSDFAI 2027 is listed as TBA on the official site
+- The 2026 author guidelines mention May 21-23, 2026, which conflicts with the June 25-27 conference dates given elsewhere on the site
+- Indexing not stated on the official site

@@ -1,0 +1,49 @@
+id: dslw
+name: DSLW
+full_name: IEEE Data Science and Learning Workshop
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: IEEE Signal Processing Society Data Science Initiative (2027 organizers from Newcastle University, Bar-Ilan University, Aalborg University, TReNDS, Maastricht University and Michigan State University)
+organizer_country: [international]
+proceedings: IEEE Xplore (ICASSP 2027 proceedings)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/dslw-mental-health/home
+notes:
+- Workshop series of the IEEE SPS Data Science Initiative; the 2027 edition is a one-day ICASSP 2027 satellite on Data Science and AI for Mental Healthcare Across the Lifespan
+- Endorsed by the IEEE Brain and IEEE AgeTech initiatives
+- Full papers follow the ICASSP 2027 style and length and appear in the ICASSP 2027 proceedings on IEEE Xplore
+- A poster session takes last-minute abstract-only contributions, which do not appear in IEEE Xplore
+- Paper deadline extended to 25 Nov 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  label: Data Science and AI for Mental Health, with IEEE ICASSP 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (Metro Toronto Convention Centre, with ICASSP 2027)
+  url: https://sites.google.com/view/dslw-mental-health/home
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+    label: Extended
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+sources:
+- https://sites.google.com/view/dslw-mental-health/home
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=DSLW&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Notification (16 Dec 2026) and final paper (6 Jan 2027) dates are the general ICASSP 2027 workshop dates; the DSLW page lists only the submission deadline
+- Earlier DSLW editions and their frequency were not checked on an official page
+- The ICASSP satellite workshop FAQ PDF still says workshops are on 16 May 2027; the satellite workshop page says 17 May 2027

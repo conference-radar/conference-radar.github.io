@@ -1,0 +1,58 @@
+id: icemce
+name: ICEMCE
+full_name: International Conference on Electrical, Mechanical and Computer Engineering
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: AEIC Academic Exchange Center with a host university (Xijing University in 2023, University of Electronic Science and Technology of China listed as sponsor in 2026)
+organizer_country: [china]
+proceedings: IOP Journal of Physics Conference Series
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://www.icemce.org/
+notes:
+- Broad electrical, mechanical and computer engineering conference; mechanical engineering is part of the scope
+- Held in Xi'an 2023 to 2025 and in Chengdu in 2026
+- 2026 accepted papers to be published in IOP Journal of Physics Conference Series (ISSN 1742-6596)
+- 2026 proceedings to be submitted to EI Compendex and Scopus, indexing not guaranteed
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-17
+  end: 2025-10-19
+  location: Xi'an, China
+  url: https://www.icemce.org/2025
+- year: 2026
+  label: 10th ICEMCE
+  start: 2026-10-30
+  end: 2026-11-01
+  location: Chengdu, China
+  url: https://www.icemce.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Full paper
+  - kind: notification
+    date: 2026-09-15
+  - kind: other
+    date: 2026-09-30
+    label: Registration
+sources:
+- https://www.icemce.org/
+- https://www.icemce.org/Publication
+- https://www.icemce.org/2025
+- https://www.icemce.org/2024
+- https://www.icemce.org/2023
+- https://portal.core.edu.au/conf-ranks/?search=ICEMCE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ICEMCE 2027 not announced yet
+- Organizer for 2026 not named on the site (only the UESTC sponsor logo)
+- Proceedings outlet of the 2019 to 2025 editions (shown only as cover images on the publication page)

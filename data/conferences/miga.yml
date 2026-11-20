@@ -1,0 +1,64 @@
+id: miga
+name: MiGA
+full_name: Workshop and Challenge on Human Behavior Analysis for Emotion Understanding
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Oulu (Guoying Zhao, Haoyu Chen) with Imperial College London, TUM, Stanford and others; co-located with IJCAI
+organizer_country: [europe]
+proceedings: Springer CCIS (2026); CEUR-WS (2023 to 2025)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://ei-miga.github.io/
+notes:
+- IJCAI workshop and challenge on micro-gesture and behavior-based emotion understanding, started as Micro-gesture Analysis for Hidden Emotion Understanding (MiGA 2023, 2024)
+- Challenge tracks on Kaggle using the SMG and iMiGUE micro-gesture datasets
+- 2023 to 2025 proceedings in CEUR-WS (2025 is Vol-4168); 2026 proceedings in Springer CCIS volume 3120
+- 2026 edition renamed the First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence (EI-MiGA), with the 4th MiGA Challenge
+- Full papers at least 7 pages, short papers 4 to 6 pages, position papers 2 pages; single-blind review
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-29
+  end: 2025-08-29
+  location: Guangzhou, China (with IJCAI 2025)
+  url: https://cv-ac.github.io/MiGA2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-07
+    label: Extended
+  - kind: notification
+    date: 2025-06-10
+  - kind: camera_ready
+    date: 2025-06-15
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany (with IJCAI 2026)
+  url: https://ei-miga.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+    label: Extended from 2026-05-15
+  - kind: notification
+    date: 2026-05-29
+  - kind: camera_ready
+    date: 2026-06-05
+sources:
+- https://ei-miga.github.io/
+- https://cv-ac.github.io/MiGA2025/
+- https://2025.ijcai.org/workshops/
+- https://2026.ijcai.org/accepted-workshops/
+- https://ceur-ws.org/
+- https://portal.core.edu.au/conf-ranks/?search=MiGA&by=all&source=ICORE2026
+unverified:
+- The 2025 site gives conflicting workshop dates (28 and 29 August) and venues (Montreal and Guangzhou); 29 August in Guangzhou follows the schedule and the CEUR-WS volume
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

@@ -1,0 +1,61 @@
+id: aidaos
+name: AIDAOS
+full_name: Workshop on AI-Enhanced DAO Security
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: AIDAOS chairs from Tallinn University, University of Pau and Pays de l'Adour and University of Montpellier (LIRMM), co-located with MEDES
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [8, 10]
+  conference_months: [11]
+links:
+  website: https://hakiri.github.io/AIDAOS25/
+notes:
+- Co-located with MEDES (International Conference on Management of Digital EcoSystems); 1st edition at MEDES 2025 in Ho Chi Minh City
+- Topics are AI methods for the security of decentralized autonomous organizations (DAOs)
+- Papers appear in the MEDES proceedings in Springer CCIS
+- Papers 8 to 12 pages, at least three reviews each; at least one author must attend to present
+- Supported by IEEE Blockchain in 2025
+- 2nd edition (AIDAOS'26) at MEDES 2026 in A Coruña, Spain
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-24
+  location: Ho Chi Minh City, Vietnam
+  url: https://hakiri.github.io/AIDAOS25/
+  deadlines:
+  - kind: submission
+    date: 2025-08-20
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-16
+- year: 2026
+  location: A Coruña, Spain
+  url: https://conferences.sigappfr.org/medes2026/1st-ai-enhanced-dao-security-aidaos26/
+  deadlines:
+  - kind: submission
+    date: 2026-10-20
+  - kind: notification
+    date: 2026-10-26
+  - kind: camera_ready
+    date: 2026-11-01
+sources:
+- https://hakiri.github.io/AIDAOS25/
+- https://conferences.sigappfr.org/medes2026/
+- https://conferences.sigappfr.org/medes2026/1st-ai-enhanced-dao-security-aidaos26/
+- https://portal.core.edu.au/conf-ranks/?search=AIDAOS&by=all&source=ICORE2026
+unverified:
+- AIDAOS 2026 workshop day not stated; MEDES 2026 runs 2026-11-23 to 2026-11-25
+- Deadline time and time zone not stated on the official pages
+- The MEDES 2026 page calls the workshop the 2nd edition but its URL says 1st
+last_verified: 2026-11-20

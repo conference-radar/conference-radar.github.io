@@ -1,0 +1,54 @@
+id: dlt4sec
+name: DLT4SEC
+full_name: International Workshop on DLT for Cybersecurity and Vice Versa
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+organizer: DLT4SEC general chairs from Niccolò Cusano University and Sapienza University of Rome, co-located with SRDS
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/dlt4sec
+notes:
+- Co-located with SRDS (IEEE International Symposium on Reliable Distributed Systems); 2025 edition at SRDS 2025 in Porto
+- Topics are distributed ledger technology used for cybersecurity, and security of DLT systems
+- Research and demo papers (up to 6 pages, IEEE two-column) appear in a supplementary volume of the SRDS proceedings in IEEE Xplore
+- Research and demo extended abstracts (up to 2 pages) are not included in the official proceedings
+- Single-blind review
+- General chairs from Niccolò Cusano University and Sapienza University of Rome (Italy)
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-29
+  end: 2025-09-29
+  location: Porto, Portugal
+  url: https://sites.google.com/view/dlt4sec
+  deadlines:
+  - kind: submission
+    date: 2025-07-11
+    tz: AoE
+  - kind: notification
+    date: 2025-07-25
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-31
+    tz: AoE
+sources:
+- https://sites.google.com/view/dlt4sec
+- https://sites.google.com/view/dlt4sec/home-page
+- https://sites.google.com/view/dlt4sec/submissions-and-author-instructions
+- https://sites.google.com/view/dlt4sec/committees
+- https://portal.core.edu.au/conf-ranks/?search=DLT4SEC&by=all&source=ICORE2026
+unverified:
+- Edition number and earlier editions not stated on the official site
+- No DLT4SEC 2026 edition found; the SRDS 2026 home page does not list it as of 2026-11-20
+- Frequency not confirmed
+last_verified: 2026-11-20

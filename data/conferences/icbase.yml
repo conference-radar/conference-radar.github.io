@@ -1,0 +1,63 @@
+id: icbase
+name: ICBASE
+full_name: International Conference on Big Data & Artificial Intelligence & Software Engineering
+type: conference
+tier: minor
+areas: [ai, data, software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Northeastern University in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [3]
+  conference_months: [5, 6, 7]
+links:
+  website: https://www.icbase.org/
+notes:
+- Annual since 2020 (online 2022, Nanjing 2023, Wenzhou 2024, Kuala Lumpur 2025, Shenyang 2026, Dalian 2027)
+- Covers big data, AI and software engineering
+- Proceedings published by IEEE (IEEE Xplore record for 2026), submitted to EI Compendex and Scopus
+- Run by a commercial conference service with a host university (Universiti Teknologi Malaysia in 2025)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 7th ICBASE
+  start: 2026-06-12
+  end: 2026-06-14
+  location: Shenyang, China
+  url: https://www.icbase.org/2026
+- year: 2027
+  label: 8th ICBASE
+  start: 2027-05-28
+  end: 2027-05-30
+  location: Dalian, China
+  url: https://www.icbase.org/
+  deadlines:
+  - kind: submission
+    date: 2027-03-14
+    label: Full paper
+  - kind: notification
+    date: 2027-04-13
+  - kind: camera_ready
+    date: 2027-04-28
+    label: Final paper
+sources:
+- https://www.icbase.org/
+- https://www.icbase.org/2023
+- https://www.icbase.org/2024
+- https://www.icbase.org/2025
+- https://www.icbase.org/2026
+- https://www.icbase.org/ICBASE2022
+- https://www.icbase.org/Publication
+- https://doi.org/10.1109/icbase70763.2026
+- https://portal.core.edu.au/conf-ranks/?search=ICBASE&by=all&source=ICORE2026
+unverified:
+- The 2025 venue city differs between the conference report (Kuala Lumpur) and the IEEE Xplore record (Johor Bahru)
+- No deadline time or time zone stated
+- Locations of the 2020 and 2021 editions and publishers of editions before 2026 not confirmed on the official site
+- CCF 2026 list could not be loaded
+last_verified: 2026-11-20

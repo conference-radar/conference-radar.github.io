@@ -1,0 +1,60 @@
+id: icmsp
+name: ICMSP
+full_name: International Conference on Intelligent Control, Measurement and Signal Processing
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: Xi'an Shiyou University with China Oilfield Services Limited, Xi'an University of Technology and other partners
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://www.icmsp.net/
+notes:
+- Control, measurement and signal processing conference with a strong focus on intelligent oil fields and oil and gas equipment
+- Held in China every year since 2019, mostly in Xi'an at Xi'an Shiyou University (Hangzhou 2022, Chengdu 2023)
+- Accepted papers published by IEEE (ISBN 979-8-3195-4517-6 for 2026), in IEEE Xplore and indexed in EI Compendex and Scopus
+- The 2025 edition reported over 400 attendees
+- Papers at least 4 pages
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-28
+  end: 2025-11-30
+  location: Xi'an, China
+  url: https://www.icmsp.net/2025
+- year: 2026
+  start: 2026-11-26
+  end: 2026-11-28
+  location: Xi'an, China
+  url: https://www.icmsp.net/
+  deadlines:
+  - kind: submission
+    date: 2026-08-08
+  - kind: notification
+    date: 2026-09-08
+  - kind: camera_ready
+    date: 2026-09-23
+  - kind: other
+    date: 2026-10-08
+    label: Registration
+sources:
+- https://www.icmsp.net/
+- https://www.icmsp.net/topics
+- https://www.icmsp.net/history
+- https://www.icmsp.net/2025
+- https://www.icmsp.net/2023
+- https://www.icmsp.net/2022
+- https://www.icmsp.net/Committee2026
+- https://portal.core.edu.au/conf-ranks/?search=ICMSP&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No deadline time or time zone stated
+- Borderline scope for EECS because of the oil field focus

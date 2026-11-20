@@ -1,0 +1,50 @@
+id: ai4demons
+name: AI4DEMONS
+full_name: International Workshop on Artificial Intelligence for Data Engineering and Management Of Networked Systems
+type: workshop
+tier: minor
+areas: [ai, data, networking, security]
+region: worldwide
+language: english
+organizer: Co-located with ACM CIKM; general chairs from the University of Napoli Federico II and MIT
+organizer_country: [europe, usa]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://ai4demons.github.io/AI4DEMONS/
+notes:
+- Workshop on AI for data engineering and management of networked systems, including network and cybersecurity data;
+  1st edition at ACM CIKM 2026 in Rome
+- Accepted papers appear in a dedicated Springer CCIS volume; at least one author must register and present
+- Submission through Microsoft CMT; Springer formatting required after acceptance
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-08
+  end: 2026-11-08
+  location: Rome, Italy (CIKM 2026, Sapienza University of Rome)
+  url: https://ai4demons.github.io/AI4DEMONS/
+  deadlines:
+  - kind: submission
+    date: 2026-09-21
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-05
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-23
+    time: "23:59"
+    tz: AoE
+sources:
+- https://ai4demons.github.io/AI4DEMONS/
+- https://cikm2026.diag.uniroma1.it/
+- https://portal.core.edu.au/conf-ranks/?search=AI4DEMONS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- First edition; a 2027 edition is not announced
+- Acceptance rate not published

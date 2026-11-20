@@ -1,0 +1,50 @@
+id: cv2-workshop
+name: CV2
+full_name: Workshop on Computer Vision for Videogames
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizing team led by NVIDIA with University of Trento, University of Malta, Infinity Ward, Roblox and Blockade Labs
+organizer_country: [usa, europe]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/cv2-2025/
+notes:
+- CVPR workshop on computer vision, graphics and generative AI for videogames, organized with the support of NVIDIA
+- First edition at ECCV 2024, 2nd edition at CVPR 2025 (half day, Nashville)
+- Papers in CVPR format, submitted on Microsoft CMT
+- 4 papers in the CVPR 2025 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with CVPR 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, USA
+  url: https://sites.google.com/view/cv2-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-24
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-04-06
+sources:
+- https://sites.google.com/view/cv2-2025/
+- https://sites.google.com/view/cv2-2025/cfp
+- https://sites.google.com/view/cv2-2025/organizers
+- https://openaccess.thecvf.com/CVPR2025_workshops/CV2
+- https://portal.core.edu.au/conf-ranks/?search=CV2&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No CVPR 2026 edition found in the CVPR 2026 workshop proceedings; a cv2-2026 site exists but is not public
+- Original (pre-extension) 2025 submission deadline not shown on the CfP page

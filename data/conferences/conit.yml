@@ -1,0 +1,52 @@
+id: conit
+name: CONIT
+full_name: IEEE International Conference on Intelligent Technologies
+type: conference
+tier: minor
+areas: [ai, communications, networking, data, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: KLE Institute of Technology, Hubballi; co-sponsored by the IEEE North Karnataka Subsection and the IEEE
+  Information Theory Society
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  conference_months: [6]
+links:
+  website: https://inconf.in/
+notes:
+- Run by KLE Institute of Technology (KLE Society), Hubballi, Karnataka, India
+- Co-sponsored by IEEE NKSS (North Karnataka Subsection) and the IEEE Information Theory Society per the official site
+- All editions from 2021 to 2025 are in IEEE Xplore; held in Hubli/Hubballi except 2024 (Bangalore)
+- Five tracks -> data science, computing technologies, computational intelligence, communication and networking, signal
+  and image processing
+- Submission via Microsoft CMT
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 6th CONIT
+  start: 2026-06-19
+  end: 2026-06-21
+  location: KLE Institute of Technology, Hubballi, India
+  url: https://inconf.in/
+  status: tentative
+  deadlines:
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-05-30
+sources:
+- https://inconf.in/
+- https://inconf.in/important-dates/
+- https://inconf.in/publication-history/
+- https://inconf.in/conference-venue/
+- https://inconf.in/organising-committee/
+- https://inconf.in/call-for-papers/
+- https://portal.core.edu.au/conf-ranks/?search=CONIT&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-20
+unverified:
+- The official site lists all 2026 dates as tentative and no longer shows the submission deadline
+- Dates of the 2021 to 2025 editions are not listed on the official site
+- No 2027 edition announced yet

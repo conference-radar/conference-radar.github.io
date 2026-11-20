@@ -1,0 +1,65 @@
+id: tom4ai
+name: ToM4AI
+full_name: "Workshop on Advancing Artificial Intelligence through Theory of Mind: Bridging Human Cognition and Artificial Intelligence"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: ToM4AI initiative (organizers from MIT, King's College London, Tufts University and University of Lincoln); co-located with AAAI
+organizer_country: [usa, europe]
+proceedings: arXiv proceedings volume (2025 edition, arXiv 2505.03770)
+archival: false
+typical:
+  deadline_months: [11, 12]
+  conference_months: [1, 2, 3]
+links:
+  website: https://tom4ai.github.io/
+notes:
+  - AAAI workshop on Theory of Mind in AI, bringing together cognitive science, machine learning and multi-agent systems researchers
+  - 1st edition at AAAI 2025 (Philadelphia, 3 March 2025), 2nd at AAAI-26 (Singapore, 26 January 2026), 3rd at AAAI-27 (Montreal)
+  - Submissions are extended abstracts of up to 2 pages (excluding references) in AAAI format, double-blind review on OpenReview
+  - The 2025 proceedings (28 contributed papers) were released as an arXiv volume, an informal open access collection
+  - Organizers also edit a JAAMAS special issue on the topic
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 2nd edition, with AAAI-26
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI-26)
+    url: https://tom4ai.github.io/AAAI2026/call-for-papers/
+    deadlines:
+      - kind: submission
+        date: 2025-11-05
+        tz: AoE
+        label: Extended from 2025-10-22
+      - kind: notification
+        date: 2025-11-15
+  - year: 2027
+    label: 3rd edition, with AAAI-27; workshop day is 22 or 23 February 2027
+    start: 2027-02-22
+    end: 2027-02-23
+    location: Montreal, Canada (with AAAI-27)
+    url: https://tom4ai.github.io/AAAI2027/call-for-papers/
+    status: tentative
+    deadlines:
+      - kind: submission
+        date: 2026-12-02
+        tz: AoE
+      - kind: notification
+        date: 2026-12-10
+sources:
+  - https://tom4ai.github.io/AAAI2027/call-for-papers/
+  - https://tom4ai.github.io/AAAI2026/call-for-papers/
+  - https://tom4ai.github.io/events/
+  - https://sites.google.com/view/theory-of-mind-aaai-2025/main
+  - https://arxiv.org/abs/2505.03770
+  - https://aaai.org/conference/aaai/aaai-26/workshops-program/
+  - https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/
+  - https://portal.core.edu.au/conf-ranks/?search=Theory+of+Mind&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - Exact 2027 workshop day (22 or 23 February 2027) not yet fixed
+  - Proceedings for the 2026 and 2027 editions not stated

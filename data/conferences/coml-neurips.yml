@@ -1,0 +1,49 @@
+id: coml-neurips
+name: COML
+full_name: NeurIPS Workshop on Constrained Optimization for Machine Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from Mila, Universite de Montreal, University of Pennsylvania, Georgia Tech and Spotify; co-located with NeurIPS
+organizer_country: [canada, usa]
+proceedings: None (non-archival; not published in formal proceedings)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://constrained-opt-ml.github.io/
+notes:
+  - NeurIPS workshop on constrained optimization as a way to enforce requirements such as fairness, safety and robustness in machine learning
+  - Held at NeurIPS 2025 in San Diego (7 December 2025) as COML'25
+  - Extended abstract submissions; the FAQ states papers are not published in formal proceedings, so authors may publish the work elsewhere
+  - Separate from the long-running OPT workshop on optimization for machine learning
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: With NeurIPS 2025
+    start: 2025-12-07
+    end: 2025-12-07
+    location: San Diego, USA (with NeurIPS 2025)
+    url: https://constrained-opt-ml.github.io/
+    deadlines:
+      - kind: submission
+        date: 2025-08-28
+        tz: AoE
+        label: Extended abstracts, extended from 2025-08-21
+      - kind: notification
+        date: 2025-09-22
+      - kind: camera_ready
+        date: 2025-10-31
+        tz: AoE
+sources:
+  - https://constrained-opt-ml.github.io/
+  - https://constrained-opt-ml.github.io/organizers
+  - https://neurips.cc/virtual/2025/events/workshop
+  - https://portal.core.edu.au/conf-ranks/?search=COML&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - No 2026 edition found; COML is not in the NeurIPS 2026 workshop list as of 2026-11-20
+  - Edition number and earlier editions not stated on the official site

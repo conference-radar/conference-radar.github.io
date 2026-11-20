@@ -1,0 +1,67 @@
+id: icicn
+name: ICICN
+full_name: International Conference on Information and Communication Networks
+type: conference
+tier: minor
+areas: [networking, communications]
+region: china
+language: english
+frequency: annual
+organizer: Host university with IEEE and IEEE Photonics Society co-sponsorship; Jinan University (College of Cyber Security) for 2027
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+fee: About 570 USD (2027, regular author, early bird)
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: http://www.icicn.org/
+notes:
+- Annual since 2013; 15th edition in 2027
+- Co-sponsored by IEEE and the IEEE Photonics Society together with the host university
+- Proceedings in IEEE Xplore, stated as indexed by EI Compendex and Scopus
+- "Recent hosts: Macau 2019, online 2020, Xi'an 2021, Lanzhou 2022, Xi'an 2023, Guilin 2024, Beijing 2025, Xi'an 2026, Guangzhou 2027"
+- Full papers 4 to 10 pages; first six pages covered by the registration fee
+- Abstract-only presentation without publication is offered
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 14th ICICN
+  start: 2026-09-04
+  end: 2026-09-07
+  location: Xi'an, China
+  url: http://www.icicn.org/publication.html
+- year: 2027
+  label: 15th ICICN
+  start: 2027-09-24
+  end: 2027-09-27
+  location: Guangzhou, China (Jinan University)
+  url: http://www.icicn.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-04-30
+  - kind: notification
+    date: 2027-05-30
+  - kind: other
+    date: 2027-06-20
+    label: Registration
+  - kind: camera_ready
+    date: 2027-09-10
+sources:
+- http://www.icicn.org/
+- http://www.icicn.org/date.html
+- http://www.icicn.org/registration.html
+- http://www.icicn.org/publication.html
+- http://www.icicn.org/2025.html
+- https://ieeexplore.ieee.org/xpl/conhome/11744736/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICICN&by=all&source=ICORE2026
+unverified:
+- ICICN 2026 deadlines not available (its archive page returns 404)
+- The 2025 English archive text gives August 8 to 11 and the Chinese text August 8 to 10
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly on ccf.org.cn (site behind a captcha); not expected to be listed
+- Acceptance rate not published
+last_verified: 2026-11-20

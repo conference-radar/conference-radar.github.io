@@ -1,0 +1,51 @@
+id: i2ct
+name: I2CT
+full_name: International Conference for Convergence in Technology
+type: conference
+tier: minor
+areas: [general, ai, communications]
+region: south-asia
+language: english
+frequency: irregular
+organizer: I2CT conference secretariat; 2027 conference chair is the Secretary of the IEEE Madhya Pradesh Section
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [10]
+links:
+  website: https://i2ct.in/
+notes:
+- Editions in 2014, 2017, 2018, 2019, 2021, 2022, 2023 and 2024 (9th); the 10th edition is announced for October 2027
+- Proceedings of all previous editions published in IEEE Xplore; the site states Scopus and Web of Science indexing
+- Broad scope covering electrical, electronics and computer engineering and information technology
+- Conference secretariat contact email is i2ctpune at gmail.com; the official site gives two different 2027 venues (Indore and Pune)
+- Not listed in ICORE2026; a small regional venue
+editions:
+- year: 2027
+  label: 10th I2CT
+  location: India
+  url: https://i2ct.in/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+  - kind: notification
+    date: 2027-03-15
+  - kind: camera_ready
+    date: 2027-04-25
+sources:
+- https://i2ct.in/
+- https://i2ct.in/important-dates/
+- https://i2ct.in/publication-history/
+- https://i2ct.in/venue/
+- https://i2ct.in/conference-committees/
+- https://i2ct.in/conference-overview/
+- https://portal.core.edu.au/conf-ranks/?search=I2CT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- "Conflicting 2027 dates on the official site: the important dates page says 10 to 11 Oct 2027, the home page says 11 to 12 Oct 2027; conference dates left out"
+- "Conflicting 2027 venue: the venue page names the Sayaji Hotel, Indore; the publication history page names Taj Vivanta Hinjewadi, Pune"
+- The home page also shows an extended hard deadline of 25 January without a year
+- Dates and location of the 2024 (9th) edition not stated on the official site

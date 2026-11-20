@@ -1,0 +1,59 @@
+id: biscuit
+name: BISCUIT
+full_name: International Workshop on Biomedical Image and Signal Computing for Unbiasedness, Interpretability, and Trustworthiness
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from KTH Royal Institute of Technology, CentraleSupelec (University Paris-Saclay) and Princeton University; co-located with ICCV or ECCV
+organizer_country: [europe, usa]
+proceedings: ECCV Workshops proceedings (Springer) or ICCV Workshops proceedings (CVF Open Access)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://rom42pla.github.io/biscuit_workshop/
+notes:
+- Workshop on fair, interpretable and trustworthy computer vision and signal processing for biomedical data
+- 1st edition at ICCV 2025 in Honolulu (half day), 2nd at ECCV 2026 in Malmo (full day)
+- Double-blind review on OpenReview in the main conference template, no rebuttal; each submission must name a co-author as reviewer
+- Accepted papers appear in the host conference workshop proceedings and are presented as posters, some as orals
+- At least one co-author must register and attend
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 1st BISCUIT, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA
+  url: https://sites.google.com/di.uniroma1.it/biscuit-workshop-1
+- year: 2026
+  label: 2nd BISCUIT, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden
+  url: https://rom42pla.github.io/biscuit_workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-07-07
+    tz: AoE
+    label: Extended from 2026-06-29
+  - kind: notification
+    date: 2026-08-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-09
+    tz: AoE
+sources:
+- https://rom42pla.github.io/biscuit_workshop/
+- https://rom42pla.github.io/biscuit_workshop/cfp
+- https://sites.google.com/di.uniroma1.it/biscuit-workshop-1
+- https://openaccess.thecvf.com/ICCV2025_workshops/BISCUIT
+- https://portal.core.edu.au/conf-ranks/?search=BISCUIT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Deadlines of the ICCV 2025 edition not checked
+- Next edition (2027) not announced yet

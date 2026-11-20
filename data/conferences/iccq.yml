@@ -1,0 +1,72 @@
+id: iccq
+name: ICCQ
+full_name: International Conference on Code Quality
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: ICCQ organizing committee (chair Yegor Bugayenko), in cooperation with an IEEE Russia section and a host institute
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+acceptance_rate: 29% (2026, 4/14); 10% (2025, 4/39)
+fee: Free registration (2026)
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://www.iccq.ru/
+notes:
+- One-day software engineering conference on static and dynamic analysis, program verification, language design, bug detection and maintenance
+- Held in Russia, a different city each year (St. Petersburg 2023, Innopolis 2024, Ekaterinburg 2025, Novosibirsk 2026, Nizhny Novgorod 2027)
+- 2026 edition held in cooperation with the A.P. Ershov Institute of Informatics Systems and the IEEE Siberian Section
+- Proceedings of the 2023 and 2024 editions published in IEEE Xplore; 2025 accepted papers link to IEEE Xplore
+- Very small and selective; each accepted paper gets at least three PC reviews
+- Online with live YouTube stream; free registration
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 5th ICCQ
+  start: 2025-12-13
+  end: 2025-12-13
+  location: Ekaterinburg, Russia
+  url: https://www.iccq.ru/2025.html
+- year: 2026
+  label: 6th ICCQ
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Novosibirsk, Russia (online)
+  url: https://www.iccq.ru/2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-08-27
+    label: Paper/abstract (extended from Aug 1)
+  - kind: notification
+    date: 2026-11-01
+  - kind: camera_ready
+    date: 2026-11-25
+- year: 2027
+  start: 2027-12-11
+  end: 2027-12-11
+  location: Nizhny Novgorod, Russia (hybrid)
+  url: https://www.iccq.ru/2027.html
+  deadlines:
+  - kind: submission
+    date: 2027-08-01
+    label: Paper/abstract
+  - kind: notification
+    date: 2027-11-01
+  - kind: camera_ready
+    date: 2027-11-25
+sources:
+- https://www.iccq.ru/2026.html
+- https://www.iccq.ru/2027.html
+- https://www.iccq.ru/2025.html
+- https://www.iccq.ru/2024.html
+- https://www.iccq.ru/2023.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCQ&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2026 page does not name a proceedings outlet; IEEE Xplore is taken from the 2023 to 2025 editions

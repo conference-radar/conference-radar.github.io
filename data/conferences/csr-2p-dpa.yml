@@ -1,0 +1,67 @@
+id: csr-2p-dpa
+name: 2P-DPA
+full_name: IEEE CSR Workshop on Privacy-Preserving Data Processing and Analysis
+type: workshop
+tier: minor
+areas: [security, data]
+region: europe
+language: english
+frequency: annual
+organizer: University of Naples Parthenope with Italian and Greek co-organizers (co-located workshop of IEEE CSR)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5, 6]
+  conference_months: [7, 8, 9]
+links:
+  website: https://www.ieee-csr.org/csr-2p-dpa/
+notes:
+- Workshop of the IEEE International Conference on Cyber Security and Resilience (IEEE CSR); held every year
+  since 2023 (Venice 2023, London 2024, Chania 2025, Lisbon 2026)
+- Topics are privacy-preserving data processing and analysis
+- 2026 workshop chair from the University of Naples Parthenope; organizing committee from the University of Salerno,
+  University of Rome Campus Bio-Medico and CERTH-ITI
+- Workshop papers go into the IEEE CSR proceedings in IEEE Xplore; 6 pages plus up to 2 extra pages with overlength
+  charges
+- In person in 2025 and 2026 (hybrid in 2024); deadline was extended by one month in 2026 (Apr 13 -> May 13); 5 accepted papers in 2026
+- "2026 program: one session on Mon 3 Aug"
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Chania, Crete, Greece
+  url: https://www.ieee-csr.org/archive/2025/2p-dpa/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+    label: Papers (extended from Apr 14)
+  - kind: notification
+    date: 2025-05-26
+  - kind: camera_ready
+    date: 2025-06-16
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-03
+  location: Lisbon, Portugal
+  url: https://www.ieee-csr.org/csr-2p-dpa/
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    label: Papers (extended from Apr 13)
+  - kind: notification
+    date: 2026-06-04
+  - kind: camera_ready
+    date: 2026-06-25
+sources:
+- https://www.ieee-csr.org/csr-2p-dpa/
+- https://www.ieee-csr.org/2026-conference-program/
+- https://www.ieee-csr.org/archive/2025/2p-dpa/index.html
+- https://www.ieee-csr.org/archive/2024/csr-2p-dpa/index.html
+- https://www.ieee-csr.org/archive/2023/2p-dpa/index.html
+- https://portal.core.edu.au/conf-ranks/?search=2P-DPA&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated
+- 2P-DPA 2027 not announced yet
+last_verified: 2026-11-20

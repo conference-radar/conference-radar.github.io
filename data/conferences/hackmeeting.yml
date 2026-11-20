@@ -1,0 +1,47 @@
+id: hackmeeting
+name: Hackmeeting
+full_name: Hackmeeting (Italian hackmeeting, hackit)
+type: industry
+tier: minor
+areas: [security, networking, general]
+region: europe
+language: mixed
+frequency: annual
+organizer: Hackmeeting community (self-organized)
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  conference_months: [6]
+links:
+  website: https://hackmeeting.org/
+notes:
+- Yearly self-organized gathering of the Italian hacker and digital counterculture scene, held since 1998 (first edition at CPA Firenze Sud)
+- Three days of talks, workshops, ten-minute talks and a LAN space, hosted in social centres; no organizers or audience, only participants
+- Talks and labs are proposed by email on the hackmeeting mailing list; talks may be audio recorded
+- Main language Italian; the site has Spanish and English translations
+- A separate Spanish Hackmeeting runs yearly (2026 edition 9 to 12 October at CSN, Valencia)
+- No proceedings
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-12
+  end: 2026-06-14
+  location: CSA NextEmerson, Florence, Italy
+  url: https://hackmeeting.org/hackit26/
+- year: 2027
+  location: SOS Fornace, Rho (Milan), Italy
+  url: https://hackmeeting.org/hackit27/
+  status: tentative
+sources:
+- https://hackmeeting.org/
+- https://hackmeeting.org/hackit26/
+- https://hackmeeting.org/hackit26/call.html
+- https://hackmeeting.org/hackit26/storia.html
+- https://hackmeeting.org/hackit27/
+- https://es.hackmeeting.org/latest/
+- https://portal.core.edu.au/conf-ranks/?search=Hackmeeting&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Hackmeeting 2027 dates not set; the official page names two options, 28 to 30 May or 4 to 6 June 2027
+- No fixed deadline for talk proposals is published

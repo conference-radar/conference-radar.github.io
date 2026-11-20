@@ -1,0 +1,56 @@
+id: icercs
+name: ICERCS
+full_name: International Conference on Emerging Research in Computational Science
+type: conference
+tier: minor
+areas: [ai, general, security]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Departments of CSE, AI and Data Science, and CSE (Cyber Security), Karpagam Academy of Higher Education, Coimbatore
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 11,000 INR Indian non-IEEE member, 250 USD foreign non-IEEE member (2026)
+typical:
+  deadline_months: [12]
+  conference_months: [12]
+links:
+  website: https://icercs.com
+notes:
+- Organized by Karpagam Academy of Higher Education (deemed university), Coimbatore, Tamil Nadu, India
+- The 2023 and 2024 proceedings are in IEEE Xplore; 2026 papers are submitted for inclusion in IEEE Xplore
+- Extended versions of selected papers are recommended to SCIE journals
+- Full papers up to 8 pages in double-column format, double-blind review through Microsoft CMT
+- Very short gap between the paper deadline and the conference
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 4th ICERCS
+  start: 2026-12-10
+  end: 2026-12-12
+  location: Karpagam Academy of Higher Education, Coimbatore, India
+  url: https://icercs.com
+  deadlines:
+  - kind: submission
+    date: 2026-12-05
+    label: Final paper submission (home page)
+  - kind: notification
+    date: 2026-12-09
+  - kind: camera_ready
+    date: 2026-12-09
+  - kind: other
+    date: 2026-12-09
+    label: Last date for registration payment
+sources:
+- https://icercs.com
+- https://icercs.com/registration
+- https://icercs.com/guidelines
+- https://icercs.com/call-for-paper
+- https://ieeexplore.ieee.org/xpl/conhome/10433896/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10894758/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICERCS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The registration page gives 2026-12-01 for full paper submission while the home page gives 2026-12-05 as the final deadline
+- Dates of the 2023 and 2024 editions and whether a 2025 edition took place not confirmed

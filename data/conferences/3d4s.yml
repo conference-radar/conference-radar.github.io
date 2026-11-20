@@ -1,0 +1,72 @@
+id: 3d4s
+name: 3D4S
+full_name: Workshop on 3D Geometry Generation for Scientific Computing
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Playground Global, Simon Fraser University, Meta Reality Labs, Lawrence Berkeley National Laboratory); co-located with CVPR
+organizer_country: [usa, canada]
+proceedings: None (non-archival, papers posted on OpenReview)
+archival: false
+typical:
+  deadline_months: [2, 4]
+  conference_months: [6]
+links:
+  website: https://3d4sworkshop.github.io/
+notes:
+- Workshop on 3D and 4D geometry generation and modeling for scientific simulation and design, also called 3D4Science
+- Started at WACV 2024, then CVPR 2026 (about 150 attendees, 21 submissions) and CVPR 2027 (3rd edition)
+- 2027 theme is Agentic 3D/4D Modeling for Scientific Simulation and Design
+- Regular papers of 4 to 8 pages in CVPR style, double-blind review on OpenReview
+- Non-archival; accepted papers are posted on OpenReview with author consent and do not appear in IEEE/CVF proceedings
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://3d4sworkshop.github.io/2026/index.html
+  deadlines:
+  - kind: abstract
+    date: 2026-04-05
+    tz: AoE
+  - kind: submission
+    date: 2026-04-07
+    tz: AoE
+  - kind: notification
+    date: 2026-04-27
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-14
+    tz: AoE
+- year: 2027
+  label: Third workshop, with CVPR 2027
+  location: Seattle, Washington, USA (with CVPR 2027)
+  url: https://3d4sworkshop.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2027-02-15
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-03-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-04-23
+sources:
+- https://3d4sworkshop.github.io/
+- https://3d4sworkshop.github.io/cfp.html
+- https://3d4sworkshop.github.io/2026/index.html
+- https://portal.core.edu.au/conf-ranks/?search=3D4S&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- 2027 workshop day not fixed yet (June 20 or 21, 2027, assigned by CVPR)
+- 2026 page does not state archival status; the 2027 call says non-archival

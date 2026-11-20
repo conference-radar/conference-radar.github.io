@@ -1,0 +1,66 @@
+id: brain-percom
+name: BRAIN
+full_name: Workshop on Blockchain theoRy and ApplicatIoNs
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Co-located with IEEE PerCom; co-chaired by the University of Pisa and the University of Surrey
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [3]
+links:
+  website: https://sites.google.com/unipi.it/brain-2027
+notes:
+- Workshop on blockchain theory and applications; held with ISCC in 2020 and 2021, with IEEE PerCom since 2022; 8th edition in 2027
+- Papers go into the PerCom workshop proceedings in IEEE Xplore
+- Double-blind review; 6 pages in IEEE format, one extra page can be bought
+- Every accepted paper needs a full author registration (no workshop discount) and in-person presentation
+- Location follows PerCom (Washington DC 2025, Pisa 2026, Goa 2027)
+- Not the same venue as BRAINS (Conference on Blockchain Research and Applications for Innovative Networks and Services)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-16
+  end: 2026-03-16
+  location: Pisa, Italy (PerCom 2026)
+  url: https://sites.google.com/unipi.it/brain-2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-01
+    tz: AoE
+    label: Extended from Nov 17 (firm)
+  - kind: notification
+    date: 2026-01-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-02
+    tz: AoE
+- year: 2027
+  start: 2027-03-08
+  end: 2027-03-12
+  location: Goa, India (PerCom 2027)
+  url: https://sites.google.com/unipi.it/brain-2027
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    tz: AoE
+    label: Extended from Nov 17
+  - kind: notification
+    date: 2027-01-08
+  - kind: camera_ready
+    date: 2027-01-24
+sources:
+- https://sites.google.com/unipi.it/brain-2027
+- https://sites.google.com/unipi.it/brain-2026
+- https://sites.google.com/unipi.it/brain-2026/past-editions
+- https://portal.core.edu.au/conf-ranks/?search=BRAIN&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2027 workshop day is TBA (March 8 or 12, 2027); the PerCom 2027 week is shown as start and end
+- Acceptance rate not published

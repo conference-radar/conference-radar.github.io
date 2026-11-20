@@ -1,0 +1,62 @@
+id: csta
+name: CSTA
+full_name: International Conference on Cybersecurity Systems, Technologies and Applications
+type: conference
+tier: minor
+areas: [security]
+region: north-america
+language: english
+organizer: Emerging Technologies Network (emergingtechnet.org), technically sponsored by IEEE; Texas A&M University-San Antonio as sponsor
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://emergingtechnet.org/CSTA2026/index.php
+notes:
+- Hosted on the Emerging Technologies Network site (emergingtechnet.org), which also hosts SNAMS and FMEC; hybrid format
+- Accepted, registered and presented papers from CSTA and its co-located workshops are submitted to IEEE Xplore, Scopus indexing expected
+- Full papers up to 8 pages in the IEEE A4 template, blind review, 2 extra pages for a fee; submission through Sparcly
+- At least one author must register and present or the paper is dropped from the proceedings
+- Late and special tracks have a later deadline (2026 submission November 5)
+- Very fast review cycle (about two weeks from submission to notification)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  location: San Antonio, Texas, USA (hybrid)
+  url: https://emergingtechnet.org/CSTA2026/index.php
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-15
+    label: Full papers
+  - kind: notification
+    date: 2026-11-01
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-11-15
+    label: Full papers
+  - kind: submission
+    date: 2026-11-05
+    label: Late and special tracks
+  - kind: notification
+    date: 2026-11-15
+    label: Late and special tracks
+  - kind: camera_ready
+    date: 2026-11-25
+    label: Late and special tracks
+sources:
+- https://emergingtechnet.org/CSTA2026/index.php
+- https://emergingtechnet.org/CSTA2026/authors.php
+- https://emergingtechnet.org/CSTA2026/committee.php
+- https://portal.core.edu.au/conf-ranks/?search=CSTA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No earlier editions found (the CSTA2025 path returns 404), so frequency, region and typical months rest on the 2026 edition only
+- Organizer country is not stated; the steering committee is mostly in the USA with one member in Spain
+- Deadline time zone not stated

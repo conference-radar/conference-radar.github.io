@@ -1,0 +1,77 @@
+id: ai4research
+name: AI4Research
+full_name: Workshop on AI4Research (AI for Scientific Research Lifecycle)
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 from William & Mary, Penn State, UC Davis, HKUST and University of Utah); co-located with major AI conferences
+organizer_country: [usa]
+proceedings: Springer CCIS (opt-in, AAAI 2025 edition)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://sites.google.com/view/ai4research2026
+notes:
+- Workshop on AI across the scientific research lifecycle (hypothesis generation, experiment design, writing, reviewing, human-AI co-discovery)
+- Editions at IJCAI 2024 (Jeju), AAAI 2025 (Philadelphia) and NeurIPS 2026 (3rd edition, Scaling Human-AI Co-Discovery); the host conference changes
+- AAAI 2025 papers were non-archival by default with opt-in archival publication in Springer CCIS; IJCAI 2024 also offered optional Springer Nature proceedings
+- 2026 submissions on OpenReview in NeurIPS format, short papers up to 4 pages and long papers up to 9 pages, double-blind, at least three reviewers per paper
+- 2026 offers early feedback for authors from underrepresented groups before the deadline
+- All 2026 deadlines 23:59 AoE
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: AI4Research at AAAI 2025
+  start: 2025-03-04
+  end: 2025-03-04
+  location: Philadelphia, USA (with AAAI 2025)
+  url: https://sites.google.com/view/ai4research2024/
+  deadlines:
+  - kind: submission
+    date: 2024-12-01
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from November 24)
+  - kind: notification
+    date: 2024-12-20
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2024-12-30
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  label: 3rd AI4Research at NeurIPS 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: NeurIPS 2026 (site not stated)
+  url: https://sites.google.com/view/ai4research2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-11
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-10
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/ai4research2026
+- https://sites.google.com/view/ai4research2026/call-for-papers
+- https://sites.google.com/view/ai4research2024/
+- https://sites.google.com/view/ai4research2024/call-for-papers
+- https://ai4research.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=AI4Research&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2026 call does not say whether papers are archival or where they are published
+- Which NeurIPS 2026 site (Sydney, Paris or Atlanta) hosts the workshop is not stated

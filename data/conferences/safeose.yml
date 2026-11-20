@@ -1,0 +1,63 @@
+id: safeose
+name: SafeOSE
+full_name: Workshop on Security, Privacy, and Trust in Open-Source Ecosystems and Standards
+type: workshop
+tier: minor
+areas: [security, software, ai, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop chairs (UIUC, IBM Research), co-located with the NDSS Symposium (Internet Society)
+organizer_country: [usa]
+proceedings: NDSS (Internet Society)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://www.ndss-symposium.org/ndss2027/co-located-events/safeose/
+notes:
+- New NDSS co-located workshop in 2027 (Seoul, Korea, 22 Mar 2027); it grows out of the SDIoTSec workshop held at NDSS since 2024
+- Scope is security at the ecosystem level, including open-source AI and agent ecosystems (MCP, A2A and similar), standardized
+  IoT (Matter, MQTT, CoAP, BLE), SBOM and provenance, and governance and disclosure
+- Double-blind review; regular papers up to 8 pages excluding appendices, NDSS workshop template
+- Accepted papers appear in the official workshop proceedings published by the Internet Society
+- Also runs an Open-Source AI Security Hackathon with its own deadline (30 Nov 2026); winners present at the workshop
+- Research program chairs Gang Wang and Xiaojing Liao (UIUC); steering committee includes Luyi Xing, Jean Camp and Elisa Bertino
+- Partly supported by an NSF Safe-OSE award
+- Region follows the host NDSS Symposium, usually held in San Diego, USA (the 2027 edition is in Seoul, Korea); its predecessor SDIoTSec was held in San Diego 2024 to 2026
+- Not listed in ICORE2026
+editions:
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-22
+  location: Grand InterContinental Seoul Parnas, Seoul, Korea (with NDSS 2027)
+  url: https://www.ndss-symposium.org/ndss2027/co-located-events/safeose/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-11-30
+    tz: AoE
+    label: Hackathon submissions
+  - kind: submission
+    date: 2026-12-10
+    tz: AoE
+  - kind: notification
+    date: 2027-01-27
+  - kind: camera_ready
+    date: 2027-02-08
+sources:
+- https://www.ndss-symposium.org/ndss2027/co-located-events/safeose/
+- https://www.ndss-symposium.org/ndss2027/submissions/cfp-safeose/
+- https://www.ndss-symposium.org/ndss2027/co-located-events/safeose/leadership/
+- https://safe-ose.github.io/
+- https://www.ndss-symposium.org/ndss2027/
+- https://portal.core.edu.au/conf-ranks/?search=SafeOSE&by=all&source=ICORE2026
+unverified:
+- Time zone of the notification and camera-ready dates not stated (the workshop site gives AoE for the submission and hackathon deadlines)
+- Whether SafeOSE continues as an annual workshop after 2027 and where (first edition)
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+- Acceptance rate and registration fee not published yet
+last_verified: 2026-11-20

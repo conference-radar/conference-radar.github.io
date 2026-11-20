@@ -1,0 +1,65 @@
+id: prml
+name: PRML
+full_name: International Conference on Pattern Recognition and Machine Learning
+type: conference
+tier: minor
+areas: [ai, vision]
+region: china
+language: english
+frequency: annual
+organizer: Sichuan University and partner universities (IEEE co-sponsored 2022 to 2025), conference secretariat icprml@163.com
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 600 USD regular author registration (2027, online rate); 540 USD student, 560 USD IEEE member
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://www.prml.org/
+notes:
+- First edition in 2020; annual, held in China (Chengdu 2022 online, Urumqi 2023 and 2026, Chongqing 2024 and 2025)
+- 2027 edition moves to Phuket, Thailand, sponsored by Phuket Rajabhat University and Maejo University
+- 2022 to 2026 proceedings published by IEEE in IEEE Xplore (2025 ISBN 979-8-3503-9257-9, 2026 ISBN 979-8-3195-4390-5), indexed by Ei Compendex and Scopus
+- Hybrid onsite and online; abstract only presentation also offered
+- One regular registration covers 4 to 5 pages
+- Different from ICPRAM (INSTICC) and PReMI
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: 7th PRML
+  start: 2026-07-10
+  end: 2026-07-13
+  location: Urumqi, China
+  url: https://www.prml.org/prml2026.html
+- year: 2027
+  label: 8th PRML
+  start: 2027-07-29
+  end: 2027-07-31
+  location: Phuket, Thailand
+  url: https://www.prml.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-10
+  - kind: notification
+    date: 2027-02-28
+  - kind: other
+    date: 2027-03-20
+    label: Registration
+sources:
+- https://www.prml.org/
+- https://www.prml.org/date.html
+- https://www.prml.org/cfp.html
+- https://www.prml.org/reg.html
+- https://www.prml.org/com.html
+- https://www.prml.org/prml2026.html
+- https://www.prml.org/prml2025.html
+- https://www.prml.org/prml2024.html
+- https://www.prml.org/prml2023.html
+- https://www.prml.org/prml2022.html
+- https://portal.core.edu.au/conf-ranks/?search=PRML&by=all&source=ICORE2026
+unverified:
+- The 2027 page says only "PRML 2027 Conference Proceedings" submitted to Ei Compendex and Scopus; IEEE publication not yet confirmed for 2027
+- No deadline time or time zone stated
+last_verified: 2026-11-20

@@ -1,0 +1,59 @@
+id: lrac
+name: LRAC
+full_name: Low-Resource Audio Codec Workshop
+type: workshop
+tier: minor
+areas: [communications, ai]
+region: worldwide
+language: english
+organizer: Cisco Systems with academic partners (CMU, UIUC, Hebrew University), satellite workshop of IEEE ICASSP
+organizer_country: [usa]
+proceedings: IEEE Xplore (ICASSP satellite workshop proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [5]
+links:
+  website: https://crowdsourcing.cisco.com/lrac-workshop/2026/
+notes:
+- Full-day satellite workshop of IEEE ICASSP on low-resource neural speech codecs (compute, bitrate and latency limits under real-world noise and reverberation)
+- Run by Cisco Systems researchers with academic partners from CMU, UIUC and the Hebrew University of Jerusalem; sponsored by the IEEE SPS SLTC and AASP technical committees
+- Linked to the LRAC Challenge; challenge system papers go to the archival track
+- Archival track papers follow the ICASSP format, are peer reviewed and published in the ICASSPW proceedings in IEEE Xplore if presented by a registered author
+- Non-archival track (works in progress, published work, demos) is presented at the workshop and featured on the website only
+- First edition in 2026; the organizers say a next edition is in preparation
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: With IEEE ICASSP 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Barcelona, Spain (with ICASSP 2026)
+  url: https://crowdsourcing.cisco.com/lrac-workshop/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+    label: Archival track
+  - kind: notification
+    date: 2025-12-18
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-01-07
+    label: Archival track
+  - kind: other
+    date: 2026-03-07
+    label: Non-archival track submission (extended)
+sources:
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/tracks
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/timeline
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/about
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/participate
+- https://crowdsourcing.cisco.com/lrac-workshop/2026/notices
+- https://crowdsourcing.cisco.com/lrac-workshop/2027/
+- https://2026.ieeeicassp.org/satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=LRAC&by=all&source=ICORE2026
+unverified:
+- Dates, host conference and venue of the 2027 edition (the 2027 page only says it is being prepared)
+- Whether the workshop will run every year
+last_verified: 2026-11-20

@@ -1,0 +1,50 @@
+id: vidllms
+name: VidLLMs
+full_name: Workshop on Video Large Language Models
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers led by University of Central Florida (CRCV) and Amazon, with chairs from academia and industry; co-located with CVPR
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/
+notes:
+- CVPR workshop on video large language models, including data, evaluation, VLA and world models
+- 2nd edition at CVPR 2026 in Denver; also runs challenges on EvalAI and offers travel support
+- Non-archival, papers are not published in the CVPR Workshop Proceedings
+- Short (4 pages) and long (8 pages) papers in CVPR format, at least two blind reviews, submitted on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-04-23
+    time: "23:59"
+    tz: PDT
+    label: Extended from 2026-04-20
+  - kind: notification
+    date: 2026-05-16
+  - kind: camera_ready
+    date: 2026-05-22
+sources:
+- https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/
+- https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/cfp.html
+- https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/VidLLMs
+- https://portal.core.edu.au/conf-ranks/?search=VidLLMs&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and venue of the 1st edition are not given on the official 2026 site
+- Deadline stated as Pacific Time; PDT assumed for April
+- Next edition (2027) not announced yet

@@ -1,0 +1,52 @@
+id: ai4o-ran
+name: AI4O-RAN
+full_name: Workshop on Artificial Intelligence for Open Radio Access Networks
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+organizer: Workshop co-organizers from the University of Glasgow, Stanford University and NUST, with IEEE VTC (IEEE VTS)
+organizer_country: [europe, usa, other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w12-workshop-on-artificial-intelligence-for-open-radio-access-networks-ai4o-ran/
+notes:
+- Held as workshop W12 at IEEE VTC2026-Fall in Boston
+- Topics are AI-native RAN intelligent controllers in Open RAN, cell-free MIMO, joint communication and sensing, spectrum sharing, network slicing and energy-aware operation
+- Co-organizers from the University of Glasgow (UK), Stanford University (USA, including John M. Cioffi) and NUST (Pakistan)
+- Separate from the ICC Open RAN workshop and the MobiCom Open and AI RAN workshop
+- Papers 5 pages, up to 2 extra pages at 100 USD each; submitted through the VTC2026-Fall workshop TrackChair site
+- VTC papers go to IEEE Xplore; IEEE may exclude papers not presented at the conference
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Boston, MA, USA (with IEEE VTC2026-Fall)
+  url: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w12-workshop-on-artificial-intelligence-for-open-radio-access-networks-ai4o-ran/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Extended
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Extended
+sources:
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w12-workshop-on-artificial-intelligence-for-open-radio-access-networks-ai4o-ran/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://events.vtsociety.org/vtc2026-fall/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Radio%20Access&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within VTC2026-Fall (6 to 9 September) not stated
+- The workshop page lists notification 16 June and final paper 30 June 2026; the VTC2026-Fall home page and workshop list give 3 July and 15 July 2026 (used here)
+- The workshop page does not name IEEE Xplore explicitly; taken from the VTC2026-Fall IEEE eXpress author instructions for VTC papers
+- Edition number not stated; not in the VTC2027-Spring workshop list, so a next edition is unknown
+last_verified: 2026-11-20

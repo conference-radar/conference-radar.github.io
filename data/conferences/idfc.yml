@@ -1,0 +1,62 @@
+id: idfc
+name: IDFC
+full_name: International Conference on Intelligent Digital Forensics and Cybersecurity
+type: conference
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: IDFC steering committee (University of Texas at San Antonio, Georgia Southern University, Malmo University, University of Skovde)
+organizer_country: [usa, europe]
+proceedings: IOS Press Frontiers in Artificial Intelligence and Applications (2026, open access); IEEE conference proceedings planned for 2027
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://idfc-conference.org
+notes:
+- New conference on digital forensics, cybersecurity and trustworthy AI; 1st edition 2026 in Trento, 2nd edition 2027 in Varna
+- Hybrid (on-site and online)
+- 2026 papers published open access by IOS Press (Frontiers in Artificial Intelligence and Applications)
+- 2027 edition technically co-sponsored by the IEEE Italy Section; papers go to IEEE conference proceedings, Xplore inclusion subject to IEEE review
+- Tracks on digital forensics and incident response, cyber defense, trustworthy and generative AI, applied AI; also posters, artifacts and demos, workshops
+- 2026 paper deadline was extended by about five weeks
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Trento, Italy
+  url: https://idfc-conference.org/idfc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Full papers (extended from May 25)
+  - kind: notification
+    date: 2026-07-20
+    label: Full papers (extended from July 15)
+  - kind: camera_ready
+    date: 2026-08-31
+  - kind: other
+    date: 2026-06-10
+    label: Workshop proposals
+  - kind: submission
+    date: 2026-08-01
+    label: Workshop papers
+- year: 2027
+  location: Varna, Bulgaria
+  url: https://idfc-conference.org
+sources:
+- https://idfc-conference.org
+- https://idfc-conference.org/dates.php
+- https://idfc-conference.org/committee.php
+- https://idfc-conference.org/versions.php
+- https://idfc-conference.org/idfc2026/
+- https://idfc-conference.org/idfc2026/dates.php
+- https://portal.core.edu.au/conf-ranks/?search=IDFC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- IDFC 2027 is announced for September 2027 in Varna; exact dates and all deadlines are TBA
+- IOS Press volume for the 2026 proceedings not checked beyond the series link on the official site

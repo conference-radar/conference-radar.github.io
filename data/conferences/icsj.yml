@@ -1,0 +1,59 @@
+id: icsj
+name: ICSJ
+full_name: IEEE CPMT Symposium Japan
+type: conference
+tier: minor
+areas: [general]
+region: japan
+language: english
+frequency: annual
+organizer: IEEE Electronics Packaging Society (EPS), Japan-based organizing committee
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://www.ieee-csj.org/
+notes:
+- Sponsored by the IEEE Electronics Packaging Society (formerly CPMT); started in 1992 as the VLSI Packaging Workshop in Japan (VPWJ) and renamed ICSJ in 2010
+- Held every November in Kyoto, at Ritsumeikan University Suzaku Campus since 2023; 2026 was the 15th ICSJ and on site only
+- Abstract submission first, then a 4-page IEEE-format paper for regular talks (2 pages for Early Career Researchers sessions) published in IEEE Xplore
+- Early Career Researchers (ECR) poster sessions for students and young researchers, with young researcher awards
+- Covers advanced packaging, chiplets and interposers, hybrid bonding, co-packaged optics, signal and power integrity, power and automotive electronics
+- About 350 participants in 2025
+editions:
+- year: 2025
+  start: 2025-11-12
+  end: 2025-11-14
+  location: Ritsumeikan University Suzaku Campus, Kyoto, Japan
+  url: https://www.ieee-csj.org/history_2026.html
+  status: confirmed
+  deadlines: []
+- year: 2026
+  start: 2026-11-10
+  end: 2026-11-12
+  location: Ritsumeikan University Suzaku Campus, Kyoto, Japan
+  url: https://www.ieee-csj.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-06-12
+    label: Abstract (extended from 2026-05-29)
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-09-04
+sources:
+- https://www.ieee-csj.org/
+- https://www.ieee-csj.org/imp_dates_ICSJ2026.html
+- https://www.ieee-csj.org/submission_ICSJ2026.html
+- https://www.ieee-csj.org/history_2026.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSJ&by=all&source=ICORE2026
+unverified:
+- 2025 deadlines not recorded (the 2025 important dates page was not available)
+- 2027 edition not announced yet (checked 2026-11-20)
+- Not listed in the CORE ICORE2026 portal or the CCF list; acceptance rate not published
+last_verified: 2026-11-20

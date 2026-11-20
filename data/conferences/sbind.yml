@@ -1,0 +1,48 @@
+id: sbind
+name: SBiND
+full_name: 'Speech Biomarkers for Neurodegenerative Diseases: Signal Processing, Artificial Intelligence, and Clinical Translation'
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from ICAR-CNR, the University of Naples Federico II and the University of Campania Luigi Vanvitelli, satellite workshop of IEEE ICASSP
+organizer_country: [europe]
+proceedings: IEEE Xplore (ICASSP 2027 satellite workshop record)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://www.sbind.icar.cnr.it/
+notes:
+- Full-day satellite workshop of IEEE ICASSP 2027 on speech and voice biomarkers for ALS, Parkinson's, Alzheimer's and related diseases
+- Papers follow the ICASSP 2027 style and length, are peer reviewed on the ICASSP platform and published in IEEE Xplore
+- One author of each accepted paper must present in person; authors need an ICASSP author registration by 10 Feb 2027
+- Best Paper Award sponsored by the MDPI journal MAKE, with a planned MAKE special issue for extended papers
+- Deadline extended from 11 Nov to 30 Nov 2026 and notification moved from 16 Dec to 31 Dec 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  label: With IEEE ICASSP 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://www.sbind.icar.cnr.it/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Extended
+  - kind: notification
+    date: 2026-12-31
+  - kind: camera_ready
+    date: 2027-01-27
+sources:
+- https://www.sbind.icar.cnr.it/
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=SBiND&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The SBiND page gives 27 Jan 2027 for the final version while the ICASSP call for satellite workshops gives 6 Jan 2027 as the general workshop final paper deadline
+- First edition; unclear whether it will recur

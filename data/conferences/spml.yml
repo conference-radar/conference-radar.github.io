@@ -1,0 +1,68 @@
+id: spml
+name: SPML
+full_name: International Conference on Signal Processing and Machine Learning
+type: conference
+tier: minor
+areas: [ai, communications]
+region: china
+language: english
+frequency: annual
+organizer: Chinese host universities (Xijing University for 2027) with a conference secretariat (spml.contact@gmail.com)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 580 USD standard author registration (2027; 550 USD before April 20); 530 USD student (500 USD before April 20)
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://www.spml.net/
+notes:
+- Started in 2018; held in China (online 2021 and 2022, Tianjin 2023, Qingdao 2024, Hohhot 2025, Hangzhou 2026, Xi'an 2027)
+- Proceedings in the ACM Digital Library for 2018 to 2024; SPML 2025 proceedings in IEEE Xplore; all indexed by Ei Compendex and Scopus
+- Hybrid onsite and online; abstract only presentation (no publication) also offered
+- Papers 4 to 6 pages; extra pages charged
+- Deadlines have been extended more than once (SPML 2026 extended to May 20, 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: 9th SPML
+  start: 2026-07-10
+  end: 2026-07-12
+  location: Hangzhou, China
+  url: https://www.spml.net/2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    label: Final extension
+- year: 2027
+  label: 10th SPML
+  start: 2027-07-02
+  end: 2027-07-04
+  location: Xi'an, China
+  url: https://www.spml.net/
+  deadlines:
+  - kind: submission
+    date: 2027-02-20
+  - kind: notification
+    date: 2027-03-20
+  - kind: other
+    date: 2027-04-20
+    label: Registration
+sources:
+- https://www.spml.net/
+- https://www.spml.net/sub.html
+- https://www.spml.net/reg.html
+- https://www.spml.net/com.html
+- https://www.spml.net/2026.html
+- https://www.spml.net/2025.html
+- https://www.spml.net/2024.html
+- https://www.spml.net/2023.html
+- https://ieeexplore.ieee.org/xpl/conhome/11199749/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=SPML&by=all&source=ICORE2026
+unverified:
+- Publisher of the SPML 2026 and 2027 proceedings not stated on the official site
+- 9th edition number for 2026 inferred from the 8th (2025) and 10th (2027) labels
+- No deadline time or time zone stated
+last_verified: 2026-11-20

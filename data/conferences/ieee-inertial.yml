@@ -1,0 +1,71 @@
+id: ieee-inertial
+name: IEEE INERTIAL
+full_name: IEEE International Symposium on Inertial Sensors and Systems
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Sensors Council
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+fee: About 1000 USD (2027, IEEE member, early); 450 USD reduced (student)
+typical:
+  deadline_months: [10, 11]
+  conference_months: [3, 4, 5]
+links:
+  website: https://ieee-inertial.org/2027
+notes:
+  - IEEE Sensors Council symposium on inertial sensors (MEMS and quantum gyroscopes, accelerometers, IMUs) and navigation systems, held every year since 2014
+  - Single-track meeting with one day of tutorials and three days of technical sessions
+  - Rotates worldwide (Avignon 2022, Kauai 2023, Hiroshima 2024, Lindau 2025, Destin 2026, Singapore 2027)
+  - "Submission options: A, abstract for the INERTIAL proceedings; B, 4-page manuscript to IEEE Sensors Letters; C, 2-page late news abstract"
+  - Industry authors can present with an abstract only (not submitted to IEEE Xplore)
+  - EE sensors venue outside the usual CS rankings, not listed in ICORE2026
+editions:
+  - year: 2026
+    label: 13th edition
+    start: 2026-05-10
+    end: 2026-05-13
+    location: Destin, Florida, USA
+    url: https://ieee-inertial.org/2027/about/history
+  - year: 2027
+    label: 14th edition
+    start: 2027-05-09
+    end: 2027-05-13
+    location: Singapore
+    url: https://ieee-inertial.org/2027
+    deadlines:
+      - kind: submission
+        date: 2026-11-02
+        label: Option B (IEEE Sensors Letters)
+      - kind: submission
+        date: 2026-11-02
+        label: Option A (abstract for the proceedings)
+      - kind: notification
+        date: 2026-12-04
+        label: Options A and B
+      - kind: submission
+        date: 2027-02-15
+        label: Late breaking news abstracts
+      - kind: notification
+        date: 2027-03-05
+        label: Late breaking news
+      - kind: camera_ready
+        date: 2027-03-19
+        label: Full paper and early registration
+sources:
+  - https://ieee-inertial.org/2027
+  - https://ieee-inertial.org/2027/authors/call-for-papers
+  - https://ieee-inertial.org/2027/authors/initial-author-instructions
+  - https://ieee-inertial.org/2027/about/history
+  - https://ieee-inertial.org/2027/registration/registration-information
+  - https://ieee-inertial.org/2027/travel/venue
+  - https://portal.core.edu.au/conf-ranks/?search=INERTIAL&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - The author instructions text still says Option A closes October 27 and Option B October 20; the dated event list shows 2026-11-02 for both (used here)
+  - Deadline times and time zones not stated
+  - Acceptance rate not found

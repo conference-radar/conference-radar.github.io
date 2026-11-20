@@ -1,0 +1,54 @@
+id: ieee-rapid
+name: IEEE RAPID
+full_name: IEEE Research and Applications of Photonics in Defense Conference
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Photonics Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  conference_months: [8, 9]
+links:
+  website: https://ieee-rapid.org/
+notes:
+- IEEE Photonics Society conference on photonics, electromagnetics, device physics, algorithms, and test and evaluation
+  for defense and security applications
+- Held every year in Miramar Beach, Florida, USA (2018 to 2027)
+- Topics include EO/IR and LADAR, RF photonics, quantum photonics, metamaterials, imaging and sensing, and photonic AI
+  hardware
+- Submissions are 2-page papers with a 45-word abstract; accepted papers that are presented go to IEEE Xplore
+- Do not confuse with the RaPID workshop (file rapid) or RAPIDO (file rapido)
+- Defense photonics venue rather than computer security; not listed in ICORE2026 or CCF
+editions:
+- year: 2026
+  start: 2026-08-05
+  end: 2026-08-07
+  location: Miramar Beach, Florida, USA (Hilton Sandestin Beach Golf Resort and Spa)
+  url: https://ieee-rapid.org/
+  deadlines:
+  - kind: notification
+    date: 2026-05-19
+- year: 2027
+  start: 2027-08-11
+  end: 2027-08-13
+  location: Miramar Beach, Florida, USA
+  url: https://ieeephotonics.org/conferences/
+sources:
+- https://ieee-rapid.org/
+- https://ieee-rapid.org/paper-submission/submission-guidelines/
+- https://ieee-rapid.org/paper-submission/topics/
+- https://ieee-rapid.org/about/past-conferences/
+- https://ieeexplore.ieee.org/xpl/conhome/1828124/all-proceedings
+- https://ieeephotonics.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=Photonics+in+Defense&by=all&source=ICORE2026
+unverified:
+- 2026 and 2027 paper submission deadlines (2026 submission closed; notices sent 19 May 2026)
+- 2027 dates come from the IEEE Photonics Society conference list; the RAPID site still shows 2026
+- Acceptance rate and fees
+last_verified: 2026-11-20

@@ -1,0 +1,52 @@
+id: cca-algeria
+name: CCA
+full_name: Conference on Cybersecurity and Applications
+type: conference
+tier: minor
+areas: [security]
+region: africa
+language: english
+organizer: National School of Cybersecurity (NSCS/ENSCS) and the Information System Security Agency (ASSI), Algeria
+organizer_country: [other]
+proceedings: CCA conference proceedings (ISSN 3088-9286), posted on the ENSCS conference page after the event
+archival: true
+fee: 10,000 DZD academic or researcher, 15,000 DZD industry, 5,000 DZD student (2026)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://www.enscs.edu.dz/?page_id=8994
+notes:
+- First edition in 2026, held at the National School of Cybersecurity in Sidi Abdallah, Algiers
+- Focus on cybersecurity research and its applications in Algeria; papers in English
+- Up to 8 pages in the IEEE conference template, double-blind review, submission via Microsoft CMT
+- Submission deadline extended twice in 2026 (Aug 15 -> Sep 1 -> Sep 20)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-11-25
+  end: 2026-11-26
+  location: Sidi Abdallah, Algiers, Algeria
+  url: https://www.enscs.edu.dz/?page_id=8994
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+    label: Extended from 2026-08-15 and 2026-09-01
+  - kind: notification
+    date: 2026-10-10
+    label: Extended from 2026-09-30
+  - kind: camera_ready
+    date: 2026-10-30
+    label: Extended from 2026-10-20
+  - kind: other
+    date: 2026-11-10
+    label: Registration, extended from 2026-11-02
+sources:
+- https://www.enscs.edu.dz/?page_id=8994
+- https://www.enscs.edu.dz/
+- https://portal.core.edu.au/conf-ranks/?search=CCA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Frequency not stated (first edition); CCA 2027 not announced
+- Proceedings are not out yet; publisher and indexing beyond the ISSN not stated
+- Deadline time zone not stated

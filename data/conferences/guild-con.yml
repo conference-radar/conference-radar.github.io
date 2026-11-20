@@ -1,0 +1,42 @@
+id: guild-con
+name: Guild Con
+full_name: Guild Con (Hackers Guild Pittsburgh Community Hacker Conference)
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+organizer: Hackers Guild Pittsburgh
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+fee: 35 USD general admission; workshops ticketed separately (2026)
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: https://guildcon.hackersguildpgh.com/
+notes:
+- One-day community hacker conference at the Hackers Guild Pittsburgh space (2247 Babcock Blvd, Pittsburgh, PA)
+- Talks, hands-on workshops and a CTF
+- CFP for 45 minute standard talks and 15 minute lightning talks
+- The second floor where all talks are held has no elevator
+editions:
+- year: 2026
+  start: 2026-11-21
+  end: 2026-11-21
+  location: Pittsburgh, PA, USA
+  url: https://guildcon.hackersguildpgh.com/
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+    label: Talks (CFP open from 2026-07-10)
+  - kind: notification
+    date: 2026-10-16
+sources:
+- https://guildcon.hackersguildpgh.com/
+- https://guildcon.hackersguildpgh.com/cfp
+- https://portal.core.edu.au/conf-ranks/?search=Guild&by=all&source=ICORE2026
+unverified:
+- Earlier editions and whether Guild Con is held every year (the official site only shows 2026)
+last_verified: 2026-11-20

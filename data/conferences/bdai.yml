@@ -1,0 +1,59 @@
+id: bdai
+name: BDAI
+full_name: IEEE International Conference on Big Data and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, data]
+region: china
+language: english
+frequency: annual
+organizer: Initiated by Prof. Sheng-Uei Guan (Xi'an Jiaotong-Liverpool University), with a host university each year (Chongqing University of Science and Technology for 2026, Chongqing University for 2027)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [6]
+  conference_months: [7, 8, 10]
+links:
+  website: https://www.bdai.net/
+notes:
+- Annual since 2018; 2027 is the 10th edition
+- Held in China (Beijing 2018, Guangzhou 2019, virtual 2020 to 2022, Jiaxing 2023, Beijing 2024, Taicang 2025, Chongqing 2026)
+- Proceedings in IEEE Xplore (2018, 2021 to 2026) and ACM DL (2019, 2020), indexed in EI Compendex and Scopus
+- 2025 edition co-hosted by Xi'an Jiaotong-Liverpool University and IEEE
+- Minimum paper length 4 pages
+- Not listed in CORE ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 9th BDAI
+  start: 2026-07-03
+  end: 2026-07-05
+  location: Chongqing, China
+  url: https://www.bdai.net/2026.html
+- year: 2027
+  label: 10th BDAI
+  start: 2027-10-15
+  end: 2027-10-17
+  location: Chongqing, China
+  url: https://www.bdai.net/
+  deadlines:
+  - kind: submission
+    date: 2027-06-01
+  - kind: notification
+    date: 2027-07-01
+  - kind: other
+    date: 2027-07-20
+    label: Registration
+sources:
+- https://www.bdai.net/
+- https://www.bdai.net/cfp.html
+- https://www.bdai.net/submission.html
+- https://www.bdai.net/2026.html
+- https://www.bdai.net/2025.html
+- https://portal.core.edu.au/conf-ranks/?search=BDAI&by=all&source=ICORE2026
+unverified:
+- Publisher for the 2027 proceedings not yet named (site says BDAI 2027 Conference Proceedings)
+- Deadlines of BDAI 2026 not recorded
+- No deadline time or time zone stated
+last_verified: 2026-11-20

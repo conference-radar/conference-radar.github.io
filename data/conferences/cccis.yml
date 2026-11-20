@@ -1,0 +1,64 @@
+id: cccis
+name: CCCIS
+full_name: International Conference on Computer Communication and Information Systems
+type: conference
+tier: minor
+areas: [networking, communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Sensors and Systems Society of Singapore (sponsor 2022, 2024, 2025); 2026 conference chairs from Multimedia University, Malaysia
+organizer_country: [singapore]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [8]
+  conference_months: [9]
+links:
+  website: https://www.cccis.org/
+notes:
+- 2026 was the 6th edition; editions in 2020, 2021, 2022, 2024, 2025 and 2026 (none in 2023)
+- 2024 and 2025 proceedings in IEEE Xplore, indexed in Ei Compendex and Scopus; 2020 proceedings in the ACM Digital Library
+- 2020 to 2022 and 2024 held virtually; 2025 in Hong Kong (sponsored by Hong Kong Chu Hai College); 2026 in Melaka, Malaysia
+- Timing varies by year (Feb/Mar in 2024 and 2025, September in 2026)
+- Single-blind review; submissions via online system or email
+- Not related to IC3SIS (id ic3sis)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  label: 5th edition
+  start: 2025-02-28
+  end: 2025-03-02
+  location: Hong Kong, China
+  url: https://www.cccis.org/cccis2025.html
+- year: 2026
+  label: 6th edition
+  start: 2026-09-25
+  end: 2026-09-27
+  location: Melaka, Malaysia
+  url: https://www.cccis.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+    label: Final call
+  - kind: notification
+    date: 2026-08-30
+  - kind: other
+    date: 2026-09-05
+    label: Registration deadline
+sources:
+- https://www.cccis.org/
+- https://www.cccis.org/submission.html
+- https://www.cccis.org/committee.html
+- https://www.cccis.org/cccis2025.html
+- https://www.cccis.org/cccis2024.html
+- https://www.cccis.org/cccis2022.html
+- https://www.cccis.org/cccis2021.html
+- https://www.cccis.org/cccis2020.html
+- https://portal.core.edu.au/conf-ranks/?search=CCCIS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2026 site says only that proceedings carry an ISBN and will be submitted to Ei Compendex and Scopus; the 2026 publisher is not named
+- CCCIS 2027 not announced yet
+- Time zone of the deadlines not stated

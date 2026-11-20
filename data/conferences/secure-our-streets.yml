@@ -1,0 +1,55 @@
+id: secure-our-streets
+name: SOS
+full_name: Secure Our Streets (SOS) Automotive Security and Privacy Conference
+type: industry
+tier: minor
+areas: [security]
+region: online
+language: english
+frequency: annual
+organizer: Automotive Security Research Group (ASRG)
+proceedings: None (talks only; slides and recordings published)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sos.asrg.io/
+notes:
+- One-day online conference on automotive security and privacy, run by the non-profit ASRG since 2022 (5th edition in 2026)
+- Free to attend; audience of OEMs, suppliers, researchers, regulators and policy makers
+- "Speakers submit an anonymized extended abstract of at least two pages, reviewed by a CFP review committee (EasyChair)"
+- Presentations must be pre-recorded; no commercial content
+- Talks and slides are posted in the SOS archive and on YouTube; no papers or proceedings
+- Topics include vehicle SOC, ISO/SAE 21434 and UN R155, V2X, EV charging, PQC and hardware security
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-17
+  end: 2026-09-17
+  location: Online
+  url: https://sos.asrg.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    label: Extended abstract
+  - kind: submission
+    date: 2026-05-15
+    label: Extended deadline
+  - kind: notification
+    date: 2026-06-24
+  - kind: other
+    date: 2026-08-14
+    label: Final presentation due
+sources:
+- https://sos.asrg.io/
+- https://sos.asrg.io/cfp
+- https://sos.asrg.io/secure-our-streets/
+- https://sos.asrg.io/archive
+- https://sessionize.com/sos2026/
+- https://portal.core.edu.au/conf-ranks/?search=Secure+Our+Streets&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the 2022 to 2025 editions not stated on the official site
+- 2027 edition and CFP not yet announced as of 2026-11-20
+- Country of the ASRG legal entity not stated on its site, so organizer_country is left out

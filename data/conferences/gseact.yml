@@ -1,0 +1,51 @@
+id: gseact
+name: GSEACT
+full_name: IEEE Global Symposium on Emerging and Communication Technologies
+type: conference
+tier: minor
+areas: [communications, general]
+region: south-asia
+language: english
+organizer: Hyderabad Institute of Technology and Management (HITAM)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 3]
+  conference_months: [6]
+links:
+  website: https://www.gseact.com/
+notes:
+- Run by the Hyderabad Institute of Technology and Management (HITAM), an engineering college in Medchal near Hyderabad, India
+- Broad EECS scope (communication and networking, circuits and devices, power systems and electric vehicles, computing, electromagnetics, robotics and control, signal processing)
+- 2026 edition held hybrid (in person at HITAM and online); proceedings published by IEEE (ISBN 979-8-3195-0991-8)
+- Full papers up to 6 pages in IEEE format, at most five authors per paper and two papers per person; submissions with more than 15% similarity are rejected
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-12
+  end: 2026-06-13
+  location: HITAM, Hyderabad, India (hybrid)
+  url: https://gseact.com/
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    label: Full paper (extended from 2026-01-20 and 2026-02-15)
+  - kind: notification
+    date: 2026-04-07
+  - kind: camera_ready
+    date: 2026-04-07
+sources:
+- https://gseact.com/
+- https://gseact.com/important-dates/
+- https://gseact.com/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=2933&target_action=get-all-data
+- https://gseact.com/call-for-papers/
+- https://gseact.com/registration/
+- https://gseact.com/organizational-committee/
+- https://gseact.com/about/
+- https://api.crossref.org/works?query.bibliographic=GSEACT&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=GSEACT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Frequency unclear; no earlier or later edition is listed on the official site and no 2027 edition is announced
+- Registration fees not shown as text on the official page; early bird end given as 20 March 2026 on the registration page but 20 April 2026 in the dates table

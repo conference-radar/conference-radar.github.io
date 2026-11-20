@@ -1,0 +1,59 @@
+id: vplow
+name: VPLOW
+full_name: Workshop on Open-World Vision (Visual Perception via Learning in an Open World)
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (2026 contact Shu Kong, University of Macau and OIST, with organizers from CMU, University of Maryland, Auburn University, UIUC, Cornell Tech, Google DeepMind and Texas A&M); co-located with CVPR
+organizer_country: [usa]
+proceedings: None (invited talks and challenges only, no paper call)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://vplow.github.io/
+notes:
+- CVPR workshop on visual perception in an open world (open-set recognition, long-tailed data, few-shot detection and related topics)
+- Held at every CVPR since 2021; the 6th edition was a half-day workshop at CVPR 2026 in Denver
+- No call for papers on the 2025 or 2026 pages; program is invited talks and challenge sessions
+- 2026 ran the Few-Shot Object Detection Challenge v3 (organized by CMU); 2025 ran an Object Instance Detection challenge and a Foundational Few-Shot Object Detection challenge
+- Related to the Dealing with Novelty in Open Worlds (DNOW) workshop held at WACV 2022 and 2023
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 5th edition, with CVPR 2025
+  start: 2025-06-11
+  end: 2025-06-11
+  location: Nashville, Tennessee, USA (with CVPR 2025)
+  url: https://vplow.github.io/vplow_5th.html
+  deadlines:
+  - kind: other
+    date: 2025-06-05
+    label: Object Instance Detection Challenge submission
+  - kind: other
+    date: 2025-06-08
+    label: Few-Shot Object Detection Challenge v2 submission
+- year: 2026
+  label: 6th edition, with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://vplow.github.io/vplow_6th.html
+  deadlines:
+  - kind: other
+    date: 2026-05-31
+    time: "23:59"
+    tz: EST
+    label: Few-Shot Object Detection Challenge v3 submission
+sources:
+- https://vplow.github.io/
+- https://vplow.github.io/vplow_6th.html
+- https://vplow.github.io/vplow_5th.html
+- https://portal.core.edu.au/conf-ranks/?search=VPLOW&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- 7th edition (CVPR 2027) not announced as of 2026-11-20

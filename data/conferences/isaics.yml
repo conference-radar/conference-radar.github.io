@@ -1,0 +1,53 @@
+id: isaics
+name: ISAICS
+full_name: IEEE International Symposium on AI and Cybersecurity
+type: conference
+tier: minor
+areas: [security, ai]
+region: china
+language: english
+frequency: annual
+organizer: Chinese universities (2026 hosted at Qufu Normal University, Rizhao)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://www.isaics.net/
+notes:
+- Small China-based symposium with an AI track and a cybersecurity track
+- 2024 proceedings in ACM DL, 2025 (2nd edition, Bengbu) in IEEE Xplore; 3rd edition 2026 in Rizhao
+- Single-blind review with two rounds; full papers of 5 pages, extra pages charged
+- "Registration fee: about 520 USD regular, 500 USD student (2026)"
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Rizhao, China
+  url: https://www.isaics.net/
+  deadlines:
+  - kind: submission
+    date: 2026-09-18
+  - kind: notification
+    date: 2026-10-28
+  - kind: camera_ready
+    date: 2026-11-05
+  - kind: other
+    date: 2026-11-12
+    label: Registration
+sources:
+- https://www.isaics.net/
+- https://www.isaics.net/submission/
+- https://www.isaics.net/venue-2026/
+- https://www.isaics.net/committee-2026/
+- https://api.crossref.org/types/proceedings/works?query.bibliographic=AI+and+Cybersecurity+ISAICS
+- https://portal.core.edu.au/conf-ranks/?search=ISAICS&by=all&source=ICORE2026
+unverified:
+- The 2026 site says only that papers are submitted for possible Compendex indexing; IEEE Xplore publication for 2026 not confirmed
+- 2025 dates and location taken from the IEEE Xplore / Crossref record, not the official site
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

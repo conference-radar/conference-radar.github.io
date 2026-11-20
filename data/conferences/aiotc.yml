@@ -1,0 +1,62 @@
+id: aiotc
+name: AIoTC
+full_name: International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology
+type: conference
+tier: minor
+areas: [ai, networking]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Nanchang University in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [5]
+  conference_months: [7, 8, 9]
+links:
+  website: https://www.icaiotc.net/
+notes:
+- Annual since 2022 and held in China (Wuhan 2024, Guilin 2025, Nanchang 2026 and 2027)
+- Covers AI, the Internet of Things and cloud computing
+- Proceedings published by IEEE (IEEE Xplore records for 2025 and 2026), submitted to EI Compendex and Scopus
+- Run by a commercial conference service with a host university; East China Jiaotong University supports the 2027 edition
+- Small program (4 keynotes and 18 oral talks in 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 5th AIoTC
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Nanchang, China
+  url: https://www.icaiotc.net/2026
+- year: 2027
+  label: 6th AIoTC
+  start: 2027-08-13
+  end: 2027-08-15
+  location: Nanchang, China
+  url: https://www.icaiotc.net/
+  deadlines:
+  - kind: submission
+    date: 2027-05-25
+  - kind: notification
+    date: 2027-06-25
+  - kind: other
+    date: 2027-08-05
+    label: Registration due
+sources:
+- https://www.icaiotc.net/
+- https://www.icaiotc.net/2024
+- https://www.icaiotc.net/2025
+- https://www.icaiotc.net/2026
+- https://www.icaiotc.net/Publication
+- https://doi.org/10.1109/aiotc71250.2026
+- https://doi.org/10.1109/aiotc66747.2025
+- https://portal.core.edu.au/conf-ranks/?search=AIoTC&by=all&source=ICORE2026
+unverified:
+- The site says AIoTC 2027 will be held in two venues but names only Nanchang
+- Publishers of the 2022 to 2024 proceedings and locations of the 2022 and 2023 editions not confirmed
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded
+last_verified: 2026-11-20

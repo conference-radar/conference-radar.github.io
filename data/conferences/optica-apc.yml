@@ -1,0 +1,54 @@
+id: optica-apc
+name: Optica Advanced Photonics Congress
+full_name: Optica Advanced Photonics Congress
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Optica
+organizer_country: [usa]
+proceedings: Optica Publishing Group (Technical Digest)
+archival: true
+indexing: [Ei Compendex, Scopus]
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://www.optica.org/events/congress/advanced_photonics_congress/
+notes:
+- Annual Optica congress made up of co-located topical meetings; in 2026 these were BGPP, IPR, NP, NOMA, Photonic Networks and Devices (Networks), Signal Processing in Photonic Communications (SPPCom), SOLITH and SOF
+- Networks and SPPCom are the meetings closest to communications and networking; 2027 topics include optical networking for AI data centers and HPC
+- "Submission format: 35-word abstract plus a 2-page summary, peer reviewed"
+- Accepted and presented papers are published on the Optica Publishing Group platform and indexed in Ei Compendex, Scopus and Google Scholar
+- Location rotates worldwide (Quebec City 2024, Marseille 2025, Long Beach 2026, Auckland 2027)
+- Photonics venue rather than computer science; not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-26
+  end: 2026-07-30
+  location: Long Beach, California, USA
+  url: https://www.optica.org/events/congress/advanced_photonics_congress/about/
+- year: 2027
+  start: 2027-07-18
+  end: 2027-07-22
+  location: Grand Millennium Auckland, Auckland, New Zealand
+  url: https://www.optica.org/events/congress/advanced_photonics_congress/
+  deadlines:
+  - kind: submission
+    date: 2027-03-16
+    time: "12:00"
+    tz: EDT
+    label: Abstract and 2-page summary
+sources:
+- https://www.optica.org/events/congress/advanced_photonics_congress/
+- https://www.optica.org/events/congress/advanced_photonics_congress/about/
+- https://www.optica.org/events/congress/advanced_photonics_congress/submit_papers/
+- https://portal.core.edu.au/conf-ranks/?search=Advanced+Photonics&by=all&source=ICORE2026
+unverified:
+- Topical meetings making up the 2027 congress not listed yet
+- Notification date and postdeadline paper call for 2027 not stated
+- 2024 and 2025 locations taken from Optica Publishing Group DOI metadata, not from the congress page
+- CCF 2026 list could not be loaded; not expected to list a photonics venue
+last_verified: 2026-11-20

@@ -1,0 +1,45 @@
+id: smartcom-gr
+name: SmartCom
+full_name: International Conference on Smart Trends in Computing and Communications
+type: conference
+tier: minor
+areas: [general, communications, networking, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: GR Scholastic and Global Knowledge Research Foundation (same team as ICTCS)
+organizer_country: [india]
+proceedings: Springer LNNS
+archival: true
+indexing: [Scopus, INSPEC]
+typical:
+  conference_months: [1]
+links:
+  website: https://www.smartcomconference.com
+notes:
+- Broad computing and communications conference run by the ICTCS / GR Scholastic team, sister event of ICTCS, ICTIS, ICT4SD and ICICT London
+- Proceedings in Springer Lecture Notes in Networks and Systems under the title 'Smart Trends in Computing and Communications'
+- 11th edition in Goa, India, 27 to 30 Jan 2027; SmartCom 2026 was held in Pune, India (Springer proceedings)
+- Very large, high-acceptance event typical of this organizer; regarded as a minor venue
+- Not the IEEE SMARTCOMP conference (ieee-smartcomp), which has a similar name
+- Not listed in ICORE2026 (the only SmartCom match there is IEEE SMARTCOMP)
+editions:
+- year: 2027
+  start: 2027-01-27
+  end: 2027-01-30
+  location: Goa, India
+  url: https://www.smartcomconference.com
+  status: confirmed
+sources:
+- https://www.smartcomconference.com
+- https://ictcs.in/smartcom.php
+- https://gr-conferences.com/
+- https://doi.org/10.1007/978-3-032-25483-2
+- https://portal.core.edu.au/conf-ranks/?search=SmartCom&by=all&source=ICORE2026
+unverified:
+- Official SmartCom site sits behind a bot check; the 2027 dates come from the organizer's ICTCS site and gr-conferences.com
+- Submission deadlines for 2027 not found
+- Hybrid format and exact venue of 2027 not stated
+- Host cities of past editions not confirmed on an official page (Pune for 2026 is from the Springer proceedings page)
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+last_verified: 2026-11-20

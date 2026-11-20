@@ -1,0 +1,56 @@
+id: ieee-wams
+name: IEEE WAMS
+full_name: IEEE Wireless Antenna and Microwave Symposium
+type: conference
+tier: minor
+areas: [communications]
+region: south-asia
+language: english
+frequency: annual
+organizer: WAMS Society with a host institute (Sasi Institute of Technology and Engineering for 2027); financially sponsored by IEEE AP-S
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [7]
+links:
+  website: https://www.wams2027.com/
+notes:
+  - Annual symposium on wireless, antennas and microwave engineering, held at academic institutes in India; the WAMS Society lists editions every year since 2022
+  - Run by the WAMS Society; 2027 is the 6th edition, 100% financially sponsored by IEEE AP-S
+  - Peer-reviewed accepted papers that are presented in person are submitted to IEEE Xplore
+  - Aimed at students and young professionals; offers travel and registration support for student authors
+  - Tracks on wireless, antennas and microwave; submission through Microsoft CMT
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    label: 6th edition
+    start: 2027-07-01
+    end: 2027-07-04
+    location: Tadepalligudem, Andhra Pradesh, India
+    url: https://www.wams2027.com/
+    deadlines:
+      - kind: other
+        date: 2026-12-01
+        label: Special session proposals
+      - kind: submission
+        date: 2026-12-31
+      - kind: notification
+        date: 2027-03-31
+      - kind: camera_ready
+        date: 2027-04-10
+sources:
+  - https://www.wams2027.com/
+  - https://www.wams2027.com/call-for-papers.html
+  - https://www.wams2027.com/publication.html
+  - https://wams-society.com/
+  - https://ieeexplore.ieee.org/xpl/conhome/1847286/all-proceedings
+  - https://ieeeaps.org/conferences/upcoming-conferences
+  - https://portal.core.edu.au/conf-ranks/?search=WAMS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - Dates and location of WAMS 2026 and earlier editions (the WAMS Society page lists 2022 to 2026 without details)
+  - IEEE AP-S lists WAMS 2027 on 2027-06-28 to 2027-07-01 with a 2026-12-30 deadline; the official site says the dates changed to 2027-07-01 to 2027-07-04 (pre-conference 2027-06-30) with a 2026-12-31 deadline (used here)
+  - Deadline times and time zones not stated
+  - Acceptance rate and registration fees not found

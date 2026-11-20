@@ -1,0 +1,47 @@
+id: mmfm-biomed
+name: MMFM-BIOMED
+full_name: "Workshop on Multimodal Foundation Models for Biomedicine: Challenges and Opportunities"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers led by Stanford University (with UCLA, University of Michigan, MBZUAI, Johns Hopkins and Microsoft Research); co-located with CVPR
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://mmfm-biomed.github.io/
+notes:
+- CVPR workshop on multimodal foundation models for biomedicine, with tracks on current challenges and on opportunities such as drug discovery and surgery
+- 1st edition at CVPR 2025 (Nashville), 2nd at CVPR 2026 (Denver, half day)
+- Non-archival short papers up to 4 pages excluding references in the CVPR template, submitted via OpenReview
+- Selected papers presented as posters, four get spotlight oral talks
+- Different from MMFM (What is Next in Multimodal Foundation Models)
+- Not on the CCF list
+editions:
+- year: 2026
+  label: 2nd MMFM-BIOMED, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://mmfm-biomed.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+  - kind: notification
+    date: 2026-05-10
+sources:
+- https://mmfm-biomed.github.io/
+- https://sites.google.com/view/mmfm-biomed-2025/
+- https://cvpr.thecvf.com/Conferences/2026/Workshops
+- https://cvpr.thecvf.com/Conferences/2025/workshop-list
+unverified:
+- Time and time zone of the 2026 deadlines not stated on the official page
+- ICORE2026 portal could not be reached on 2026-11-20; no CORE rank recorded (workshops are normally not ranked)
+- 3rd edition not announced as of 2026-11-20
+last_verified: 2026-11-20

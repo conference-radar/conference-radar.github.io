@@ -1,0 +1,55 @@
+id: ieee-sum
+name: IEEE SUM
+full_name: IEEE Photonics Society Summer Topicals Meeting Series
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Photonics Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [2]
+  conference_months: [7]
+links:
+  website: https://www.ieee-sum.org/
+notes:
+- IEEE Photonics Society summer meeting that hosts 4 to 7 separate topics on emerging areas of photonics, chosen each
+  year from topic proposals
+- Held every July at a rotating resort location (2022 Cabo San Lucas, 2023 Sicily, 2024 Bridgetown, 2025 Berlin, 2026
+  Tulum, 2027 Porto)
+- Submissions are 2-page papers with a 45-word abstract; accepted papers that are presented go to IEEE Xplore
+- Photonics venue rather than computer science; not listed in ICORE2026 or CCF
+editions:
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  location: Tulum, Mexico
+  url: https://ieeexplore.ieee.org/xpl/conhome/11659782/proceeding
+  deadlines:
+  - kind: notification
+    date: 2026-04-21
+- year: 2027
+  start: 2027-07-12
+  end: 2027-07-14
+  location: Porto, Portugal
+  url: https://www.ieee-sum.org/
+sources:
+- https://www.ieee-sum.org/
+- https://www.ieee-sum.org/paper-submission/submission-guidelines/
+- https://www.ieee-sum.org/paper-submission/topics/
+- https://www.ieee-sum.org/about/past-conferences/
+- https://ieeexplore.ieee.org/xpl/conhome/1000416/all-proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/11659782/proceeding
+- https://api.crossref.org/works/10.1109/sum69529.2026
+- https://ieeephotonics.org/conferences/
+- https://portal.core.edu.au/conf-ranks/?search=Summer+Topicals&by=all&source=ICORE2026
+unverified:
+- 2027 paper deadline only given as February 2027 (submission opens January 2027); no exact day yet
+- 2027 topics not announced yet (topic proposals were still being invited)
+- Acceptance rate and fees
+last_verified: 2026-11-20

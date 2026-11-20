@@ -1,0 +1,49 @@
+id: mlog-genai
+name: MLoG-GenAI
+full_name: Workshop on Machine Learning on Graphs in the Era of Generative Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai, data]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (University of Oregon, Texas A&M, University of Washington, Michigan State, Vanderbilt, Cisco AI, PNNL and others); co-located with KDD
+organizer_country: [usa]
+proceedings: None (papers posted on the workshop website)
+archival: false
+links:
+  website: https://mlgraphworkshop.github.io/
+notes:
+- KDD 2025 morning workshop (8 to 12) on graph machine learning combined with generative AI and LLMs
+- Non-archival, accepted papers do not appear in the KDD proceedings and are posted on the workshop website
+- Papers under review or published elsewhere may be submitted
+- 4 to 8 pages excluding references and appendices in ACM sigconf format, double-blind review on OpenReview
+- All deadlines end of day AoE
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Toronto, Canada (with KDD 2025)
+  url: https://mlgraphworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-06-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-06-26
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-07-14
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mlgraphworkshop.github.io/
+- https://mlgraphworkshop.github.io/Organizers
+- https://portal.core.edu.au/conf-ranks/?search=MLoG&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Only the 2025 edition is known; no 2026 or later edition announced on the site as of 2026-11-20
+- Typical months not given because only one edition is known

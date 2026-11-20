@@ -1,0 +1,65 @@
+id: icisml
+name: ICISML
+full_name: International Conference on Intelligent Systems and Machine Learning
+type: conference
+tier: minor
+areas: [ai, vision, networking]
+region: south-asia
+language: english
+frequency: annual
+organizer: ICISML organizing committee with a different Indian host institution each year (PSIT Kanpur in 2027)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+acceptance_rate: 30.3% (2026, 249/823, per the official site)
+typical:
+  deadline_months: [6]
+  conference_months: [2, 9]
+links:
+  website: https://icisml.com
+notes:
+- Host changes each edition; the 6th edition (February 2026) was at Nagaland University, Kohima and the 7th is at PSIT Kanpur
+- Hybrid mode with physical and online presentations
+- Accepted papers are submitted for inclusion in IEEE Xplore
+- Four tracks covering image recognition, machine learning, ML applications and intelligent communication networks
+- Review through Microsoft CMT
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 6th ICISML
+  start: 2026-02-24
+  end: 2026-02-25
+  location: Nagaland University, Kohima Campus, India (hybrid)
+  url: https://icisml.com/assets/docs/final-technical-program-2026.pdf
+- year: 2027
+  label: 7th ICISML
+  start: 2027-09-10
+  end: 2027-09-11
+  location: Pranveer Singh Institute of Technology (PSIT), Kanpur, India (hybrid)
+  url: https://icisml.com
+  deadlines:
+  - kind: submission
+    date: 2027-06-15
+  - kind: notification
+    date: 2027-08-01
+  - kind: other
+    date: 2027-08-10
+    label: Last date of registration
+  - kind: camera_ready
+    date: 2027-08-15
+  - kind: other
+    date: 2027-09-08
+    label: Pre-conference tutorial
+sources:
+- https://icisml.com
+- https://icisml.com/call-for-papers.html
+- https://icisml.com/publication.html
+- https://icisml.com/registration.html
+- https://icisml.com/assets/docs/final-technical-program-2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICISML&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- 2026 deadlines not found on the official site
+- Registration fees for 2027 are marked as being finalized on the official site
+- The official site shows paper submission as closed although the stated 2027 deadline is 2027-06-15
+- Inclusion of the 2026 papers in IEEE Xplore not confirmed

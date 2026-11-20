@@ -1,0 +1,48 @@
+id: scisoc-llm
+name: SciSoc LLM
+full_name: "Workshop on SciSoc Agents and LLMs: Agentic AI for Scientific and Societal Advances"
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from Hippocratic AI, Emory University, Stanford, KAIST, Notre Dame, UIUC, University of Michigan, Georgia Tech and USC; co-located with KDD
+organizer_country: [usa, korea]
+proceedings: None (non-archival; accepted papers are posted on the workshop website, not in the KDD proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://kdd26scisocllm.github.io/
+notes:
+  - KDD workshop on LLMs and AI agents for scientific discovery and societal applications
+  - 2nd edition at KDD 2026 in Jeju, Korea (9 August 2026, half day)
+  - Full papers up to 8 pages and short, technical or vision papers up to 4 pages in the ACM double-column template, double-blind review on OpenReview
+  - Non-archival; accepted papers are not part of the KDD 2026 proceedings
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 2nd edition, with KDD 2026
+    start: 2026-08-09
+    end: 2026-08-09
+    location: Jeju, Korea (with KDD 2026)
+    url: https://kdd26scisocllm.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-05-20
+        tz: AoE
+      - kind: notification
+        date: 2026-06-08
+      - kind: other
+        date: 2026-06-24
+        label: Final program submission
+sources:
+  - https://kdd26scisocllm.github.io/
+  - https://kdd2026.kdd.org/workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=SciSoc&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - The workshop schedule (8:00 to 12:00) was marked tentative on the official site
+  - The 1st edition is not described on the official site
+  - No 2027 edition announced as of 2026-11-20

@@ -1,0 +1,49 @@
+id: isagwics
+name: ISAGW-ICS
+full_name: Workshop on Intelligent Space-Air-Ground-Water Integrated Communication Systems
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers with IEEE VTC (IEEE VTS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://events.vtsociety.org/vtc2027-spring/current-workshops/w8/
+notes:
+- Workshop 8 at IEEE VTC2027-Spring (Hamburg); not in the VTC2026-Spring or VTC2026-Fall workshop lists
+- Covers space-air-ground-water integrated networks, multi-dimensional resource optimization, joint computation, caching and communication, and AI methods such as multi-agent reinforcement learning and federated learning
+- Organizers from HUST, KIT, Airbus Central Research and Technology, UNSW and UESTC
+- Co-organizer Yan Zhang chairs the IEEE VTS committee on space-air-ground-water integrated networks
+- VTC papers are 5 pages (up to 2 extra pages at 100 USD each), submitted through the VTC2027-Spring workshops and Recent Results TrackChair site
+- VTC papers go to IEEE Xplore and may be removed if not presented at the conference
+- Not listed in ICORE2026
+editions:
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-23
+  location: Hamburg, Germany (with IEEE VTC2027-Spring)
+  url: https://events.vtsociety.org/vtc2027-spring/current-workshops/w8/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: VTC workshop papers
+sources:
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/w8/
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/
+- https://events.vtsociety.org/vtc2027-spring/
+- https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Space-Air-Ground&by=all&source=ICORE2026
+unverified:
+- Short name ISAGW-ICS is an abbreviation of the title; the workshop page uses no acronym
+- The workshop page gives no workshop-specific dates; the submission date is the VTC2027-Spring workshop paper deadline from the main page
+- Exact workshop day within VTC2027-Spring (20 to 23 June 2027) not stated
+- VTC pages do not name IEEE Xplore explicitly for workshop papers; taken from the VTC2026-Fall IEEE eXpress author instructions for VTC papers
+last_verified: 2026-11-20

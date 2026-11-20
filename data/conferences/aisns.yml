@@ -1,0 +1,57 @@
+id: aisns
+name: AISNS
+full_name: International Conference on Artificial Intelligence, Systems and Network Security
+type: conference
+tier: minor
+areas: [ai, security, systems]
+region: china
+language: english
+frequency: annual
+organizer: Chinese universities with AiScholar
+organizer_country: [china]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [8]
+  conference_months: [11, 12]
+links:
+  website: https://www.aisns.org/
+notes:
+- 2026 was the 4th edition; held in China (2025 Xiangtan, 2026 Chongqing)
+- 2026 general chairs from Guangzhou University and Tianjin University; Chongqing University of Posts and Telecommunications involved in 2026
+- AISNS 2026 accepted full papers to be published in the ACM International Conference Proceeding Series and submitted to EI Compendex and Scopus
+- Website run on the AiScholar (ais.cn) platform
+- Topics span AI, computer and network systems, and network security
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-26
+  end: 2025-12-28
+  location: Xiangtan, China
+  url: https://www.aisns.org/czzdbepm
+- year: 2026
+  start: 2026-11-13
+  end: 2026-11-15
+  location: Chongqing, China
+  url: https://www.aisns.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-26
+  - kind: notification
+    date: 2026-09-30
+  - kind: other
+    date: 2026-11-01
+    label: Registration
+sources:
+- https://www.aisns.org/
+- https://www.aisns.org/mtxxaiil
+- https://www.aisns.org/czzdbepm
+- https://www.aisns.org/Publication
+- https://www.aisns.org/wtokpwhs
+- https://portal.core.edu.au/conf-ranks/?search=AISNS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- AISNS 2027 not yet announced
+- The official site does not state the publisher of the 2023 to 2025 proceedings
+- An IEEE Xplore volume titled AISNS 2026 expands the acronym as Artificial Intelligence and Social Network Systems; it was not confirmed to be this conference

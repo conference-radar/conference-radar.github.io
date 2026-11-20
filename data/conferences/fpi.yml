@@ -1,0 +1,56 @@
+id: fpi
+name: FPI
+full_name: "Workshop on Frontiers in Probabilistic Inference: Learning meets Sampling"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+organizer: FPI organizing committee (Mila, McGill, Universite de Montreal, University of Toronto, Cornell, Oxford and others); co-located with ICLR or NeurIPS
+organizer_country: [canada, usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [2, 9]
+  conference_months: [4, 12]
+links:
+  website: http://fpiworkshop.org
+notes:
+- ML workshop on learning-based sampling from unnormalized distributions, Bayesian inference, optimal transport and control, and applications in the natural sciences
+- Held at ICLR 2025 in Singapore and NeurIPS 2025 in San Diego (2nd edition)
+- Non-archival with no official proceedings; papers under review elsewhere are accepted
+- Research, Challenges and Reflections, and Benchmarks and Datasets tracks (4 to 8 pages) plus Tiny Papers (2 pages), double-blind review on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: ICLR 2025
+  start: 2025-04-28
+  end: 2025-04-28
+  location: Singapore (with ICLR 2025)
+  url: https://sites.google.com/view/fpiworkshop/about
+  deadlines:
+  - kind: submission
+    date: 2025-02-10
+    tz: AoE
+  - kind: notification
+    date: 2025-03-05
+  - kind: camera_ready
+    date: 2025-04-19
+    tz: AoE
+- year: 2025
+  label: NeurIPS 2025
+  location: San Diego, California, USA (with NeurIPS 2025)
+  url: https://neurips.cc/virtual/2025/workshop/109572
+sources:
+- https://sites.google.com/view/fpiworkshop/about
+- https://sites.google.com/view/fpiworkshop/call-for-papers
+- https://sites.google.com/view/fpiworkshop/organizers
+- https://openreview.net/group?id=ICLR.cc/2025/Workshop/FPI
+- https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/FPI
+- https://neurips.cc/virtual/2025/workshop/109572
+- https://portal.core.edu.au/conf-ranks/?search=FPI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The NeurIPS 2025 site (fpiworkshop.org) could not be reached, so its date and deadlines are left out; OpenReview lists the workshop on Dec 6, 2025 with a submission deadline of Sep 3, 2025, while the NeurIPS schedule page suggests Dec 7
+- The ICLR 2025 submission deadline was extended from Feb 3 to Feb 10, 2025, and notification moved from Mar 2 to Mar 5
+- No 2026 edition found at ICLR, ICML or NeurIPS 2026 as of 2026-11-20

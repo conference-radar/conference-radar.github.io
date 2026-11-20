@@ -1,0 +1,58 @@
+id: optima
+name: OPTIMA
+full_name: International Conference on Optical Communication, Photonics, Telecommunications, and Intelligent Machine
+  Applications
+type: conference
+tier: minor
+areas: [communications, networking, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT), with the IEEE
+  Photonics Society as technical co-sponsor
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus]
+fee: 200 USD regular, 150 USD IEEE member for authors outside Uzbekistan, plus 12% VAT (2026)
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://optima2026.tuit.uz/
+notes:
+- Run by TUIT and held in Tashkent, Uzbekistan, in hybrid format; started in 2025 (the 2026 edition is the 2nd)
+- IEEE Photonics Society is technical co-sponsor; accepted papers are submitted to IEEE Xplore (IEEE conference
+  number 71623 for 2026), and the organizers state Scopus and Web of Science indexing
+- Six tracks covering optical communication and networks, photonics and optoelectronics, telecommunications and
+  wireless, AI and machine learning in communication, IoT, and quantum technologies
+- Co-sponsors include Osh Technological University, Osh State University (Kyrgyzstan) and NUST (Pakistan)
+- In-person presentation is mandatory for authors from Uzbekistan
+- Same host as ICISCT (file icisct), a different TUIT conference
+- Not listed in ICORE2026 or CCF
+editions:
+- year: 2026
+  label: 2nd OPTIMA
+  start: 2026-12-04
+  end: 2026-12-05
+  location: Tashkent, Uzbekistan (TUIT Incubation Center, hybrid)
+  url: https://optima2026.tuit.uz/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Paper submission (extended from 2026-08-15, hard deadline)
+  - kind: notification
+    date: 2026-09-30
+  - kind: camera_ready
+    date: 2026-10-20
+sources:
+- https://optima2026.tuit.uz/
+- https://optima2025.tuit.uz/
+- https://ieeephotonics.org/conferences/
+- https://api.crossref.org/works/10.1109/optima67660.2025
+- https://portal.core.edu.au/conf-ranks/?search=OPTIMA&by=all&source=ICORE2026
+unverified:
+- 2025 (1st) edition dates and deadlines could not be read from the official 2025 site; the IEEE proceedings record
+  gives 4 to 5 December 2025 in Tashkent
+- 2027 edition not announced yet
+last_verified: 2026-11-20

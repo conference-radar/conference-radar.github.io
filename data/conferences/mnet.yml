@@ -1,0 +1,62 @@
+id: mnet
+name: MNet
+full_name: International Workshop on Mechanism Design in Social Networks
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee chaired by Dengji Zhao (ShanghaiTech University), with UESTC, Nanjing University of Science and Technology, IIT Bombay and Kyushu University; co-located with IJCAI
+organizer_country: [china]
+proceedings: Springer CCIS (post-proceedings)
+archival: true
+indexing: [Scopus, DBLP, EI]
+typical:
+  deadline_months: [5, 7]
+  conference_months: [8]
+links:
+  website: https://smart.sist.shanghaitech.edu.cn/MNet2025/index.html
+notes:
+- IJCAI workshop on mechanism design, auctions, matching and social choice on social networks
+- 2nd edition (MNet-2025) held on 2025-08-29 during the IJCAI 2025 workshop days at the Guangzhou, China site
+- Two submission rounds; the second round takes papers not accepted at IJCAI, ECAI, NeurIPS or similar conferences
+- Up to 15 pages in LNCS/CCIS one-column format, double-blind, reviewed by at least two PC members, submitted via EasyChair
+- Post-proceedings in Springer CCIS; each accepted paper can choose a full paper, a short paper or no publication
+- At least one author must present in person
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: MNet-2025, with IJCAI 2025
+  start: 2025-08-29
+  end: 2025-08-29
+  location: Guangzhou, China (IJCAI 2025)
+  url: https://smart.sist.shanghaitech.edu.cn/MNet2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-21
+    label: First round (extended from 2025-05-09)
+  - kind: notification
+    date: 2025-06-06
+    label: First round
+  - kind: camera_ready
+    date: 2025-06-25
+    label: First round
+  - kind: submission
+    date: 2025-07-15
+    label: Second round
+  - kind: notification
+    date: 2025-07-25
+    label: Second round
+  - kind: camera_ready
+    date: 2025-08-05
+    label: Second round
+sources:
+- https://smart.sist.shanghaitech.edu.cn/MNet2025/index.html
+- https://portal.core.edu.au/conf-ranks/?search=MNet&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Date and venue of the 1st edition are not given on the official site
+- No 2026 edition found on the official site as of November 2026
+- Deadline times and time zones not stated
+- The official page mentions both Montreal and Guangzhou for IJCAI 2025; Guangzhou assumed from the 2025-08-29 workshop date

@@ -1,0 +1,51 @@
+id: ngcs
+name: NGCS
+full_name: International Conference on Next Generation Cyber Security Systems
+type: conference
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+organizer: Intelligent Systems Events (organizer of HAXD), co-sponsored by the IEEE Lone Star Section
+proceedings: IEEE Xplore (possible inclusion, subject to IEEE approval)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://intelligent-systems.net/ngcs2027/index.php
+notes:
+- First edition announced for March 2027 in San Antonio, Texas (hybrid), with local chairs from Texas A&M University San Antonio
+- Co-sponsored by the IEEE Lone Star Section (Region 5) and Bethlehem University
+- Accepted and presented papers are submitted for possible inclusion in IEEE Xplore; no other publisher or indexing named
+- Single-blind review; long papers 7 to 8 pages, short papers 4 to 6 pages, posters and demos 1 to 2 pages
+- Tracks on security for AI, AI for security, quantum-ready security, secure software and cloud, threat intelligence, and governance
+- Run from the same site and contact address as HAXD and the Generative AI Summer School (Intelligent Systems Events)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: San Antonio, TX, USA (hybrid)
+  url: https://intelligent-systems.net/ngcs2027/index.php
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+  - kind: notification
+    date: 2027-01-20
+  - kind: camera_ready
+    date: 2027-02-10
+sources:
+- https://intelligent-systems.net/ngcs2027/index.php
+- https://intelligent-systems.net/ngcs2027/cfp.php
+- https://intelligent-systems.net/ngcs2027/submission.php
+- https://intelligent-systems.net/ngcs2027/committee.php
+- https://intelligent-systems.net/
+- https://portal.core.edu.au/conf-ranks/?search=NGCS&by=all&source=ICORE2026
+unverified:
+- No previous edition listed; 2027 appears to be the first edition, so frequency is unknown
+- Inclusion in IEEE Xplore is not guaranteed by the official site
+- Organizer country not stated on the official site
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly
+last_verified: 2026-11-20

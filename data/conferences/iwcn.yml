@@ -1,0 +1,69 @@
+id: iwcn
+name: IWCN
+full_name: International Workshop on Computational Nanotechnology
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IWCN international advisory committee with a rotating local host (National Yang Ming Chiao Tung University in 2027)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 650 USD regular, 450 USD student (2027, early bird, about NT$20,800 and NT$14,400)
+typical:
+  deadline_months: [12]
+  conference_months: [4, 5]
+links:
+  website: https://www.iwcn2027.com/
+notes:
+- Device simulation workshop on electronic, thermal and spin transport, advanced CMOS, more-than-Moore devices and nanoelectronics modeling
+- Started in 1992 as the International Workshop on Computational Electronics (IWCE); renamed IWCN in 2016
+- Held every two years, rotating between the USA, Europe and Asia (Leeds 2017, Evanston 2019, online 2021, Barcelona 2023, Salt Lake City 2025, Hsinchu 2027)
+- Two-page abstract for review, then a four-page final paper in IEEE format; IWCN 2027 papers are submitted to IEEE Xplore
+- Earlier editions published abstracts on iwcn.info; IEEE Xplore proceedings are new for 2027
+- Single-session format with keynotes, contributed talks and posters; students strongly encouraged
+- International Wigner Workshop (IWW) runs as a satellite event just before
+- Not ranked by CORE or CCF, whose lists cover computing venues
+editions:
+- year: 2025
+  start: 2025-05-21
+  end: 2025-05-23
+  location: Marriott University Park, Salt Lake City, Utah, USA
+  url: http://iwcn2025.com/
+- year: 2027
+  start: 2027-04-19
+  end: 2027-04-22
+  location: Ambassador Hotel Hsinchu, Hsinchu, Taiwan
+  url: https://www.iwcn2027.com/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-22
+    time: "23:59"
+    tz: UTC+8
+    label: Two-page abstract
+  - kind: notification
+    date: 2027-02-01
+  - kind: other
+    date: 2027-02-26
+    label: Early registration
+  - kind: camera_ready
+    date: 2027-03-22
+    label: Final four-page paper and presenting author registration
+sources:
+- https://www.iwcn2027.com/
+- https://www.iwcn2027.com/about
+- https://www.iwcn2027.com/submission
+- https://www.iwcn2027.com/committees
+- https://www.iwcn2027.com/registration
+- https://www.iwcn2027.com/venue
+- https://www.iwcn.info/home
+- https://www.iwcn.info/past-events
+- http://iwcn2025.com/
+- https://portal.core.edu.au/conf-ranks/?search=IWCN&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- IEEE Xplore inclusion of the 2027 papers (the site says "submitted for inclusion")
+- Deadlines of the 2025 edition

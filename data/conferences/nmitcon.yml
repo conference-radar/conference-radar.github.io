@@ -1,0 +1,49 @@
+id: nmitcon
+name: NMITCON
+full_name: International Conference on Networks, Multimedia and Information Technology
+type: conference
+tier: minor
+areas: [networking, communications, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: Department of ECE, Nitte Meenakshi Institute of Technology (NMIT), Bengaluru, with IEEE Bangalore Section officers on the committees
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 'INR 6,000 to 8,500 for Indian authors, 80 to 150 USD for foreign authors (2025)'
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://nmit.ac.in/nmitcon
+notes:
+- Organized by Nitte Meenakshi Institute of Technology, Bengaluru, India; held annually since at least 2023
+- All presented papers are submitted for inclusion in IEEE Xplore
+- Three tracks (networks, multimedia, information technology) plus special sessions
+- Papers up to 6 pages in IEEE double-column format via Microsoft CMT
+- Long submission window, opening about ten months before the conference
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-08-01
+  end: 2025-08-02
+  location: NMIT, Bengaluru, India
+  url: https://nmit.ac.in/nmitcon
+  deadlines:
+  - kind: submission
+    date: 2025-05-30
+  - kind: notification
+    date: 2025-06-30
+  - kind: other
+    date: 2025-07-10
+    label: Registration
+sources:
+- https://nmit.ac.in/nmitcon
+- https://nmit.ac.in/nmitcon2024/
+- https://portal.core.edu.au/conf-ranks/?search=NMITCON&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found on the official site (the conference page still shows NMITCON 2025)
+- Name of the IEEE technical co-sponsor is shown only as a logo
+- CCF 2026 list not checked
+last_verified: 2026-11-20

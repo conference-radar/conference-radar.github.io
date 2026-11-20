@@ -1,0 +1,48 @@
+id: so-con
+name: SO-CON
+full_name: SO-CON (SpecterOps Conference)
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: SpecterOps
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+fee: 295 USD conference pass; 2,500 USD training bundle including the conference (2027)
+typical:
+  deadline_months: [11]
+  conference_months: [4]
+links:
+  website: https://socon.specterops.io/
+notes:
+- Annual practitioner conference run by the security company SpecterOps on adversary tradecraft, identity security and attack path management
+- Two days of talks followed by four days of SpecterOps training courses
+- 2027 edition at Convene, Arlington, Virginia, near Washington DC; federal attendees may attend free subject to agency ethics approval
+- Call for presentations via Sessionize; talks are archived on YouTube
+- Vendor-run, similar in kind to LABScon
+- No published proceedings (non-archival)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2027
+  start: 2027-04-26
+  end: 2027-05-01
+  location: Convene, Arlington, VA, USA
+  url: https://socon.specterops.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-15
+    time: "23:59"
+    tz: EST
+    label: Call for presentations closes
+sources:
+- https://socon.specterops.io/
+- https://sessionize.com/so-con-2027/
+- https://specterops.io/company/events/
+- https://portal.core.edu.au/conf-ranks/?search=SO-CON&by=all&source=ICORE2026
+unverified:
+- "Dates and venue of the 2026 and earlier editions (the official site has only an archive of talks)"
+- The SpecterOps events page gives 27 April to 1 May 2027 in one place; the SO-CON site and Sessionize give 26 April to 1 May
+last_verified: 2026-11-20

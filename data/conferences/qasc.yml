@@ -1,0 +1,51 @@
+id: qasc
+name: QASC
+full_name: International Conference on Quantum Enhanced AI and Secure Computing
+type: conference
+tier: minor
+areas: [ai, security]
+region: north-america
+language: english
+organizer: Committee led by Grambling State University (general chair), with Chicago State University and other US universities
+organizer_country: [usa]
+proceedings: Springer LNEE
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://www.quaic.org/
+notes:
+- Covers the intersection of quantum computing, AI and secure computing
+- Accepted papers are published in Springer Lecture Notes in Electrical Engineering (LNEE); the site states Scopus, DBLP and Google Scholar indexing
+- Peer review through Microsoft CMT with at least three reviewers per paper; full, short, vision/position and industry papers
+- 2026 edition held at Grambling State University, Louisiana, in person with online participation
+- Very fast turnaround (2026 notification the day after the submission deadline, as listed)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-25
+  end: 2026-09-27
+  location: Grambling State University, Grambling, Louisiana, USA (hybrid)
+  url: https://www.quaic.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-07
+  - kind: notification
+    date: 2026-07-08
+  - kind: camera_ready
+    date: 2026-07-17
+sources:
+- https://www.quaic.org/
+- https://www.quaic.org/research/
+- https://www.quaic.org/committee/
+- https://www.quaic.org/about/
+- https://portal.core.edu.au/conf-ranks/?search=QASC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No organizing institution is named; organizer inferred from the committee page (general chair at Grambling State University)
+- Edition number and earlier editions are not stated, so frequency, region and typical months rest on the 2026 edition only
+- Notification date of July 8, one day after the July 7 submission deadline, is as listed on the site
+- QASC 2027 not announced yet; deadline time zone not stated

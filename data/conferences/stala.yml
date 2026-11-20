@@ -1,0 +1,64 @@
+id: stala
+name: STALA
+full_name: Workshop on Security Testing and Assurance for LLMs and Agents
+type: workshop
+tier: minor
+areas: [security, ai, software]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop chairs (University of Bristol, University of Warwick, University of Zagreb and Radboud University,
+  University of Duisburg-Essen), co-located with the NDSS Symposium (Internet Society)
+organizer_country: [europe]
+proceedings: NDSS (Internet Society)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://www.ndss-symposium.org/ndss2027/co-located-events/stala/
+notes:
+- New NDSS co-located workshop in 2027 (Seoul, Korea, Monday 22 Mar 2027)
+- Topics include jailbreaks and prompt injection, agent hijacking through tools and MCP, RAG and memory poisoning, red teaming,
+  fuzzing of LLM systems, guardrail evaluation and security assurance evidence
+- Double-blind review with two to three reviews per paper; full papers up to 8 pages, short, position and experience papers
+  up to 4 pages (excluding references and appendices), NDSS 2027 template
+- Accepted papers published by the Internet Society in the NDSS 2027 co-located workshop proceedings before the workshop
+- Negative results explicitly welcome; artifact release strongly encouraged
+- 2027 keynotes by Ahmad-Reza Sadeghi (TU Darmstadt) and Masashi Sugiyama (RIKEN AIP / University of Tokyo)
+- Region follows the host NDSS Symposium, usually held in San Diego, USA (the 2027 edition is in Seoul, Korea)
+- Not listed in ICORE2026
+editions:
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-22
+  location: Grand InterContinental Seoul Parnas, Seoul, Korea (with NDSS 2027)
+  url: https://stala-workshop.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-11
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+sources:
+- https://www.ndss-symposium.org/ndss2027/co-located-events/stala/
+- https://www.ndss-symposium.org/ndss2027/submissions/cfp-stala/
+- https://www.ndss-symposium.org/ndss2027/co-located-events/stala/leadership/
+- https://stala-workshop.github.io/
+- https://www.ndss-symposium.org/ndss2027/
+- https://portal.core.edu.au/conf-ranks/?search=STALA&by=all&source=ICORE2026
+unverified:
+- Whether STALA continues after 2027 (first edition; the official pages give no edition number)
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+- Acceptance rate and registration fee not published yet
+last_verified: 2026-11-20

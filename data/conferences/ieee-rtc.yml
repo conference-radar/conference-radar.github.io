@@ -1,0 +1,51 @@
+id: ieee-rtc
+name: IEEE RTC
+full_name: IEEE International Conference and Expo on Real Time Communications at IIT
+type: conference
+tier: minor
+areas: [communications, networking]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Chicago Section and the Illinois Tech RTC Lab
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://www.rtc-conference.com/
+notes:
+- Conference and expo on real-time and multimedia communications, network technologies, AI, security and quality of experience
+- Held every year at Illinois Institute of Technology, Chicago
+- Research track papers are peer reviewed and accepted and presented papers are submitted to IEEE Xplore
+- Regular papers 4 to 8 pages, work-in-progress papers up to 4 pages (IEEE two-column)
+- The IEEE CQR workshop is collocated and its papers go through the research track submission
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-23
+  location: Chicago, IL, USA
+  url: https://www.rtc-conference.com/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: UTC-5
+    label: Research track, 23:59 CDT (extended from 2026-07-17)
+  - kind: notification
+    date: 2026-08-24
+  - kind: camera_ready
+    date: 2026-09-07
+sources:
+- https://www.rtc-conference.com/
+- https://rtc-conference.com/research-track-cfp
+- https://api.crossref.org/types/proceedings/works?query.bibliographic=Real+Time+Communications+at+IIT
+- https://portal.core.edu.au/conf-ranks/?search=RTC&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+- Edition number not stated on the official site
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

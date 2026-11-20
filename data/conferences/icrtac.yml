@@ -1,0 +1,50 @@
+id: icrtac
+name: ICRTAC
+full_name: International Conference on Recent Trends in Advanced Computing
+type: conference
+tier: minor
+areas: [ai, security, networking, general]
+region: south-asia
+language: english
+organizer: School of Computer Science and Engineering (SCOPE), Vellore Institute of Technology, Chennai
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://icrtac.org/
+notes:
+- Organized by the School of Computer Science and Engineering (SCOPE), VIT Chennai, and held on the VIT Chennai campus; 9th edition in 2026
+- Accepted, registered and presented papers are submitted for inclusion in IEEE Xplore
+- Double-blind review through Microsoft CMT; papers of at most 6 pages; similarity index must be below 10%
+- An author may submit at most two papers
+- Tracks cover AI and ML, smart cities, green computing, blockchain, edge and 5G/6G computing, cybersecurity, Industry 4.0, AR/VR and quantum computing
+- Not listed in ICORE2026; a small regional venue
+editions:
+- year: 2026
+  label: 9th ICRTAC
+  start: 2026-12-10
+  end: 2026-12-11
+  location: VIT Chennai, Chennai, India
+  url: https://icrtac.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-15
+    label: Extended from 31 July 2026
+  - kind: notification
+    date: 2026-10-17
+  - kind: other
+    date: 2026-11-01
+    label: Registration
+  - kind: camera_ready
+    date: 2026-11-12
+sources:
+- https://icrtac.org/
+- https://portal.core.edu.au/conf-ranks/?search=ICRTAC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates, frequency and proceedings of earlier editions not stated on the official site
+- No deadline time or time zone stated

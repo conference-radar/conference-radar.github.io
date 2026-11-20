@@ -1,0 +1,60 @@
+id: acc6g
+name: ACC6G
+full_name: Asia Conference on Communications and 6G
+type: conference
+tier: minor
+areas: [communications, networking]
+region: china
+language: english
+frequency: annual
+organizer: Southern University of Science and Technology (SUSTech) in 2026, supported by APISE (Asia Pacific Institute of Science and Engineering) and HKAASR
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+fee: 500 USD regular author (2026; 450 USD APISE or IEEE member, 400 USD student); 550 USD onsite
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://www.acc6g.org/
+notes:
+- Small conference on 6G and wireless communications; 2026 edition organized by SUSTech with IEEE Communications Society and Auckland University of Technology as technical sponsors
+- 2026 proceedings are in IEEE Xplore (ISBN 979-8-3195-4226-7); authors can instead choose the open access journal Space-Integrated-Ground Information Networks
+- First edition 2025 was held online (one day); 2026 in person at SUSTech, Shenzhen
+- Double-blind review by 2 to 3 reviewers, results in 20 to 30 days; one registration covers 5 pages
+- Presentation-only and listener registration also offered
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  label: 1st ACC6G
+  start: 2025-05-23
+  end: 2025-05-23
+  location: Online
+  url: https://www.acc6g.org/history.html
+- year: 2026
+  label: 2nd ACC6G
+  start: 2026-05-15
+  end: 2026-05-17
+  location: SUSTech, Shenzhen, China
+  url: https://www.acc6g.org/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    tz: UTC+8
+  - kind: notification
+    date: 2026-02-15
+    tz: UTC+8
+  - kind: other
+    date: 2026-03-15
+    tz: UTC+8
+    label: Registration
+sources:
+- https://www.acc6g.org/
+- https://www.acc6g.org/history.html
+- https://www.acc6g.org/reg.html
+- https://ieeexplore.ieee.org/xpl/conhome/11605414/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ACC6G&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ACC6G 2027 not announced on the official site yet
+- Publication venue of the 2025 online edition not stated on the official site

@@ -1,0 +1,65 @@
+id: ai-sec-aina
+name: AI-SEC
+full_name: International Workshop on Artificial Intelligence for Cybersecurity
+type: workshop
+tier: minor
+areas: [security, ai, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Co-located with AINA; co-chaired by the University of Palermo, IMT School for Advanced Studies Lucca and
+  BITS Pilani Dubai
+organizer_country: [europe, other]
+proceedings: Springer LNDECT (with AINA)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://sites.google.com/community.unipa.it/ai-sec-2027/home
+notes:
+- Workshop on AI for network and distributed system security (intrusion detection, zero trust, IoT and edge security,
+  adversarial robustness); 3rd edition in 2027
+- Accepted AINA workshop papers are published in the AINA proceedings in Springer LNDECT
+- Papers up to 10 pages in Springer LNCS style, submitted through the AINA EDAS system
+- At least one author must register and present (in person or remotely), otherwise the paper is removed after the conference
+- Location follows AINA (Barcelona 2025, Wellington 2026, Tirana 2027); hybrid
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-10
+  end: 2026-04-10
+  location: Wellington, New Zealand (AINA-2026)
+  url: https://sites.google.com/community.unipa.it/ai-sec2026/home
+  deadlines:
+  - kind: submission
+    date: 2025-12-25
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-01-31
+- year: 2027
+  start: 2027-03-24
+  end: 2027-03-26
+  location: Tirana, Albania (AINA-2027, hybrid)
+  url: https://sites.google.com/community.unipa.it/ai-sec-2027/home
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+    label: Extended from Dec 10
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-01-25
+sources:
+- https://sites.google.com/community.unipa.it/ai-sec-2027/home
+- https://sites.google.com/community.unipa.it/ai-sec-2027/organizing-committee
+- https://sites.google.com/community.unipa.it/ai-sec-2027/past-editions
+- https://sites.google.com/community.unipa.it/ai-sec2026/home
+- https://voyager.ce.fit.ac.jp/conf/aina/2027/
+- https://portal.core.edu.au/conf-ranks/?search=AI-SEC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The workshop pages say only "official workshop proceedings"; Springer LNDECT is taken from the AINA-2027 call for papers
+- Exact workshop day within the AINA-2027 week not stated; the AINA week is shown as start and end
+- Deadline time zone not stated

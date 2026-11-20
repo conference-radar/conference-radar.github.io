@@ -1,0 +1,51 @@
+id: if-kakao
+name: if(kakao)
+full_name: if(kakao) Developer Conference
+type: industry
+tier: domestic
+areas: [ai, software, systems]
+region: korea
+language: korean
+frequency: annual
+organizer: Kakao Corp.
+organizer_country: [korea]
+proceedings: None (talks only; session replays online)
+archival: false
+typical:
+  conference_months: [9, 10]
+links:
+  website: https://if.kakao.com/
+notes:
+- Annual developer and technology conference of Kakao, with keynotes and sessions on Kakao AI, products and infrastructure
+- Held at the Kakao AI Campus, with shuttle buses from Gangnam and Pangyo stations
+- Free to attend online and in person; in 2026 in-person seats went to selected applicants (2025 also had invited guests), one day per applicant
+- Keynotes and sessions are livestreamed and replays are published after the event
+- 2026 themes were AI in every connection (Day 1) and technology becoming trust (Day 2)
+- Past editions listed on the official history page are 2018 to 2022, 2024 and 2025 (no 2023 edition listed)
+- The third day of 2025 (September 25) was a Kakao Crew Day for Kakao group employees only
+- No call for papers and no proceedings
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-09-23
+  end: 2025-09-25
+  location: Kakao AI Campus, Korea (with livestream)
+  url: https://if.kakao.com/2025
+- year: 2026
+  start: 2026-10-13
+  end: 2026-10-14
+  location: Kakao AI Campus, Korea (with livestream)
+  url: https://if.kakao.com/
+  deadlines:
+  - kind: other
+    date: 2026-09-28
+    label: In-person attendance registration closes (opened 2026-09-07)
+sources:
+- https://if.kakao.com/
+- https://if.kakao.com/2025
+- https://if.kakao.com/history
+- https://portal.core.edu.au/conf-ranks/?search=kakao&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Session language (the site is in Korean but does not state it)
+- 2027 edition not announced as of 2026-11-20

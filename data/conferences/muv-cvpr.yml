@@ -1,0 +1,49 @@
+id: muv-cvpr
+name: MUV
+full_name: Workshop on Machine Unlearning for Vision
+type: workshop
+tier: minor
+areas: [vision, ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Sapienza University of Rome, Meta, TU Munich, ItalAI, MPI for Informatics); co-located with CVPR
+organizer_country: [europe]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings, proceedings track)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://machine-unlearning-for-vision.github.io
+notes:
+- CVPR workshop on machine unlearning for vision models
+- Proceedings track (full papers up to 8 pages) is archival and appears in the CVPR proceedings
+- No proceedings track for extended abstracts (up to 4 pages) or already published work
+- Double-blind review, CVPR 2026 author kit
+- Different from the STMUS and WIPE-OUT unlearning workshops
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://machine-unlearning-for-vision.github.io
+  deadlines:
+  - kind: abstract
+    date: 2026-03-12
+  - kind: submission
+    date: 2026-03-15
+  - kind: notification
+    date: 2026-03-30
+  - kind: camera_ready
+    date: 2026-04-09
+sources:
+- https://machine-unlearning-for-vision.github.io
+- https://openaccess.thecvf.com/CVPR2026_workshops/MUV
+- https://portal.core.edu.au/conf-ranks/?search=MUV&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Deadline times and time zone not stated
+- Edition number not stated
+- Next edition (expected with CVPR 2027) not announced yet

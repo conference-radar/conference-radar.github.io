@@ -1,0 +1,78 @@
+id: iciptm
+name: ICIPTM
+full_name: International Conference on Innovative Practices in Technology and Management
+type: conference
+tier: minor
+areas: [general, ai, networking, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: Amity University, Noida, technically co-sponsored by IEEE
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 'INR 6,000 to 9,000 for Indian authors, 300 to 500 USD for authors outside India (2027)'
+typical:
+  deadline_months: [1]
+  conference_months: [2]
+links:
+  website: https://conferences.amity.edu/ICIPTM2027/
+notes:
+- Organized by Amity University at its Sector 125 campus in Noida (Delhi NCR), India
+- Accepted, registered and presented papers are submitted to IEEE Xplore
+- Despite the name, the call is dominated by computing, networking, security, control and electronics topics
+- Papers that only discuss qualitative, managerial, policy or economic aspects are declared out of scope
+- Papers up to 6 pages in IEEE format, up to 2 extra pages at 25 USD each, via Microsoft CMT
+- Short submission to conference cycle of about six weeks, with deadlines in January
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 5th ICIPTM
+  start: 2026-02-19
+  end: 2026-02-20
+  location: Amity University, Noida, India
+  url: https://conferences.amity.edu/ICIPTM2026/
+  deadlines:
+  - kind: submission
+    date: 2026-01-25
+    label: Full paper (extended from 2026-01-10)
+  - kind: notification
+    date: 2026-02-05
+  - kind: camera_ready
+    date: 2026-02-10
+  - kind: other
+    date: 2026-02-14
+    label: Registration
+- year: 2027
+  label: 6th ICIPTM
+  start: 2027-02-22
+  end: 2027-02-23
+  location: Amity University, Noida, India
+  url: https://conferences.amity.edu/ICIPTM2027/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2027-01-11
+    label: Full paper
+  - kind: notification
+    date: 2027-01-25
+  - kind: camera_ready
+    date: 2027-02-05
+  - kind: other
+    date: 2027-02-10
+    label: Registration
+sources:
+- https://conferences.amity.edu/ICIPTM2027/
+- https://conferences.amity.edu/ICIPTM2027/registration.aspx
+- https://conferences.amity.edu/ICIPTM2027/callforpaper.aspx
+- https://conferences.amity.edu/ICIPTM2027/papersub.aspx
+- https://conferences.amity.edu/ICIPTM2026/
+- https://conferences.amity.edu/ICIPTM2026/registration.aspx
+- https://conferences.amity.edu/ICIPTM2026/papersub.aspx
+- https://portal.core.edu.au/conf-ranks/?search=ICIPTM&by=all&source=ICORE2026
+unverified:
+- ICIPTM 2027 dates are inconsistent on the site (22 to 23 February 2027 on the home and registration pages, 19 to 21 and 9 to 11 February 2027 in other text)
+- Edition numbering on the site is inconsistent (ICIPTM 2026 is the 5th, the 2027 site says both 5th and 6th)
+- Name of the IEEE technical co-sponsor is shown only as a logo
+- CCF 2026 list not checked
+last_verified: 2026-11-20

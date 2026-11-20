@@ -1,0 +1,59 @@
+id: cv4aec
+name: CV4AEC
+full_name: Workshop on Computer Vision for the Built World
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (Stanford University, Oregon State University and ETH Zurich); co-located with CVPR
+organizer_country: [usa]
+proceedings: CVF Open Access and IEEE Xplore (CVPR Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://cv4aec.github.io/
+notes:
+- CVPR workshop on computer vision for architecture, engineering and construction (AEC) and the built environment
+- Held at every CVPR since 2021; the 5th edition was a half-day workshop at CVPR 2026 in Denver
+- Archival track (8 pages) goes into the CVPR Workshops proceedings and needs a CVPR author registration; non-archival track (4 pages) has a later deadline
+- Hosts the Nothing Stands Still challenge on 3D point cloud registration of evolving construction sites
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 5th edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://cv4aec.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    label: Archival track
+  - kind: notification
+    date: 2026-03-24
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-04-10
+    label: Archival track
+  - kind: submission
+    date: 2026-04-15
+    label: Non-archival track
+  - kind: other
+    date: 2026-04-30
+    label: Nothing Stands Still challenge submission
+  - kind: notification
+    date: 2026-05-11
+    label: Non-archival track
+sources:
+- https://cv4aec.github.io/
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://openaccess.thecvf.com/CVPR2026_workshops/CV4AEC
+- https://portal.core.edu.au/conf-ranks/?search=CV4AEC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- "Deadline time: the page says 11:59:59 UTC without am or pm, so no time is recorded"
+- 6th edition (CVPR 2027) not announced as of 2026-11-20

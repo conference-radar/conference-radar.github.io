@@ -1,0 +1,45 @@
+id: cloudresiot
+name: CloudResIoT
+full_name: International Workshop on Cloud Resilience for the Internet of Things
+type: workshop
+tier: minor
+areas: [networking, security, systems]
+region: worldwide
+language: english
+organizer: Workshop co-chairs Patrick-Benjamin Bok and Matteo Grosse-Kampmann, co-located with ICCCN
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://www.cloudresiot.com/
+notes:
+- Workshop co-located with ICCCN (International Conference on Computer Communications and Networks), technically co-sponsored by IEEE and IEEE ComSoc
+- Topics are resilient and secure cloud and network infrastructure for IoT and industrial IoT
+- Papers up to 6 pages in IEEE double-column format, submitted through the ICCCN EasyChair
+- Accepted papers presented onsite go into the ICCCN proceedings and IEEE Xplore; papers not presented onsite appear in the proceedings only
+- First edition in 2025 (Tokyo); not in the ICCCN 2026 workshop list
+editions:
+- year: 2025
+  start: 2025-08-07
+  end: 2025-08-07
+  location: Tokyo, Japan (ICCCN 2025)
+  url: https://www.cloudresiot.com/
+  deadlines:
+  - kind: submission
+    date: 2025-03-01
+  - kind: notification
+    date: 2025-05-10
+  - kind: camera_ready
+    date: 2025-06-02
+sources:
+- https://www.cloudresiot.com/
+- http://www.icccn.org/ICCCN25/workshop/list-of-workshops/index.html
+- http://www.icccn.org/ICCCN26/workshop/list-of-workshops/index.html
+- https://portal.core.edu.au/conf-ranks/?search=CloudResIoT&by=all&source=ICORE2026
+unverified:
+- No 2026 edition found (not in the ICCCN 2026 workshop list); future editions not announced as of 2026-11-20
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-20

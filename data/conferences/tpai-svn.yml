@@ -1,0 +1,52 @@
+id: tpai-svn
+name: TPAI-SVN
+full_name: Workshop on Trustworthy and Privacy-Preserving Artificial Intelligence for Secure Vehicular Networks
+type: workshop
+tier: minor
+areas: [security, ai, networking, communications]
+region: worldwide
+language: english
+organizer: Workshop organizers from the University of the West of England, Edinburgh Napier University and Prince Mohammad Bin Fahd University, with IEEE VTC (IEEE VTS)
+organizer_country: [europe, other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w11-trustworthy-and-privacy-preserving-artificial-intelligence-ai-for-secure-vehicular-networks/
+notes:
+- Held as workshop W11 at IEEE VTC2026-Fall in Boston
+- Topics are AI-driven security for vehicular networks (privacy-preserving ML, blockchain trust management, adversarial ML, model poisoning and backdoor attacks)
+- Organizers from the University of the West of England and Edinburgh Napier University (UK) and Prince Mohammad Bin Fahd University (Saudi Arabia)
+- Papers 5 pages, up to 2 extra pages at 100 USD each; submitted through the VTC2026-Fall workshop TrackChair site
+- VTC papers go to IEEE Xplore; IEEE may exclude papers not presented at the conference
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Boston, MA, USA (with IEEE VTC2026-Fall)
+  url: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w11-trustworthy-and-privacy-preserving-artificial-intelligence-ai-for-secure-vehicular-networks/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Extended
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Extended
+sources:
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w11-trustworthy-and-privacy-preserving-artificial-intelligence-ai-for-secure-vehicular-networks/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://events.vtsociety.org/vtc2026-fall/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Privacy-Preserving&by=all&source=ICORE2026
+unverified:
+- Short name TPAI-SVN is an abbreviation of the title; the workshop page uses no acronym
+- Exact workshop day within VTC2026-Fall (6 to 9 September) not stated
+- The workshop page lists notification 16 June and final paper 30 June 2026; the VTC2026-Fall home page and workshop list give 3 July and 15 July 2026 (used here)
+- The workshop page does not name IEEE Xplore explicitly; taken from the VTC2026-Fall IEEE eXpress author instructions for VTC papers
+- Edition number not stated; not in the VTC2027-Spring workshop list, so a next edition is unknown
+last_verified: 2026-11-20

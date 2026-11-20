@@ -1,0 +1,47 @@
+id: 4dvision
+name: 4DVision
+full_name: "Workshop on 4D Vision: Modeling the Dynamic World"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from UC Berkeley, Stanford University, University of Cambridge, CMU, University of Toronto, World Labs, Harvard University and University of Oxford; co-located with CVPR
+organizer_country: [usa, europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://4dvisionworkshop.github.io/
+notes:
+- CVPR workshop on modeling dynamic 3D scenes over time (4D reconstruction, generation and understanding)
+- 2nd edition at CVPR 2026 in Denver
+- Non-archival, accepted papers are not published in proceedings and previously published work is welcome
+- Short papers (about 4 pages) and full papers (up to 8 pages excluding references) in CVPR format, double-blind review on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://4dvisionworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-02
+    time: "23:59"
+    tz: PDT
+    label: Extended from 2026-03-21
+  - kind: notification
+    date: 2026-04-23
+sources:
+- https://4dvisionworkshop.github.io/
+- https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/4DV
+- https://portal.core.edu.au/conf-ranks/?search=4DVision&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and venue of the 1st edition are not given on the official site
+- Deadline stated as PT; PDT assumed for April
+- Next edition (2027) not announced yet

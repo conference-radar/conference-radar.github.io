@@ -1,0 +1,66 @@
+id: ic-icsp
+name: ICSP
+full_name: International Conference on Intelligent Computing and Signal Processing
+type: conference
+tier: minor
+areas: [ai, communications, vision]
+region: china
+language: english
+frequency: annual
+organizer: Host universities in China (Xi'an Shiyou University and Xi'an University of Science and Technology for
+  2021 to 2025; Anhui University for 2026; Southwest University for 2027); website run on the AiScholar (ais.cn)
+  conference platform
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4, 5]
+links:
+  website: http://ic-icsp.org/
+notes:
+- Annual conference on intelligent computing and signal processing held since 2017; the 2027 edition is the 12th
+- Held in China, mostly Xi'an (every year 2021 to 2025), Hefei 2026 and Chongqing 2027; earlier editions in Bangkok
+  2017, Wuhan 2018, Zhuhai 2018 and online 2020
+- Proceedings published by IEEE since 2021 (IOP JPCS in 2019 and 2020, MATEC in 2018); organizers say papers are
+  submitted to IEEE Xplore, EI Compendex and Scopus
+- Each paper is reviewed by two or three reviewers from the committees
+- Do not confuse with the IEEE International Conference on Signal Processing (also ICSP, Beijing, file icsp-cn)
+- Not listed in ICORE2026 or CCF (the CORE "ICSP" entry is the Software and System Processes conference)
+editions:
+- year: 2026
+  label: 11th ICSP
+  start: 2026-04-17
+  end: 2026-04-19
+  location: Hefei, China (Anhui University)
+  url: http://ic-icsp.org/linkbomw
+- year: 2027
+  label: 12th ICSP
+  start: 2027-03-26
+  end: 2027-03-28
+  location: Chongqing, China
+  url: http://ic-icsp.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+    label: Full paper submission
+  - kind: notification
+    date: 2027-02-09
+  - kind: camera_ready
+    date: 2027-02-24
+  - kind: other
+    date: 2027-03-11
+    label: Registration deadline
+sources:
+- http://ic-icsp.org/
+- http://ic-icsp.org/publication
+- http://ic-icsp.org/rlftquaz
+- http://ic-icsp.org/linkbomw
+- http://ic-icsp.org/icsp2025
+- https://api.crossref.org/works/10.1109/icsp69961.2026
+- https://portal.core.edu.au/conf-ranks/?search=ICSP&by=all&source=ICORE2026
+unverified:
+- 2026 deadlines (no longer on the official site)
+- Acceptance rate and fees
+last_verified: 2026-11-20

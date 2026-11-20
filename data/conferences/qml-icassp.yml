@@ -1,0 +1,64 @@
+id: qml-icassp
+name: QML@ICASSP
+full_name: Workshop on Quantum Machine Learning in Signal Processing and Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from Korea University, Sookmyung Women's University, Hong Kong Baptist University, Foxconn Quantum Computing Center, Brookhaven National Laboratory, NYU Abu Dhabi, University of Lorraine and Wells Fargo, as an IEEE ICASSP satellite workshop
+organizer_country: [korea, usa, other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [10, 11]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/qmlicassp2027/home
+notes:
+- Satellite workshop of IEEE ICASSP on quantum machine learning for signal processing and AI (variational quantum algorithms, quantum RL, federated QML, QML for speech, biomedical signals and communications)
+- Third consecutive ICASSP edition (Hyderabad 2025, Barcelona 2026, Toronto 2027)
+- Papers follow the ICASSP style, format and length and are submitted through the ICASSP CMS workshop system
+- ICASSP satellite workshop papers are published in IEEE Xplore under a separate workshop record
+- At least one author of each accepted paper must present in person
+- Full-day workshop in 2027; all ICASSP 2027 satellite workshops are on 17 May 2027
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-04
+  end: 2026-05-04
+  location: Barcelona, Spain (with ICASSP 2026)
+  url: https://sites.google.com/view/qmlicassp2026/home
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+  - kind: notification
+    date: 2025-12-10
+  - kind: camera_ready
+    date: 2026-01-07
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://sites.google.com/view/qmlicassp2027/home
+  deadlines:
+  - kind: submission
+    date: 2026-11-21
+    label: Extended (originally 2026-11-11)
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+sources:
+- https://sites.google.com/view/qmlicassp2027/home
+- https://sites.google.com/view/qmlicassp2026/home
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=QML&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2027 page gives two submission deadlines (21 Nov 2026 marked extended in the call, 11 Nov 2026 in the important dates list); the extended date is recorded
+- Proceedings for the 2026 edition are not stated on the 2026 page
+- Date and location of the 2025 Hyderabad edition not checked on an official page

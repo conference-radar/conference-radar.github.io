@@ -1,0 +1,60 @@
+id: aice
+name: AICE
+full_name: International Conference on Artificial Intelligence and Computational Engineering
+type: conference
+tier: minor
+areas: [ai, general]
+region: china
+language: english
+frequency: annual
+organizer: AEIC Academic Exchange Center (commercial conference organizer), with a host university each year
+organizer_country: [china]
+proceedings: IEEE (conference proceedings submitted to IEEE Xplore)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [6]
+  conference_months: [8, 9]
+links:
+  website: https://icaice.org/
+notes:
+- Small commercially run conference; the 2025 edition was hosted by Dalian University of Technology and run by the AEIC Academic Exchange Center
+- 2025 edition held online via Zoom on 30 August 2025 with about 30 attendees; 2026 edition planned in Xi'an
+- AICE 2026 proceedings published by IEEE (ISBN 979-8-3195-0808-9) and submitted to IEEE Xplore, EI Compendex and Scopus
+- Each paper reviewed by two or three reviewers; proceedings papers at least 4 pages
+- Broad scope covering AI algorithms, NLP, vision, blockchain and computational engineering applications
+- Not ranked in ICORE2026 (the AICE listed there is the Australian Institute of Computer Ethics Conference)
+editions:
+- year: 2025
+  label: AICE 2025
+  start: 2025-08-30
+  end: 2025-08-30
+  location: Online
+  url: https://icaice.org/History
+- year: 2026
+  label: 2nd AICE
+  start: 2026-09-04
+  end: 2026-09-06
+  location: Xi'an, China
+  url: https://icaice.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-20
+  - kind: notification
+    date: 2026-07-20
+  - kind: camera_ready
+    date: 2026-08-04
+sources:
+- https://icaice.org/
+- https://icaice.org/Publication
+- https://icaice.org/History
+- https://icaice.org/committee
+- https://icaice.org/program
+- https://portal.core.edu.au/conf-ranks/?search=AICE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The official site does not confirm that AICE 2026 took place as planned in Xi'an
+- AICE 2027 not yet announced as of 2026-11-20
+- Proceedings publisher of AICE 2025 not named on the official site (only EI Compendex and Scopus indexing)
+- Not checked directly against the CCF 2026 list
+- No deadline time or time zone stated

@@ -1,0 +1,51 @@
+id: aimeh
+name: AIMEH
+full_name: 'International Workshop on AI for Mobile and Wireless Health: Advancing Explainability in the Future of
+  Healthcare'
+type: workshop
+tier: minor
+areas: [ai, communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Naples Federico II (co-located workshop of IEEE WiMob)
+organizer_country: [europe]
+proceedings: IEEE Xplore (WiMob proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://sites.google.com/view/aimeh2026/home-page
+notes:
+- Workshop of IEEE WiMob on explainable AI for mobile and wireless health; first held with WiMob 2025 in Marrakech,
+  second with WiMob 2026 in Avignon
+- Chairs from the University of Naples (Universita degli Studi di Napoli) in 2026
+- Papers follow the WiMob guidelines and size limit, submission via EDAS; published in the WiMob proceedings and
+  sent for inclusion in IEEE Xplore
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-14
+  location: Avignon, France
+  url: https://sites.google.com/view/aimeh2026/home-page
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Papers (extended from Jul 15)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://sites.google.com/view/aimeh2026/home-page
+- https://sites.google.com/view/aimeh2026/call-for-papers/call-for-papers
+- http://www.wimob.org/wimob2026/workshops.php
+- http://www.wimob.org/wimob2026/programme.php
+- http://www.wimob.org/wimob2025/workshops.php
+- https://portal.core.edu.au/conf-ranks/?search=AIMEH&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated
+- AIMEH 2027 not announced yet
+last_verified: 2026-11-20

@@ -1,0 +1,58 @@
+id: iciip
+name: ICIIP
+full_name: International Conference on Image Information Processing
+type: conference
+tier: minor
+areas: [vision, ai]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Jaypee University of Information Technology (JUIT), technically co-sponsored by IEEE Delhi Section and IEEE Computer Society
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+acceptance_rate: 15.9% (2025, 131/821)
+fee: 'INR 7,000 to 13,000 for Indian authors, 110 to 210 USD for international authors depending on category (2025)'
+typical:
+  deadline_months: [10]
+  conference_months: [11]
+links:
+  website: https://www.juit.ac.in/iciip_2025
+notes:
+- Biennial conference held every odd year since 2011 at JUIT, Waknaghat near Shimla, Himachal Pradesh, India
+- Proceedings in IEEE Xplore (2025 catalogue number CFP2569N-ART)
+- 2025 edition in hybrid mode with ten tracks (medical imaging, smart cities, multimedia, quality assessment and security, computer vision, autonomous vehicles, visual surveillance, deep learning and generative AI, HCI, biometrics and forensics)
+- Papers up to 6 pages (full) or 4 pages (short or poster) in IEEE format, at least three reviewers per paper, via Microsoft CMT
+- Authors may submit at most 2 papers
+- "Acceptance rate: 15.9% (2025, 131 of 821)"
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 8th ICIIP
+  start: 2025-11-27
+  end: 2025-11-29
+  location: JUIT, Waknaghat, Solan, India (hybrid)
+  url: https://www.juit.ac.in/iciip_2025
+  deadlines:
+  - kind: submission
+    date: 2025-10-10
+    label: Full paper (firm deadline)
+  - kind: notification
+    date: 2025-10-24
+  - kind: camera_ready
+    date: 2025-10-31
+  - kind: other
+    date: 2025-11-06
+    label: Registration
+sources:
+- https://www.juit.ac.in/iciip_2025
+- https://www.juit.ac.in/iciip_2025/imp_dates.php
+- https://www.juit.ac.in/iciip_2025/cfp.php
+- https://www.juit.ac.in/iciip_2025/reg.php
+- https://www.juit.ac.in/iciip_2025/manuscript_prep_guidelines.php
+- https://portal.core.edu.au/conf-ranks/?search=ICIIP&by=all&source=ICORE2026
+unverified:
+- ICIIP 2027 not yet announced
+- CCF 2026 list not checked
+last_verified: 2026-11-20

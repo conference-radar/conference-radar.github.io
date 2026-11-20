@@ -1,0 +1,45 @@
+id: ly-tech-verse
+name: Tech-Verse
+full_name: LY Corporation Tech-Verse
+type: industry
+tier: minor
+areas: [ai, software, systems]
+region: japan
+language: mixed
+frequency: annual
+organizer: LY Corporation
+organizer_country: [japan]
+proceedings: None (talks only)
+archival: false
+typical:
+  conference_months: [6, 7]
+links:
+  website: https://tech-verse.lycorp.co.jp/2026/en/
+notes:
+- Engineering conference of LY Corporation (the merged LINE and Yahoo Japan group)
+- Official site is published in Japanese, English and Korean
+- 2026 was a one-day online event with AI and Core Technology tracks (17 featured sessions listed)
+- 2025 ran two days with sessions in 12 domain tracks plus a product booth area; streaming was open to all and in-person attendance needed an invitation from an LY Corporation employee
+- No call for papers and no proceedings
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-01
+  location: Japan (online streaming; in-person by invitation)
+  url: https://tech-verse.lycorp.co.jp/2025/en/
+- year: 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Online
+  url: https://tech-verse.lycorp.co.jp/2026/en/
+sources:
+- https://tech-verse.lycorp.co.jp/2026/en/
+- https://tech-verse.lycorp.co.jp/2025/en/
+- https://portal.core.edu.au/conf-ranks/?search=Tech-Verse&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Session languages and interpretation (the site does not state them)
+- Venue of the 2025 in-person part
+- Editions before 2025 and the relation to LINE DEVELOPER DAY are not stated on the official site
+- 2027 edition not announced as of 2026-11-20

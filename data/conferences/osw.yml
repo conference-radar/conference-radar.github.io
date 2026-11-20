@@ -1,0 +1,52 @@
+id: osw
+name: OSW
+full_name: OAuth Security Workshop
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Daniel Fett, Guido Schmitz and Steinar Noem, with a different European host each year
+organizer_country: [europe]
+proceedings: None
+archival: false
+fee: About 450 EUR (2026, full access)
+typical:
+  deadline_months: [2, 4]
+  conference_months: [2, 4, 5]
+links:
+  website: https://oauth.secworkshop.events/
+notes:
+- Annual workshop on the security of OAuth, OpenID Connect and related identity protocols (JOSE, web technology) since 2015
+- Audience of researchers, architects, developers and standardization working group members
+- Pre-submitted sessions (25 minute talks or discussions, tutorials up to three hours) reviewed by a program committee, plus an unconference part
+- Already published or preliminary work is welcome; slides are shared online without formal proceedings
+- No organization or company behind it; each edition is hosted by a different European partner (2024 FBK with TDI in Rome, 2025 Signicat in Reykjavik, 2026 Lancaster University Leipzig)
+- Two submission rounds, notification about 1 to 2 weeks after each; in person only in 2026
+editions:
+- year: 2026
+  start: 2026-05-27
+  end: 2026-05-29
+  location: Leipzig, Germany (Design Offices, hosted by Lancaster University Leipzig)
+  url: https://oauth.secworkshop.events/osw2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+    time: "23:59"
+    tz: UTC
+    label: First round
+  - kind: submission
+    date: 2026-04-19
+    time: "23:59"
+    tz: UTC
+    label: Second round
+sources:
+- https://oauth.secworkshop.events/
+- https://oauth.secworkshop.events/osw2026
+- https://talks.secworkshop.events/osw2026/cfp
+- https://portal.core.edu.au/conf-ranks/?search=OSW&by=all&source=ICORE2026
+unverified:
+- OSW 2027 not announced yet as of 2026-11-20
+- The CFP system shows the second deadline as 2026-04-19 23:59 Europe/Berlin while the workshop page says 23:59:59 UTC
+last_verified: 2026-11-20

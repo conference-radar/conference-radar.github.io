@@ -1,0 +1,55 @@
+id: icdsns
+name: ICDSNS
+full_name: International Conference on Data Science and Network Security
+type: conference
+tier: minor
+areas: [security, data, networking]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Kalpataru Institute of Technology, Tiptur, Karnataka
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 9,000 INR Indian non-IEEE member, 200 USD foreign non-IEEE member (2027)
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://icdsns.co.in
+notes:
+- Organized by Kalpataru Institute of Technology (affiliated to VTU), Tiptur, Karnataka, India
+- Editions in 2023, 2024 and 2025, all with proceedings in IEEE Xplore; the 4th edition is in July 2027
+- Two tracks, data science and network security
+- Papers of 4 to 8 pages, submitted through Microsoft CMT; plagiarism checked with iThenticate
+- "Registration 2027: 6,500 to 9,000 INR for Indian authors, 150 to 200 USD for foreign authors"
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2027
+  label: 4th ICDSNS
+  start: 2027-07-25
+  end: 2027-07-26
+  location: Kalpataru Institute of Technology, Tiptur, Karnataka, India
+  url: https://icdsns.co.in
+  deadlines:
+  - kind: submission
+    date: 2027-05-10
+  - kind: notification
+    date: 2027-07-15
+  - kind: other
+    date: 2027-07-20
+    label: Author registration
+sources:
+- https://icdsns.co.in
+- https://icdsns.co.in/dates.php
+- https://icdsns.co.in/callforpapers.php
+- https://icdsns.co.in/registration.php
+- https://icdsns.co.in/about.php
+- https://ieeexplore.ieee.org/xpl/conhome/11168468/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10690274/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10244768/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICDSNS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the 2025 edition not found on the official site (its schedule PDF link is broken); the archived site could not be reached
+- 2027 publisher not yet stated on the CFP page; earlier editions are in IEEE Xplore

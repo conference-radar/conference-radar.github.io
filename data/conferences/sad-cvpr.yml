@@ -1,0 +1,52 @@
+id: sad-cvpr
+name: SAD
+full_name: Workshop on Simulation for Autonomous Driving
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team from NVIDIA, Waymo, Zoox, Waabi, Zhejiang University, University of Toronto, University of Oxford and UT Austin
+organizer_country: [usa, canada, europe, china]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://agents4ad.github.io/
+notes:
+- Workshop on sensor simulation, traffic agent behavior modeling, closed-loop training and evaluation of autonomous vehicles
+- Series started as the Workshop on Traffic Agent Modeling for Autonomous Driving Simulation at IROS 2023, then ran as the Workshop on Data-Driven Autonomous Driving Simulation (DDADS) at CVPR 2024 and CVPR 2025, renamed SAD for CVPR 2026
+- 2026 had a single non-archival track for original work or papers published elsewhere, 4 to 8 pages in CVPR format
+- Single-blind review on OpenReview (submissions are not anonymized)
+- The CVPR 2025 edition offered archival and non-archival tracks; 2 papers appeared in the CVPR 2025 workshop proceedings on CVF Open Access under DDADS
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: Third workshop (first as SAD), with CVPR 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, USA
+  url: https://agents4ad.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-19
+    tz: UTC
+    label: Extended from March 12
+  - kind: notification
+    date: 2026-03-29
+  - kind: camera_ready
+    date: 2026-04-11
+sources:
+- https://agents4ad.github.io/
+- https://agents4ad.github.io/2025/
+- https://agents4ad.github.io/2024/
+- https://agents4ad.github.io/2023/
+- https://openaccess.thecvf.com/CVPR2025_workshops/DDADS
+- https://portal.core.edu.au/conf-ranks/?search=SAD&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Next edition (expected with CVPR 2027) not announced yet
+- Submission deadline time of day is not stated (only UTC-0)

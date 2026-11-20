@@ -1,0 +1,70 @@
+id: spin-amity
+name: SPIN
+full_name: International Conference on Signal Processing and Integrated Networks
+type: conference
+tier: minor
+areas: [communications, ai, vision, networking]
+region: south-asia
+language: english
+frequency: annual
+organizer: Department of Electronics and Communication Engineering, ASET, Amity University, Noida
+organizer_country: [india]
+proceedings: Springer LNEE
+archival: true
+indexing: [Scopus]
+fee: 'INR 6,000 to 7,000 for Indian delegates, 300 to 400 USD for non-Indian delegates, GST extra (2027)'
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://conferences.amity.edu/SPIN2027/
+notes:
+- Not the SPIN model checking symposium; this is the Amity University signal processing and networks conference in Noida (Delhi NCR), India
+- Held every year from 2014 to 2025; no 2026 edition, 13th edition in February 2027
+- Proceedings in IEEE Xplore for 2014 to 2021, 2023 and 2024; Springer Lecture Notes in Electrical Engineering (LNEE) for 2022, 2025 and 2027
+- Tracks on signal, image and video processing, AI and deep learning, communication systems and IoT, embedded systems and robotics, VLSI, and Earth system signal processing
+- Papers 8 to 15 pages in Springer format, blind review via Microsoft CMT; papers under 4 pages are not published
+- Hybrid format with in-person and virtual participation
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  label: 12th SPIN
+  start: 2025-02-20
+  end: 2025-02-21
+  location: Amity University, Noida, India (hybrid)
+  url: https://conferences.amity.edu/SPIN2025/
+  deadlines:
+  - kind: submission
+    date: 2024-12-31
+    label: Hard deadline
+  - kind: camera_ready
+    date: 2025-02-10
+    label: Camera ready and registration
+- year: 2027
+  label: 13th SPIN
+  start: 2027-02-25
+  end: 2027-02-26
+  location: Amity University, Noida, India (hybrid)
+  url: https://conferences.amity.edu/SPIN2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+  - kind: notification
+    date: 2026-12-15
+  - kind: camera_ready
+    date: 2027-01-15
+    label: Camera ready and registration
+sources:
+- https://conferences.amity.edu/SPIN2027/
+- https://conferences.amity.edu/SPIN2027/ImportantDates.aspx
+- https://conferences.amity.edu/SPIN2027/call-for-paper.aspx
+- https://conferences.amity.edu/SPIN2027/registration.aspx
+- https://conferences.amity.edu/SPIN2027/Paper-Submission-Guidelines.aspx
+- https://conferences.amity.edu/SPIN2025/
+- https://conferences.amity.edu/SPIN2025/ImpDates.aspx
+- https://portal.core.edu.au/conf-ranks/?search=SPIN&by=all&source=ICORE2026
+unverified:
+- SPIN 2025 notification date given only as 25 to 31 January 2025 for pending papers
+- CCF 2026 list not checked
+last_verified: 2026-11-20

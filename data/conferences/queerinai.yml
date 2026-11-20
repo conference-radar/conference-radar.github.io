@@ -1,0 +1,74 @@
+id: queerinai
+name: QueerInAI
+full_name: Queer in AI Workshop
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Queer in AI (part of oSTEM, a US 501(c)(3) non-profit)
+organizer_country: [usa]
+proceedings: ACL Anthology (NAACL 2025 archival track)
+archival: true
+links:
+  website: https://www.queerinai.com/
+notes:
+- Affinity group workshops and socials co-located with several AI and NLP conferences each year (NAACL, ICML, COLM, NeurIPS, EurIPS in 2025)
+- The NAACL 2025 workshop had an archival track (short 4-page or long 8-page ACL format papers, peer reviewed) published as Proceedings of the Queer in AI Workshop in the ACL Anthology
+- Non-archival track accepts art, poetry, videos and other creative work in any language
+- NeurIPS editions present accepted submissions as talks and posters; the pages do not mention proceedings
+- NeurIPS 2026 events (joint with Dis-Ability in AI) are tentative and split over Sydney, Paris and Atlanta plus a virtual session
+- Deadlines AoE
+- Not ranked in ICORE2026 and not on the CCF list
+editions:
+- year: 2025
+  label: Queer in AI Workshop at NAACL 2025
+  start: 2025-05-04
+  end: 2025-05-04
+  location: Albuquerque, USA (with NAACL 2025, hybrid)
+  url: https://www.queerinai.com/naacl-2025
+  deadlines:
+  - kind: submission
+    date: 2025-02-20
+    tz: AoE
+    label: Archival, non-archival, ARR and Findings submissions
+  - kind: notification
+    date: 2025-03-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-03-10
+    tz: AoE
+- year: 2025
+  label: Queer in AI Workshop at NeurIPS 2025
+  start: 2025-12-04
+  end: 2025-12-04
+  location: San Diego, USA (with NeurIPS 2025)
+  url: https://www.queerinai.com/neurips-2025
+- year: 2026
+  label: Queer in AI x Dis-Ability in AI at NeurIPS 2026
+  location: Sydney, Paris and Atlanta (with NeurIPS 2026)
+  url: https://www.queerinai.com/neurips-2026
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-09-10
+    tz: AoE
+  - kind: notification
+    date: 2026-09-20
+    tz: AoE
+sources:
+- https://www.queerinai.com/
+- https://www.queerinai.com/past-events
+- https://www.queerinai.com/naacl-2025
+- https://www.queerinai.com/neurips-2025
+- https://www.queerinai.com/neurips-2026
+- https://aclanthology.org/venues/queerinai/
+- https://aclanthology.org/volumes/2025.queerinai-main/
+- https://portal.core.edu.au/conf-ranks/?search=Queer&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Exact NeurIPS 2026 workshop dates are not given; the page lists only the NeurIPS site dates (Sydney Dec 6 to 12, Paris and Atlanta Dec 9 to 13)
+- Whether workshops other than NAACL 2025 publish archival proceedings is not stated
+- The NAACL 2025 page shows both January 30 and February 20 for archival submissions; February 20 appears to be the extension
+- Typical months not given because the host conferences vary

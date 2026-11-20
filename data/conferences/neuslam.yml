@@ -1,0 +1,68 @@
+id: neuslam
+name: NeuSLAM
+full_name: Workshop on Neural SLAM
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Amsterdam, University of Bologna, Zhejiang University and Rock Universe; co-located with ECCV or ICCV
+organizer_country: [europe, china]
+proceedings: ECCV Workshops proceedings (Springer) or ICCV Workshops proceedings (CVF Open Access), proceedings track only
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [9, 10]
+links:
+  website: https://sites.google.com/view/neuslam/home
+notes:
+- Workshop on dense neural SLAM (NeRF and Gaussian splatting based SLAM, neural pose estimation, online reconstruction)
+- 1st edition (Dense Neural SLAM Workshop) at ECCV 2024 in Milan, 2nd at ICCV 2025 in Honolulu, 3rd at ECCV 2026 in Malmo
+- Proceedings track takes 14-page full papers in ECCV format with double-blind review on OpenReview for the ECCV workshop proceedings
+- Nectar track for already published work is presented as posters only and not published
+- Half-day program with four keynotes, a poster session and a panel
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd NeuSLAM, with ICCV 2025
+  start: 2025-10-19
+  end: 2025-10-19
+  location: Honolulu, Hawaii, USA
+  url: https://sites.google.com/view/neuslam/previous-editions/2nd-neuslam
+- year: 2026
+  label: 3rd NeuSLAM, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden
+  url: https://sites.google.com/view/neuslam/home
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    time: "23:59"
+    tz: AoE
+    label: Proceedings track (extended from 2026-08-01)
+  - kind: other
+    date: 2026-08-07
+    time: "23:59"
+    tz: AoE
+    label: Nectar track (non-archival)
+  - kind: notification
+    date: 2026-08-07
+    label: Proceedings track
+  - kind: camera_ready
+    date: 2026-08-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/neuslam/home
+- https://sites.google.com/view/neuslam/call-for-papers
+- https://sites.google.com/view/neuslam/organizers
+- https://sites.google.com/view/neuslam/previous-editions/1st-neuslam
+- https://sites.google.com/view/neuslam/previous-editions/2nd-neuslam
+- https://openaccess.thecvf.com/ICCV2025_workshops/NeuSLAM
+- https://portal.core.edu.au/conf-ranks/?search=NeuSLAM&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Deadlines of the ICCV 2025 edition not checked
+- Next edition (2027) not announced yet

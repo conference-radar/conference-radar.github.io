@@ -1,0 +1,46 @@
+id: coniiti
+name: CONIITI
+full_name: International Conference on Innovation and Trends in Engineering (Congreso Internacional de Innovacion y Tendencias en Ingenieria)
+type: conference
+tier: minor
+areas: [general]
+region: latin-america
+language: english
+frequency: annual
+organizer: Universidad Catolica de Colombia, co-sponsored by IEEE Colombia
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: "1,160,000 COP (2026, UCatolica and IEEE members) / 1,260,000 COP (2026, others)"
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://www.coniiti.com/
+notes:
+- Broad engineering conference run by the Faculty of Engineering of Universidad Catolica de Colombia in Bogota since 2015, with IEEE Colombia co-sponsorship
+- Proceedings in IEEE Xplore for every edition since 2017 (2025 ISBN 979-8-3315-9132-8)
+- Papers in English, IEEE double-column format, at most 6 pages, Word file only, submitted via EasyChair; accepted papers are presented orally
+- XI CONIITI was in 2025 and XII CONIITI in 2026
+- Held at the university convention center (Sede 4) in Bogota; 2026 had Italy as guest country
+- Not listed in the ICORE2026 CORE portal
+editions:
+- year: 2026
+  start: 2026-09-30
+  end: 2026-10-02
+  location: Universidad Catolica de Colombia, Sede 4, Bogota, Colombia
+  url: https://www.coniiti.com/
+  deadlines:
+  - kind: submission
+    date: 2026-07-13
+  - kind: notification
+    date: 2026-08-25
+sources:
+- https://www.coniiti.com/
+- https://coniiti.com/autores/
+- https://doi.org/10.1109/coniiti68560.2025
+last_verified: 2026-11-20
+unverified:
+- IEEE Xplore publication of the 2026 proceedings not yet confirmed; the site only says registration includes publication of the proceedings
+- CCF 2026 list could not be loaded from ccf.org.cn; not expected to be listed
+- CONIITI 2027 dates not announced

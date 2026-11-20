@@ -1,0 +1,69 @@
+id: ieee-fleps
+name: IEEE FLEPS
+full_name: IEEE International Conference on Flexible and Printable Sensors and Systems
+type: conference
+tier: minor
+areas: [general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Sensors Council
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://ieee-fleps.org/2027
+notes:
+- Sponsored by the IEEE Sensors Council; held since 2019 (Glasgow), virtual in 2020 and 2021
+- Recent hosts 2022 Vienna, 2023 Boston, 2024 Tampere, 2025 Singapore, 2026 Atlanta, 2027 Cambridge (UK)
+- Covers flexible, printable and stretchable sensors and electronics, printed manufacturing, wearable and
+  implantable systems, flexible ICs, and applications in IoT, AI and robotics
+- "Two paper routes: Option A is a paper of up to 4 pages in the FLEPS proceedings; Option B is a fast-track
+  submission to the journal IEEE Sensors Letters (earlier deadline)"
+- Accepted papers must be presented by a registered author or IEEE may remove them from IEEE Xplore
+- 2027 general co-chairs from Loughborough University and Pragmatic Semiconductors; held at the Ray Dolby Centre,
+  Cavendish Laboratory, University of Cambridge
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2026
+  start: 2026-07-12
+  end: 2026-07-15
+  location: Atlanta, GA, USA
+- year: 2027
+  start: 2027-07-11
+  end: 2027-07-14
+  location: Cambridge, United Kingdom
+  url: https://ieee-fleps.org/2027
+  deadlines:
+  - kind: other
+    date: 2027-01-31
+    label: Focus session proposals
+  - kind: submission
+    date: 2027-02-14
+    label: Option B (IEEE Sensors Letters)
+  - kind: submission
+    date: 2027-03-07
+    label: Option A (FLEPS proceedings)
+  - kind: other
+    date: 2027-03-28
+    label: Tutorial and workshop proposals
+  - kind: notification
+    date: 2027-04-18
+  - kind: camera_ready
+    date: 2027-05-09
+    label: Final manuscript
+sources:
+- https://ieee-fleps.org/2027
+- https://ieee-fleps.org/2027/authors/call-for-papers
+- https://ieee-fleps.org/2027/authors/initial-author-instructions
+- https://ieee-fleps.org/2027/about/history
+- https://ieee-fleps.org/2027/about/organizing-committee
+- https://portal.core.edu.au/conf-ranks/?search=FLEPS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Deadline times and time zones not stated
+- FLEPS 2026 deadlines (the 2026 site is no longer online; dates taken from the 2027 history page)
+- CCF 2026 list not checked in detail (sensor devices venue, unlikely to be listed)

@@ -1,0 +1,64 @@
+id: cybersec-dtr
+name: CYBERSEC
+full_name: International Conference on Security and Cybersecurity in the AI and Digital Context
+type: conference
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: DTR Society (Digital Transformation Research Society)
+organizer_country: [usa]
+proceedings: DTR Society Press (ISSN 3144-2617, DTR Society Digital Library)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.dtrsociety.org/cybersec2027/
+notes:
+- New conference run by DTR Society (registered in Newark, Delaware, USA); 1st edition 2026 in Porto, 2nd in 2027 near Nice
+- Hybrid, with on-site and remote presentation
+- Papers published by DTR Society Press with ISBN and ISSN and in the DTR Society Digital Library
+- Not yet indexed; the organizer says Scopus, DBLP and Google Scholar indexing is planned
+- Award-winning and selected papers are invited to submit extended versions to a DTR Society journal
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-07
+  end: 2026-06-11
+  location: Porto (Vila Nova de Gaia), Portugal
+  url: https://www.dtrsociety.org/cybersec2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-18
+  - kind: notification
+    date: 2026-04-09
+  - kind: other
+    date: 2026-04-21
+    label: Registration
+  - kind: camera_ready
+    date: 2026-04-28
+- year: 2027
+  start: 2027-06-13
+  end: 2027-06-17
+  location: Nice (Saint-Laurent-du-Var), France
+  url: https://www.dtrsociety.org/cybersec2027/
+  deadlines:
+  - kind: submission
+    date: 2027-03-04
+  - kind: notification
+    date: 2027-04-09
+  - kind: other
+    date: 2027-04-21
+    label: Registration
+  - kind: camera_ready
+    date: 2027-04-28
+sources:
+- https://www.dtrsociety.org/cybersec2026/
+- https://www.dtrsociety.org/cybersec2027/
+- https://portal.core.edu.au/conf-ranks/?search=CYBERSEC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Acceptance rate and fees not recorded
+- Only two editions so far; region judged from Porto 2026 and Nice 2027

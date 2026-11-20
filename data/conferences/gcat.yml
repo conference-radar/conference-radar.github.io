@@ -1,0 +1,54 @@
+id: gcat
+name: IEEE GCAT
+full_name: IEEE Global Conference for Advancement in Technology
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: annual
+organizer: Nagarjuna College of Engineering and Technology (NCET), Bengaluru
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [5]
+  conference_months: [10]
+links:
+  website: http://globeconf.org/
+notes:
+- Hosted by Nagarjuna College of Engineering and Technology (NCET), Bengaluru; organizing chairs are NCET department heads
+- Held in Bangalore every year; editions in 2019 and every year since 2021 (7th edition in 2026)
+- Proceedings of all previous editions published in IEEE Xplore; the site states Scopus indexing
+- Broad EECS scope in seven tracks, from renewable energy and power electronics to AI, signal processing and communication systems
+- Double-blind review through Microsoft CMT; full papers of at least 6 pages; physical conference only
+- Not listed in ICORE2026; a small regional venue
+editions:
+- year: 2026
+  label: 7th GCAT
+  start: 2026-10-12
+  end: 2026-10-14
+  location: Nagarjuna College of Engineering and Technology, Bengaluru, India
+  url: http://globeconf.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+  - kind: notification
+    date: 2026-07-10
+  - kind: camera_ready
+    date: 2026-07-30
+sources:
+- http://globeconf.org/
+- http://globeconf.org/important-dates/
+- http://globeconf.org/call-for-papers/
+- http://globeconf.org/publication-history/
+- http://globeconf.org/committee/
+- http://globeconf.org/host-institute/
+- https://portal.core.edu.au/conf-ranks/?search=GCAT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the 2025 (6th) edition not found on the current official site
+- GCAT 2027 not announced yet
+- No deadline time or time zone stated

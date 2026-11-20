@@ -1,0 +1,47 @@
+id: iwqps
+name: IWQPS
+full_name: International Workshop on Quantum Computing, Privacy and Security
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+organizer: Co-located with IDSTA; organized by Fabio Martinelli (ICAR-CNR), Francesco Mercaldo (University of Molise)
+  and Giovanni Ciaramella (IIT-CNR)
+organizer_country: [europe]
+proceedings: IEEE Xplore (with IDSTA)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [9]
+links:
+  website: https://idsta-conference.org/IWQPS2026/
+notes:
+- Workshop on quantum computing and its impact on privacy and security, co-located with IDSTA
+- Accepted papers of IDSTA and its co-located workshops are submitted to IEEE Xplore
+- Organizers are Italian researchers from CNR institutes and the University of Molise
+- Short cycle, about two weeks between deadline and camera-ready in 2026
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Bucharest, Romania
+  url: https://idsta-conference.org/IWQPS2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+  - kind: notification
+    date: 2026-08-25
+  - kind: camera_ready
+    date: 2026-09-05
+sources:
+- https://idsta-conference.org/IWQPS2026/
+- https://idsta-conference.org/2026/
+- https://portal.core.edu.au/conf-ranks/?search=IWQPS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates are those of IDSTA 2026; the exact workshop day is not stated
+- Earlier editions not mentioned on the workshop page; frequency unknown
+- IWQPS 2027 not announced yet
+- Deadline time zone not stated

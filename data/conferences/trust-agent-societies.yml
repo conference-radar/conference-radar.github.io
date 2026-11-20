@@ -1,0 +1,50 @@
+id: trust-agent-societies
+name: TRUST
+full_name: International Workshop on Trust in the New Agent Societies
+type: workshop
+tier: minor
+areas: [ai, security]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ISTC-CNR (Italy) and Universidade de Sao Paulo; co-located with IJCAI in 2025
+organizer_country: [europe, other]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/trust-2025
+notes:
+- Long-running workshop on trust, reputation, deception and privacy in multi-agent systems and human-agent interaction, earlier called Trust in Agent Societies
+- 2025 was the 23rd edition, co-located with IJCAI 2025 in Montreal; the 22nd was TRUST 2021
+- Proceedings in CEUR-WS (earlier editions in CEUR-WS Vol-1740, Vol-1578, Vol-3022)
+- Papers of 10 to 14 pages excluding references in CEURART style, submitted via EasyChair
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-18
+  end: 2025-08-18
+  location: Montreal, Canada (with IJCAI 2025)
+  url: https://sites.google.com/view/trust-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-16
+    label: Extended from 2025-05-09
+  - kind: notification
+    date: 2025-06-06
+  - kind: camera_ready
+    date: 2025-06-27
+sources:
+- https://sites.google.com/view/trust-2025
+- https://sites.google.com/view/trust-2025/submissions
+- https://2025.ijcai.org/workshops/
+- https://2026.ijcai.org/accepted-workshops/
+- https://ceur-ws.org/Vol-3022/
+- https://portal.core.edu.au/conf-ranks/?search=Trust&by=all&source=ICORE2026
+unverified:
+- The workshop site gives August 16-18, 2025 (the IJCAI workshop days); the IJCAI 2025 workshop list gives 18 August full day
+- The CEUR-WS volume for TRUST 2025 was not found in the CEUR-WS index as of 2026-11-20
+- Not in the IJCAI 2026 accepted workshops list (TRUST-AI 2026 there is a different workshop); no 2026 edition found
+last_verified: 2026-11-20

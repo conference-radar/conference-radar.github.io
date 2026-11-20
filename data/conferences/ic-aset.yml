@@ -1,0 +1,58 @@
+id: ic-aset
+name: IC_ASET
+full_name: IEEE International Conference on Advanced Systems and Emergent Technologies
+type: conference
+tier: minor
+areas: [general, ai, communications]
+region: africa
+language: english
+frequency: annual
+organizer: ASET Association (Tunisia)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4, 5]
+links:
+  website: https://attend.ieee.org/aset
+notes:
+- Broad EECS conference run by the Tunisian ASET Association, launched in 2017 and always held in Hammamet, Tunisia
+- Ten areas including signal and image processing, AI, communication engineering, embedded systems and IoT, control and robotics, electronics, smart grid and renewable energy
+- Proceedings submitted to IEEE Xplore (2026 volume ISBN 979-8-3195-4161-1); the site lists Scopus indexing
+- Also takes invited session proposals, due two weeks before the paper deadline
+- 2026 was the 9th edition; 2023 to 2025 were held in late April or early May, as is 2027
+- Not listed in the ICORE2026 CORE portal
+editions:
+- year: 2026
+  start: 2026-03-26
+  end: 2026-03-28
+  location: Hammamet, Tunisia
+  url: https://attend.ieee.org/aset/previous/
+- year: 2027
+  start: 2027-04-29
+  end: 2027-05-01
+  location: TUI BLUE Manar, Hammamet, Tunisia
+  url: https://attend.ieee.org/aset
+  deadlines:
+  - kind: other
+    date: 2026-12-15
+    label: Invited session proposals
+  - kind: submission
+    date: 2026-12-31
+  - kind: notification
+    date: 2027-01-31
+    label: Notifications from this date
+  - kind: camera_ready
+    date: 2027-03-10
+    label: Camera-ready and early registration
+sources:
+- https://attend.ieee.org/aset
+- https://attend.ieee.org/aset/previous/
+- https://doi.org/10.1109/ic_aset69920.2026
+- https://doi.org/10.1109/ic_aset65966.2025
+last_verified: 2026-11-20
+unverified:
+- CCF 2026 list could not be loaded from ccf.org.cn; not expected to be listed
+- Acceptance rate and registration fees

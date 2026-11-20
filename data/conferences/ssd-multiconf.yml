@@ -1,0 +1,51 @@
+id: ssd-multiconf
+name: SSD
+full_name: International Multi-Conference on Systems, Signals and Devices
+type: conference
+tier: minor
+areas: [communications, systems, ai, networking, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: SSD steering committee (IEEE co-sponsored)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://ssd-multiconf.org/
+notes:
+- IEEE co-sponsored multi-conference on electrical engineering and information technology (systems, signals, devices, communications and computing)
+- The 24th edition SSD'27 is in Tunis, Tunisia
+- Papers are submitted through EDAS in IEEE format, with IEEE PDF eXpress and the IEEE copyright form; the site links past proceedings as "SSD in IEEE Xplore"
+- The official site states SSD papers are in IEEE Xplore and indexed in Scopus since 2008
+- Regular paper deadline for 2027 was extended from 2026-11-02 to 2026-11-30
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-25
+  location: Tunis, Tunisia
+  url: https://ssd-multiconf.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Regular papers (extended from 2026-11-02)
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-01-29
+sources:
+- https://ssd-multiconf.org/
+- https://ssd-multiconf.org/submissions
+- https://portal.core.edu.au/conf-ranks/?search=SSD&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- "SSD 2026 (23rd edition, reportedly 2026-03-30 to 2026-04-02 in Catania, Italy) could not be confirmed: the official site loads that content dynamically and it could not be read"
+- Organizing institutions (reportedly University of Sfax, Tunisia, with Philadelphia University, Jordan and TU Chemnitz, Germany) not confirmed on a readable official page
+- Locations of earlier editions not confirmed, so region is a best estimate
+- The official site lists the 2027 conference start date as March 22, 2026 in one place, an apparent typo for 2027

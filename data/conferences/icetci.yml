@@ -1,0 +1,52 @@
+id: icetci
+name: ICETCI
+full_name: IEEE International Conference on Electronic Technology, Communication and Information
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: Chinese university committee (general chair from Liaoning University in 2027)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 550 USD author, 500 USD IEEE member or student (2027)
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: http://www.icetci.org/
+notes:
+- First held in 2021; the site says the 2021 (141 papers) and 2022 (299 papers) proceedings are in IEEE Xplore, and
+  later editions up to 2026 are also IEEE conference proceedings
+- Hybrid format (online and offline); papers up to 6 pages, extra pages 50 USD each
+- Tracks on electronic engineering, power electronics, communication technology, information systems and control
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-05-28
+  end: 2027-05-30
+  location: Changchun, China
+  url: http://www.icetci.org/
+  deadlines:
+  - kind: submission
+    date: 2027-03-01
+  - kind: notification
+    date: 2027-04-09
+  - kind: other
+    date: 2027-04-28
+    label: Registration deadline
+sources:
+- http://www.icetci.org/
+- http://www.icetci.org/Committees.html
+- http://www.icetci.org/Registration.html
+- https://ieeexplore.ieee.org/xpl/conhome/9563252/proceeding
+- https://api.crossref.org/works?query.bibliographic=Electronic+Technology+Communication+and+Information+ICETCI&filter=type:proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICETCI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of the 2026 (6th) edition are not on the official site
+- The 2027 publication page is empty; IEEE Xplore is taken from the site news on 2021 and 2022 and Crossref records
+- Past host cities not stated on the official site, so the usual region is assumed from the organizers

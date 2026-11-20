@@ -1,0 +1,49 @@
+id: cac-caa
+name: CAC
+full_name: China Automation Congress
+name_local: 中国自动化大会
+type: conference
+tier: minor
+areas: [general, systems, ai]
+region: china
+language: mixed
+frequency: annual
+organizer: Chinese Association of Automation (CAA)
+organizer_country: [china]
+proceedings: CAC proceedings (download on the official site)
+typical:
+  deadline_months: [8]
+  conference_months: [10, 11]
+links:
+  website: https://cac.org.cn/
+notes:
+- Flagship annual congress of the Chinese Association of Automation, founded in 2009 and held in more than ten Chinese cities
+- Covers automation, information and intelligent science and technology
+- Accepts English papers (IEEE templates) and Chinese papers, plus long abstracts; submissions via review.cacpaper.com
+- 2026 edition was held with the 65th anniversary of the CAA at the Capital International Convention and Exhibition Center, Beijing
+- The 2026 submission deadline was extended twice, finally to August 1
+- Different from CCC (Chinese Control Conference) and CCDC (Chinese Control and Decision Conference)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-10-30
+  end: 2026-11-01
+  location: Capital International Convention and Exhibition Center, Beijing, China
+  url: https://cac.org.cn/
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    label: Paper submission (extended)
+sources:
+- https://cac.org.cn/
+- https://cac.org.cn/article/type/4-1.html
+- https://cac.org.cn/article/type/72-1.html
+- https://cac.org.cn/article/type/11-1.html
+- https://cac.org.cn/article/type/10-1.html
+- https://portal.core.edu.au/conf-ranks/?search=CAC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Whether English papers are published in IEEE Xplore (the official site does not say), so archival is not set
+- Original 2026 submission deadline before the extensions, notification and camera-ready dates
+- Dates and locations of earlier editions (2022 to 2025 linked on caa.org.cn, which could not be reached)
+- 2027 edition not announced as of 2026-11-20

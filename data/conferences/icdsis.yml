@@ -1,0 +1,54 @@
+id: icdsis
+name: ICDSIS
+full_name: International Conference on Data Science and Information System
+type: conference
+tier: minor
+areas: [data, ai, general]
+region: south-asia
+language: english
+organizer: Department of Computer Science and Engineering, Malnad College of Engineering, Hassan
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: "Indian authors 5,000 to 8,500 INR; foreign authors 150 USD (IEEE member) or 250 USD (2027)"
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: https://icdsis.in/
+notes:
+- Organized by the Department of Computer Science and Engineering, Malnad College of Engineering, Hassan, Karnataka, India
+- Previous editions in 2022, 2024 and 2025, all with proceedings in IEEE Xplore
+- 2027 papers are submitted for possible inclusion in IEEE Xplore; IEEE no-show policy and physical presentation required
+- Double-blind review through Microsoft CMT; papers of 4 to 8 pages
+- Not listed in ICORE2026; a small regional venue
+editions:
+- year: 2027
+  label: 4th ICDSIS
+  start: 2027-01-08
+  end: 2027-01-09
+  location: Malnad College of Engineering, Hassan, India
+  url: https://icdsis.in/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+  - kind: notification
+    date: 2026-11-30
+  - kind: other
+    date: 2026-12-15
+    label: Registration
+sources:
+- https://icdsis.in/
+- https://icdsis.in/dates.php
+- https://icdsis.in/submission.php
+- https://icdsis.in/registration.php
+- https://ieeexplore.ieee.org/xpl/conhome/9915554/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10593798/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/11069373/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICDSIS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The important dates page still shows 25 Oct 2026 submission and 25 Nov 2026 notification; the home page shows 30 Oct and 30 Nov
+- Dates of the 2025 (3rd) edition not stated on the official site
+- No deadline time or time zone stated

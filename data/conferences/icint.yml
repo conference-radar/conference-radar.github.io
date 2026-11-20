@@ -1,0 +1,63 @@
+id: icint
+name: ICINT
+full_name: International Conference on Information and Network Technologies
+type: conference
+tier: minor
+areas: [networking, communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: La Trobe University (sponsor), with University of the Ryukyus as technical supporter and IEEE as technical sponsor
+organizer_country: [australia, japan]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://www.icint.org/
+notes:
+- Annual since 2017; the 2027 edition is the 12th
+- Proceedings in IEEE Xplore (2022 and 2023 through CPS, 2025 and 2026 published by IEEE), indexed in Scopus
+- Held virtually 2021 to 2023, in Tokyo in 2024 (co-sponsored by Kogakuin University), in Melbourne in 2025 and in Sydney in 2026
+- Covers information and network technologies broadly (networking, wireless, security, applications)
+- Submission via the zmeeting system; small conference with keynotes from IEEE Fellows
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  label: 11th edition
+  start: 2026-03-06
+  end: 2026-03-08
+  location: Sydney, Australia
+  url: https://www.icint.org/icint2026.html
+- year: 2027
+  label: 12th edition
+  start: 2027-03-05
+  end: 2027-03-07
+  location: Melbourne, Australia
+  url: https://www.icint.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+  - kind: notification
+    date: 2027-01-25
+  - kind: camera_ready
+    date: 2027-02-10
+  - kind: other
+    date: 2027-02-10
+    label: Registration deadline
+sources:
+- https://www.icint.org/
+- https://www.icint.org/cfp.html
+- https://www.icint.org/committee.html
+- https://www.icint.org/icint2026.html
+- https://www.icint.org/icint2025.html
+- https://www.icint.org/icint2024.html
+- https://www.icint.org/icint2023.html
+- https://portal.core.edu.au/conf-ranks/?search=ICINT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2027 page says proceedings will be submitted for Ei Compendex and Scopus indexing but does not name the 2027 publisher
+- Time zone of the 2027 deadlines not stated
+- Deadlines of the 2026 edition not recorded

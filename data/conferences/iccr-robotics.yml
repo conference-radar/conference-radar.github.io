@@ -1,0 +1,67 @@
+id: iccr-robotics
+name: ICCR
+full_name: International Conference on Control and Robotics
+type: conference
+tier: minor
+areas: [ai, systems]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ICCR Organizing Committee, co-sponsored by IEEE, IEEE RAS and BICRI; Hosei University among the 2026 patrons
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 560 USD regular author, 520 USD student author (2026, early bird); covers one 6-page paper
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: http://www.iccr.net/
+notes:
+- Control and robotics conference held since 2018 (Hong Kong 2018, Jeju 2019, virtual 2020 and 2022, Tokyo 2023, Yokohama 2024, Kyoto 2025, Tokyo 2026)
+- No edition in 2021; held in Japan every year since 2023
+- Proceedings of past editions are in IEEE Xplore, indexed in EI Compendex and Scopus
+- 2026 edition co-sponsored by IEEE, IEEE Robotics and Automation Society and BICRI; general chairs from Hosei University and the University of Guelph
+- Submission through EasyChair; a presenter-only (abstract) option exists without publication
+- Onsite, online and poster sessions in 2025
+- Different venue from iccr-cyber (International Conference on Cyber Resilience)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-04
+  end: 2025-12-06
+  location: Kyoto, Japan
+  url: http://www.iccr.net/2025.html
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-13
+  location: Hosei University, Tokyo, Japan
+  url: http://www.iccr.net/
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+    label: Full paper and abstract (final call 2026-10-25)
+  - kind: notification
+    date: 2026-11-10
+  - kind: camera_ready
+    date: 2026-11-17
+    label: Camera-ready and registration
+sources:
+- http://www.iccr.net/
+- http://www.iccr.net/committee.html
+- http://www.iccr.net/reg.html
+- http://www.iccr.net/venue.html
+- http://www.iccr.net/2025.html
+- http://www.iccr.net/2024.html
+- http://www.iccr.net/2023.html
+- http://www.iccr.net/2022.html
+- http://www.iccr.net/2020.html
+- http://www.iccr.net/2019.html
+- http://www.iccr.net/2018.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCR&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- organizer_country inferred from the contact address (robotics.ac.cn) and the Chinese ICP registration on the site; the organizing body is not named
+- Deadlines of the 2025 edition and the deadline time zone are not stated
+- IEEE Xplore inclusion of the 2026 proceedings (the site says they will be archived there)

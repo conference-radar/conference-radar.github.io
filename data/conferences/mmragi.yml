@@ -1,0 +1,54 @@
+id: mmragi
+name: MMRAgI
+full_name: Workshop on Multi-Modal Reasoning for Agentic Intelligence
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from UC San Diego, University of Oxford, Stanford University, University of Washington, Tencent and Apple ML Research; co-located with ICCV or CVPR
+organizer_country: [usa, europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6, 10]
+links:
+  website: https://mmragi.github.io/mmragi/
+notes:
+- Workshop on multimodal reasoning (text, images, video) for agentic AI systems
+- 1st edition at ICCV 2025 (as MMR), 2nd edition at CVPR 2026 in Denver
+- Non-archival, no proceedings; dual submission allowed, including papers accepted at CVPR 2026 or under review elsewhere
+- Papers up to 8 pages in CVPR style (references excluded), double-blind review on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://mmragi.github.io/mmragi/
+  deadlines:
+  - kind: submission
+    date: 2026-04-20
+    time: "23:59"
+    tz: AoE
+    label: Postponed
+  - kind: camera_ready
+    date: 2026-05-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mmragi.github.io/mmragi/
+- https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/MMRAgI
+- https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/MMR
+- https://portal.core.edu.au/conf-ranks/?search=MMRAgI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The official site lists the camera-ready deadline (May 1) before the notification date (May 18); both copied as stated
+- Dates of the ICCV 2025 edition not recorded
+- Next edition (2027) not announced yet

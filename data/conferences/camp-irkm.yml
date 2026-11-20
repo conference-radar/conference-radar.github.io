@@ -1,0 +1,51 @@
+id: camp-irkm
+name: CAMP
+full_name: International Conference on Information Retrieval and Knowledge Management
+type: conference
+tier: minor
+areas: [data, nlp, ai]
+region: southeast-asia
+language: english
+frequency: irregular
+organizer: Society of Information Retrieval and Knowledge Management Malaysia (PECAMP)
+organizer_country: [malaysia]
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://camp2026.pecamp.org/index.php
+notes:
+- Run by the Society of Information Retrieval and Knowledge Management Malaysia (PECAMP)
+- Tracks on information retrieval, knowledge management, computational linguistics and data science
+- 2026 proceedings in Springer CCIS (Vols. 3093 and 3094, 57 papers); earlier editions (2010, 2012, 2016, 2018, 2021) in IEEE Xplore
+- Papers must be presented to appear in the proceedings; selected papers invited to partner journals
+- Full papers 10 to 15 pages; the 2026 deadline was extended several times
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 7th CAMP
+  start: 2026-08-12
+  end: 2026-08-13
+  location: Bangi, Selangor, Malaysia
+  url: https://camp2026.pecamp.org/index.php
+  deadlines:
+  - kind: submission
+    date: 2026-05-31
+    label: Final extension
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-06-20
+sources:
+- https://camp2026.pecamp.org/index.php
+- https://camp2026.pecamp.org/dates.php
+- https://camp2026.pecamp.org/cfp.php
+- https://camp2026.pecamp.org/venue.php
+- https://portal.core.edu.au/conf-ranks/?search=CAMP&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Next edition not announced as of 2026-11-20
+- Locations of earlier editions not stated on the official site; region assumed from the Malaysian organizing society

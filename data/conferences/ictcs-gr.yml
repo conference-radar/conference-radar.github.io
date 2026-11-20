@@ -1,0 +1,54 @@
+id: ictcs-gr
+name: ICTCS
+full_name: International Conference on Information and Communication Technology for Competitive Strategies
+type: conference
+tier: minor
+areas: [general, networking, communications, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: GR Foundation (Global Knowledge Research Foundation), managed with GR Scholastic
+organizer_country: [india]
+proceedings: Springer LNNS
+archival: true
+indexing: [Scopus, EI, INSPEC]
+typical:
+  deadline_months: [10, 11]
+  conference_months: [12]
+links:
+  website: https://ictcs.in
+notes:
+- Broad ICT conference run by the GR Foundation group (sister events SmartCom, ICTIS, ICT4SD, ICICT London)
+- Proceedings in Springer Lecture Notes in Networks and Systems
+- Held in India every year; Jaipur in 2020, 2021, 2023, 2024 and 2025, Chandigarh in 2022, Ahmedabad in 2026
+- Hybrid; in 2026 only the first day (16 Dec) is physical and the remaining three days are online
+- Three tracks (ICT for infrastructure and computation, engineering applications, e-governance); submissions through the
+  SmartCom submission portal
+- Very large, high-acceptance event typical of this organizer; regarded as a minor venue
+- Not the Italian Conference on Theoretical Computer Science (ictcs) or the Jordanian ICTCS (ictcs-jo)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-19
+  location: Ahmedabad, India (hybrid; physical on Dec 16)
+  url: https://ictcs.in
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    label: Regular tracks (30 Oct 2026 is also listed)
+sources:
+- https://ictcs.in
+- https://ictcs.in/cfp.php
+- https://ictcs.in/publication.php
+- https://gr-conferences.com/
+- https://doi.org/10.1007/978-3-032-19672-9
+- https://portal.core.edu.au/conf-ranks/?search=ICTCS&by=all&source=ICORE2026
+unverified:
+- The call for papers lists two regular-track dates (30 Oct and 13 Nov 2026) without saying which is an extension; notification,
+  registration and camera-ready are 'As Per Notification'
+- Dates of the 2025 edition (Jaipur) not stated on the official site; the Springer proceedings give 15 to 17 Dec 2025
+- Deadline time zone not stated
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+last_verified: 2026-11-20

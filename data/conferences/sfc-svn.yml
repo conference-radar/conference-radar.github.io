@@ -1,0 +1,51 @@
+id: sfc-svn
+name: SFC-SVN
+full_name: "Workshop on Shaping Future Connectivity: Emerging and Intelligent Technologies for Sustainable Vehicular Networks"
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+organizer: Workshop co-organizers from Prince Sultan University, Toronto Metropolitan University and BITS Pilani, with IEEE VTC (IEEE VTS)
+organizer_country: [other, canada, india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w9-shaping-future-connectivity-emerging-and-intelligent-technologies-for-sustainable-vehicular-networks/
+notes:
+- 2nd edition held as workshop W9 at IEEE VTC2026-Fall in Boston
+- Topics are energy-efficient and AI-native vehicular networks (zero-touch automation, vehicular digital twins, renewable-powered roadside units, satellite and UAV links, EV charging networks)
+- Co-organizers from Prince Sultan University (Saudi Arabia), Toronto Metropolitan University (Canada) and BITS Pilani Hyderabad (India)
+- Papers 5 pages, up to 2 extra pages at 100 USD each; submitted through the VTC2026-Fall workshop TrackChair site
+- Final papers go through the VTC2026-Fall IEEE Conference Publishing upload, for archiving in IEEE Xplore; IEEE may exclude papers not presented
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Boston, MA, USA (with IEEE VTC2026-Fall)
+  url: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w9-shaping-future-connectivity-emerging-and-intelligent-technologies-for-sustainable-vehicular-networks/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Extended
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Extended
+sources:
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w9-shaping-future-connectivity-emerging-and-intelligent-technologies-for-sustainable-vehicular-networks/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://events.vtsociety.org/vtc2026-fall/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Sustainable%20Vehicular&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Exact workshop day within VTC2026-Fall (6 to 9 September) not stated
+- The workshop page lists notification 16 June and final paper 30 June 2026; the VTC2026-Fall home page lists 3 July and 15 July 2026 (used here)
+- Host conference, dates and venue of the 1st edition (not found in the VTC2025-Fall or VTC2026-Spring workshop lists)
+- Whether a 3rd edition is planned
+last_verified: 2026-11-20

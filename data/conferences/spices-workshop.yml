@@ -1,0 +1,48 @@
+id: spices-workshop
+name: SPICES
+full_name: Workshop on Security and Privacy in Connected Embedded Systems
+type: workshop
+tier: minor
+areas: [security, networking]
+region: europe
+language: english
+frequency: annual
+organizer: Co-located with EWSN; organized by Technology Innovation Institute (TII, Abu Dhabi) with co-chairs from
+  University College Cork, University of Pisa and Graz University of Technology
+organizer_country: [other, europe]
+proceedings: ACM DL (EWSN proceedings)
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://www.tii.ae/workshop/spices
+notes:
+- Workshop on wireless and embedded systems security and privacy (IoT, CPS, 6G, PUFs, side channels), held with EWSN
+- Papers up to 6 pages in the ACM template, double-anonymous review, submission via HotCRP
+- Accepted papers are published in ACM as part of the EWSN proceedings
+- Small workshop; 2 papers in 2025, run as a joint session with the EMERGE workshop
+- 4th edition in 2025; the TII site also has pages for the 2023 and 2024 editions
+- Not related to the IEEE SPICES signal processing conference
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-22
+  end: 2025-09-22
+  location: With EWSN 2025
+  url: https://www.tii.ae/workshop/spices
+  deadlines:
+  - kind: submission
+    date: 2025-06-15
+  - kind: notification
+    date: 2025-07-15
+  - kind: camera_ready
+    date: 2025-07-18
+sources:
+- https://www.tii.ae/workshop/spices
+- https://portal.core.edu.au/conf-ranks/?search=SPICES&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No 2026 edition found on the TII page (EWSN 2026 was held in September 2026 in Dresden)
+- Location of the 2025 edition not stated on the workshop page; region assumed from EWSN, which is mostly held in Europe
+- Deadline time zone not stated

@@ -1,0 +1,71 @@
+id: ai4music
+name: AI4Music
+full_name: Workshop on Artificial Intelligence for Music
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Purdue Artificial Intelligence in Music (AIM) with University of Michigan and UC San Diego researchers
+organizer_country: [usa]
+proceedings: "Depends on the host: IEEE Xplore for the ICME 2025 edition; AAAI 2025 and NeurIPS 2025 papers only on the workshop websites"
+archival: false
+typical:
+  deadline_months: [4, 8, 11]
+  conference_months: [3, 6, 12]
+links:
+  website: https://ai4musicians.org/events
+notes:
+  - Workshop series on AI for music (analysis, creation, performance, production, retrieval, music education) run by the Purdue AIM group
+  - "2025 editions: AAAI 2025 (Philadelphia, 3 March), IEEE ICME 2025 (30 June) and NeurIPS 2025 (San Diego, 7 December)"
+  - The NeurIPS 2025 edition was titled AI for Music, Where Creativity Meets Computation, and was non-archival
+  - The ICME 2025 edition followed ICME submission rules (up to 6 pages, double-blind) and hosted the winners session of the 2025 Music Transcription Competition
+  - Proceedings depend on the host conference; ICME 2025 papers went to the website and IEEE Xplore, AAAI 2025 papers to the workshop website only
+  - Different from EAIM, the AAAI workshop on emerging AI technologies for music
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: With IEEE ICME 2025
+    start: 2025-06-30
+    end: 2025-06-30
+    location: Nantes, France (with IEEE ICME 2025)
+    url: https://ai4musicians.org/events/icme-2025
+    deadlines:
+      - kind: submission
+        date: 2025-04-01
+        time: "23:59"
+        tz: PDT
+      - kind: notification
+        date: 2025-04-25
+      - kind: camera_ready
+        date: 2025-05-15
+  - year: 2025
+    label: With NeurIPS 2025
+    start: 2025-12-07
+    end: 2025-12-07
+    location: San Diego, USA (with NeurIPS 2025)
+    url: https://aiformusicworkshop.github.io/neurips2025/
+    deadlines:
+      - kind: submission
+        date: 2025-08-29
+        tz: AoE
+        label: Extended from 2025-08-22
+      - kind: notification
+        date: 2025-09-22
+        tz: AoE
+      - kind: camera_ready
+        date: 2025-11-07
+        tz: AoE
+sources:
+  - https://ai4musicians.org/events
+  - https://ai4musicians.org/events/aaai-2025
+  - https://ai4musicians.org/events/icme-2025
+  - https://aiformusicworkshop.github.io/neurips2025/
+  - https://neurips.cc/virtual/2025/events/workshop
+  - https://2025.ieeeicme.org/
+  - https://portal.core.edu.au/conf-ranks/?search=Music&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - No 2026 edition listed on the official site as of 2026-11-20
+  - Whether a future edition will publish papers formally depends on the host conference

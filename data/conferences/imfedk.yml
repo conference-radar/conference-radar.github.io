@@ -1,0 +1,61 @@
+id: imfedk
+name: IMFEDK
+full_name: IEEE International Meeting for Future of Electron Devices, Kansai
+type: conference
+tier: minor
+areas: [general]
+region: japan
+language: english
+frequency: annual
+organizer: IEEE EDS Kansai Chapter
+organizer_country: [japan]
+proceedings: IEEE Xplore (2-page oral papers)
+archival: true
+indexing: [IEEE Xplore]
+fee: 5,000 JPY for presenters, free for other attendees (2025 and 2026)
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/
+notes:
+- Annual international meeting on electron devices run by the IEEE EDS Kansai Chapter, endorsed by JSAP and the IEICE technical committees on electron devices and silicon devices
+- Held every November in Kyoto, recently at Ryukoku University Fukakusa Campus (Jojukan), in hybrid format
+- Oral papers are 2 pages and are published in IEEE Xplore; poster papers are 2 pages but stay internal to the meeting
+- All submissions are reviewed by the committee; students are welcome to submit oral or poster papers
+- Low cost and student friendly; best paper and student paper awards
+- Contributed talks must be given on site; invited talks may be online
+editions:
+- year: 2025
+  start: 2025-11-13
+  end: 2025-11-14
+  location: Ryukoku University Fukakusa Campus (Jojukan), Kyoto, Japan (hybrid)
+  url: https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/Dir2025/CallForPapers/imFEDK_2025_CFP_2025_09_13_01.pdf
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-09-13
+    label: Extended from 2025-08-30
+- year: 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Ryukoku University Fukakusa Campus (Jojukan), Kyoto, Japan (hybrid)
+  url: https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-26
+    label: Extended from 2026-09-05
+  - kind: other
+    date: 2026-11-12
+    label: Participation registration deadline
+sources:
+- https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/index.html
+- https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/Dir2026/CallForPapers/imFEDK_2026_CFP_2026_08_24_01.pdf
+- https://www.ieee-jp.org/section/kansai/chapter/eds/imfedk/Dir2025/CallForPapers/imFEDK_2025_CFP_2025_09_13_01.pdf
+- https://portal.core.edu.au/conf-ranks/?search=IMFEDK&by=all&source=ICORE2026
+unverified:
+- Submission deadline times and time zone are not stated in the call for papers
+- 2027 edition not announced yet (checked 2026-11-20)
+- Not listed in the CORE ICORE2026 portal or the CCF list; acceptance rate not published
+last_verified: 2026-11-20

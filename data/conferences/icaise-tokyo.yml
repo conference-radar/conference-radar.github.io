@@ -1,0 +1,64 @@
+id: icaise-tokyo
+name: ICAISE
+full_name: International Conference on Artificial Intelligence and Software Engineering
+type: conference
+tier: minor
+areas: [ai, software]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Commercial conference service (secretariat icaise@academic.net)
+proceedings: ACM ICPS
+archival: true
+indexing: [EI, Scopus]
+fee: 530 USD presentation and publication, 500 USD student, 400 USD presentation only (2026)
+typical:
+  deadline_months: [7]
+  conference_months: [8]
+links:
+  website: https://icaise.org/
+notes:
+- Annual since 2022; fully virtual in 2022 (Singapore), then hybrid in Xi'an (2023), Singapore (2024) and Tokyo (2025)
+- 2026 edition held at the University of Electro-Communications (UEC), Tokyo
+- 2026 papers go to the ACM International Conference Proceedings Series; 2024 proceedings appeared in IEEE Xplore
+- Double-blind review with two or three reviewers; abstract-only presentation and listener registration also offered
+- Run by a commercial conference service, generally regarded as low tier
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 4th ICAISE
+  start: 2025-08-06
+  end: 2025-08-08
+  location: Tokyo, Japan (hybrid)
+  url: https://icaise.org/2025.html
+- year: 2026
+  label: 5th ICAISE
+  start: 2026-08-21
+  end: 2026-08-23
+  location: University of Electro-Communications, Tokyo, Japan
+  url: https://icaise.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+  - kind: notification
+    date: 2026-07-20
+  - kind: camera_ready
+    date: 2026-07-31
+    label: Registration and final paper
+sources:
+- https://icaise.org/
+- https://icaise.org/registration.html
+- https://icaise.org/review.html
+- https://icaise.org/venue.html
+- https://icaise.org/news.html
+- https://icaise.org/2025.html
+- https://icaise.org/2024.html
+- https://icaise.org/2023.html
+- https://icaise.org/2022.html
+- https://portal.core.edu.au/conf-ranks/?search=ICAISE&by=all&source=ICORE2026
+unverified:
+- Organizing company and its country not named on the official site, so organizer_country is left out
+- Publisher of the 2025 proceedings not stated on the official site
+- 2026 ACM proceedings not yet seen in the ACM Digital Library; indexing as claimed by the organizer
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

@@ -1,0 +1,72 @@
+id: icwcsn
+name: icWCSN
+full_name: International Conference on Wireless Communication and Sensor Networks
+type: conference
+tier: minor
+areas: [communications, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat (contact icwcsn_conference@outlook.com) with a host university; Ocean University of China and Warsaw University of Technology chairs for 2026
+organizer_country: [china]
+proceedings: ACM DL (ACM ICPS)
+archival: true
+indexing: [EI Compendex, Scopus]
+fee: About 430 USD (2026, regular author, early)
+typical:
+  deadline_months: [2, 3]
+  conference_months: [4]
+links:
+  website: http://www.icwcsn.org/
+notes:
+- Smaller commercially run conference; secretariat contact via an outlook.com address and submission via zmeeting.org
+- 13th edition in 2026; proceedings in the ACM International Conference Proceedings Series every year since 2020
+- Proceedings stated as submitted to EI Compendex and Scopus
+- "Recent hosts: Warsaw planned for 2020 but held online, Dalian 2021 (fully virtual), online 2022 and 2023, 2024 organized by Sichuan Normal University, Shenzhen 2025, Qingdao 2026"
+- Tracks on PHY and fundamentals, MAC and cross-layer design, wireless networks, and emerging technologies and services
+- Abstract-only registration offered for presentation without publication
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2025
+  label: 12th icWCSN
+  start: 2025-04-11
+  end: 2025-04-13
+  location: Shenzhen, China
+  url: http://www.icwcsn.org/icwcsn2025.html
+- year: 2026
+  label: 13th icWCSN
+  start: 2026-04-10
+  end: 2026-04-12
+  location: Qingdao, China
+  url: http://www.icwcsn.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-03-05
+    label: Final (extended from 2026-02-28)
+  - kind: notification
+    date: 2026-03-15
+  - kind: camera_ready
+    date: 2026-03-20
+  - kind: other
+    date: 2026-03-20
+    label: Registration
+sources:
+- http://www.icwcsn.org/
+- http://www.icwcsn.org/history.html
+- http://www.icwcsn.org/icwcsn2025.html
+- http://www.icwcsn.org/icwcsn2024.html
+- http://www.icwcsn.org/icwcsn2023.html
+- http://www.icwcsn.org/icwcsn2022.html
+- http://www.icwcsn.org/icwcsn2021.html
+- http://www.icwcsn.org/icwcsn2020.html
+- http://www.icwcsn.org/committee.html
+- http://www.icwcsn.org/reg.html
+- https://portal.core.edu.au/conf-ranks/?search=ICWCSN&by=all&source=ICORE2026
+unverified:
+- icWCSN 2027 not announced yet on the official site
+- City of the 2024 edition not stated on its archive page
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly on ccf.org.cn (site behind a captcha); not expected to be listed
+- Acceptance rate not published
+last_verified: 2026-11-20

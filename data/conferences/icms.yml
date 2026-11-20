@@ -1,0 +1,55 @@
+id: icms
+name: ICMS
+full_name: International Congress on Mathematical Software
+type: conference
+tier: minor
+areas: [software, general]
+region: worldwide
+language: english
+frequency: biennial
+organizer: ICMS Advisory Board (organizers of the past two congresses)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://icms-conference.org/
+notes:
+- Forum for the development of mathematical software (computer algebra, proof assistants, numerical and symbolic software)
+- Proceedings published with Springer since 2006; 2026 papers in Springer LNCS
+- Mostly session-based; a short abstract to a session chair is required to give a talk, extended abstracts or short papers (6 to 8 pages, up to 10) go to the proceedings
+- Biennial in recent years (2014, 2016, 2018, 2020, 2024, 2026); held in Europe, North America and East Asia
+- About 150 participants, 3 to 4 plenary talks and several parallel sessions
+- ICMS 2026 was a satellite meeting of the International Congress of Mathematicians in Philadelphia
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Waterloo, Ontario, Canada (Wilfrid Laurier University and University of Waterloo)
+  url: https://icms-conference.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-16
+    label: Short abstract to a session chair
+  - kind: submission
+    date: 2026-04-18
+    label: Extended abstract or short paper for the proceedings
+  - kind: notification
+    date: 2026-06-02
+  - kind: camera_ready
+    date: 2026-07-02
+sources:
+- https://icms-conference.org/
+- https://icms-conference.org/2026/
+- https://icms-conference.org/2026/submission.html
+- https://icms-conference.org/2026/organization.html
+- https://icms-conference.org/2026/call-for-2028-proposals.html
+- https://icms-conference.org/organization/
+- https://portal.core.edu.au/conf-ranks/?search=ICMS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ICMS 2028 host and dates not announced; the call for hosting proposals closed on 2026-10-15
+- Time zone of the 2026 deadlines not stated

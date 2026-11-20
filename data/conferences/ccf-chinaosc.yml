@@ -1,0 +1,52 @@
+id: ccf-chinaosc
+name: CCF ChinaOSC
+full_name: CCF China Open Source Conference
+name_local: CCF中国开源大会
+type: industry
+tier: domestic
+areas: [software, ai, systems]
+region: china
+language: chinese
+frequency: annual
+organizer: China Computer Federation (CCF), with the CCF Open Source Development Technical Committee and a host university
+organizer_country: [china]
+proceedings: None
+archival: false
+typical:
+  conference_months: [8]
+links:
+  website: https://chinaosc.ccf.org.cn/
+notes:
+- Annual open source conference of the China Computer Federation, run with the CCF Open Source Development Technical Committee
+- Keynotes, summit forums and parallel themed forums on open source software, operating systems, chips, large models and supply chain security
+- Talks and forums only, no paper track or proceedings; forum proposals are reviewed by the program committee
+- Held in a different Chinese city each August (Shanghai 2025, Chongqing 2026); talks mostly in Chinese
+- 2026 edition co-hosted by Chongqing University with the theme of AI for software engineering and software engineering for AI
+editions:
+- year: 2025
+  start: 2025-08-02
+  end: 2025-08-03
+  location: Shanghai, China
+  url: https://chinaosc.ccf.org.cn/2025
+  status: confirmed
+  deadlines: []
+- year: 2026
+  start: 2026-08-15
+  end: 2026-08-16
+  location: Chongqing Shancheng International Convention Center, Chongqing, China
+  url: https://chinaosc.ccf.org.cn/information/detail/1476
+  status: confirmed
+  deadlines: []
+sources:
+- https://chinaosc.ccf.org.cn/
+- https://chinaosc.ccf.org.cn/information/detail/1476
+- https://chinaosc.ccf.org.cn/2025
+- https://gateway.gitlink.org.cn/api/zone/open/zoneKey/kydh2026
+- https://gateway.gitlink.org.cn/api/zone/open/zoneKey/china2025osc
+- https://portal.core.edu.au/conf-ranks/?search=ChinaOSC&by=all&source=ICORE2026
+unverified:
+- 2025 dates come from the official announcement that the conference was planned for 2025-08-02 to 08-03 in Shanghai; the exact venue is not shown
+- No open call for talks with a deadline is published; forum proposals are open until the program is fixed
+- 2027 edition not announced on the official site (checked 2026-11-20)
+- Not listed in the CORE ICORE2026 portal or the CCF recommended list
+last_verified: 2026-11-20

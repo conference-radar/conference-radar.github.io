@@ -1,0 +1,69 @@
+id: cyber-ai
+name: Cyber-AI
+full_name: International Conference on Cybersecurity and AI-Based Systems
+type: conference
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee of university researchers (Bulgaria, Romania, Italy, USA, Jordan) with IEEE section co-sponsorship
+proceedings: IEEE Xplore (submitted after IEEE approval)
+archival: true
+typical:
+  deadline_months: [4, 8]
+  conference_months: [9, 12]
+links:
+  website: https://cyber-ai.org/
+notes:
+- Small hybrid conference; 2025 in Varna (Bulgaria), 2026 at the Romanian-American University in Bucharest, 2027 in Chiang Mai (Thailand)
+- Each edition is co-sponsored by a local IEEE section (IEEE Romania Section in 2026; 2027 is co-applied to the IEEE Thailand Section)
+- Accepted, registered and presented papers are submitted to IEEE Xplore; the site also advertises Scopus indexing and a journal special issue
+- Several rounds of extended submission deadlines with rolling notification
+- Organizing body not named on the official site; submission through the Sparcly system
+- The site's list of previous events also includes Orlando (2023), Kitakyushu (2024) and a 2024 workshop at ICCNS in Dubrovnik, which do not match the edition numbering (2026 is the 2nd, 2027 the 3rd)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  label: 2nd Cyber-AI
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Romanian-American University, Bucharest, Romania (hybrid)
+  url: https://cyber-ai.org/2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-15
+  - kind: submission
+    date: 2026-08-14
+    label: Final extended round
+  - kind: notification
+    date: 2026-08-01
+    label: Final acceptance notification
+  - kind: camera_ready
+    date: 2026-08-15
+- year: 2027
+  label: 3rd Cyber-AI
+  start: 2027-12-13
+  end: 2027-12-16
+  location: Chiang Mai, Thailand (hybrid)
+  url: https://cyber-ai.org/
+  deadlines:
+  - kind: submission
+    date: 2027-08-01
+  - kind: notification
+    date: 2027-09-01
+  - kind: camera_ready
+    date: 2027-09-15
+sources:
+- https://cyber-ai.org/
+- https://cyber-ai.org/committee.php
+- https://cyber-ai.org/2026
+- https://cyber-ai.org/2025
+- https://portal.core.edu.au/conf-ranks/?search=Cyber-AI&by=all&source=ICORE2026
+unverified:
+- "2027 dates conflict on the official site: 13 to 16 December in the header, 14 to 18 December in the key deadlines list"
+- 2027 submission deadline is 1 August 2027 in the header but 31 July 2027 in the Important Dates section
+- 2025 and 2026 proceedings not checked in IEEE Xplore
+- Organizing body and its country not named on the official site, so organizer_country is left out
+- CCF 2026 list not checked directly
+last_verified: 2026-11-20

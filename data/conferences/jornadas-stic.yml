@@ -1,0 +1,47 @@
+id: jornadas-stic
+name: Jornadas STIC CCN-CERT
+full_name: Jornadas STIC CCN-CERT (annual cybersecurity conference of Spain's National Cryptologic Centre)
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: mixed
+frequency: annual
+organizer: CCN (Centro Criptologico Nacional) and its CCN-CERT
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  conference_months: [11]
+links:
+  website: https://jornadas.ccn-cert.cni.es/
+notes:
+- One of Spain's largest cybersecurity conferences, run every year since 2007 by the National Cryptologic Centre (CCN, part of the CNI) in Madrid
+- Held together with the Jornadas de Ciberdefensa ESPDEF-CERT and a Congreso RootedCON track of technical sessions
+- Four days at the Kinepolis Ciudad de la Imagen cinemas (Pozuelo de Alarcon, Madrid), with a sponsor exhibition area
+- "Talks mostly in Spanish; registration fills up (over 9,000 in-person attendees in 2025, over 8,500 registration requests in 2026)"
+- Talk presentations are collected in a Ponencias section of the official site; no call for papers with formal proceedings
+- International chapters are held in Latin America (Colombia, Panama, Dominican Republic)
+editions:
+- year: 2025
+  start: 2025-11-24
+  end: 2025-11-27
+  location: Kinepolis Ciudad de la Imagen, Madrid, Spain
+  url: https://jornadas.ccn-cert.cni.es/index.php/es/xixjornadas
+- year: 2026
+  start: 2026-11-24
+  end: 2026-11-27
+  location: Kinepolis Ciudad de la Imagen, Pozuelo de Alarcon (Madrid), Spain
+  url: https://jornadas.ccn-cert.cni.es/es/xxjornadas
+sources:
+- https://jornadas.ccn-cert.cni.es/
+- https://jornadas.ccn-cert.cni.es/es/xxjornadas
+- https://jornadas.ccn-cert.cni.es/es/xxjornadas-localizacion
+- https://jornadas.ccn-cert.cni.es/es/programa-xxjornadas
+- https://jornadas.ccn-cert.cni.es/index.php/es/xixjornadas
+- https://jornadas.ccn-cert.cni.es/es/xixjornadas-medios/xixjornadas-ultima-hora/las-jornadas-stic-2025-concluyen-con-una-participacion-record-y-refuerzan-la-ciberseguridad-como-una-prioridad-nacional
+- https://jornadas.ccn-cert.cni.es/es/ediciones-anteriores-es/ediciones-en-espana
+- https://portal.core.edu.au/conf-ranks/?search=STIC&by=all&source=ICORE2026
+unverified:
+- No public call for papers found on the official site; speaker selection process not stated
+last_verified: 2026-11-20

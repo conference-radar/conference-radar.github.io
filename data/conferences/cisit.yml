@@ -1,0 +1,59 @@
+id: cisit
+name: CISIT
+full_name: Conference on Intelligent Systems and Information Technologies
+type: conference
+tier: minor
+areas: [ai, security, general]
+region: europe
+language: english
+frequency: annual
+organizer: Institute of Computer Science, University of Siedlce, with the IEEE CS Poland Chapter
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://cisit.uws.edu.pl/
+notes:
+- Run by the Institute of Computer Science, University of Siedlce (Poland), with the IEEE CS Poland Chapter; IEEE conference 70267 in 2026
+- Held at the University of Siedlce, on-site or hybrid
+- Each edition has a theme; 2026 was Cybersecurity in the Age of AI
+- Extended abstracts of 5 to 6 pages are peer reviewed; final papers up to 6 pages in IEEE Xplore
+- Post-conference full papers (up to 12 pages) get a second review for the journal Studia Informatica
+- Fee about 175 EUR early bird, 200 EUR regular (2026)
+- Camera-ready due after the conference (2026)
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-24
+  end: 2025-09-26
+  url: https://cisit.uws.edu.pl/past-conferences/
+- year: 2026
+  start: 2026-09-23
+  end: 2026-09-25
+  location: Siedlce, Poland (hybrid)
+  url: https://cisit.uws.edu.pl/
+  deadlines:
+  - kind: submission
+    date: 2026-06-01
+    label: Extended abstracts (extended)
+  - kind: notification
+    date: 2026-08-31
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://cisit.uws.edu.pl/
+- https://cisit.uws.edu.pl/important-dates/
+- https://cisit.uws.edu.pl/submissions/
+- https://cisit.uws.edu.pl/past-conferences/
+- https://cisit.uws.edu.pl/venue/
+- https://portal.core.edu.au/conf-ranks/?search=CISIT&by=all&source=ICORE2026
+unverified:
+- Location of the 2025 edition and proceedings of earlier editions not stated on the official site
+- Original 2026 abstract deadline (before extension) not shown
+- CISIT 2027 not announced as of 2026-11-20
+last_verified: 2026-11-20

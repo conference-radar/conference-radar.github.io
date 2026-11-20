@@ -1,0 +1,74 @@
+id: ppdp
+name: PPDP
+full_name: International Symposium on Principles and Practice of Declarative Programming
+type: conference
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: PPDP Steering Committee, in cooperation with ACM SIGPLAN and ACM SIGLOG
+organizer_country: [international]
+proceedings: ACM DL
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://ppdp25.github.io/site/
+  dblp: https://dblp.org/db/conf/ppdp/index.html
+notes:
+- Symposium for the declarative programming communities (functional, logic, answer-set and constraint handling programming)
+- Usually co-located with LOPSTR and often with ICLP (Rende 2025 with ICLP 2025 and LOPSTR 2025)
+- Proceedings in the ACM Digital Library up to 2025
+- 'PPDP 2025 categories: research papers up to 12 pages ACM 2-column excluding bibliography, system descriptions up to 10 pages, and experience reports'
+- In 2026 it was held as a single joint LOPSTR+PPDP symposium co-located with ICFP 2026 in Indianapolis, with proceedings in Springer LNCS (also listed under LOPSTR)
+- Mostly held in Europe (Lisbon 2023, Milan 2024, Rende 2025); Indianapolis in 2026
+- CORE C (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 27th PPDP
+  start: 2025-09-10
+  end: 2025-09-11
+  location: Rende, Italy (University of Calabria, co-located with ICLP 2025 and LOPSTR 2025)
+  url: https://ppdp25.github.io/site/
+  deadlines:
+  - kind: abstract
+    date: 2025-05-26
+    tz: AoE
+    label: Extended from 2025-05-18
+  - kind: submission
+    date: 2025-06-02
+    tz: AoE
+    label: Extended from 2025-05-30
+  - kind: notification
+    date: 2025-07-07
+  - kind: camera_ready
+    date: 2025-07-21
+- year: 2026
+  label: Joint LOPSTR+PPDP 2026
+  start: 2026-08-27
+  end: 2026-08-29
+  location: Indianapolis, USA (joint LOPSTR+PPDP 2026, co-located with ICFP 2026)
+  url: https://icfp26.sigplan.org/home/lopstr-ppdp-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-20
+    tz: AoE
+  - kind: submission
+    date: 2026-05-31
+    tz: AoE
+    label: Extended
+sources:
+- https://ppdp25.github.io/site/
+- https://ppdp25.github.io/site/cfp
+- https://icfp26.sigplan.org/home/lopstr-ppdp-2026
+- https://lopstr.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=PPDP&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- LOPSTR+PPDP 2026 notification and final version dates conflict on the official page, so they are left out
+- Not known whether PPDP returns as a separate symposium with ACM proceedings after the 2026 joint edition; no 2027 edition announced as of 2026-11-20
+- CCF list checked in a mirrored copy of the CCF 2026 list PDF (ccf.org.cn behind a captcha)

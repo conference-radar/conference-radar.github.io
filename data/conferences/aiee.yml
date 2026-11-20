@@ -1,0 +1,51 @@
+id: aiee
+name: AIEE
+full_name: International Conference on Artificial Intelligence in Electronics Engineering
+type: conference
+tier: minor
+areas: [ai, communications]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: AIEE conference secretariat with a host institution each year (Hangzhou International Innovation Institute of Beihang University in 2026)
+organizer_country: [china]
+proceedings: ACM DL (2018 and 2021 to 2025); 2026 publisher not named
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://www.aiee.net/
+notes:
+- Small conference on AI applied to electronics engineering, held since 2018 (Shanghai 2018 and 2019, Sanya 2020, virtual 2021 to 2023, Bangkok in January 2024, Hangzhou 2026)
+- The 2026 edition was the 7th, sponsored by the Hangzhou International Innovation Institute of Beihang University
+- Proceedings of the 2021 to 2025 editions are in the ACM Digital Library; the 2026 site only says papers go to the AIEE 2026 proceedings
+- Papers at least 4 pages; abstract, research paper, case study and work in progress submissions accepted
+- "Registration fee: 550 USD or 3700 CNY at the top rate (2026)"
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-13
+  location: Hangzhou, China
+  url: https://www.aiee.net/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+  - kind: notification
+    date: 2026-08-10
+  - kind: other
+    date: 2026-08-20
+    label: Registration
+sources:
+- https://www.aiee.net/
+- https://www.aiee.net/2024.html
+- https://www.aiee.net/2023.html
+- https://www.aiee.net/registration.html
+- https://dl.acm.org/conference/aiee/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=AIEE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Publisher of the 2026 proceedings not named on the official site
+- The official site has no page for a 2025 edition, although it lists ACM proceedings for 2021 to 2025
+- No 2027 edition announced yet

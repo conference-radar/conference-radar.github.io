@@ -1,0 +1,56 @@
+id: seai
+name: SEAI
+full_name: IEEE International Conference on Software Engineering and Artificial Intelligence
+type: conference
+tier: minor
+areas: [software, ai]
+region: china
+language: english
+frequency: annual
+organizer: Huaqiao University and Fuzhou University
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://www.seai.org/
+notes:
+- Co-sponsored by IEEE and Huaqiao University or Fuzhou University; hosted by their computer science colleges with the Fujian Computer Society
+- Held in Fujian, China every June (Xiamen 2021 to 2024, Fuzhou 2025 and 2026, Quanzhou 2027); 2022 was virtual
+- All proceedings since 2021 in IEEE Xplore, indexed in EI Compendex and Scopus
+- Topics cover AI methods and applications, software engineering, and software quality, testing and security
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-28
+  location: Fuzhou, China
+  url: https://www.seai.org/2026.html
+- year: 2027
+  start: 2027-06-18
+  end: 2027-06-20
+  location: Quanzhou, China
+  url: https://www.seai.org/
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+  - kind: notification
+    date: 2027-02-10
+  - kind: camera_ready
+    date: 2027-02-25
+sources:
+- https://www.seai.org/
+- https://www.seai.org/2026.html
+- https://www.seai.org/2025.html
+- https://www.seai.org/2024.html
+- https://www.seai.org/2023.html
+- https://www.seai.org/publication.html
+- https://www.seai.org/cfp.html
+- https://ieeexplore.ieee.org/xpl/conhome/11750140/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=SEAI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- SEAI 2026 deadlines are not stated on the official 2026 page

@@ -1,0 +1,52 @@
+id: icsss
+name: ICSSS
+full_name: International Conference on System Safety and Security
+type: conference
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+frequency: annual
+organizer: Georgia Southern University with a commercial conference secretariat (icsss_conf@academic.net)
+proceedings: IEEE Xplore (submitted for inclusion)
+archival: true
+indexing: [EI, Scopus]
+fee: 620 USD author full paper (2027, non-member); 560 USD IEEE member or student; 420 USD abstract presenter
+typical:
+  deadline_months: [6]
+  conference_months: [11]
+links:
+  website: https://www.icsss.net/
+notes:
+- 2027 edition hosted by Georgia Southern University at its Savannah campus, Georgia, USA
+- Registered and presented papers go into the conference proceedings, to be submitted to IEEE Xplore and indexed by EI Compendex and Scopus as claimed by the organizer
+- Secretariat uses an academic.net address and EasyChair; abstract-only presentation is also offered
+- Described as annual, but no previous editions are listed on the official site
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2027
+  start: 2027-11-03
+  end: 2027-11-05
+  location: Georgia Southern University, Savannah, GA, USA
+  url: https://www.icsss.net/
+  deadlines:
+  - kind: submission
+    date: 2027-06-20
+  - kind: notification
+    date: 2027-07-20
+  - kind: other
+    date: 2027-08-10
+    label: Registration
+sources:
+- https://www.icsss.net/
+- https://www.icsss.net/welcome.html
+- https://www.icsss.net/committee.html
+- https://www.icsss.net/reg.html
+- https://portal.core.edu.au/conf-ranks/?search=ICSSS&by=all&source=ICORE2026
+unverified:
+- No previous edition listed; 2027 may be the first edition
+- Sponsors (IEEE, IEEE SMC Society, Georgia Southern) are shown only as logos, not named in text
+- Organizer country of the secretariat not stated, so organizer_country is left out
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly
+last_verified: 2026-11-20

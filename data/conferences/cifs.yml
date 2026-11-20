@@ -1,0 +1,73 @@
+id: cifs
+name: CIFS
+full_name: International Workshop on Cloud, IoT and Fog Systems (and System Architectures)
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Zurich University of Applied Sciences (Service Prototyping Lab) and Federal University of Itajuba, co-located
+  workshop of IEEE/ACM UCC
+organizer_country: [europe, other]
+proceedings: IEEE Xplore (UCC workshop proceedings)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: http://cifs.servicelaboratory.ch/cifs2026/
+notes:
+- Workshop held every year since 2019 with IEEE/ACM UCC (and BDCAT); 8th edition in 2026
+- Topics are IoT, fog, edge and cloud continuum architectures, serverless, edge AI and security of these systems
+- Research papers up to 6 pages and industry reports of 3 to 6 pages in double-column format; double-blind review
+- Proceedings with UCC; the 2026 UCC author instructions say workshop papers go to IEEE Xplore, while the 2023 to 2025 workshop pages say ACM publishes them via IEEE Xplore and ACM DL
+- One author must attend in person and register at the full rate
+- Follows UCC (Taormina 2023, Sharjah 2024, Nantes 2025, Florianopolis 2026)
+- The UCC 2026 site lists it as "Cloud, IoT and Fog Systems (and Security)"
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  start: 2025-12-02
+  end: 2025-12-02
+  location: Nantes, France (with IEEE/ACM UCC 2025)
+  url: http://cifs.servicelaboratory.ch/cifs2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-07
+    tz: AoE
+    label: Extended from Sep 28
+  - kind: notification
+    date: 2025-10-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-10-31
+    tz: AoE
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Florianopolis, Brazil (with IEEE/ACM UCC 2026)
+  url: http://cifs.servicelaboratory.ch/cifs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+    tz: AoE
+    label: Extended from Sep 1
+  - kind: notification
+    date: 2026-09-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-15
+    tz: AoE
+sources:
+- http://cifs.servicelaboratory.ch/cifs2026/
+- http://cifs.servicelaboratory.ch/cifs2025/
+- http://cifs.servicelaboratory.ch/cifs2023/
+- https://ucc2025.gitlabpages.inria.fr/web/advanced_program/
+- https://ucc2026.ufsc.br/workshops/
+- https://ucc2026.ufsc.br/program/detailed-program/
+- https://ucc2026.ufsc.br/authorinstructions/ucc-and-workshops-camera-ready-guidelines/
+- https://portal.core.edu.au/conf-ranks/?search=CIFS&by=all&source=ICORE2026
+unverified:
+- CIFS 2027 not announced yet
+last_verified: 2026-11-20

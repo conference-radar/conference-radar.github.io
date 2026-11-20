@@ -1,0 +1,50 @@
+id: sicsi
+name: SICSI
+full_name: International Workshop on Secure Industrial Control Systems and Industrial-IoT
+type: workshop
+tier: minor
+areas: [security, networking]
+region: worldwide
+language: english
+organizer: Co-located with IEEE CNS; chairs from Johns Hopkins University, JHU Applied Physics Lab and Leidos
+organizer_country: [usa]
+proceedings: IEEE Xplore (IEEE CNS proceedings)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://aliteke.github.io/sicsi2025/
+notes:
+- Workshop on the security of industrial control systems and Industrial IoT, held with IEEE CNS
+- 1st edition in 2025 at IEEE CNS in Avignon, France
+- Papers in the IEEE CNS format; IEEE CNS 2025 states accepted and presented papers go into the CNS proceedings
+  and are submitted to IEEE Xplore
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-11
+  end: 2025-09-11
+  location: Avignon, France
+  url: https://aliteke.github.io/sicsi2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-10
+    tz: AoE
+    label: Extended from 2025-06-30
+  - kind: notification
+    date: 2025-07-21
+    tz: AoE
+    label: Extended from 2025-07-15
+  - kind: camera_ready
+    date: 2025-08-05
+    tz: AoE
+sources:
+- https://aliteke.github.io/sicsi2025/
+- https://cns2025.ieee-cns.org/workshops
+- https://cns2025.ieee-cns.org/authors/final-paper-submission-guidelines
+- https://portal.core.edu.au/conf-ranks/?search=SICSI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The workshop page itself does not state the proceedings; IEEE Xplore inclusion is taken from the IEEE CNS 2025 author pages
+- No 2026 edition found (no sicsi2026 page, not seen on the IEEE CNS 2026 site)

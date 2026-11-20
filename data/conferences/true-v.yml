@@ -1,0 +1,46 @@
+id: true-v
+name: TRUE-V
+full_name: Workshop on Trustworthy, Robust, Uncertainty-Aware, and Explainable Visual Intelligence and Beyond
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+organizer: Workshop organizers from UC San Diego, Washington State University, Ben Gurion University, Intel Labs, Apple, Amazon and LLNL; co-located with CVPR
+organizer_country: [usa, other]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://trustworthy-ai-workshop.github.io/cvpr2026-TRUE-V/
+notes:
+- CVPR workshop on trustworthy, robust, uncertainty-aware and explainable visual intelligence
+- Half-day workshop at CVPR 2026 in Denver
+- Non-archival; papers are not included in the CVPR workshop proceedings
+- Up to 4 pages excluding references in the CVPR 2026 template, double-blind review
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://trustworthy-ai-workshop.github.io/cvpr2026-TRUE-V/
+  deadlines:
+  - kind: submission
+    date: 2026-03-20
+    tz: AoE
+  - kind: notification
+    date: 2026-04-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-17
+    tz: AoE
+sources:
+- https://trustworthy-ai-workshop.github.io/cvpr2026-TRUE-V/
+- https://portal.core.edu.au/conf-ranks/?search=TRUE-V&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The site does not say which edition 2026 was or list earlier editions, so the frequency is unknown
+- No edition after CVPR 2026 announced as of 2026-11-20

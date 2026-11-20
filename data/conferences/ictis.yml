@@ -1,0 +1,47 @@
+id: ictis
+name: ICTIS
+full_name: International Conference on Information and Communication Technology for Intelligent Systems
+type: conference
+tier: minor
+areas: [general, ai, communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: GR Scholastic (international managing partner), with the ICTCS / Global Knowledge Research Foundation group
+organizer_country: [india]
+proceedings: Springer Smart Innovation, Systems and Technologies
+archival: true
+typical:
+  conference_months: [4, 5]
+links:
+  website: https://ictisthailand.com/
+notes:
+- Broad ICT conference from the same organizer group as ICTCS, SmartCom, ICT4SD and ICICT London (GR Scholastic)
+- Proceedings published by Springer in the Smart Innovation, Systems and Technologies (SIST) series under the title
+  'ICT for Intelligent Systems'; ICTIS 2025 filled at least 14 volumes
+- 2027 edition is hybrid and split in two phases; Bangkok, Thailand (7 to 9 Apr 2027, physical on 7 Apr) and New York,
+  USA (19 to 21 May 2027, physical on 21 May)
+- Host cities move around; ICTIS 2024 was held in Las Vegas, USA and ICTIS 2025 in New York, USA (Springer proceedings), with the organizer based in Ahmedabad, India
+- Very large, high-acceptance event typical of this organizer; regarded as a minor venue
+- Not listed in ICORE2026
+editions:
+- year: 2027
+  start: 2027-04-07
+  end: 2027-04-09
+  location: Bangkok, Thailand (hybrid; physical on Apr 7); second phase in New York, USA, 19 to 21 May 2027
+  url: https://ictisthailand.com/
+  status: confirmed
+sources:
+- https://ictisthailand.com/
+- https://ictisusa.com/
+- https://gr-conferences.com/
+- https://doi.org/10.1007/978-981-95-1361-1
+- https://doi.org/10.1007/978-981-97-5799-2
+- https://portal.core.edu.au/conf-ranks/?search=ICTIS&by=all&source=ICORE2026
+unverified:
+- Submission, notification and camera-ready deadlines for 2027 not found on the official site (no call for papers page reachable)
+- Edition number inconsistent on the official sites (13th on the Bangkok site, 14th on the New York site)
+- Dates of the 2024 to 2026 editions not stated on the official site; 2024 and 2025 host cities taken from the Springer proceedings pages, 2026 host city not confirmed
+- Proceedings series taken from the Springer volumes (the official site shows only Springer as publication partner)
+- Not checked against the CCF 2026 list directly (not believed to be listed)
+last_verified: 2026-11-20

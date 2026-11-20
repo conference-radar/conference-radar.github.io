@@ -1,0 +1,41 @@
+id: ccd-cvpr
+name: CCD
+full_name: IEEE International Workshop on Computational Cameras and Displays
+type: workshop
+tier: minor
+areas: [vision]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizing committee (UC Irvine, Purdue University, UC Riverside, Imperial College London in 2026); co-located with CVPR
+organizer_country: [usa]
+proceedings: None (poster-only workshop, no paper proceedings)
+archival: false
+typical:
+  conference_months: [6]
+links:
+  website: https://alumni.media.mit.edu/~ayush/CCD/
+notes:
+- CVPR workshop on computational imaging, photography, optics, sensing and display systems
+- Long-running series; editions listed on the official site for 2014, 2016, 2017, 2018, 2020 to 2026 (15th edition in 2026)
+- Program of keynotes and invited talks plus a call for posters, spotlight presentations and a best poster award
+- Posters are uploaded through a form; the 2026 accepted poster list was posted on May 26
+- Not in the CVF Open Access CVPR 2026 Workshops proceedings
+- Hosts related challenges (single photon imaging challenge results in 2026)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 15th CCD, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (Colorado Convention Center, with CVPR 2026)
+  url: https://alumni.media.mit.edu/~ayush/CCD/
+sources:
+- https://alumni.media.mit.edu/~ayush/CCD/
+- https://cvpr.thecvf.com/virtual/2026/events/workshop
+- https://openaccess.thecvf.com/CVPR2026_workshops/menu
+- https://portal.core.edu.au/conf-ranks/?search=CCD&by=all&source=ICORE2026
+unverified:
+- Poster submission deadline for 2026 not stated on the official site
+- Next edition (2027) not announced yet
+last_verified: 2026-11-20

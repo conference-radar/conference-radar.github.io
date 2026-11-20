@@ -1,0 +1,71 @@
+id: icist-ist
+name: ICIST
+full_name: International Conference on Intelligent Science and Technology
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Hohai University (College of Computer Science and Software Engineering), co-sponsored by IEEE in 2026
+organizer_country: [china]
+proceedings: IEEE (2026, submitted to IEEE Xplore); ACM DL (2018 to 2022)
+archival: true
+indexing: [EI Compendex, Scopus]
+fee: About 550 USD (2027, regular author)
+typical:
+  deadline_months: [3]
+  conference_months: [7, 8]
+links:
+  website: http://www.icist.org/
+notes:
+- Not the same venue as the International Conference on Information Science and Technology (icist)
+- Smaller conference; secretariat contact via a yeah.net address and submission via EasyChair
+- "Editions: London 2018, Durham (UK) 2019, online 2021 and 2022, then a gap until Nanjing 2026 and 2027"
+- 2018 to 2022 proceedings published by ACM; the 2026 call for papers says proceedings by IEEE, submitted to IEEE Xplore
+- Double-blind review stated; full papers at least five pages, extra charge above six
+- Tracks on AI and machine learning, big data, robotics, HCI, intelligent healthcare and smart cities
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 5th ICIST
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Nanjing, China (Hohai University)
+  url: http://www.icist.org/2026.html
+- year: 2027
+  label: 6th ICIST
+  start: 2027-08-06
+  end: 2027-08-08
+  location: Nanjing, China
+  url: http://www.icist.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-03-05
+  - kind: notification
+    date: 2027-04-05
+  - kind: other
+    date: 2027-04-20
+    label: Registration
+sources:
+- http://www.icist.org/
+- http://www.icist.org/cfp.html
+- http://www.icist.org/sub.html
+- http://www.icist.org/register.html
+- http://www.icist.org/news.html
+- http://www.icist.org/2026.html
+- http://www.icist.org/2022.html
+- http://www.icist.org/2021.html
+- http://www.icist.org/2019.html
+- http://www.icist.org/2018.html
+- http://www.icist.org/files/ICIST-CFP-EV.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ICIST&by=all&source=ICORE2026
+unverified:
+- ICIST 2026 proceedings not yet confirmed in IEEE Xplore
+- Publisher for the 2027 proceedings not stated (only "conference proceedings")
+- 2026 deadlines conflict between the flyer (June 15) and the news page (extended to May 15), so they are left out
+- No deadline time or time zone stated
+- CCF 2026 list not checked directly on ccf.org.cn (site behind a captcha); not expected to be listed
+- Acceptance rate not published
+last_verified: 2026-11-20

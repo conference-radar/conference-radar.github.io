@@ -1,0 +1,55 @@
+id: optica-quantum
+name: Optica Quantum 2.0
+full_name: Optica Quantum 2.0 Conference and Exhibition
+type: conference
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Optica
+organizer_country: [usa]
+proceedings: Optica Publishing Group (Technical Digest)
+archival: true
+indexing: [Ei Compendex, Scopus]
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://www.optica.org/events/topical_meetings/quantum/
+notes:
+- Optica conference and exhibition on quantum technologies
+- Topics include quantum computing, quantum networking and communications, quantum networking devices, quantum sensors and metrology, and the quantum ecosystem
+- "Submission format: 35-word abstract plus a 2-page summary for the Technical Digest, peer reviewed"
+- Accepted and presented papers are published on the Optica Publishing Group platform and indexed in Ei Compendex, Scopus and Google Scholar
+- Held in Europe or North America (Rotterdam 2024, San Francisco 2025, Glasgow 2026, Copenhagen 2027)
+- Co-located with the Optica Quantum Executive Forum in 2027
+- Physics and photonics venue rather than computer science; not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-18
+  location: Glasgow, Scotland, UK
+  url: https://www.optica.org/events/topical_meetings/quantum/about/
+- year: 2027
+  start: 2027-06-06
+  end: 2027-06-10
+  location: Bella Center, Copenhagen, Denmark
+  url: https://www.optica.org/events/topical_meetings/quantum/
+  deadlines:
+  - kind: submission
+    date: 2027-02-09
+    time: "12:00"
+    tz: EST
+    label: Abstract and 2-page summary
+sources:
+- https://www.optica.org/events/topical_meetings/quantum/
+- https://www.optica.org/events/topical_meetings/quantum/about/
+- https://www.optica.org/events/topical_meetings/quantum/submit_a_paper/
+- https://portal.core.edu.au/conf-ranks/?search=Quantum+2.0&by=all&source=ICORE2026
+unverified:
+- The event page shows the deadline as 13:30 while the submission page says 12:00 Eastern Time (UTC-5); the submission page value is used
+- Notification date for 2027 not stated
+- 2024 and 2025 locations taken from Optica Publishing Group DOI metadata, not from the conference page
+- CCF 2026 list could not be loaded; not expected to list a photonics venue
+last_verified: 2026-11-20

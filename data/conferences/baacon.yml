@@ -1,0 +1,43 @@
+id: baacon
+name: BaaCon
+full_name: BaaCon (grassroots New Zealand hacker conference)
+type: industry
+tier: minor
+areas: [security]
+region: oceania
+language: english
+organizer: BaaCon (the Shearing Gang, volunteer organisers)
+organizer_country: [new-zealand]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://baacon.nz/
+notes:
+- Grassroots Kiwi hacker con in a camping format on a sheep station in the Wairarapa, about 2.5 hours drive from Wellington
+- Capped at 50 people, R18, catered, no internet or cellphone reception at the venue
+- Held under TLP:RED, so talks are not published; AI use in a talk must be disclosed
+- Call for papers with speaker notification about a month later; first edition in December 2026
+editions:
+- year: 2026
+  start: 2026-12-05
+  end: 2026-12-06
+  location: Wairarapa, New Zealand
+  url: https://baacon.nz/important-dates-for-baacon-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Call for papers closes
+  - kind: notification
+    date: 2026-09-30
+sources:
+- https://baacon.nz/
+- https://baacon.nz/important-dates-for-baacon-2026/
+- https://baacon.nz/faq/
+- https://portal.core.edu.au/conf-ranks/?search=BaaCon&by=all&source=ICORE2026
+unverified:
+- Whether BaaCon will be held every year (2026 is the first edition)
+- Ticket price not stated on the official site
+last_verified: 2026-11-20

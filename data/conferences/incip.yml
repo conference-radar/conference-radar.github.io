@@ -1,0 +1,57 @@
+id: incip
+name: INCIP
+full_name: International Conference on Next Generation Communication & Information Processing
+type: conference
+tier: minor
+areas: [communications, ai, security]
+region: south-asia
+language: english
+frequency: annual
+organizer: CCRI, Asia University with a host university
+organizer_country: [taiwan, india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [8, 9]
+links:
+  website: https://incip.in/
+notes:
+- Series run by the International Center for AI and Cyber Security Research and Innovations (CCRI), Asia University, Taiwan, with a rotating host university
+- 2025 (23 to 24 January) at Manipal Institute of Technology Bengaluru (MAHE), hybrid; 2026 at Central University of Karnataka, Kalaburagi
+- 2027 moves to Asia University, Taiwan
+- Proceedings in IEEE Xplore (2025 IEEE record 64058, 2026 IEEE record 69032), technical co-sponsor IEEE Bangalore Section
+- For 2027 the proposal will be submitted to IEEE for publication consideration
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  label: 2nd INCIP
+  start: 2026-08-20
+  end: 2026-08-21
+  location: Kalaburagi, India
+  url: https://incip.in/index.php/incip-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-06-01
+  - kind: camera_ready
+    date: 2026-07-15
+- year: 2027
+  label: 3rd INCIP
+  start: 2027-09-16
+  end: 2027-09-17
+  location: Asia University, Taiwan
+  url: https://incip.in/
+sources:
+- https://incip.in/
+- https://incip.in/index.php/incip-2025/
+- https://incip.in/index.php/incip-2026/
+- https://ieeexplore.ieee.org/xpl/conhome/11018833/proceeding
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/69032
+- https://portal.core.edu.au/conf-ranks/?search=INCIP&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- INCIP 2027 deadlines not yet posted; the important-dates block on the home page still shows the 2026 dates
+- IEEE publication of INCIP 2027 not yet confirmed

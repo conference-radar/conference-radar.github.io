@@ -1,0 +1,52 @@
+id: safe-sn
+name: SAFE-SN
+full_name: 'International Workshop on Safeguarding Social Networks: Privacy, Security, Trust, and Truth in the Age of Misinformation'
+type: workshop
+tier: minor
+areas: [security, data]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from University Mediterranea of Reggio Calabria and University of Calabria, Italy; co-located with SNAMS (2025) and ASONAM (2024)
+organizer_country: [europe]
+proceedings: IEEE (SNAMS proceedings, IEEE Xplore)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/safe-sn2025
+notes:
+- Small workshop on privacy, security, trust and misinformation in social networks
+- 1st edition with ASONAM 2024 at the University of Calabria, Rende, Italy; 2nd edition with SNAMS 2025 in Vienna, Austria
+- Program chairs are Francesco Buccafurri (Univ. Mediterranea of Reggio Calabria) and Sara Lazzaro (Univ. of Calabria)
+- Full papers up to 6 pages in IEEE format, submitted via EasyChair; at least one author must register and present
+- Accepted papers appear in the IEEE Proceedings of SNAMS 2025 as workshop papers
+- Not found in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 2nd SAFE-SN, with SNAMS 2025
+  start: 2025-11-25
+  end: 2025-11-28
+  location: Vienna, Austria
+  url: https://sites.google.com/view/safe-sn2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-30
+    label: Extended from 2025-09-15
+  - kind: notification
+    date: 2025-10-15
+  - kind: camera_ready
+    date: 2025-10-25
+sources:
+- https://sites.google.com/view/safe-sn2025
+- https://sites.google.com/view/safe-sn2025/call-for-paper
+- https://sites.google.com/view/safe-sn2025/paper-submission
+- https://sites.google.com/view/safe-sn2025/past-editions
+- https://sites.google.com/dimes.unical.it/safe-sn/
+- https://emergingtechnet.org/SNAMS2025/workshops.php
+last_verified: 2026-11-20
+unverified:
+- No 2026 edition found; it is not listed on the SNAMS 2026 workshops page checked, so the workshop may not run every year
+- The workshop page says IEEE Proceedings of SNAMS 2025 but does not name IEEE Xplore explicitly
+- 2025 deadline time zone not stated

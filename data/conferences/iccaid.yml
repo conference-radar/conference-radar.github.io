@@ -1,0 +1,51 @@
+id: iccaid
+name: ICCAID
+full_name: International Conference on Computer Graphics, Artificial Intelligence and Data Processing
+type: conference
+tier: minor
+areas: [vision, ai, data]
+region: china
+language: english
+frequency: annual
+organizer: Jiangxi Key Laboratory of Advanced Electronic Materials and Devices, with co-organizers including the CCF Nanchang branch; 2025 edition at Nanchang Hangkong University
+organizer_country: [china]
+proceedings: SPIE Proceedings
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: https://www.iccaid.net/
+notes:
+- Covers computer graphics, geometric modeling, VR and mixed reality, image and video processing, AI and data processing
+- Accepted papers published in Proceedings of SPIE (ISSN 0277-786X) and submitted to EI Compendex and Scopus
+- Each paper reviewed by two or three reviewers
+- Recent editions held in Nanchang (2025 at Nanchang Hangkong University, 2026)
+- Selected papers can go to the journal Graphical Models
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Nanchang, China
+  url: https://www.iccaid.net/
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+  - kind: notification
+    date: 2026-09-18
+  - kind: camera_ready
+    date: 2026-10-02
+sources:
+- https://www.iccaid.net/
+- https://www.iccaid.net/Publication
+- https://www.iccaid.net/ICCAID2025
+- https://www.iccaid.net/GMOD
+- https://portal.core.edu.au/conf-ranks/?search=ICCAID&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Locations of the 2021 to 2024 editions not stated on the official site
+- Exact dates of the 2025 edition not given beyond the main day of 2025-11-01
+- No 2027 edition announced yet
+- No deadline time or time zone stated

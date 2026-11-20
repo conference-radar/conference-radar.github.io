@@ -1,0 +1,53 @@
+id: nevi
+name: NeVi
+full_name: "Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Siena, University of Florence, University of Strathclyde, Dublin City University, University of Galway, Maastricht University and the Italian Institute of Technology; co-located with ECCV or ICCV
+organizer_country: [europe]
+proceedings: ECCV Workshops proceedings (Springer) or ICCV Workshops proceedings (CVF Open Access), regular papers only
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 10]
+links:
+  website: https://sites.google.com/view/nevi2026
+notes:
+- Workshop on event cameras and neuromorphic vision (event representations, spiking neural networks, applications, hardware)
+- Held at ECCV 2024 in Milan, ICCV 2025 in Honolulu and ECCV 2026 in Malmo
+- Regular papers of 4 to 14 pages excluding references, double-blind review by at least two reviewers on OpenReview, published in the host conference workshop proceedings
+- Abstract papers (at least 4 pages, single blind) for published or ongoing work are presented without proceedings
+- Distinct from the CVPR Event-based Vision workshop (eventvision)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: NeVi 2026, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden
+  url: https://sites.google.com/view/nevi2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-03
+    label: Extended from 2026-07-03 and 2026-07-22
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://sites.google.com/view/nevi2026
+- https://sites.google.com/view/nevi2026/dates
+- https://sites.google.com/view/nevi2026/paper-submission
+- https://sites.google.com/view/nevi2026/organization
+- https://sites.google.com/view/nevi2024
+- https://openaccess.thecvf.com/ICCV2025_workshops/NeVi
+- https://portal.core.edu.au/conf-ranks/?search=NeVi&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the ICCV 2025 edition not found on an official page
+- Deadline times and time zones for 2026 not stated
+- Next edition (2027) not announced yet

@@ -1,0 +1,50 @@
+id: ai4mental-kdd
+name: AI4Mental
+full_name: International Workshop on AI for Cognitive and Mental Health Support
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from The Hong Kong Polytechnic University and UCLA; co-located with KDD
+organizer_country: [china, usa]
+proceedings: None (non-archival; accepted papers archived on the workshop website, not in the ACM Digital Library)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://chrystalii.github.io/AI4mental/
+notes:
+  - Half-day KDD workshop on AI for cognitive and mental health, covering AI as assessment, emotional support and psychological intervention
+  - Held at KDD 2026 in Jeju, Korea (9 August 2026, ICC Jeju)
+  - Long papers up to 8 pages and short papers up to 4 pages in the ACM sigconf format, double-blind review via EasyChair
+  - Accepted papers stay on the workshop website and are not in the ACM Digital Library
+  - The lead organizer previously organized workshops at ICDE 2025 and ICDM 2025
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With KDD 2026
+    start: 2026-08-09
+    end: 2026-08-09
+    location: Jeju, Korea (with KDD 2026)
+    url: https://chrystalii.github.io/AI4mental/
+    deadlines:
+      - kind: submission
+        date: 2026-05-30
+        tz: AoE
+        label: Extended from 2026-04-30
+      - kind: notification
+        date: 2026-06-10
+        label: Revised from 2026-06-04
+      - kind: camera_ready
+        date: 2026-06-19
+sources:
+  - https://chrystalii.github.io/AI4mental/
+  - https://chrystalii.github.io/AI4mental/cfp/
+  - https://chrystalii.github.io/AI4mental/organizers/
+  - https://kdd2026.kdd.org/workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=Mental&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - No 2027 edition announced as of 2026-11-20

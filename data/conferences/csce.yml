@@ -1,0 +1,63 @@
+id: csce
+name: CSCE
+full_name: World Congress in Computer Science, Computer Engineering, and Applied Computing
+type: conference
+tier: minor
+areas: [general, ai, security, networking, data]
+region: north-america
+language: english
+frequency: annual
+organizer: American Council on Science and Education (ACSE)
+organizer_country: [usa]
+proceedings: Springer CCIS
+archival: true
+rank:
+  core: "National: USA"
+fee: 675 USD regular, 575 USD student, 495 USD per extra paper (2026)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [7]
+links:
+  website: https://www.american-cse.org/csce2026/
+notes:
+- Large federated congress run by the American Council on Science and Education; sister event of CSCI (December)
+- Held every July in Las Vegas (Luxor Hotel), about 21 joint conferences in 2026
+- Tracks include SAM (Security and Management), ICWN (Wireless Networks), ICAI (Artificial Intelligence), PDPTA, IPCV, ICDATA and SERP
+- Proceedings by Springer Nature; 2024 track papers appeared as revised selected papers in Springer CCIS
+- Rolling review with a decision about one week after submission, final cutoff in early July
+- Online presentation options offered alongside the in-person event
+- Very large event with rolling decisions, widely regarded as low tier
+- "CORE rank: National: USA (ICORE2026, listed as WORLDCOMP); not on the CCF 2026 list"
+editions:
+- year: 2025
+  start: 2025-07-21
+  end: 2025-07-24
+  location: Las Vegas, USA
+  url: https://www.american-cse.org/csce2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-12
+    label: Rolling submission, final cutoff; notification about 7 days after submission
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  location: Luxor Hotel, Las Vegas, USA
+  url: https://www.american-cse.org/csce2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    label: Rolling submission, final cutoff; notification about 7 days after submission
+sources:
+- https://www.american-cse.org/csce2026/
+- https://www.american-cse.org/csce2026/deadlines
+- https://www.american-cse.org/csce2026/publisher
+- https://www.american-cse.org/csce2026/conferences
+- https://www.american-cse.org/csce2025/
+- https://link.springer.com/book/10.1007/978-3-031-85638-9
+- https://portal.core.edu.au/conf-ranks/?search=WORLDCOMP&by=all&source=ICORE2026
+unverified:
+- The official site is rendered by JavaScript; dates were read from the site's own page data
+- Springer series for the 2025 and 2026 proceedings not confirmed (the site names Springer Nature only; CCIS confirmed for 2024)
+- Indexing as claimed by the organizer, not checked in the databases
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

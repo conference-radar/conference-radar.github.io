@@ -1,0 +1,48 @@
+id: delta-iclr
+name: DeLTa
+full_name: "Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: DeLTa workshop organizers (University of Tokyo, RIKEN AIP, Georgia Tech, Google DeepMind, University of Michigan, University of Sydney, Institute of Statistical Mathematics); co-located with ICLR
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://delta-workshop.github.io/DeLTa2026/
+notes:
+- ICLR workshop on the theory, principles and efficacy of deep generative models (diffusion, flow and other generative models)
+- 1st edition at ICLR 2025, 2nd edition at ICLR 2026 in Rio de Janeiro
+- Non-archival; no formal proceedings, accepted papers appear on OpenReview and may be published elsewhere
+- Long papers up to 8 pages and short or tiny papers up to 4 pages, excluding references and appendices; double-blind review on OpenReview
+- Not the INSTICC DeLTA conference (Deep Learning Theory and Applications), which has its own entry
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with ICLR 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Rio de Janeiro, Brazil
+  url: https://delta-workshop.github.io/DeLTa2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-08
+  - kind: notification
+    date: 2026-03-01
+  - kind: camera_ready
+    date: 2026-03-24
+sources:
+- https://delta-workshop.github.io/DeLTa2026/
+- https://iclr.cc/virtual/2026/workshop/10000780
+- https://iclr.cc/virtual/2025/workshop/23972
+- https://portal.core.edu.au/conf-ranks/?search=DeLTa&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Time zone of the 2026 deadlines not stated on the official site
+- No 2027 edition announced as of 2026-11-20

@@ -1,0 +1,53 @@
+id: ehpwas
+name: eHPWAS
+full_name: International Workshop on e-Health Pervasive Wireless Applications and Services
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Univ Rennes, CNRS, IRISA (co-located workshop of IEEE WiMob)
+organizer_country: [europe]
+proceedings: IEEE Xplore (WiMob proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://www.ehpwas.org/
+notes:
+- Workshop of IEEE WiMob on e-health applications and services over pervasive wireless networks; held every
+  year since 2013 (14th edition in 2026)
+- Accepted papers are published in the WiMob proceedings and submitted to IEEE Xplore; selected papers may be
+  invited to a journal special issue
+- Organizer and general chair from Univ Rennes, CNRS, IRISA; co-chairs from University College London, Gustave
+  Eiffel University and University of Pau in 2026
+- Follows WiMob around the world (Paris 2024, Marrakech 2025, Avignon 2026); virtual in 2020
+- Registration is the WiMob registration; full-day workshop at WiMob
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-14
+  location: Avignon, France
+  url: https://www.ehpwas.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Papers (last extension)
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://www.ehpwas.org/
+- http://www.wimob.org/wimob2026/workshops.php
+- http://www.wimob.org/wimob2026/cfw.php
+- http://www.wimob.org/wimob2026/programme.php
+- http://www.wimob.org/wimob2025/workshops.php
+- https://portal.core.edu.au/conf-ranks/?search=eHPWAS&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated; original 2026 deadline before the extensions not recorded
+- eHPWAS 2027 not announced yet
+last_verified: 2026-11-20

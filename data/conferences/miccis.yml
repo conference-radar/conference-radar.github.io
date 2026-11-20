@@ -1,0 +1,63 @@
+id: miccis
+name: MICCIS
+full_name: International Conference on Mobile Internet, Cloud Computing and Information Security
+type: conference
+tier: minor
+areas: [security, networking, systems]
+region: china
+language: english
+frequency: annual
+organizer: Chinese host universities (2026 Jimei University)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://www.miccis.org/
+notes:
+- Held in China every April (2025 Dongguan, 2026 Xiamen, 2027 Xiamen)
+- 2026 edition sponsored by Jimei University, co-sponsored by the Fujian Computer Society and Fujian Association for Artificial Intelligence
+- Proceedings of 2023 to 2026 in IEEE Xplore (published via IEEE CPS); 2023 to 2025 indexed in EI Compendex and Scopus
+- Selected extended papers may be recommended to journals such as Computer Networks and Frontiers of Computer Science
+- Topics cover mobile internet and IoT, cloud computing and big data, and information security (intrusion detection, access control, cryptography)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-10
+  end: 2026-04-12
+  location: Xiamen, China
+  url: https://www.miccis.org/home-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-02-28
+  - kind: notification
+    date: 2026-03-20
+  - kind: camera_ready
+    date: 2026-04-01
+- year: 2027
+  start: 2027-04-10
+  end: 2027-04-12
+  location: Xiamen, China
+  url: https://www.miccis.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-28
+  - kind: notification
+    date: 2027-03-20
+  - kind: camera_ready
+    date: 2027-04-01
+sources:
+- https://www.miccis.org/
+- https://www.miccis.org/home-2026/
+- https://www.miccis.org/home-2025-3/
+- https://www.miccis.org/call-for-papers/
+- https://ieeexplore.ieee.org/xpl/conhome/10242357/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/10625701/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=MICCIS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The official site does not name the publisher for the 2027 proceedings
+- MICCIS 2027 sponsors are listed as to be updated

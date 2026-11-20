@@ -1,0 +1,58 @@
+id: icmlant
+name: ICMLANT
+full_name: IEEE International Conference on Machine Learning and Applied Network Technologies
+type: conference
+tier: minor
+areas: [ai, networking]
+region: online
+language: english
+frequency: annual
+organizer: STEAM Robotics Academy, with technical support of the IEEE El Salvador Section
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+fee: 120 USD IEEE member, 150 USD non-member (2026, late rate; early bird 100 and 120 USD)
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.icmlant.com/
+notes:
+- Small online conference run by the STEAM Robotics Academy with technical support of the IEEE El Salvador Section
+- Online every year since 2020; sessions run on El Salvador time (UTC-6)
+- All six editions so far (2020 to 2025) are in IEEE Xplore and indexed in Scopus; 2026 is IEEE conference record 72035
+- Four tracks (AI and machine learning, networks, IoT, signal processing); full papers up to 6 pages, double-blind review via Microsoft CMT
+- Low registration fee (100 to 150 USD in 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  label: 6th ICMLANT
+  location: Online
+  url: https://www.icmlant.com/
+- year: 2026
+  label: 7th ICMLANT
+  start: 2026-12-10
+  end: 2026-12-11
+  location: Online
+  url: https://www.icmlant.com/
+  deadlines:
+  - kind: submission
+    date: 2026-10-12
+  - kind: notification
+    date: 2026-11-09
+  - kind: camera_ready
+    date: 2026-11-20
+    label: Camera-ready and author registration
+  - kind: other
+    date: 2026-12-04
+    label: Late registration closes
+sources:
+- https://www.icmlant.com/
+- https://cmt3.research.microsoft.com/ICMLANT2026
+- https://portal.core.edu.au/conf-ranks/?search=ICMLANT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Exact dates of the 2025 edition are not on the official site (IEEE Xplore metadata gives 2025-12-11 to 12)
+- IEEE conference metadata lists San Salvador or Soyapango, El Salvador as the location of past editions, while the official site describes all of them as online
+- No deadline time or time zone stated

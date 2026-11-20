@@ -1,0 +1,51 @@
+id: cmasdl
+name: CMASDL
+full_name: AAAI Workshop on Cooperative Multi-Agent Systems Decision-Making and Learning
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from Bradley University, Polytechnique Montreal, Dartmouth College and Northeastern University; co-located with AAAI
+organizer_country: [usa, canada]
+proceedings: None (non-archival; accepted papers and posters hosted on the workshop website)
+archival: false
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2, 3]
+links:
+  website: https://www.is3rlab.org/aaai25-cmasdl-workshop.github.io/
+notes:
+  - AAAI workshop on cooperative multi-agent decision-making and learning; the 2025 theme was Human-Multi-Agent Cognitive Fusion
+  - First held at AAAI-24 (subtitled From Individual Needs to Swarm Intelligence), then at AAAI 2025 (Philadelphia, 3 March 2025, full day)
+  - Short (2 to 4 pages) and long (6 to 8 pages) papers in AAAI format, single-blind peer review via EasyChair
+  - Non-archival; work published or under submission elsewhere may be submitted
+  - Not in the AAAI-26 or AAAI-27 workshop lists
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: With AAAI 2025
+    start: 2025-03-03
+    end: 2025-03-03
+    location: Philadelphia, USA (with AAAI 2025)
+    url: https://www.is3rlab.org/aaai25-cmasdl-workshop.github.io/
+    deadlines:
+      - kind: submission
+        date: 2024-12-06
+        time: "23:59"
+        tz: PST
+        label: Extended from 2024-11-22
+      - kind: notification
+        date: 2024-12-25
+      - kind: camera_ready
+        date: 2025-01-20
+sources:
+  - https://www.is3rlab.org/aaai25-cmasdl-workshop.github.io/
+  - https://aaai.org/conference/aaai/aaai-25/workshop-list/
+  - https://aaai.org/conference/aaai/aaai-26/workshops-program/
+  - https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/
+  - https://portal.core.edu.au/conf-ranks/?search=Cooperative+Multi&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - No 2026 or 2027 edition found; the series may be dormant

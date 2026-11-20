@@ -1,0 +1,47 @@
+id: aca-workshop
+name: ACA
+full_name: Workshop on Algorithmic Collective Action
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers (University of Waterloo, Simon Fraser University, MPI-IS and ELLIS Institute Tuebingen, CMU, UT Austin, ETS Montreal); co-located with NeurIPS
+organizer_country: [canada, usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://acaworkshop.github.io/
+notes:
+- NeurIPS workshop on how participants of algorithmic systems coordinate to steer them, drawing on ML, statistics, optimization, economics and the humanities
+- 2025 edition at NeurIPS 2025 in San Diego, with a satellite event at UNAM in Mexico City alongside NeurIPS Mexico City
+- Non-archival
+- Papers of 3 to 6 content pages in a workshop NeurIPS style, double-blind review on OpenReview
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, USA (with NeurIPS 2025; satellite at UNAM, Mexico City)
+  url: https://acaworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-22
+    tz: AoE
+  - kind: notification
+    date: 2025-09-19
+sources:
+- https://acaworkshop.github.io/
+- https://acaworkshop.github.io/cfp.html
+- https://acaworkshop.github.io/about.html
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=Collective+Action&by=all&source=ICORE2026
+unverified:
+- Only one edition (NeurIPS 2025) found; the site does not mention earlier editions
+- Not in the NeurIPS 2026 workshop list, and no later edition announced as of 2026-11-20
+- Camera-ready date for 2025 not stated
+last_verified: 2026-11-20

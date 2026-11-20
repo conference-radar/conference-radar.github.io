@@ -1,0 +1,67 @@
+id: icpeca
+name: ICPECA
+full_name: IEEE International Conference on Power, Electronics and Computer Applications
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: Conference secretariat in China, held in collaboration with the IEEE Harbin Section
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 450 USD IEEE member, 500 USD non-member (2027, early bird before 2026-11-10); student authors 50 USD less
+typical:
+  deadline_months: [10]
+  conference_months: [1]
+links:
+  website: http://www.icpeca.org/
+notes:
+- Annual since 2021 and held in late January; the 2027 edition (7th) is in Shenyang, China, in collaboration with the IEEE Harbin Section
+- Three tracks covering energy and power engineering, electronic engineering and computer applications
+- 2021 to 2023 proceedings are in IEEE Xplore (216, 262 and 344 accepted papers) and indexed in EI Compendex
+- Papers of 4 to 6 pages in IEEE format, 50 USD per extra page; virtual presentation offered
+- Same conference secretariat contact as ICPICS
+- Not listed in CORE ICORE2026
+editions:
+- year: 2023
+  label: 3rd ICPECA
+  start: 2023-01-29
+  end: 2023-01-31
+  url: http://www.icpeca.org/history3.html
+- year: 2027
+  label: 7th ICPECA
+  start: 2027-01-29
+  end: 2027-01-31
+  location: Grand Metropark North York Hotel, Shenyang, China
+  url: http://www.icpeca.org/
+  deadlines:
+  - kind: submission
+    date: 2026-10-29
+  - kind: other
+    date: 2026-11-10
+    label: Early-bird registration
+  - kind: notification
+    date: 2026-12-10
+  - kind: other
+    date: 2026-12-30
+    label: Standard registration
+sources:
+- http://www.icpeca.org/
+- http://www.icpeca.org/CallforPapers.html
+- http://www.icpeca.org/Submission.html
+- http://www.icpeca.org/Registration.html
+- http://www.icpeca.org/Location.html
+- http://www.icpeca.org/history.html
+- http://www.icpeca.org/history2.html
+- http://www.icpeca.org/history3.html
+- https://portal.core.edu.au/conf-ranks/?search=ICPECA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The official site documents only the 2021 to 2023 editions; dates, locations and proceedings of the 2024 to 2026 editions (4th to 6th) are not shown
+- Locations of the 2021 to 2023 editions are not stated on the official site
+- The 2027 page does not say explicitly that the 2027 proceedings go to IEEE Xplore
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded; rank.ccf left out

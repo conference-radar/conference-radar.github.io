@@ -1,0 +1,65 @@
+id: eiecs
+name: EIECS
+full_name: International Conference on Electronic Information Engineering and Computer Science
+type: conference
+tier: minor
+areas: [general, communications]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Dongguan University of Technology in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [8]
+  conference_months: [9, 10]
+links:
+  website: https://www.eiecs.org/
+notes:
+- Annual since 2021 and held in China (Changchun 2023 and 2025, Yanji 2024, Dongguan 2026, Hangzhou 2027)
+- Broad electronics, communications and computer science scope (integrated circuits, RF, AI, vision, sensing)
+- Proceedings published by IEEE (IEEE Xplore record for 2025), submitted to EI Compendex and Scopus
+- Run by a commercial conference service with a host university; abstract-only presentation is also offered
+- About 200 to 250 attendees with oral, online and poster sessions (2025, 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: 6th EIECS
+  start: 2026-10-16
+  end: 2026-10-18
+  location: Dongguan, Guangdong, China
+  url: https://www.eiecs.org/2026
+- year: 2027
+  label: 7th EIECS
+  start: 2027-10-15
+  end: 2027-10-17
+  location: Hangzhou, China
+  url: https://www.eiecs.org/
+  deadlines:
+  - kind: submission
+    date: 2027-08-01
+  - kind: notification
+    date: 2027-09-01
+  - kind: camera_ready
+    date: 2027-09-16
+    label: Final paper
+  - kind: other
+    date: 2027-10-01
+    label: Registration due
+sources:
+- https://www.eiecs.org/
+- https://www.eiecs.org/history
+- https://www.eiecs.org/2023
+- https://www.eiecs.org/2024
+- https://www.eiecs.org/2025
+- https://www.eiecs.org/2026
+- https://www.eiecs.org/Publication
+- https://doi.org/10.1109/eiecs67708.2025
+- https://portal.core.edu.au/conf-ranks/?search=EIECS&by=all&source=ICORE2026
+unverified:
+- Publisher of the 2026 proceedings not yet confirmed; publishers of 2021 to 2024 proceedings and 2021 and 2022 locations not checked on the official site
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded
+last_verified: 2026-11-20

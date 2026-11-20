@@ -1,0 +1,59 @@
+id: iccre
+name: ICCRE
+full_name: International Conference on Control and Robotics Engineering
+type: conference
+tier: minor
+areas: [general, systems, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ICCRE committee (chairs from Nagoya Institute of Technology and City University of Hong Kong); sponsored by IEEE with IEEE RAS (2021)
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://www.iccre.org/
+notes:
+- Small IEEE-sponsored conference on control, robotics and vision, held since 2016; listed on the IEEE conference list
+- Proceedings in IEEE Xplore every year since 2016; the site states Ei Compendex and Scopus indexing
+- Blind peer review via EasyChair; only full papers go into the proceedings
+- Hybrid format with on-site and online sessions; about 80 to 120 participants per edition (2024 to 2026)
+- Mostly held in Japan recently (Nagaoka 2023, Osaka 2024, Nagoya 2025, Kyoto 2026), moving to Hong Kong in 2027
+- Contact address is a 163.com mailbox; patrons include Hohai University, Nagoya Institute of Technology and Nagaoka University of Technology
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-05-08
+  end: 2026-05-10
+  location: Miyako Messe (Kyoto International Exhibition Hall), Kyoto, Japan
+  url: https://www.iccre.org/iccre2026.html
+  deadlines: []
+- year: 2027
+  start: 2027-05-07
+  end: 2027-05-09
+  location: Hong Kong Productivity Council (HKPC), Hong Kong
+  url: https://www.iccre.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+  - kind: notification
+    date: 2027-01-20
+  - kind: camera_ready
+    date: 2027-02-15
+  - kind: other
+    date: 2027-02-10
+    label: Registration
+sources:
+- https://www.iccre.org/
+- https://www.iccre.org/submission.html
+- https://www.iccre.org/committees.html
+- https://www.iccre.org/iccre2026.html
+- https://www.iccre.org/iccre2025.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCRE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The institution that runs the series (organizer_country) is not stated on the official site
+- The ICCRE 2027 IEEE sponsorship and proceedings are not yet confirmed; the site says only "ICCRE 2027 Conference Proceedings"

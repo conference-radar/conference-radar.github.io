@@ -1,0 +1,58 @@
+id: techdefense
+name: IEEE TechDefense
+full_name: IEEE International Workshop on Technologies for Defense and Security
+type: conference
+tier: minor
+areas: [security, general]
+region: europe
+language: english
+frequency: annual
+organizer: IEEE (promoted by IEEE IMS, AESS, Region 8 and the Italy Section)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://www.techdefense.org/
+notes:
+- Standalone IEEE workshop on defense and security technologies, bringing together academia, industry, defense and government
+- Held in Italy every year since 2023 (Rome 2023, Naples 2024, Rome 2025, Turin 2026)
+- Topics include imaging and sensing, radar and sonar signal processing, data fusion, machine learning, security and underwater technologies
+- Extended abstracts of 4 to 5 pages are peer reviewed; accepted papers are submitted to IEEE Xplore
+- Extended versions of presented papers are eligible for post-publication
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-05
+  end: 2025-11-07
+  location: Rome, Italy
+- year: 2026
+  start: 2026-11-04
+  end: 2026-11-06
+  location: Turin, Italy
+  url: https://www.techdefense.org/
+  deadlines:
+  - kind: other
+    date: 2026-06-15
+    label: Special session proposals
+  - kind: submission
+    date: 2026-09-04
+    label: Extended abstract
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-10
+    label: Final paper
+sources:
+- https://www.techdefense.org/
+- https://www.techdefense.org/node/98
+- https://www.techdefense.org/files/TechDefense2026_CFP_v4.pdf
+- https://www.techdefense.org/history
+- https://portal.core.edu.au/conf-ranks/?search=TechDefense&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced yet
+- Promoting IEEE societies read from logos on the official site
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

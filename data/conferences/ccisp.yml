@@ -1,0 +1,73 @@
+id: ccisp
+name: CCISP
+full_name: International Conference on Communication, Image and Signal Processing
+type: conference
+tier: minor
+areas: [communications, vision]
+region: china
+language: english
+frequency: annual
+organizer: Asia Pacific Institute of Science and Engineering (APISE) with Sichuan University and a host university
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [5, 7]
+  conference_months: [11]
+links:
+  website: http://www.ccisp.org/
+notes:
+- Sponsored by APISE and co-organized by Sichuan University; mostly held in Chengdu (2026 Hefei, 2024 Gold Coast,
+  Australia, 2021 virtual)
+- Proceedings in IEEE Xplore since 2020, indexed in Ei Compendex and Scopus; 2016 to 2019 went to IOP Journal of
+  Physics Conference Series
+- Two submission rounds; each paper reviewed by 2 to 3 experts, results in 20 to 30 days
+- Technically sponsored by an IEEE section (IEEE Nanjing Section in 2026)
+- Selected extended papers recommended to MDPI journals
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-11-20
+  end: 2025-11-23
+  location: Chengdu, China
+  url: http://www.ccisp.org/2025.html
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Hefei, China
+  url: http://www.ccisp.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    label: Round I
+  - kind: notification
+    date: 2026-06-15
+    label: Round I
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Round I
+  - kind: submission
+    date: 2026-07-20
+    label: Round II
+  - kind: notification
+    date: 2026-08-20
+    label: Round II
+  - kind: camera_ready
+    date: 2026-09-20
+    label: Round II
+sources:
+- http://www.ccisp.org/
+- http://www.ccisp.org/pub.html
+- http://www.ccisp.org/sub.html
+- http://www.ccisp.org/2025.html
+- http://www.ccisp.org/2024.html
+- http://www.ccisp.org/2023.html
+- http://www.ccisp.org/2022.html
+- http://www.ccisp.org/2021.html
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/71809
+- https://portal.core.edu.au/conf-ranks/?search=CCISP&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- CCISP 2027 not yet announced
+- Acceptance rate not published

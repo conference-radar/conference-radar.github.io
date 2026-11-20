@@ -1,0 +1,58 @@
+id: mdec
+name: MDEC
+full_name: Monocular Depth Estimation Challenge Workshop
+type: workshop
+tier: minor
+areas: [vision]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team from University of Surrey, University of Bologna, Huawei Research Center Zurich, Oxford Internet Institute, Oxa and Blue River Technology
+organizer_country: [europe]
+proceedings: CVF Open Access (CVPR Workshops proceedings, challenge summary paper only)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://jspenmar.github.io/MDEC/
+notes:
+- Challenge workshop on monocular depth estimation evaluated on the SYNS-Patches dataset with dense LiDAR ground truth (leading metric F-Score)
+- Editions at WACV 2023, CVPR 2023, CVPR 2024 and CVPR 2025 (4th)
+- No open call for papers; teams submit predictions on CodaLab plus a method description, and a paper summarizing the challenge results is published in the CVPR Workshops proceedings
+- Selected top teams are invited to present
+- The CVPR 2025 edition was held in Nashville and streamed over Zoom
+- 1 paper (the challenge report) in the CVPR 2025 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 4th edition, with CVPR 2025
+  start: 2025-06-12
+  end: 2025-06-12
+  location: Nashville, USA
+  url: https://jspenmar.github.io/MDEC/
+  deadlines:
+  - kind: other
+    date: 2025-03-01
+    time: "00:00"
+    tz: UTC
+    label: Challenge final phase opens
+  - kind: submission
+    date: 2025-03-21
+    time: "23:59"
+    tz: UTC
+    label: Challenge submissions close
+  - kind: other
+    date: 2025-04-01
+    label: Method description submission
+  - kind: notification
+    date: 2025-05-07
+    label: Invited talk notification
+sources:
+- https://jspenmar.github.io/MDEC/
+- https://openaccess.thecvf.com/CVPR2025_workshops/MDEC
+- https://cvpr.thecvf.com/Conferences/2025/workshop-list
+- https://portal.core.edu.au/conf-ranks/?search=MDEC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No 5th edition found (not in the CVPR 2026 workshop proceedings and no 2026 page on the site)

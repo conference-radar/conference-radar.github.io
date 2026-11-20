@@ -1,0 +1,50 @@
+id: dcct-ngwc
+name: DCCT
+full_name: "Workshop on Device-Centric Cooperation Technology Towards Next Generation Wireless Communications"
+type: workshop
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+organizer: Workshop co-organizers from Yamaguchi University, Meijo University and Keio University, with IEEE VTC (IEEE VTS)
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w4-device-centric-cooperation-technology-towards-next-generation-wireless-communications/
+notes:
+- Workshop W4 at IEEE VTC2026-Fall in Boston; no earlier edition found
+- Topic is device-centric cooperation by MIMO or relaying with frequency conversion, using long-wavelength bands for 6G
+- Co-organized by Hidekazu Murata (Yamaguchi University), Hiraku Okada (Meijo University) and Yukitoshi Sanada (Keio University)
+- Papers 5 pages, up to 2 extra pages at 100 USD each; submitted through the VTC2026-Fall workshop TrackChair site
+- Final papers go through the VTC2026-Fall IEEE Conference Publishing upload, for archiving in IEEE Xplore; IEEE may exclude papers not presented
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-06
+  end: 2026-09-09
+  location: Boston, MA, USA (with IEEE VTC2026-Fall)
+  url: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w4-device-centric-cooperation-technology-towards-next-generation-wireless-communications/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Extended
+  - kind: notification
+    date: 2026-07-03
+  - kind: camera_ready
+    date: 2026-07-15
+    label: Extended
+sources:
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w4-device-centric-cooperation-technology-towards-next-generation-wireless-communications/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://events.vtsociety.org/vtc2026-fall/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Device-Centric&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Exact workshop day within VTC2026-Fall (6 to 9 September) not stated
+- The workshop page lists notification 16 June and final paper 30 June 2026; the VTC2026-Fall home page lists 3 July and 15 July 2026 (used here)
+- Whether a next edition is planned
+last_verified: 2026-11-20

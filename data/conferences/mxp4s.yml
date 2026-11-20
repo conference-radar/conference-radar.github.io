@@ -1,0 +1,63 @@
+id: mxp4s
+name: MxP4S
+full_name: Workshop on Mixed- and Adaptive-Precision Numerics for Scientific Computing
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers led by Oak Ridge National Laboratory and MIT Lincoln Laboratory (with NVIDIA, RIKEN R-CCS and Charles University); held with IEEE IPDPS
+organizer_country: [usa]
+proceedings: IEEE Xplore (IPDPS workshop proceedings)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://mxp4s.github.io/mxp4s2027/
+notes:
+- Half-day workshop on using low- and mixed-precision hardware for scientific computing while keeping accuracy and stability (iterative refinement, Ozaki schemes, precision tuning tools, HPC benchmarks)
+- 1st edition with IPDPS 2026 in New Orleans was invited talks and a panel only, non-archival with no paper call
+- From 2027 there is a call for papers; accepted papers appear in the IPDPS workshop proceedings, which IPDPS submits to IEEE Xplore after the conference
+- 2027 submissions go through the IPDPS Linklings system; at least one author must register and present in person
+- About six selected-paper presentations planned for 2027, plus invited contributions
+- Work that only applies established mixed-precision techniques to AI training or inference is out of scope
+- Not listed in the CORE portal (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-25
+  end: 2026-05-25
+  location: New Orleans, USA (with IPDPS 2026)
+  url: https://mxp4s.github.io/mxp4s2026/
+- year: 2027
+  start: 2027-06-02
+  end: 2027-06-02
+  location: Bellevue (Seattle area), Washington, USA (with IPDPS 2027)
+  url: https://mxp4s.github.io/mxp4s2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-19
+  - kind: camera_ready
+    date: 2027-03-05
+    time: "23:59"
+    tz: AoE
+sources:
+- https://mxp4s.github.io/mxp4s2027/
+- https://mxp4s.github.io/mxp4s2027/dates.html
+- https://mxp4s.github.io/mxp4s2027/topics.html
+- https://mxp4s.github.io/mxp4s2027/format.html
+- https://mxp4s.github.io/mxp4s2027/organizers.html
+- https://mxp4s.github.io/mxp4s2026/
+- https://mxp4s.github.io/mxp4s2026/dates.html
+- https://mxp4s.github.io/mxp4s2026/format.html
+- https://www.ipdps.org/ipdps2027/2027-workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=MxP4S&by=all&source=ICORE2026
+unverified:
+- 2027 paper format and page limit not posted yet
+last_verified: 2026-11-20

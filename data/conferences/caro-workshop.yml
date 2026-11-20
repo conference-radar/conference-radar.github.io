@@ -1,0 +1,44 @@
+id: caro-workshop
+name: CARO Workshop
+full_name: CARO Workshop (Computer Antivirus Research Organization)
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+organizer: CARO (Computer Antivirus Research Organization); 2027 edition organised by LSEC (Leaders in Security vzw) with Privacy Salon and CPDP Conferences
+organizer_country: [international]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://caro2027.org/
+notes:
+- Practitioner workshop of the anti-malware research community CARO; each edition has its own site (caro2025.org, caro2027.org)
+- 2027 theme is cybersecurity in the evolving world of agentic AI and personal data challenges; technical submissions and case studies on other topics are also welcome
+- Submissions are a title and abstract only (no paper upload) for a 20, 30 or 40 minute presentation, via the CPDP Conferences platform
+- 2027 edition held in Brussels alongside CPDP (Computers, Privacy and Data Protection)
+editions:
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-11
+  location: Maison de la Poste, Tour & Taxis, Brussels, Belgium
+  url: https://caro2027.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-01
+    label: Abstracts
+sources:
+- https://caro2027.org/
+- https://caro2027.org/about/
+- https://caro2027.org/call-for-papers/
+- https://www.cpdpconferences.org/call-for-papers-caro-workshop
+- https://www.caro2025.org/
+- https://portal.core.edu.au/conf-ranks/?search=CARO&by=all&source=ICORE2026
+unverified:
+- The CFP page gives the abstract deadline as 1 November without a year (call for the March 2027 edition, now closed)
+- Dates and location of CARO Workshop 2025 (its official site no longer shows the event) and whether the workshop is annual or biennial
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+last_verified: 2026-11-20

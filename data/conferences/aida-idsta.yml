@@ -1,0 +1,48 @@
+id: aida-idsta
+name: AIDA
+full_name: International Symposium on Artificial Intelligence and Data Analytics
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Co-located with IDSTA; organized by Mahmoud Al Shboul (Ajman University), Georgi Georgiev (University of Ruse)
+  and Ioana Grigorescu (Romanian-American University)
+organizer_country: [europe, other]
+proceedings: IEEE Xplore (with IDSTA)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [9]
+links:
+  website: https://idsta-conference.org/AIDA2026/
+notes:
+- Symposium on AI and data analytics, one of two approved workshops co-located with IDSTA 2026 (the other is IWQPS)
+- Accepted papers of IDSTA and its co-located workshops are submitted to IEEE Xplore
+- Organizers from the UAE, Bulgaria and Romania; submission through the IDSTA Sparcly system
+- Short cycle, under a month between deadline and camera-ready in 2026
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-22
+  end: 2026-09-25
+  location: Bucharest, Romania (IDSTA 2026)
+  url: https://idsta-conference.org/AIDA2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+  - kind: notification
+    date: 2026-08-25
+  - kind: camera_ready
+    date: 2026-09-05
+sources:
+- https://idsta-conference.org/AIDA2026/
+- https://idsta-conference.org/2026/workshops.php
+- https://idsta-conference.org/2026/
+- https://idsta-conference.org/2025/workshops.php
+- https://portal.core.edu.au/conf-ranks/?search=AIDA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- 2026 appears to be the first edition (no AIDA on the IDSTA 2025 workshops page); recurrence in 2027 not announced
+- Exact symposium day within the IDSTA week not stated
+- Deadline time zone not stated

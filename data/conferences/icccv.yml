@@ -1,0 +1,71 @@
+id: icccv
+name: ICCCV
+full_name: International Conference on Control and Computer Vision
+type: conference
+tier: minor
+areas: [vision, ai]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat (contact icccv@umails.com) with a host university; Tianjin University of Technology and Education for 2027
+organizer_country: [china]
+proceedings: SPIE Digital Library (2027); ACM DL (2021 to 2026)
+archival: true
+indexing: [EI Compendex, Scopus, CPCI]
+fee: About 650 USD (2027, presentation and publication, early bird)
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: http://www.icccv.org/
+notes:
+- Smaller commercially run conference; secretariat contact via an umails.com address
+- 9th edition in 2027; themes are computer vision, optical imaging and intelligent control
+- Proceedings were published by ACM (ACM DL) through 2026; 2027 proceedings move to SPIE, stated as indexed by EI Compendex, Scopus and CPCI
+- Double-blind review stated for 2027; full papers at least 8 pages, extra charge above 14 pages
+- "Recent hosts: online 2021 (Macau planned) and 2022 (Xiamen planned), Tianjin 2024, Wuhan (Hubei University of Technology) 2025, Tsukuba (Japan) 2026, Tianjin 2027"
+- Abstract-only presentation without publication is offered
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 8th ICCCV
+  start: 2026-04-03
+  end: 2026-04-05
+  location: Tsukuba, Japan (University of Tsukuba, hybrid)
+  url: http://www.icccv.org/2026.html
+- year: 2027
+  label: 9th ICCCV
+  start: 2027-04-02
+  end: 2027-04-04
+  location: Tianjin, China (Tianjin University of Technology and Education)
+  url: http://www.icccv.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: Full papers
+  - kind: notification
+    date: 2027-01-15
+  - kind: camera_ready
+    date: 2027-01-30
+  - kind: other
+    date: 2027-01-30
+    label: Registration
+sources:
+- http://www.icccv.org/
+- http://www.icccv.org/submission.html
+- http://www.icccv.org/review.html
+- http://www.icccv.org/registration.html
+- http://www.icccv.org/committee.html
+- http://www.icccv.org/2026.html
+- http://www.icccv.org/2025.html
+- http://www.icccv.org/2024.html
+- http://www.icccv.org/2022.html
+- http://www.icccv.org/2021.html
+- https://portal.core.edu.au/conf-ranks/?search=ICCCV&by=all&source=ICORE2026
+unverified:
+- No deadline time or time zone stated
+- No 2023 edition is listed in the official history
+- CCF 2026 list not checked directly on ccf.org.cn (site behind a captcha); not expected to be listed
+- Acceptance rate not published
+last_verified: 2026-11-20

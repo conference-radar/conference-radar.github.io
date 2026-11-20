@@ -1,0 +1,69 @@
+id: imns
+name: IMNS
+full_name: International Conference on Intelligent Multimedia, Networking, and Security
+type: conference
+tier: minor
+areas: [networking, security, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Steering committee chaired from Yeshiva University and Kennesaw State University; 2026 technically co-sponsored by IEEE and IEEE ComSoc
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://conf-imns.org/2026/
+notes:
+- 2026 edition technically co-sponsored by IEEE and IEEE ComSoc, with Kennesaw State University as co-sponsor
+- Papers appear in the IMNS proceedings and IEEE Xplore; at least one author must register at the full or limited rate and present
+- Papers up to 6 pages in 10 point font via EDAS, 2 extra pages at 100 USD each in the final version
+- Covers intelligent multimedia, 5G/6G and edge networking, security and privacy, AI-driven network management
+- 2025 Qingdao, China; 2026 Atlanta, USA
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-05
+  end: 2025-07-06
+  location: Qingdao, China
+  url: https://conf-imns.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-04-30
+    label: Extended
+  - kind: notification
+    date: 2025-05-15
+    label: Extended
+  - kind: camera_ready
+    date: 2025-05-31
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-04
+  location: Atlanta, Georgia, USA
+  url: https://conf-imns.org/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Extended
+  - kind: notification
+    date: 2026-06-10
+    label: Extended
+  - kind: camera_ready
+    date: 2026-07-10
+    label: Extended
+sources:
+- https://conf-imns.org/2026/
+- https://conf-imns.org/2026/Submissions.html
+- https://conf-imns.org/2026/Call-for-Paper.html
+- https://conf-imns.org/2026/Organizing-Committee.html
+- https://conf-imns.org/2025/
+- https://portal.core.edu.au/conf-ranks/?search=IMNS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2025 site does not state sponsors or proceedings; IEEE Xplore is confirmed only for 2026
+- Organizer country is not stated; the steering committee is mostly in the USA with members in China, Japan and Singapore
+- Original (pre-extension) deadlines and deadline time zone not stated
+- IMNS 2027 not announced yet

@@ -1,0 +1,43 @@
+id: cine
+name: CINE
+full_name: International Conference on Computational Intelligence and Networks
+type: conference
+tier: minor
+areas: [ai, nlp, vision, networking, security]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Center for Soft Computing Research and Physics and Applied Mathematics Unit, Indian Statistical Institute
+  Kolkata, with the School of Computer Engineering, KIIT Bhubaneswar
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+links:
+  website: https://www.cineconf.org/
+notes:
+- Organized by ISI Kolkata (Center for Soft Computing Research, Physics and Applied Mathematics Unit) and the School
+  of Computer Engineering, KIIT Bhubaneswar, India, in association with the IEEE Bhubaneswar Section
+- Editions in 2015, 2016, 2017, 2020, 2022, 2024 (6th, 19 to 21 Dec) and 2026 (7th); roughly every two years since 2020
+- All proceedings from 2015 to 2026 are in IEEE Xplore; the site states Scopus and Web of Science indexing
+- Eight tracks covering AI and ML, NLP and LLMs, IoT and sensor networks, cryptography and blockchain, computer vision
+  and generative AI
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 7th CINE (IEEE conference record 68769)
+  start: 2026-03-12
+  end: 2026-03-14
+  url: https://www.cineconf.org/
+sources:
+- https://www.cineconf.org/
+- https://www.cineconf.org/cfp-2026
+- https://www.cineconf.org/organizers
+- https://cserajdeep.github.io/CINE2024.github.io/
+- https://ieeexplore.ieee.org/xpl/conhome/11502014/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=CINE&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-20
+unverified:
+- Venue city of the 2026 edition is not stated on the official site (KIIT Bhubaneswar is named as mentoring institution)
+- Deadlines of the 2026 edition are not shown on the official Important Dates page
+- No 2027 or 2028 edition announced yet

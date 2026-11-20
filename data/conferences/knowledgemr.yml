@@ -1,0 +1,45 @@
+id: knowledgemr
+name: KnowledgeMR
+full_name: Workshop on Knowledge-Intensive Multimodal Reasoning
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from TUM, Princeton, Meta and University of Waterloo, Yale, NUS, Northwestern, Tencent, Google and University of Notre Dame; co-located with CVPR or ICCV
+organizer_country: [usa, europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [6, 10]
+links:
+  website: https://knowledgemr-workshop.github.io/
+notes:
+- Workshop on multimodal reasoning that needs external or domain knowledge
+- 1st edition at ICCV 2025, 2nd edition at CVPR 2026 in Denver
+- Non-archival, accepted papers are not indexed and have no archival proceedings; dual submissions allowed if the other venue permits
+- Papers up to 8 pages (references and appendix extra) using the KnowledgeMR template based on CVPR 2026, double-blind review on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://knowledgemr-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-16
+    tz: AoE
+  - kind: notification
+    date: 2026-04-22
+    tz: AoE
+sources:
+- https://knowledgemr-workshop.github.io/
+- https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/KnowledgeMR
+- https://portal.core.edu.au/conf-ranks/?search=KnowledgeMR&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the ICCV 2025 edition not recorded
+- Next edition (2027) not announced yet

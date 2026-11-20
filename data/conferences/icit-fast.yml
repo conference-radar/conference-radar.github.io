@@ -1,0 +1,55 @@
+id: icit-fast
+name: ICIT
+full_name: International Conference on IT and Industrial Technologies
+type: conference
+tier: minor
+areas: [ai, security, communications, networking, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: FAST-NUCES Chiniot-Faisalabad Campus
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://icit.nu.edu.pk/
+notes:
+- Organized annually at the FAST-NUCES (National University of Computer and Emerging Sciences) Chiniot-Faisalabad
+  Campus, Pakistan
+- Proceedings of the 2022, 2023, 2024 and 2026 editions are in IEEE Xplore, as listed on the site's history page
+- Tracks on smart computing and optimization, communication and signal processing, green and sustainable technologies,
+  intelligent systems, and fintech and blockchain
+- Up to 6 pages in IEEE two-column format; submission via Microsoft CMT
+- Not to be confused with the Jordanian ICIT (International Conference on Information Technology, icit-jo)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  url: https://icit.nu.edu.pk/icit2026
+- year: 2027
+  start: 2027-03-29
+  end: 2027-03-31
+  location: FAST-NUCES Chiniot-Faisalabad Campus, Pakistan
+  url: https://icit.nu.edu.pk/
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-12-14
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-02-15
+sources:
+- https://icit.nu.edu.pk/
+- https://icit.nu.edu.pk/important-dates
+- https://icit.nu.edu.pk/cfp
+- https://icit.nu.edu.pk/history
+- https://icit.nu.edu.pk/icit2026
+- https://portal.core.edu.au/conf-ranks/?search=ICIT&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-20
+unverified:
+- Exact dates of the 2026 edition are no longer shown on the official site
+- The site calls the 2027 dates tentative
+- IEEE technical sponsorship of the 2027 edition not stated on the pages checked

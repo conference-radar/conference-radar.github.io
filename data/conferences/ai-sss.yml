@@ -1,0 +1,63 @@
+id: ai-sss
+name: Ai-SSS
+full_name: Workshop on Artificial Intelligence for Secure Software and Systems
+type: workshop
+tier: minor
+areas: [security, ai, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Bishop's University and Universite du Quebec a Chicoutimi (UQAC), co-located workshop of IEEE/ACM BDCAT
+organizer_country: [canada]
+proceedings: IEEE Xplore (UCC/BDCAT workshop proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://cs.ubishops.ca/aisss/home2026
+notes:
+- Workshop of IEEE/ACM BDCAT (held jointly with UCC) on AI for secure software and systems; 3rd edition in 2026 after 2024 and 2025
+- Organized by Yasir Malik (Bishop's University) with Fehmi Jaafar and Haifa Nakouri (UQAC)
+- Papers up to 6 pages in IEEE double-column format via EasyChair; at least three reviews per paper
+- Proceedings published by IEEE and submitted to IEEE Xplore; one author must register for the conference
+- Follows UCC/BDCAT (Sharjah 2024, Nantes 2025, Florianopolis 2026)
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  location: Nantes, France (with IEEE/ACM BDCAT and UCC 2025)
+  url: https://cs.ubishops.ca/aisss/home
+  deadlines:
+  - kind: submission
+    date: 2025-10-18
+  - kind: notification
+    date: 2025-11-13
+  - kind: camera_ready
+    date: 2025-11-20
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Florianopolis, Brazil (with IEEE/ACM BDCAT and UCC 2026)
+  url: https://cs.ubishops.ca/aisss/home2026
+  deadlines:
+  - kind: submission
+    date: 2026-09-27
+  - kind: notification
+    date: 2026-10-05
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://cs.ubishops.ca/aisss/home2026
+- https://cs.ubishops.ca/aisss/home
+- https://cs.ubishops.ca/aisss/
+- https://ucc2026.ufsc.br/workshops/
+- https://ucc2026.ufsc.br/program/detailed-program/
+- https://bdcat2025.gitlabpages.inria.fr/web/
+- https://bdcat2025.gitlabpages.inria.fr/web/workshops/
+- https://ucc2025.gitlabpages.inria.fr/web/advanced_program/
+- https://portal.core.edu.au/conf-ranks/?search=Ai-SSS&by=all&source=ICORE2026
+unverified:
+- 2025 workshop day not stated (UCC/BDCAT 2025 ran Dec 1 to 4) and no Ai-SSS session appears in the UCC 2025 advanced programme
+- Deadline time and time zone not stated
+- Ai-SSS 2027 not announced yet
+last_verified: 2026-11-20

@@ -1,0 +1,63 @@
+id: ieee-fine
+name: IEEE FINE
+full_name: IEEE International Conference on Future and Intelligent Networking
+type: conference
+tier: minor
+areas: [networking, communications, ai]
+region: japan
+language: english
+frequency: annual
+organizer: FINE Steering Committee (co-chairs from InterDigital and Kanazawa University)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI]
+fee: 890 USD IEEE member author, 1190 USD non-member author (2026)
+typical:
+  deadline_months: [3, 4, 5]
+  conference_months: [8]
+links:
+  website: http://www.icfine.org/2026/
+notes:
+- The 2026 Osaka edition appears to be the first; no earlier editions are on the official site. Covers 6G, Open RAN, AI for networks, network automation, semantic communications and network security
+- Site shows IEEE, IEEE Communications Society and IEEE Computer Society logos; the sponsorship role is not stated
+- Accepted papers go to IEEE Xplore (indexed by EI); IEEE Computer Society format, 8 pages for review, up to 10 with page charges
+- Double-blind review; three submission rounds in 2026 (March, April and May)
+- Selected papers recommended to IEEE TNSE and Elsevier Computer Communications for fast-track review
+- Co-located workshops ESTNI and WFN in 2026
+- The CFP gives ieee-fine.org/2026 as the address; the working site is icfine.org/2026
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-26
+  end: 2026-08-28
+  location: Hotel Monterey Grasmere Osaka, Osaka, Japan
+  url: http://www.icfine.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    label: Round 1
+  - kind: submission
+    date: 2026-04-30
+    label: Round 2
+  - kind: submission
+    date: 2026-05-27
+    label: Round 3
+  - kind: notification
+    date: 2026-06-30
+  - kind: camera_ready
+    date: 2026-07-26
+sources:
+- https://icfine.org/
+- http://www.icfine.org/2026/
+- http://www.icfine.org/2026/cf-papers.php
+- http://www.icfine.org/2026/submission.php
+- http://www.icfine.org/2026/organization.php
+- http://www.icfine.org/2026/venue.php
+- http://www.icfine.org/2026/registration.php
+- https://portal.core.edu.au/conf-ranks/?search=FINE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Region based on a single edition (2026, Osaka); FINE 2027 not announced as of 2026-11-20
+- IEEE ComSoc sponsorship status (only logos shown) and whether the 2026 proceedings are already in IEEE Xplore
+- The three 2026 submission dates are listed without explanation; treated as rounds

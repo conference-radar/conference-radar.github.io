@@ -1,0 +1,65 @@
+id: icdt-glbitm
+name: ICDT
+full_name: International Conference on Disruptive Technologies
+type: conference
+tier: minor
+areas: [ai, security, software, networking, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: Department of Computer Science and Engineering, G. L. Bajaj Institute of Technology and Management, Greater
+  Noida; technically co-sponsored by IEEE Computer Society
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+fee: "INR 5,000 to 9,000 for Indian authors, USD 100 to 350 for foreign authors (2026)"
+links:
+  website: https://www.glbitm.org/icdt-2026/
+notes:
+- Organized by the CSE department of G. L. Bajaj Institute of Technology and Management (GLBITM), Greater Noida,
+  India, in hybrid mode
+- Technically co-sponsored by the IEEE Computer Society (2026); accepted and presented papers are submitted to IEEE Xplore
+- Editions in 2023, 2024, 2025 (3rd, 7 to 8 Mar) and 2026 (4th, 29 to 30 Dec)
+- Tracks on AI, software engineering, blockchain, cybersecurity and privacy, IoT and cloud-edge computing, networks and
+  sustainable computing
+- Up to 6 pages in IEEE format; submission via Microsoft CMT
+- Not the CORE A database venue ICDT (International Conference on Database Theory, icdt)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 3rd ICDT (IEEE record 63985)
+  start: 2025-03-07
+  end: 2025-03-08
+  location: GLBITM, Greater Noida, India (hybrid)
+  url: https://www.glbitm.org/icdt-2025/
+- year: 2026
+  label: 4th ICDT (IEEE record 70969)
+  start: 2026-12-29
+  end: 2026-12-30
+  location: GLBITM, Greater Noida, India (hybrid)
+  url: https://www.glbitm.org/icdt-2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-07
+  - kind: submission
+    date: 2026-09-07
+  - kind: notification
+    date: 2026-10-19
+  - kind: other
+    date: 2026-11-01
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-11-20
+sources:
+- https://www.glbitm.org/icdt-2026/
+- https://www.glbitm.org/icdt-2026/ICDT2026-Brochure.pdf
+- https://www.glbitm.org/icdt-2026/papersubmission.html
+- https://www.glbitm.org/icdt-2026/Registration.html
+- https://www.glbitm.org/icdt-2026/previousconference.html
+- https://www.glbitm.org/icdt-2025/
+- https://portal.core.edu.au/conf-ranks/?search=ICDT&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-20
+unverified:
+- Deadlines of the 2025 edition are not shown on the official 2025 page
+- Dates of the 2023 and 2024 editions not checked

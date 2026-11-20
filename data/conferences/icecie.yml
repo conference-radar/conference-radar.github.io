@@ -1,0 +1,55 @@
+id: icecie
+name: ICECIE
+full_name: IEEE International Conference on Electrical, Control and Instrumentation Engineering
+type: conference
+tier: minor
+areas: [communications, general]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: IEEE IAS, Pateh International Trading Services and Malaysian Society of Industrial Control Technology
+organizer_country: [malaysia, other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://icecie.com/
+notes:
+- Organized and co-sponsored by IEEE Industry Applications Society, Pateh International Trading Services and the Malaysian Society of Industrial Control Technology; Universiti Teknologi MARA is also a sponsor
+- The site lists Pateh International Trading Services as based in Qatar
+- Held in Pattaya, Thailand in 2024 and 2025
+- Proceedings in IEEE Xplore (ISSN 2832-9848), Scopus indexed
+- Covers power systems, control, power electronics, signal processing, communications, industrial informatics and e-health
+- Up to 30% of the best papers may be recommended to IEEE Transactions on Industry Applications (2024)
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  label: 7th ICECIE
+  start: 2025-11-22
+  end: 2025-11-23
+  location: Pattaya, Thailand
+  url: https://2025.icecie.com/
+  deadlines:
+  - kind: submission
+    date: 2025-09-15
+    label: Extended
+  - kind: notification
+    date: 2025-09-25
+  - kind: camera_ready
+    date: 2025-10-25
+sources:
+- https://2025.icecie.com/
+- https://2025.icecie.com/aboutus/
+- http://2025.icecie.com/call-for-papers/
+- https://2024.icecie.com/
+- https://icecie.com/
+- https://ieeexplore.ieee.org/xpl/conhome/11363767/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICECIE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- ICECIE 2026 not announced; icecie.com shows only "under construction" as of 2026-11-20
+- Locations of editions before 2024 not confirmed on an official page, so region rests on the 2024 and 2025 editions
+- The 2025 call for papers page names Amari Hotel, Bangkok while the home page says Amari Hotel, Pattaya

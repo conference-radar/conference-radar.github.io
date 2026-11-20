@@ -1,0 +1,63 @@
+id: ai4im
+name: IEEE AI4IM
+full_name: IEEE International Symposium on Artificial Intelligence for Instrumentation and Measurement
+type: conference
+tier: minor
+areas: [ai, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE Instrumentation and Measurement Society
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://ai4im.ieee-ims.org/
+notes:
+- IEEE IMS symposium on AI and machine learning applied to instrumentation and measurement
+- 2026 edition in Amalfi, Italy; 2027 edition in Xi'an, China
+- 2026 proceedings are in IEEE Xplore (Crossref record of the 2026 volume)
+- Papers of 4 to 7 pages in IEEE conference format, with a minor revision round before the final decision
+- Authors can also submit to IEEE TIM / OJIM special sections linked to the symposium
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-21
+  end: 2026-05-23
+  location: Amalfi, Italy
+  url: https://ai4im.ieee-ims.org/2026
+- year: 2027
+  start: 2027-05-13
+  end: 2027-05-15
+  location: Xi'an, China
+  url: https://ai4im.ieee-ims.org/2027
+  deadlines:
+  - kind: submission
+    date: 2027-01-08
+  - kind: notification
+    date: 2027-01-29
+    label: Accept, minor revision or reject
+  - kind: other
+    date: 2027-02-05
+    label: Minor revisions due
+  - kind: notification
+    date: 2027-02-12
+    label: Final decision on minor revisions
+  - kind: camera_ready
+    date: 2027-02-19
+    label: Final manuscript and early registration
+sources:
+- https://ai4im.ieee-ims.org/
+- https://ai4im.ieee-ims.org/2027/authors/call-for-papers
+- https://ai4im.ieee-ims.org/2027/about/history
+- https://ai4im.ieee-ims.org/2026
+- https://api.crossref.org/types/proceedings/works?query.bibliographic=Artificial+Intelligence+for+Instrumentation+and+Measurement
+- https://portal.core.edu.au/conf-ranks/?search=AI4IM&by=all&source=ICORE2026
+unverified:
+- 2026 deadlines not recorded; the official history page lists no edition before 2026
+- The 2027 call for papers does not name the proceedings publisher; IEEE Xplore assumed from the 2026 volume
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

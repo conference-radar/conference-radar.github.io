@@ -1,0 +1,49 @@
+id: icsist
+name: ICSIST
+full_name: International Conference on Secure Information Systems and Technologies
+type: conference
+tier: minor
+areas: [security]
+region: south-asia
+language: english
+frequency: annual
+organizer: Rayat Bahra University (University School of Computing)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6]
+  conference_months: [9]
+links:
+  website: https://www.icsist.com/
+notes:
+- Organized by Rayat Bahra University, Mohali, Punjab, India, with its University School of Computing
+- ICSIST 2026 proceedings are in IEEE Xplore; ICSIST 2027 is registered as IEEE conference 74144
+- Topics cover cybersecurity, secure information systems, privacy, AI, blockchain, IoT, cloud and edge computing, and digital forensics
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-09-13
+  end: 2027-09-15
+  location: Rayat Bahra University, Mohali, Punjab, India
+  url: https://icsist.com/2027
+  deadlines:
+  - kind: submission
+    date: 2027-06-21
+  - kind: notification
+    date: 2027-07-25
+  - kind: other
+    date: 2027-08-28
+    label: Registration
+sources:
+- https://www.icsist.com/
+- https://icsist.com/2027
+- https://www.icsist.com/call-for-papers.html
+- https://ieeexplore.ieee.org/xpl/conhome/11705731/proceeding
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/74144
+- https://portal.core.edu.au/conf-ranks/?search=ICSIST&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of ICSIST 2026 could not be confirmed from an official page (the official site now shows only the 2027 edition)
+- The official site does not name the publisher for the 2027 proceedings
+- Indexing not stated on the official site

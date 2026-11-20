@@ -1,0 +1,58 @@
+id: acai
+name: ACAI
+full_name: International Conference on Algorithms, Computing and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, general]
+region: china
+language: english
+frequency: annual
+organizer: Host university with IEEE and an IEEE section; 2026 sponsored by Zhejiang University of Technology, Nanjing University, IEEE and IEEE Nanjing Section
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 550 to 600 USD per paper (2026, regular author); 60 USD per extra page; listener 300 to 350 USD
+typical:
+  deadline_months: [11]
+  conference_months: [12]
+links:
+  website: http://www.acai-conf.net/
+notes:
+- Annual since 2018, held in China in December (Sanya 2023, Guangzhou 2024, Nanjing 2025, Hangzhou 2026)
+- Proceedings in the ACM DL for 2019 to 2023 and in IEEE Xplore for 2024 and 2025; 2026 proceedings by IEEE, indexed by EI Compendex and Scopus
+- 2026 hosted by the College of Computer Science and Technology, Zhejiang University of Technology
+- Submission via Microsoft CMT; submission deadline only about three weeks before the conference
+- Presenter only and listener registration are also offered
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 8th ACAI
+  start: 2025-12-26
+  end: 2025-12-28
+  location: Nanjing, China
+  url: http://www.acai-conf.net/history2025.html
+- year: 2026
+  label: 9th ACAI
+  start: 2026-12-18
+  end: 2026-12-20
+  location: Hangzhou, China
+  url: http://www.acai-conf.net/
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+  - kind: notification
+    date: 2026-12-05
+  - kind: other
+    date: 2026-12-10
+    label: Registration
+sources:
+- http://www.acai-conf.net/
+- http://www.acai-conf.net/registration.html
+- http://www.acai-conf.net/history2025.html
+- http://www.acai-conf.net/history2024.html
+- http://www.acai-conf.net/history2023.html
+- https://portal.core.edu.au/conf-ranks/?search=ACAI&by=all&source=ICORE2026
+unverified:
+- No deadline time or time zone stated
+last_verified: 2026-11-20

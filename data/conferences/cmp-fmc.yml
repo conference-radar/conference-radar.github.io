@@ -1,0 +1,63 @@
+id: cmp-fmc
+name: CMP-FMC
+full_name: Workshop on Channel Modeling and Propagation for Future Mobile Communications
+type: workshop
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+organizer: IEEE VTS Propagation Committee, co-located with IEEE VTC
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [5, 12]
+  conference_months: [6, 9]
+links:
+  website: https://events.vtsociety.org/vtc2027-spring/current-workshops/w4/
+notes:
+- Workshop organized by the IEEE VTS Propagation Committee and held with IEEE VTC; the VTC2027-Spring page says it builds on an established VTC workshop series
+- Held as W13 at VTC2026-Fall (Boston) and W4 at VTC2027-Spring (Hamburg), the latter subtitled From Measurements to Digital Twins
+- Covers channel measurement and modeling (stochastic, geometry-based and ray-tracing models), channel sounding and emulation, and channels for road vehicles, trains, UAVs, aviation, ships and satellites
+- Organizers from University of South Carolina, Beijing Jiaotong University and TU Wien, DLR, Universidad Autonoma de San Luis Potosi and Tongji University
+- Not the same as the IEEE GLOBECOM 6G channel models workshop (chmodels-6g)
+- VTC papers are 5 pages (up to 2 extra pages at 100 USD each), submitted through the VTC workshops TrackChair site
+- VTC papers go to IEEE Xplore and may be removed if not presented at the conference
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: W13 at VTC2026-Fall
+  start: 2026-09-06
+  end: 2026-09-06
+  location: Boston, MA, USA (with IEEE VTC2026-Fall)
+  url: https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w13-workshop-on-channel-modeling-and-propagation-for-future-mobile-communications/
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Extended
+- year: 2027
+  label: W4 at VTC2027-Spring
+  start: 2027-06-20
+  end: 2027-06-23
+  location: Hamburg, Germany (with IEEE VTC2027-Spring)
+  url: https://events.vtsociety.org/vtc2027-spring/current-workshops/w4/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: VTC workshop papers
+sources:
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/w4/
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/
+- https://events.vtsociety.org/vtc2027-spring/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/
+- https://events.vtsociety.org/vtc2026-fall/conference-sessions/current-workshops-available/w13-workshop-on-channel-modeling-and-propagation-for-future-mobile-communications/
+- https://ieeeexpressconferencepublishing.ieee.org/confid/author-instructions-for-vtc2026-fall/
+- https://portal.core.edu.au/conf-ranks/?search=Propagation&by=all&source=ICORE2026
+unverified:
+- Short name CMP-FMC is an abbreviation of the title; the VTC pages use no acronym
+- Earlier editions of the series before VTC2026-Fall not identified
+- Exact workshop day within VTC2027-Spring (20 to 23 June 2027) not stated
+- VTC2027-Spring workshop notification and camera-ready dates not yet posted
+- VTC2026-Fall notification and final paper dates conflict between the W13 page (16 June, 30 June 2026) and the VTC2026-Fall main page (3 July, 15 July 2026 extended), so they are left out
+- VTC pages do not name IEEE Xplore explicitly for workshop papers; taken from the VTC2026-Fall IEEE eXpress author instructions for VTC papers
+last_verified: 2026-11-20

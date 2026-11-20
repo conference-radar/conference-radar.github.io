@@ -1,0 +1,75 @@
+id: open-source-securitycon
+name: Open Source SecurityCon
+full_name: Open Source SecurityCon (CNCF and OpenSSF co-located event at KubeCon + CloudNativeCon)
+type: industry
+tier: minor
+areas: [security, software]
+region: worldwide
+language: english
+frequency: multiple-per-year
+organizer: Cloud Native Computing Foundation (CNCF) and Open Source Security Foundation (OpenSSF), The Linux Foundation
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [6, 10]
+  conference_months: [3, 11]
+links:
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
+notes:
+- One-day open source security event co-hosted by CNCF and OpenSSF on the Monday of KubeCon + CloudNativeCon
+- Held twice a year, with KubeCon Europe (spring) and KubeCon North America (autumn)
+- Talks chosen from the shared CNCF co-located events call for proposals; presentations (25 min), panels (35 min) and lightning talks (10 min)
+- Topics include AI in OSS security, regulation and public policy, supply chain and application security, OSPOs and security education
+- Included in the All-Access KubeCon + CloudNativeCon pass; no papers or proceedings
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: Europe
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Amsterdam, The Netherlands
+  url: https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
+- year: 2026
+  label: North America
+  start: 2026-11-09
+  end: 2026-11-09
+  location: Salt Lake City, UT, USA
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/
+  deadlines:
+  - kind: submission
+    date: 2026-06-21
+    time: "23:59"
+    tz: UTC-6
+    label: Co-located events CFP closes
+  - kind: notification
+    date: 2026-08-17
+- year: 2027
+  label: Europe
+  start: 2027-03-15
+  end: 2027-03-15
+  location: Barcelona, Spain
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
+  deadlines:
+  - kind: submission
+    date: 2026-10-18
+    time: "23:59"
+    tz: UTC+2
+    label: Co-located events CFP closes
+  - kind: notification
+    date: 2026-12-14
+  - kind: other
+    date: 2026-12-16
+    label: Schedule announced
+sources:
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cfp-colocated-events/
+- https://events.linuxfoundation.org/archive/2026/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/
+- https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cfp-colocated-events/
+- https://portal.core.edu.au/conf-ranks/?search=SecurityCon&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The Europe 2027 page calls it a new event although 2026 editions exist in Amsterdam and Salt Lake City; earlier history not checked
+- CFP deadline for the Europe 2026 edition not recorded
+- North America 2027 edition not yet announced

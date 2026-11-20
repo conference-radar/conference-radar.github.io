@@ -1,0 +1,52 @@
+id: icac2n
+name: ICAC2N
+full_name: International Conference on Advances in Computing, Communication and Networking
+type: conference
+tier: minor
+areas: [general, networking, communications]
+region: south-asia
+language: english
+frequency: annual
+organizer: Department of Computer Science and Engineering, I.T.S Engineering College, Greater Noida
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [10]
+links:
+  website: https://icac2n.in
+notes:
+- Organized by the CSE department of I.T.S Engineering College, Greater Noida (Delhi NCR), India
+- Keynote and committee members largely from the IEEE Uttar Pradesh Section
+- The 2026 edition has IEEE conference record number 70538 and an IEEE Xplore compliant ISBN
+- Proceedings of the previous edition are in IEEE Xplore
+- Long submission window (opened October 2025, closed April 2026); review through Microsoft CMT
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd ICAC2N
+  start: 2026-10-30
+  end: 2026-10-31
+  location: I.T.S Engineering College, Greater Noida, India
+  url: https://icac2n.in
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-06-30
+  - kind: other
+    date: 2026-07-14
+    label: Registration
+  - kind: camera_ready
+    date: 2026-07-31
+sources:
+- https://icac2n.in
+- https://icac2n.in/assets/index-CaMz39Ca.js
+- https://ieeexplore.ieee.org/xpl/conhome/10894760/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICAC2N&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of the 1st edition not stated on the official site (its CMT site is named ICACCN2025 and the photo gallery is labeled 2025)
+- No 2027 edition announced yet
+- Registration fees are only given as an image on the official site

@@ -1,0 +1,61 @@
+id: maresec
+name: MARESEC
+full_name: European Workshop on Maritime Systems Resilience and Security
+type: workshop
+tier: minor
+areas: [security, systems, communications]
+region: europe
+language: english
+frequency: annual
+organizer: University of Rostock, Fraunhofer IGD and Fraunhofer IOSB-AST (2027 organizing committee)
+organizer_country: [europe]
+proceedings: MARESEC proceedings (open access on Zenodo, papers with DOIs)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://maresec.eu/
+notes:
+- Small standalone German workshop on resilience, safety and security of maritime systems (ports, ships, AUVs, maritime communications and critical infrastructure)
+- All submissions are peer-reviewed; full papers 4 to 6 pages or extended abstracts 1 to 2 pages in two-column IEEE format via EasyChair
+- Proceedings are published open access on Zenodo with a DOI per paper (one Zenodo community per year since 2021)
+- Authors of high-quality papers are invited to submit extended versions to Transactions on Maritime Science (ToMS)
+- Editions 2021 to 2024 and 2026 in Bremerhaven, 2025 (hybrid) and 2027 at the University of Rostock
+- Also has a call for special sessions with its own proposal deadline
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-06-24
+  end: 2026-06-25
+  location: Bremerhaven, Germany
+  url: https://zenodo.org/communities/maresec2026/
+- year: 2027
+  start: 2027-05-19
+  end: 2027-05-20
+  location: Rostock, Germany
+  url: https://maresec.eu/
+  deadlines:
+  - kind: other
+    date: 2026-12-07
+    label: Special session proposals
+  - kind: submission
+    date: 2027-02-22
+    label: Papers and extended abstracts
+  - kind: notification
+    date: 2027-04-05
+  - kind: camera_ready
+    date: 2027-04-19
+sources:
+- https://maresec.eu/
+- https://maresec.eu/call-for-papers/
+- https://maresec.eu/committees/
+- https://maresec2025.uni-rostock.de/
+- https://zenodo.org/communities/maresec2026/
+- https://zenodo.org/communities/maresec2024/
+- https://portal.core.edu.au/conf-ranks/?search=MARESEC&by=all&source=ICORE2026
+unverified:
+- 2026 dates and place (24-25 Jun 2026, Bremerhaven) taken from the official MARESEC 2026 proceedings records on Zenodo, not from an archived 2026 page of maresec.eu
+- Organizing institution of the Bremerhaven editions not confirmed
+- 2027 venue in Rostock not announced yet and no time zone given for deadlines
+last_verified: 2026-11-20

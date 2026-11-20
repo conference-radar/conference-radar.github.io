@@ -1,0 +1,71 @@
+id: icect-numl
+name: ICECT
+full_name: International Conference on Engineering and Computing Technologies
+type: conference
+tier: minor
+areas: [ai, security, software, communications, networking, general]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Faculty of Engineering and Computing, National University of Modern Languages (NUML), Islamabad; technically
+  co-sponsored by IEEE
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: "PKR 15,000 to 20,000 for local authors, USD 100 to 150 for overseas authors (2027, per the CFP flyer)"
+links:
+  website: https://numl.edu.pk/icect/
+notes:
+- Run by the Faculty of Engineering and Computing at NUML and held on the NUML H-9 campus in Islamabad, Pakistan
+- Technically co-sponsored by IEEE; presented papers are submitted for inclusion in IEEE Xplore
+- Selected papers can also go to the NUML International Journal of Engineering and Computing (NIJEC, HEC Y category)
+- Described as annual, but editions so far were 2021, 2022, 2024 (3rd, 23 May), 2025 (4th, 13 to 14 Nov) and 2027 (5th)
+- Three tracks -> computing and technologies (AI, LLMs, security, cloud, NLP), software engineering, and intelligent
+  systems in engineering (robotics, wireless and next-generation networks, IoT, power, VLSI)
+- IEEE conference paper format; submission via Microsoft CMT
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 4th ICECT
+  start: 2025-11-13
+  end: 2025-11-14
+  location: NUML, Islamabad, Pakistan
+  url: https://numl.edu.pk/icect/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-06-01
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-10-05
+    label: Registration and camera ready
+- year: 2027
+  label: 5th ICECT
+  start: 2027-03-18
+  end: 2027-03-19
+  location: NUML, Islamabad, Pakistan
+  url: https://numl.edu.pk/icect/
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+    label: Extended from 2026-11-10
+  - kind: notification
+    date: 2026-12-15
+  - kind: other
+    date: 2027-01-05
+    label: Early bird registration
+  - kind: other
+    date: 2027-01-18
+    label: Normal registration
+  - kind: camera_ready
+    date: 2027-01-20
+sources:
+- https://numl.edu.pk/icect/
+- https://numl.edu.pk/icect/CFP_ICECT2027Final(Extended).pdf
+- https://numl.edu.pk/icect/2025/index.html
+- https://numl.edu.pk/icect/2024/index.html
+- https://portal.core.edu.au/conf-ranks/?search=ICECT&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-20
+unverified:
+- IEEE Xplore pages of past ICECT proceedings not opened directly; the site only says papers are submitted for inclusion
+- The CFP flyer gives the original submission deadline (2026-11-10); the website gives 2026-11-25 as the final date

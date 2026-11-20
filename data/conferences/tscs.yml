@@ -1,0 +1,64 @@
+id: tscs
+name: TSCS
+full_name: Workshop on Trustworthy and Secure Cloud Services
+type: workshop
+tier: minor
+areas: [security, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: King Fahd University of Petroleum and Minerals (KFUPM) chairs, co-located workshop of IEEE/ACM UCC and BDCAT
+organizer_country: [other]
+proceedings: IEEE Xplore (UCC workshop proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://fazzedin.github.io/UCC-2026/
+notes:
+- Workshop on cloud trust and security (TEEs, zero trust, multi-cloud privacy and compliance, AI for cloud security)
+- Chaired by Farag Azzedin and Mohammad Hammoudeh (KFUPM, Saudi Arabia)
+- Papers up to 6 pages in IEEE double-column format; double-blind review
+- Listed as a BDCAT workshop in 2025 (Nantes) and as a UCC workshop in 2026 (Florianopolis)
+- The UCC 2026 author instructions say workshop papers go to IEEE Xplore; the workshop page still carries an older ACM proceedings sentence
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Nantes, France (with IEEE/ACM UCC and BDCAT 2025)
+  url: https://jfr3sam.github.io/Web-Farag/
+  deadlines:
+  - kind: submission
+    date: 2025-10-18
+  - kind: notification
+    date: 2025-11-08
+  - kind: camera_ready
+    date: 2025-11-15
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Florianopolis, Brazil (with IEEE/ACM UCC 2026)
+  url: https://fazzedin.github.io/UCC-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+  - kind: notification
+    date: 2026-10-10
+  - kind: camera_ready
+    date: 2026-10-15
+sources:
+- https://fazzedin.github.io/UCC-2026/
+- https://jfr3sam.github.io/Web-Farag/
+- https://ucc2025.gitlabpages.inria.fr/web/advanced_program/
+- https://bdcat2025.gitlabpages.inria.fr/web/
+- https://ucc2026.ufsc.br/workshops/
+- https://ucc2026.ufsc.br/program/detailed-program/
+- https://ucc2026.ufsc.br/authorinstructions/ucc-and-workshops-camera-ready-guidelines/
+- https://portal.core.edu.au/conf-ranks/?search=TSCS&by=all&source=ICORE2026
+unverified:
+- Editions before 2025 and the edition number not stated on the official pages
+- Deadline time and time zone not stated
+- TSCS 2027 not announced yet
+last_verified: 2026-11-20

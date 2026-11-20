@@ -1,0 +1,54 @@
+id: csae
+name: CSAE
+full_name: International Conference on Computer Science and Application Engineering
+type: conference
+tier: minor
+areas: [general, ai]
+region: online
+language: english
+frequency: annual
+organizer: ASCIE with Zhejiang Ocean University and Southwest Forestry University (2026 sponsors)
+organizer_country: [china]
+proceedings: ACM DL (ICPS)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [9, 10, 11]
+  conference_months: [10, 11]
+links:
+  website: https://csaeconf.org/
+notes:
+- Annual since 2017; held in China until 2021 (Shanghai, Hohhot, Sanya), virtual in 2020 and every year since 2022
+- 2026 edition was planned for Shanghai on October 17 to 19 and changed to an online meeting on November 21 to 22
+- Proceedings in the ACM International Conference Proceedings Series since 2018 (DEStech in 2017), indexed by EI Compendex and Scopus
+- Rolling submission batches; notification about a month after submission
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 9th CSAE
+  start: 2025-10-19
+  end: 2025-10-20
+  location: Virtual
+  url: https://csaeconf.org/CH.aspx
+- year: 2026
+  label: 10th CSAE
+  start: 2026-11-21
+  end: 2026-11-22
+  location: Online (originally Shanghai, China)
+  url: https://csaeconf.org/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+  - kind: other
+    date: 2026-11-30
+    label: Revised paper submission
+sources:
+- https://csaeconf.org/
+- https://csaeconf.org/ImpDates.aspx
+- https://csaeconf.org/CH.aspx
+- https://portal.core.edu.au/conf-ranks/?search=CSAE&by=all&source=ICORE2026
+unverified:
+- The home page gives November 10, 2026 as the current batch deadline while the Important Dates page gives November 20, 2026, after the conference itself was rescheduled
+- Earlier submission batches for 2026 are not listed
+- No deadline time or time zone stated
+last_verified: 2026-11-20

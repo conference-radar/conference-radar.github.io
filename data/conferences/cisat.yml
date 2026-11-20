@@ -1,0 +1,54 @@
+id: cisat
+name: CISAT
+full_name: International Conference on Computer Information Science and Application Technology
+type: conference
+tier: minor
+areas: [general, ai]
+region: china
+language: english
+frequency: annual
+organizer: CISAT committee with a host university each year (Sichuan University in 2026 and 2027, Yunnan University in 2025)
+organizer_country: [china]
+proceedings: IEEE Xplore (2024, 2025); SPIE Proceedings (2022, 2023); IOP Journal of Physics Conference Series (earlier)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://www.cisat.org/
+notes:
+- Broad computer and information science conference held in China every year since 2018 (Daqing, Zhangjiajie, Guangzhou, Lanzhou, Chongqing, Hangzhou, Kunming, Chengdu)
+- The publisher changes between editions; the 2024 and 2025 proceedings are in IEEE Xplore
+- Hybrid format with on-site and online sessions
+- The 2025 edition reported over 200 submissions and 116 poster presentations
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-03
+  end: 2026-07-05
+  location: Chengdu, China (hybrid)
+  url: https://www.cisat.org/CISAT2026
+- year: 2027
+  start: 2027-07-02
+  end: 2027-07-04
+  location: Chengdu, China (hybrid)
+  url: https://www.cisat.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-15
+  - kind: other
+    date: 2027-05-14
+    label: Registration
+  - kind: camera_ready
+    date: 2027-06-01
+sources:
+- https://www.cisat.org/
+- https://www.cisat.org/Publication
+- https://www.cisat.org/CISAT2026
+- https://www.cisat.org/CISAT2025
+- https://portal.core.edu.au/conf-ranks/?search=CISAT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Publisher of the 2026 and 2027 proceedings not named; the site only says papers are submitted to EI Compendex and Scopus
+- No deadline time or time zone stated

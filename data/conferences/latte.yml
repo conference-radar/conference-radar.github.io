@@ -1,0 +1,44 @@
+id: latte
+name: LATTE
+full_name: Workshop on Languages, Tools, and Techniques for Accelerator Design
+type: workshop
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from Cornell, MIT and Munich University of Applied Sciences; co-located with ASPLOS
+organizer_country: [usa]
+proceedings: Workshop website (accepted papers online, non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://capra.cs.cornell.edu/latte26/
+notes:
+- Workshop on bringing programming language and tool ideas to hardware accelerator design (HDLs, HLS, design automation)
+- Held with ASPLOS every year since 2021; 2026 was hybrid, in person in Pittsburgh and online over Zoom
+- Submissions are 2-page position papers (excluding references) in the two-column SIGPLAN acmart format via HotCRP
+- Single-blind peer review by an interdisciplinary program committee
+- Non-archival; accepted PDFs are posted on the workshop website
+- Not listed in the CORE portal (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-03-23
+  end: 2026-03-23
+  location: Pittsburgh, USA and online (with ASPLOS 2026)
+  url: https://capra.cs.cornell.edu/latte26/
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+  - kind: notification
+    date: 2026-02-17
+sources:
+- https://capra.cs.cornell.edu/latte26/
+- https://capra.cs.cornell.edu/latte26/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=LATTE&by=all&source=ICORE2026
+unverified:
+- The 2026 call does not state a time zone for the submission deadline
+- 2027 edition not announced yet
+last_verified: 2026-11-20

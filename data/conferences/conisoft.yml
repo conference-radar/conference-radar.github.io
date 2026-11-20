@@ -1,0 +1,72 @@
+id: conisoft
+name: CONISOFT
+full_name: International Conference in Software Engineering Research and Innovation
+type: conference
+tier: minor
+areas: [software]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: Red Mexicana de Ingeniería de Software, with a host Mexican university
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: About 500 USD per paper for non-Latin American authors, 4,000 MXN for Latin American authors (2026)
+typical:
+  deadline_months: [6]
+  conference_months: [10]
+links:
+  website: https://conisoft.org/2026/
+notes:
+- Mexican software engineering research conference (14th edition in 2026), technically co-sponsored by the IEEE Computer Society
+- Run by the Mexican software engineering network (Red Mexicana de Ingeniería de Software) with a different Mexican host university each year
+- Two tracks, scientific papers in English and scientific papers in Spanish
+- English track papers go to IEEE Xplore and the IEEE CSDL (per the 2025 call); Spanish track papers go to Ibero-American journals
+- Full papers 8 to 10 pages, work in progress 6 to 8 pages; anonymized submission via Microsoft CMT
+- Extended versions of selected English papers may be invited to a special issue of Programming and Computer Software (Springer)
+- Always held in Mexico (La Paz 2025, Zacatecas 2026); 2025 edition was hybrid
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 13th CONISOFT
+  start: 2025-10-27
+  end: 2025-10-31
+  location: La Paz, Baja California Sur, Mexico (Universidad Autónoma de Baja California Sur)
+  url: https://conisoft.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-06-22
+  - kind: notification
+    date: 2025-07-13
+  - kind: camera_ready
+    date: 2025-07-31
+- year: 2026
+  label: 14th CONISOFT
+  start: 2026-10-27
+  end: 2026-10-30
+  location: Zacatecas, Mexico (Universidad Autónoma de Zacatecas)
+  url: https://conisoft.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    label: Extended from 2026-05-31
+  - kind: notification
+    date: 2026-07-13
+    label: Postponed from 2026-07-05
+  - kind: camera_ready
+    date: 2026-08-17
+sources:
+- https://conisoft.org/2026/
+- https://conisoft.org/2026/sections/about.html
+- https://conisoft.org/2026/sections/important.html
+- https://conisoft.org/2026/sections/submissions.html
+- https://conisoft.org/2026/sections/rates.html
+- https://conisoft.org/2025/secciones/important.html
+- https://conisoft.org/2025/secciones/submissions.html
+- https://portal.core.edu.au/conf-ranks/?search=CONISOFT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2026 submissions page no longer names IEEE Xplore; the publisher is taken from the 2025 call
+- Deadline time zones not stated on the official pages
+- No CONISOFT 2027 edition announced as of 2026-11-20
+- CCF list checked in a mirrored copy of the CCF 2026 list PDF (ccf.org.cn behind a captcha)

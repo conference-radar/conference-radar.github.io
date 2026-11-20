@@ -1,0 +1,62 @@
+id: brainbodyfm
+name: BrainBodyFM
+full_name: Workshop on Foundation Models for the Brain and Body
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Mila, Donders Institute, Emory and Georgia Tech, UPenn, Stanford, Constellation); co-located with NeurIPS
+organizer_country: [usa, canada, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://brainbodyfm-workshop.github.io
+notes:
+- NeurIPS workshop on foundation models for neural and physiological signals (EEG, fMRI, invasive electrophysiology and BCI, wearables) and embodied intelligence
+- 1st edition at NeurIPS 2025 (San Diego), 2nd at NeurIPS 2026 (Sydney)
+- Non-archival; accepted papers are posted on OpenReview and the workshop website and may be submitted elsewhere
+- Papers up to 5 pages excluding references and appendices in a modified NeurIPS style, double-blind review on OpenReview
+- Separate call for demos and travel awards
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: San Diego, USA (with NeurIPS 2025)
+  url: https://brainbodyfm-workshop.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    label: Papers (extended deadline)
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://brainbodyfm-workshop.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-09-05
+    tz: AoE
+    label: Papers and travel awards
+  - kind: other
+    date: 2026-09-19
+    label: Demos
+  - kind: notification
+    date: 2026-09-29
+  - kind: camera_ready
+    date: 2026-11-06
+sources:
+- https://brainbodyfm-workshop.github.io
+- https://brainbodyfm-workshop.github.io/call-for-papers.html
+- https://brainbodyfm-workshop.github.io/2025/
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=Brain+and+Body&by=all&source=ICORE2026
+unverified:
+- Original 2025 paper deadline before the extension (announced 2025-08-20) not stated; 2025 notification and camera-ready dates not stated
+- Time of day for the 2026 deadlines not stated (paper deadline given as AoE)
+last_verified: 2026-11-20

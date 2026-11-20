@@ -1,0 +1,61 @@
+id: rp
+name: RP
+full_name: International Conference on Reachability Problems
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: RP Steering Committee with a local host institution
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+fee: About 350 EUR early regular, 200 EUR early student (2025)
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://rp25.software.imdea.org/
+notes:
+- Theory conference on reachability problems in computational models, verification, automata, logic and algebraic structures, held since 2007
+- Proceedings in Springer LNCS
+- Regular papers up to 12 pages in LNCS format excluding bibliography and appendices, single-blind review
+- Also accepts presentation-only submissions (published elsewhere or 2-page abstracts), not included in the proceedings
+- Small conference; 12 regular papers accepted in 2025
+- Held in Europe (Kaiserslautern 2022, Nice 2023, Vienna 2024, Madrid 2025)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2025
+  label: 19th RP
+  start: 2025-10-01
+  end: 2025-10-03
+  location: Madrid, Spain (IMDEA Software Institute)
+  url: https://rp25.software.imdea.org/
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    tz: AoE
+    label: Regular papers
+  - kind: other
+    date: 2025-08-01
+    tz: AoE
+    label: Presentation-only submissions
+  - kind: notification
+    date: 2025-08-13
+  - kind: camera_ready
+    date: 2025-09-05
+sources:
+- https://rp25.software.imdea.org/
+- https://rp25.software.imdea.org/aside.html
+- https://rp25.software.imdea.org/submission.html
+- https://rp25.software.imdea.org/registration.html
+- https://rp25.software.imdea.org/accepted.html
+- https://rp25.software.imdea.org/past_rps.html
+- https://rp25.software.imdea.org/program_committee.html
+- https://portal.core.edu.au/conf-ranks/?search=Reachability&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- RP 2026 (reportedly in Turku, Finland) is not recorded because its official website was not found
+- No RP 2027 edition announced as of 2026-11-20
+- CCF list checked in a mirrored copy of the CCF 2026 list PDF (ccf.org.cn behind a captcha)

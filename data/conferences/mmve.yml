@@ -1,0 +1,70 @@
+id: mmve
+name: MMVE
+full_name: International Workshop on Immersive Mixed and Virtual Environment Systems
+type: workshop
+tier: minor
+areas: [networking, systems, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: MMVE steering committee, co-located with ACM MMSys
+organizer_country: [international]
+proceedings: ACM DL (ACM MMSys proceedings)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [3, 4]
+links:
+  website: https://mmve-workshop.org/
+notes:
+- Workshop on systems for immersive, mixed and virtual reality environments (17th edition in 2025), co-located with ACM MMSys
+- Accepted papers are archived in the ACM Digital Library as part of the ACM MMSys proceedings
+- Full papers up to 6 pages and short papers up to 3 pages, excluding references; ACM sigconf template, double-blind review on HotCRP
+- At least one author must present in person
+- Rotates worldwide with MMSys (Stellenbosch 2025, Hong Kong 2026, Ghent 2027)
+editions:
+- year: 2026
+  start: 2026-04-04
+  end: 2026-04-08
+  location: Hong Kong SAR, China
+  url: https://mmve-workshop.org/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-02-01
+    tz: AoE
+    label: Registration (extended from 2026-01-16)
+  - kind: submission
+    date: 2026-02-01
+    label: Extended from 2026-01-16
+  - kind: notification
+    date: 2026-02-20
+  - kind: camera_ready
+    date: 2026-02-27
+- year: 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  location: Ghent, Belgium
+  url: https://mmve-workshop.org/2027
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-11
+    time: "23:59"
+    tz: CET
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-02-19
+    time: "23:59"
+    tz: CET
+sources:
+- https://mmve-workshop.org/2027
+- https://mmve-workshop.org/2026
+- https://mmve-workshop.org/2026/call-for-papers.html
+- https://mmve-workshop.org/2026/organizers.html
+- https://mmve-workshop.org/2025
+- https://mmve-workshop.org/2025/call-for-papers.html
+unverified:
+- Not listed in the CORE ICORE2026 portal; CCF 2026 list could not be checked directly
+- 2026 and 2027 dates on the site are the full MMSys dates; the exact workshop day is not given
+last_verified: 2026-11-20

@@ -1,0 +1,65 @@
+id: ccpqt
+name: CCPQT
+full_name: IEEE International Conference on Computing, Communication, Perception and Quantum Technology
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: Conference committee of Chinese universities (general chairs from Northeastern University, Southeast University and Beijing University of Technology)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+fee: 3,800 CNY per paper regular, 3,600 CNY student author, 1,500 CNY attendance only (2027)
+typical:
+  deadline_months: [6]
+  conference_months: [8, 10]
+links:
+  website: https://www.ccpqt.org/
+notes:
+- Chinese conference on computing, communication (wireless, optical, satellite, quantum), perception and sensing, and quantum technology
+- Proceedings of every edition since 2022 are in IEEE Xplore
+- Held in China every year (Xiamen 2022 and 2023, Zhuhai 2024, Ordos 2025, Huludao 2026 per IEEE metadata, Beijing 2027)
+- 2027 edition at the International Cultural Exchange Center of Beijing University of Technology
+- Papers up to 5 pages per registration, extra pages charged; registration handled by email with the secretariat
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  label: 4th CCPQT
+  location: Ordos, Inner Mongolia, China
+  url: https://www.ccpqt.org/venue/
+- year: 2026
+  label: 5th CCPQT
+  url: https://www.ccpqt.org/ccpqt-2026/
+- year: 2027
+  label: 6th CCPQT
+  start: 2027-08-20
+  end: 2027-08-22
+  location: Beijing University of Technology, Beijing, China
+  url: https://www.ccpqt.org/
+  deadlines:
+  - kind: submission
+    date: 2027-06-20
+  - kind: notification
+    date: 2027-07-30
+  - kind: camera_ready
+    date: 2027-08-08
+  - kind: other
+    date: 2027-08-13
+    label: Registration
+sources:
+- https://www.ccpqt.org/
+- https://www.ccpqt.org/call-for-papers/
+- https://www.ccpqt.org/registration/
+- https://www.ccpqt.org/venue-2027/
+- https://www.ccpqt.org/committee-2026-2/
+- https://www.ccpqt.org/committee-members-2025/
+- https://www.ccpqt.org/venue/
+- https://www.ccpqt.org/ccpqt-2026/
+- https://ieeexplore.ieee.org/xpl/conhome/11382194/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=CCPQT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of the 2025 and 2026 editions are not stated as text on the official site (IEEE proceedings metadata gives 2025-10-24 to 26 in Ordos and 2026-08-21 to 23 in Huludao)
+- No deadline time or time zone stated

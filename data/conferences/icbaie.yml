@@ -1,0 +1,62 @@
+id: icbaie
+name: ICBAIE
+full_name: International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering
+type: conference
+tier: minor
+areas: [ai, data, networking]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Xi'an University of Technology in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, Inspec]
+typical:
+  deadline_months: [9]
+  conference_months: [10, 11]
+links:
+  website: http://www.icbaie.net/
+notes:
+- Annual since 2020 and held in China (online 2022, Shenzhen 2024, Shanghai 2025, Xi'an 2026)
+- Covers big data, AI and IoT engineering, with a strong intelligent manufacturing flavor in recent keynotes
+- 2026 papers are reviewed by two or three reviewers and published by IEEE (ISBN 979-8-3195-4838-2), submitted to IEEE Xplore, EI Compendex, Scopus and Inspec
+- 2026 edition announced in a dual-venue format, hosted at Xi'an University of Technology
+- Abstract-only submissions accepted for presentation without publication
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 6th ICBAIE
+  start: 2025-10-17
+  end: 2025-10-19
+  location: University of Shanghai for Science and Technology, Shanghai, China
+  url: http://www.icbaie.net/2025
+- year: 2026
+  label: 7th ICBAIE
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Xi'an University of Technology, Xi'an, China
+  url: http://www.icbaie.net/
+  deadlines:
+  - kind: submission
+    date: 2026-09-07
+  - kind: notification
+    date: 2026-10-07
+  - kind: camera_ready
+    date: 2026-10-22
+sources:
+- http://www.icbaie.net/
+- http://www.icbaie.net/venue
+- http://www.icbaie.net/program
+- http://www.icbaie.net/committee11
+- http://www.icbaie.net/2025
+- http://www.icbaie.net/2024
+- http://www.icbaie.net/2023
+- http://www.icbaie.net/2022
+- https://portal.core.edu.au/conf-ranks/?search=ICBAIE&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The site describes 2026 as dual-venue but names only Xi'an; the second venue is not stated
+- 2027 edition not announced yet
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded; rank.ccf left out

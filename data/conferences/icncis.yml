@@ -1,0 +1,51 @@
+id: icncis
+name: ICNCIS
+full_name: International Conference on Network Communication and Information Security
+type: conference
+tier: minor
+areas: [networking, security]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [10]
+links:
+  website: http://www.icncis.org/
+notes:
+- Small annual conference on networking, communications and information security, first held in 2021 and held in China (Mianyang 2023, Harbin 2025)
+- Run with the AEIC Academic Exchange Information Center (AiScholar) and a host university (Central South University hosted the 2023 edition in Mianyang)
+- 2025 proceedings published by IEEE (IEEE Xplore), submitted to EI Compendex and Scopus; papers at least 4 pages
+- Abstract-only presentation without publication is also offered
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 5th ICNCIS
+  start: 2025-10-17
+  end: 2025-10-19
+  location: Harbin, China
+  url: http://www.icncis.org/
+  deadlines:
+  - kind: submission
+    date: 2025-10-10
+    label: Full paper (as shown on the site at the end of the call)
+  - kind: other
+    date: 2025-10-12
+    label: Registration due
+sources:
+- http://www.icncis.org/
+- http://www.icncis.org/History
+- http://www.icncis.org/Publication
+- https://doi.org/10.1109/icncis67521.2025
+- https://portal.core.edu.au/conf-ranks/?search=ICNCIS&by=all&source=ICORE2026
+unverified:
+- No 2026 edition shown on the site as of 2026-11-20
+- Original 2025 submission deadline before extensions not known
+- Publishers of the 2021 to 2024 proceedings not confirmed
+- CCF 2026 list could not be loaded
+last_verified: 2026-11-20

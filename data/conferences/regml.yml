@@ -1,0 +1,54 @@
+id: regml
+name: RegML
+full_name: "Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, security]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from University of Virginia, Harvard University, UIUC and Salesforce/Cornell; co-located with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://regulatableml.github.io/
+notes:
+- NeurIPS workshop on bridging ML research and AI regulation (auditing, compliance, safety, liability, EU AI Act)
+- Held at NeurIPS 2023, NeurIPS 2024 and NeurIPS 2025 in San Diego (3rd edition)
+- Non-archival, double-blind review on OpenReview
+- Short papers up to 4 pages or long papers up to 9 pages, excluding references and supplementary material
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  location: San Diego, California, USA (with NeurIPS 2025)
+  url: https://regulatableml.github.io/
+  deadlines:
+  - kind: submission
+    date: 2025-08-29
+    time: "23:59"
+    tz: UTC
+  - kind: notification
+    date: 2025-09-22
+    time: "23:59"
+    tz: UTC
+  - kind: camera_ready
+    date: 2025-10-23
+    time: "23:59"
+    tz: UTC
+sources:
+- https://regulatableml.github.io/
+- https://regulatableml.github.io/cfp/
+- https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/RegML
+- https://neurips.cc/virtual/2025/workshop/109575
+- https://neurips.cc/virtual/2026/events/workshop
+- https://portal.core.edu.au/conf-ranks/?search=RegML&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No 2026 edition found; RegML is not in the NeurIPS 2026 workshop list as of 2026-11-20
+- The CFP states deadlines in GMT, recorded here as UTC

@@ -1,0 +1,52 @@
+id: assure-ai
+name: ASSURE-AI
+full_name: International Workshop on Security Assurance for AI-Assisted Software Engineering
+type: workshop
+tier: minor
+areas: [security, software, ai]
+region: worldwide
+language: english
+organizer: ASSURE-AI chairs from Florida Polytechnic University, KFUPM and IBM Research, co-located with IEEE SANER
+organizer_country: [usa, other]
+proceedings: IEEE Xplore (SANER companion proceedings)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [10]
+  conference_months: [3]
+links:
+  website: https://assure-workshop.github.io/
+notes:
+- Co-located with IEEE SANER (Software Analysis, Evolution and Reengineering); 2027 edition at SANER 2027 in Richmond, Virginia
+- Topics are security assurance of code and software produced with AI assistants
+- Accepted papers expected in the IEEE SANER companion proceedings
+- Full papers up to 8 pages; short, position, tool, dataset, benchmark and industry papers up to 4 pages
+- Double-anonymous review following the SANER guidelines; submission through the SANER 2027 tracks EasyChair
+- Organizing chairs from Florida Polytechnic University (USA), KFUPM (Saudi Arabia) and IBM Research
+- Not listed in ICORE2026 (portal search returns no results) or the CCF list
+editions:
+- year: 2027
+  start: 2027-03-09
+  end: 2027-03-09
+  location: Richmond, Virginia, USA
+  url: https://assure-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-30
+    tz: AoE
+    label: Papers (extended from 2026-10-23)
+  - kind: notification
+    date: 2026-12-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+sources:
+- https://assure-workshop.github.io/
+- https://conf.researchr.org/track/saner-2027/saner-2027-papers
+- https://portal.core.edu.au/conf-ranks/?search=ASSURE&by=all&source=ICORE2026
+unverified:
+- Edition number and any earlier editions not stated on the official site
+- Frequency not confirmed
+last_verified: 2026-11-20

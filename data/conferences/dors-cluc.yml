@@ -1,0 +1,39 @@
+id: dors-cluc
+name: DORS/CLUC
+full_name: DORS/CLUC Conference (Modern Development and Ops for an Open World)
+type: industry
+tier: minor
+areas: [software, systems]
+region: europe
+frequency: annual
+organizer: DORS/CLUC community (volunteer, community-run)
+organizer_country: [europe]
+proceedings: None (non-archival; recorded talks published on YouTube)
+archival: false
+typical:
+  conference_months: [4]
+links:
+  website: https://www.dorscluc.org/
+notes:
+- Croatian open source developer and DevOps practitioner conference, described as "From the community, for the community"
+- 31st edition held April 24-25, 2026 at Algebra Bernays University, Zagreb, Croatia
+- Talks chosen through a call for speakers; all talks must be on an open source topic (hardware, software, policy or philosophy)
+- Four tracks in 2026 -> modern development and architecture, DevOps and infrastructure and security, community and policy and free software, OpenStreetMap
+- Talks may be recorded and released under CC BY-SA 4.0; no papers or proceedings
+- The conference does not cover speaker travel or accommodation unless stated otherwise
+editions:
+- year: 2026
+  start: 2026-04-24
+  end: 2026-04-25
+  location: Algebra Bernays University, Zagreb, Croatia
+  url: https://2026.dorscluc.org/
+sources:
+- https://2026.dorscluc.org/
+- https://2026.dorscluc.org/call-for-speakers/
+- https://2026.dorscluc.org/submit-a-talk/
+unverified:
+- Call for speakers deadline for 2026 not stated on the official pages
+- 2027 edition not announced as of 2026-11-20
+- Organizing body not named on the official site; presentation language not stated
+- Region judged from the 2026 edition only (2025.dorscluc.org returned 503 on 2026-11-20)
+last_verified: 2026-11-20

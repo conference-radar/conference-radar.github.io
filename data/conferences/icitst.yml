@@ -1,0 +1,76 @@
+id: icitst
+name: ICITST
+full_name: International Conference for Internet Technology and Secured Transactions
+type: conference
+tier: minor
+areas: [security, networking, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Infonomics Society
+organizer_country: [europe]
+proceedings: ICITST proceedings (own proceedings with ISBN and DOI)
+archival: true
+fee: About 600 GBP (2026, early bird speaker/author; virtual presenter 450 GBP)
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11, 12]
+links:
+  website: https://icitst.org/
+notes:
+- Run by the Infonomics Society (London), which also runs the linked journals IJISR, IJICR and others
+- Held in the UK almost every year since 2006; St Anne's College, Oxford since 2023 (2020 to 2022 virtual)
+- Broad scope covering cyber security, Internet technologies, IoT, AI and e-business
+- Double-blind review; accepts abstracts, extended abstracts (2 pages), full papers (6 pages), student papers, posters and case studies
+- All accepted contributions go into the conference proceedings with ISBN and DOI; selected authors are invited to extend papers for Infonomics Society journals
+- Virtual presentation is possible, with a separate later abstract deadline
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  label: ICITST-2026 (21st)
+  start: 2026-11-23
+  end: 2026-11-25
+  location: St Anne's College, Oxford, UK
+  url: https://icitst.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-08-31
+    label: Abstract (extended)
+  - kind: submission
+    date: 2026-09-06
+    label: Extended abstract or full paper (extended)
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-20
+  - kind: other
+    date: 2026-10-30
+    label: Abstract for virtual presentation
+- year: 2027
+  label: ICITST-2027 (22nd)
+  start: 2027-11-22
+  end: 2027-11-24
+  url: https://icitst.org/important-dates-2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-12-30
+  - kind: submission
+    date: 2027-01-15
+    label: Full paper or extended abstract
+  - kind: notification
+    date: 2027-02-01
+  - kind: camera_ready
+    date: 2027-05-01
+sources:
+- https://icitst.org/
+- https://icitst.org/important-dates-2026/
+- https://icitst.org/important-dates-2027/
+- https://icitst.org/past-conferences/
+- https://icitst.org/submission/
+- https://icitst.org/registration/
+- https://icitst.org/contact/
+- https://portal.core.edu.au/conf-ranks/?search=ICITST&by=all&source=ICORE2026
+unverified:
+- ICITST-2027 venue not stated (the 2027 important dates page gives only the dates)
+- Proceedings publisher and indexing not named on the site beyond ISBN and DOI
+last_verified: 2026-11-20

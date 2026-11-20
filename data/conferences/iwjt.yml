@@ -1,0 +1,61 @@
+id: iwjt
+name: IWJT
+full_name: International Workshop on Junction Technology
+type: conference
+tier: minor
+areas: [general]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: IWJT international committee, sponsored by IEEE EDS (2026 hosted by CEA-Leti)
+organizer_country: [japan, europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [4, 6]
+  conference_months: [6, 9]
+links:
+  website: https://iwjt2026.inviteo.fr/
+notes:
+- Workshop on semiconductor junction formation (doping, annealing, epitaxy, contacts), devices and characterization, started in 2000
+- Held in Japan or China until 2025; 2026 in Grenoble was the first edition outside Asia
+- Sponsored by IEEE EDS; 2025 technically co-sponsored by the IEEE EDS Japan Joint Chapter and Kansai Chapter
+- Submissions are 2 to 4 page camera-ready papers, reviewed for oral or poster; accepted papers are published in IEEE Xplore
+- About 100 attendees from Asia, Europe and the US; best paper and young researcher awards
+- No edition in 2024 (2023 then 2025)
+editions:
+- year: 2025
+  start: 2025-06-05
+  end: 2025-06-06
+  location: Kyoto University Kihada Hall (Uji Campus), Uji, Kyoto, Japan
+  url: https://smartconf.jp/content/iwjt2025
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-04-22
+    time: "23:59"
+    tz: JST
+    label: Extended from 2025-04-04
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-29
+  location: Ense3 / GreEn-ER, Grenoble, France
+  url: https://iwjt2026.inviteo.fr/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-06-15
+    label: Abstract (final deadline)
+sources:
+- https://smartconf.jp/content/iwjt2025
+- https://smartconf.jp/content/iwjt2025/submission
+- https://iwjt2026.inviteo.fr/
+- https://iwjt2026.inviteo.fr/en/call-for-papers/15
+- https://iwjt2026.inviteo.fr/en/practical-information/venue/24
+- https://portal.core.edu.au/conf-ranks/?search=IWJT&by=all&source=ICORE2026
+unverified:
+- 2027 host and dates not announced (checked 2026-11-20)
+- Region set from the history of Japan and China hosting; host countries of each of the last six editions not checked
+- Not listed in the CORE ICORE2026 portal or the CCF list; acceptance rate not published
+last_verified: 2026-11-20

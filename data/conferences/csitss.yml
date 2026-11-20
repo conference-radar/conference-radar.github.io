@@ -1,0 +1,56 @@
+id: csitss
+name: CSITSS
+full_name: International Conference on Computational Systems and Information Technology for Sustainable Solutions
+type: conference
+tier: minor
+areas: [general, ai, communications, networking, data]
+region: south-asia
+language: english
+frequency: annual
+organizer: RV College of Engineering (RVCE), Bengaluru, with IEEE RVCE
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10, 11]
+links:
+  website: https://csitss.ieee-rvce.org/
+notes:
+- Organized by RV College of Engineering, Bengaluru, India; held in Bengaluru every year (RVCE campus in 2026)
+- 2026 is the 10th edition (IEEE conference 71124); collaborators listed include the IEEE Bangalore Section, IEEE
+  ComSoc and several German and Danish universities
+- Accepted and presented papers are submitted to IEEE Xplore
+- Broad scope with themes including computing and intelligent systems, data science, AI ethics, and advanced
+  electronics, communication and networking (5G/6G, IoT, Open RAN)
+- Single-blind review via Microsoft CMT; up to six pages in IEEE double-column format, extra pages charged
+- 'Fee (2026, early bird, incl. GST): students 5310 INR or 80 USD (IEEE member), academics 7080 INR or 100 USD'
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 10th CSITSS
+  start: 2026-10-30
+  end: 2026-10-31
+  location: Bengaluru, India (RV College of Engineering)
+  url: https://csitss.ieee-rvce.org/
+  deadlines:
+  - kind: submission
+    date: 2026-07-01
+    label: Full manuscript (extended from 2026-06-14)
+  - kind: notification
+    date: 2026-08-14
+  - kind: camera_ready
+    date: 2026-09-30
+    label: Camera-ready, copyright form and paper registration
+sources:
+- https://csitss.ieee-rvce.org/
+- https://csitss.ieee-rvce.org/about
+- https://csitss.ieee-rvce.org/paper-submission-guidelines
+- https://api.crossref.org/works?query.bibliographic=Computational+Systems+and+Information+Technology+for+Sustainable+Solutions
+- https://portal.core.edu.au/conf-ranks/?search=CSITSS&by=all&source=ICORE2026
+unverified:
+- 2027 edition not announced yet
+- 2025 (9th) edition dates (Nov 20 to 22, Bangalore) are from IEEE Crossref metadata only; the official site now shows only 2026
+- Acceptance rate not published
+last_verified: 2026-11-20

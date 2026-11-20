@@ -1,0 +1,48 @@
+id: icscai
+name: ICSCAI
+full_name: International Conference on Sustainable Computing and Integrated Communication in Changing Landscape of AI
+type: conference
+tier: minor
+areas: [ai, communications, general]
+region: south-asia
+language: english
+organizer: LIET with MIMT and Still Human Foundation
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [5]
+links:
+  website: https://icscai.co.in/
+notes:
+- Indian conference run by LIET in academic association with MIMT (Greater Noida) and the Still Human Foundation
+- Technically sponsored by the IEEE UP Section (2026)
+- First edition held at LIET in 2024; its proceedings are in IEEE Xplore
+- The same site also hosts the sister conference ICBETS 2026
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-08
+  end: 2026-05-09
+  url: https://icscai.co.in/icscai-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-05
+  - kind: notification
+    date: 2026-04-15
+  - kind: other
+    date: 2026-04-20
+    label: Registration payment for accepted papers
+sources:
+- https://icscai.co.in/
+- https://icscai.co.in/icscai-2026/
+- https://icscai.co.in/submission/
+- https://icscai.co.in/about/
+- https://ieeexplore.ieee.org/xpl/conhome/10865984/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICSCAI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Publisher of the 2026 proceedings not named on the official site (only the 2024 IEEE Xplore volume is linked and an IEEE template is offered)
+- Venue of the 2026 edition and dates of the 2024 edition not stated on the official site
+- No 2027 edition announced as of 2026-11-20

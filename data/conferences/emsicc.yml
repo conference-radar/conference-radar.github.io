@@ -1,0 +1,51 @@
+id: emsicc
+name: EMSICC
+full_name: International Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Co-located with IEEE FiCloud; founded by Samia Bouzefrane (CNAM Paris), 2026 chairs from Manipal Academy of
+  Higher Education and CISTER Research Centre (Porto)
+organizer_country: [europe, india]
+proceedings: IEEE CPS
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://emsicc2026.roc.cnam.fr/
+notes:
+- Workshop on energy management for IoT and cloud computing, held with IEEE FiCloud; 11th edition in 2026
+- Proceedings published by IEEE Conference Publishing Services, like the FiCloud main conference
+- Papers up to 6 pages in IEEE two-column format, single-blind, submitted through EasyChair
+- Hybrid event; location follows FiCloud (Granada 2026)
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-20
+  end: 2026-07-22
+  location: Granada, Spain (FiCloud 2026, hybrid)
+  url: https://emsicc2026.roc.cnam.fr/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-05-25
+  - kind: camera_ready
+    date: 2026-06-05
+sources:
+- https://emsicc2026.roc.cnam.fr/
+- https://emsicc2026.roc.cnam.fr/?page_id=74
+- https://emsicc2026.roc.cnam.fr/?page_id=12
+- https://emsicc2026.roc.cnam.fr/?page_id=371
+- https://www.ficloud.org/2026/
+- https://portal.core.edu.au/conf-ranks/?search=EMSICC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The workshop site names IEEE CPS as publisher but does not say explicitly that papers go to IEEE Xplore
+- Exact workshop day within FiCloud 2026 not stated
+- Deadline time zone not stated
+- Earlier editions not checked (the 2025 site was unavailable); EMSICC 2027 not announced

@@ -1,0 +1,62 @@
+id: ieee-mnc
+name: MNC
+full_name: IEEE International Symposium on Measurements in Networking and Communications
+type: conference
+tier: minor
+areas: [networking, communications]
+region: europe
+language: english
+frequency: biennial
+organizer: IEEE Instrumentation and Measurement Society (TC-37)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://mnc2026.ieee-ims.org/
+notes:
+- Promoted by Technical Committee TC-37 of the IEEE Instrumentation and Measurement Society
+- Called IEEE International Symposium on Measurements and Networking (M&N) until 2024; renamed MNC from the 2026 edition
+- Recent editions 2022 Padua (6th), 2024 Rome (7th), 2026 Naples; one edition every two years recently
+- Earlier hosts Anacapri, Naples, Coimbra, Naples and Catania; almost always held in Italy
+- Topics include measurement in networking and communications, networking for measurement, cybersecurity and standardization
+- Accepted papers go to IEEE Xplore; extended versions can go to an IEEE TIM / OJIM special section
+- Not listed in ICORE2026
+editions:
+- year: 2024
+  start: 2024-07-02
+  end: 2024-07-05
+  location: Rome, Italy
+  url: https://mn2024.ieee-ims.org/
+- year: 2026
+  start: 2026-07-13
+  end: 2026-07-16
+  location: Naples, Italy
+  url: https://mnc2026.ieee-ims.org/
+  deadlines:
+  - kind: other
+    date: 2026-02-02
+    label: Special session and tutorial proposals
+  - kind: submission
+    date: 2026-04-21
+    label: Full paper
+  - kind: other
+    date: 2026-06-01
+    label: Revised paper
+  - kind: camera_ready
+    date: 2026-06-15
+    label: Final manuscript and early registration
+sources:
+- https://mnc2026.ieee-ims.org/
+- https://mnc2026.ieee-ims.org/authors/call-for-papers
+- https://mnc2026.ieee-ims.org/about/symposium-history
+- https://mn2024.ieee-ims.org/
+- https://mn2022.ieee-ims.org/
+- https://portal.core.edu.au/conf-ranks/?search=MNC&by=all&source=ICORE2026
+unverified:
+- No 2028 edition announced yet; biennial pattern inferred from the 2022, 2024 and 2026 editions
+- Years of the first five editions not stated on the official history page
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

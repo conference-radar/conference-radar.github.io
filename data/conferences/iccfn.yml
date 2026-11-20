@@ -1,0 +1,52 @@
+id: iccfn
+name: ICCFN
+full_name: International Conference on Cybertechnology and Future Networks
+type: conference
+tier: minor
+areas: [security, networking]
+region: europe
+language: english
+organizer: Not clearly named; site hosted by the Northern Illinois University Cybersecurity Program, co-hosted with EUDAT (contact at cybtechno.org)
+proceedings: Springer CCIS
+archival: true
+indexing: [Scopus, DBLP, EI]
+fee: 550 USD author, 450 USD student, 300 USD non-author (2026); 20% discount for low-income countries
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://cybertech.niu.edu/iccfn/
+notes:
+- 2026 edition held at the Grandior Hotel, Prague, co-hosted with the EUDAT research forum
+- Proceedings in Springer Communications in Computer and Information Science (CCIS); selected papers invited to Springer journal special issues
+- Partners listed include Northern Illinois University, AASTMT, Springer and ONR Global
+- The page header says hybrid but the format section says in-person only
+- Appears to be a first edition; no previous editions listed
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-11-25
+  end: 2026-11-26
+  location: Grandior Hotel, Prague, Czech Republic
+  url: https://cybertech.niu.edu/iccfn/
+  deadlines:
+  - kind: submission
+    date: 2026-09-15
+  - kind: notification
+    date: 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-15
+    label: Camera-ready and registration
+sources:
+- https://cybertech.niu.edu/iccfn/
+- https://cybertech.niu.edu/iccfn/committee.php
+- https://cybertech.niu.edu/iccfn/registration.php
+- https://cybertech.niu.edu/
+- https://portal.core.edu.au/conf-ranks/?search=ICCFN&by=all&source=ICORE2026
+unverified:
+- Organizing body and its country not clearly named on the official site, so organizer_country is left out
+- The committee page header reads ICCFN 2025, but no 2025 edition is listed anywhere on the site
+- Whether ICCFN will be held again (frequency unknown); no 2027 edition announced as of 2026-11-20
+- Indexing as claimed for the CCIS series by the official page
+- CCF 2026 list not checked directly
+last_verified: 2026-11-20

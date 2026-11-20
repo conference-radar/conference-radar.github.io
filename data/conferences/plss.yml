@@ -1,0 +1,60 @@
+id: plss
+name: PLSS
+full_name: Workshop on Programming Language Standardization and Specification
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from the University of Bergen, F5 and Mozilla; co-located with ECOOP (2025) and SPLASH/ISSTA (2026)
+organizer_country: [europe, usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  deadline_months: [5, 8]
+  conference_months: [7, 10]
+links:
+  website: https://conf.researchr.org/series/plss
+notes:
+- Workshop on how programming languages are standardized and specified (formal and executable specifications, standards process, multi-implementation compatibility, teaching standardization)
+- 1st edition with ECOOP 2025 in Bergen, Norway; 2nd edition with SPLASH/ISSTA 2026 in Oakland, USA
+- Submissions are short abstracts (300 to 500 words in 2025, 2 to 5 paragraphs in 2026) for talks; lightweight review
+- Previously presented or published work is welcome; the call pages do not mention any proceedings
+- Industry professionals, standards body representatives and language implementers are especially invited
+- The 2026 edition was endorsed by the W3C
+- Not listed in the CORE portal (ICORE2026); not on the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-07-04
+  end: 2025-07-04
+  location: Bergen, Norway (with ECOOP 2025)
+  url: https://2025.ecoop.org/home/plss-2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-14
+    tz: AoE
+  - kind: notification
+    date: 2025-05-16
+    tz: AoE
+- year: 2026
+  start: 2026-10-08
+  end: 2026-10-08
+  location: Oakland, California, USA (with SPLASH/ISSTA 2026)
+  url: https://conf.researchr.org/home/splash-issta-2026/plss-2026
+  deadlines:
+  - kind: submission
+    date: 2026-08-01
+    tz: AoE
+  - kind: notification
+    date: 2026-08-05
+    tz: AoE
+sources:
+- https://conf.researchr.org/series/plss
+- https://conf.researchr.org/home/splash-issta-2026/plss-2026
+- https://2025.ecoop.org/home/plss-2025
+- https://portal.core.edu.au/conf-ranks/?search=PLSS&by=all&source=ICORE2026
+unverified:
+- Non-archival status is inferred from the abstract-only talk format; neither call states it explicitly
+- 2027 edition and its host conference not announced yet
+last_verified: 2026-11-20

@@ -1,0 +1,48 @@
+id: mofa
+name: MoFA
+full_name: Workshop on Models of Human Feedback for AI Alignment
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: MoFA workshop organizers (Georgia Tech, UC Berkeley, Alan Turing Institute, Cornell, ETH Zurich, Google DeepMind); co-located with ICML
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://sites.google.com/view/mhf-icml2025
+notes:
+- ICML workshop on modeling human feedback for AI alignment (RLHF, preference learning, human behavior models)
+- 1st edition at ICML 2024, 2nd edition at ICML 2025 in Vancouver
+- Non-archival; ongoing and under-review work is accepted
+- Double-blind review on OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 2nd edition, with ICML 2025
+  start: 2025-07-18
+  end: 2025-07-18
+  location: Vancouver Convention Center, Vancouver, Canada
+  url: https://sites.google.com/view/mhf-icml2025
+  deadlines:
+  - kind: submission
+    date: 2025-05-25
+    tz: AoE
+  - kind: notification
+    date: 2025-06-09
+  - kind: camera_ready
+    date: 2025-06-23
+sources:
+- https://sites.google.com/view/mhf-icml2025
+- https://sites.google.com/view/mhf-icml2025/call-for-papers
+- https://icml.cc/virtual/2025/workshop/39954
+- https://icml.cc/virtual/2024/workshop/29943
+- https://portal.core.edu.au/conf-ranks/?search=MoFA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- No ICML 2026 edition found in the ICML 2026 workshop list; next edition not announced as of 2026-11-20

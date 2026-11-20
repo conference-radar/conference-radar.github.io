@@ -1,0 +1,38 @@
+id: hek-si
+name: HEK.SI
+full_name: HEK.SI Ethical Hacking Conference
+type: industry
+tier: minor
+areas: [security]
+region: europe
+frequency: annual
+organizer: Palsit d.o.o. (Sempeter pri Gorici, Slovenia)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+fee: 300 EUR early, 400 EUR full, excluding 22% VAT (2027, basic package)
+typical:
+  conference_months: [2]
+links:
+  website: https://hek.si/
+notes:
+- Two-day ethical hacking conference in Ljubljana, Slovenia, with an online option
+- Run by the Slovenian company Palsit d.o.o., which also organizes the INFOSEK conference
+- Speakers are ethical hackers from Slovenia and abroad; the site cites 120+ participants and 27+ speakers
+- Commercial event with paid tickets; a premium package bundles HEK.SI with INFOSEK
+- Official site is in Slovenian
+- No call for papers and no proceedings
+editions:
+- year: 2027
+  start: 2027-02-10
+  end: 2027-02-11
+  location: Ljubljana, Slovenia (Fantasticni prostori) and online
+  url: https://hek.si/
+  status: confirmed
+sources:
+- https://hek.si/
+last_verified: 2026-11-20
+unverified:
+- Dates of the 2026 and earlier editions are not shown on the current official site
+- Talk language (Slovenian or English) is not stated
+- No call for speakers is published

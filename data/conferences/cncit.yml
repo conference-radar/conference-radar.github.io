@@ -1,0 +1,61 @@
+id: cncit
+name: CNCIT
+full_name: International Conference on Networks, Communications and Information Technology
+type: conference
+tier: minor
+areas: [networking, communications]
+region: china
+language: english
+frequency: annual
+organizer: Conference secretariat at applied-computing.net; 2027 edition sponsored by IEEE and Jinan University and organized by the College of Cyber Security, Jinan University
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 600 USD regular author (2027; 550 USD early bird before Feb 20), 520 to 550 USD student; 300 to 350 USD presentation only
+typical:
+  deadline_months: [2]
+  conference_months: [5, 6, 7]
+links:
+  website: https://www.cncit.net/
+notes:
+- Smaller commercially organized conference; secretariat contact uses a Hong Kong phone number
+- Proceedings alternate between publishers -> IEEE CPS in IEEE Xplore (2022), ACM (2023, 2024, 2026), IEEE Xplore (2025, and announced for 2027)
+- Held online in 2022 to 2024; the 2027 edition is at Jinan University, Guangzhou, both in person and online
+- Double-blind review by at least 2 to 3 reviewers; full papers up to 6 pages
+- Topics include communication and signal processing, computer networks, network security and privacy, and AI for networks
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: 5th CNCIT
+  start: 2026-05-29
+  end: 2026-05-31
+  url: https://www.cncit.net/CNCIT%202026.html
+- year: 2027
+  label: 6th CNCIT
+  start: 2027-05-21
+  end: 2027-05-23
+  location: Jinan University, Guangzhou, China
+  url: https://www.cncit.net/
+  deadlines:
+  - kind: submission
+    date: 2027-02-20
+  - kind: notification
+    date: 2027-03-20
+  - kind: other
+    date: 2027-04-05
+    label: Registration
+sources:
+- https://www.cncit.net/
+- https://www.cncit.net/registration.html
+- https://www.cncit.net/CNCIT%202026.html
+- https://www.cncit.net/CNCIT%202025.html
+- https://www.cncit.net/CNCIT%202024.html
+- https://www.cncit.net/CNCIT%202023.html
+- https://www.cncit.net/CNCIT%202022.html
+- https://conferences.ieee.org/conferences_events/conferences/conferencedetails/74179
+- https://portal.core.edu.au/conf-ranks/?search=CNCIT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Location of CNCIT 2026 not stated on the official site; 2025 location (Wuxi) only in IEEE proceedings metadata
+- No camera-ready date, deadline time or time zone stated for 2027

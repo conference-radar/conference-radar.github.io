@@ -1,0 +1,64 @@
+id: wsai
+name: WSAI
+full_name: World Symposium on Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: china
+language: english
+frequency: annual
+organizer: Chinese host universities (Hainan University for 2027) with a conference secretariat (wsai_conf@outlook.com)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://www.wsai.org/
+notes:
+- Started in 2019 in Xi'an as a workshop of HP3C; no 2025 edition listed in the official history
+- Held in China (Jinan 2023, Guangzhou 2024, Jinan 2026 at the National Supercomputer Center, Haikou 2027)
+- Proceedings in IEEE Xplore for 2020, 2021, 2022, 2024 and 2026, indexed by Ei Compendex and Scopus
+- Best Paper, Best Student Paper and Best Presentation awards
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  label: 7th WSAI
+  start: 2026-06-24
+  end: 2026-06-26
+  location: Jinan, China
+  url: https://www.wsai.org/wsai26.html
+- year: 2027
+  label: 8th WSAI
+  start: 2027-07-16
+  end: 2027-07-18
+  location: Haikou, China
+  url: https://www.wsai.org/
+  deadlines:
+  - kind: submission
+    date: 2027-02-20
+  - kind: notification
+    date: 2027-03-20
+  - kind: camera_ready
+    date: 2027-03-25
+    label: Final paper
+  - kind: other
+    date: 2027-03-05
+    label: Registration
+sources:
+- https://www.wsai.org/
+- https://www.wsai.org/news.html
+- https://www.wsai.org/history.html
+- https://www.wsai.org/contact.html
+- https://www.wsai.org/wsai26.html
+- https://www.wsai.org/wsai24.html
+- https://www.wsai.org/wsai23.html
+- https://www.wsai.org/wsai19.html
+- https://portal.core.edu.au/conf-ranks/?search=WSAI&by=all&source=ICORE2026
+unverified:
+- The official site lists the registration deadline (March 5, 2027) before the notification date (March 20, 2027)
+- No deadline time or time zone stated
+- Registration fee not found on the official site
+last_verified: 2026-11-20

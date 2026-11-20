@@ -1,0 +1,80 @@
+id: aiblock
+name: AIBlock
+full_name: International Conference on Application Intelligence and Blockchain Security
+type: conference
+tier: minor
+areas: [security, crypto, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Lancaster University, SPTAGE Lab and NORCICS (2026); technical sponsor Asia-Pacific Association of Cognitive Intelligence (AACI)
+organizer_country: [europe]
+proceedings: Springer (LNCS format post-proceedings)
+archival: true
+fee: 600 USD full registration (2026); 300 USD student non-author
+typical:
+  deadline_months: [3, 5]
+  conference_months: [7]
+links:
+  website: https://aiblock.sptagelab.org/2026/
+notes:
+- Application intelligence security and blockchain security (smart contracts, cryptocurrency analysis, AI and ML security, intrusion detection)
+- Started as an ACNS satellite workshop (6th edition in 2024 was "International Workshop on Application Intelligence and Blockchain Security" with ACNS 2024)
+- Standalone conference since 2025 (7th edition, Beijing, hybrid); 8th edition in 2026 at Lancaster University, UK, also hybrid
+- Proceedings published by Springer; LNCS format with an 18 page main body and 20 pages in total
+- 2025 used two submission rounds; 2026 had a single extended deadline
+- Selected papers invited to SCI-indexed journal special issues; best paper award
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 7th AIBlock
+  start: 2025-07-19
+  end: 2025-07-20
+  location: Beijing, China (hybrid)
+  url: https://aiblock.sptagelab.org/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    time: "23:59"
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2025-04-15
+    label: Round 1
+  - kind: submission
+    date: 2025-05-31
+    time: "23:59"
+    tz: AoE
+    label: Round 2 (extended from 2025-05-15)
+  - kind: notification
+    date: 2025-06-15
+    label: Round 2
+  - kind: camera_ready
+    date: 2025-06-20
+- year: 2026
+  label: 8th AIBlock
+  start: 2026-07-24
+  end: 2026-07-27
+  location: Lancaster University, Lancaster, United Kingdom (hybrid)
+  url: https://aiblock.sptagelab.org/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    label: Extended
+  - kind: notification
+    date: 2026-06-03
+  - kind: camera_ready
+    date: 2026-06-15
+  - kind: other
+    date: 2026-06-27
+    label: Author registration
+sources:
+- https://aiblock.sptagelab.org/2026/
+- https://aiblock.sptagelab.org/2025/
+- https://aiblock.sptagelab.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=AIBlock&by=all&source=ICORE2026
+unverified:
+- The 2026 site says Springer but does not say whether the series is LNCS or CCIS
+- The 2026 site does not number the edition; 8th follows from the 2025 site (7th)
+- AIBlock 2027 not announced yet
+last_verified: 2026-11-20

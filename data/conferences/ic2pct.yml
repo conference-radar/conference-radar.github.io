@@ -1,0 +1,55 @@
+id: ic2pct
+name: IC2PCT
+full_name: IEEE International Conference on Computing, Power, and Communication Technologies
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Galgotias University, Greater Noida (committee led by IEEE Uttar Pradesh Section officers)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://ic2pct.co.in
+notes:
+- Organized by Galgotias University, Greater Noida (Delhi NCR), India
+- Previous editions in 2018, 2019, 2020, 2021 and 2024, all with proceedings in IEEE Xplore; the 2026 edition is the 6th
+- Presented papers of acceptable quality are submitted to IEEE Xplore
+- Papers up to 6 pages in IEEE format, 2 extra pages with a fee; submission through Microsoft CMT
+- Broad scope covering computing, power and communication
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 6th IC2PCT
+  start: 2026-05-15
+  end: 2026-05-17
+  location: Galgotias University, Greater Noida, India
+  url: https://ic2pct.co.in
+  deadlines:
+  - kind: abstract
+    date: 2026-01-02
+  - kind: submission
+    date: 2026-03-31
+    label: Full paper
+  - kind: notification
+    date: 2026-04-15
+  - kind: other
+    date: 2026-04-20
+    label: Registration deadline
+  - kind: camera_ready
+    date: 2026-04-30
+sources:
+- https://ic2pct.co.in
+- https://ic2pct.co.in/assets/index-Dk9gIZ-t.js
+- https://ieeexplore.ieee.org/document/10486467
+- https://ieeexplore.ieee.org/xpl/conhome/9573501/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=IC2PCT&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates and location of earlier editions not checked
+- No 2027 or later edition announced yet

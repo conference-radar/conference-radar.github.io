@@ -1,0 +1,52 @@
+id: micrads
+name: MICRADS
+full_name: Multidisciplinary International Conference of Research Applied to Defense and Security
+type: conference
+tier: minor
+areas: [security, ai, networking]
+region: latin-america
+language: mixed
+frequency: annual
+organizer: ITMA (Information and Technology Management Association) with a host military or defense university each year
+proceedings: Springer SIST (English papers); RISTI special issue (Spanish and Portuguese papers)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://www.micrads.org/
+notes:
+- Annual since 2018, held mostly in Latin America (Cartagena 2021, Barranquilla 2022, Bogota 2023, Santiago 2024, Orlando 2025, Guayaquil 2026)
+- Organized by ITMA with military academies and defense universities as partners (ESPE and ESMENA, Ecuador, hosted 2026)
+- English papers published by Springer in the Smart Innovation, Systems and Technologies (SIST) series; Spanish and Portuguese papers go to a RISTI special issue
+- Three tracks covering cybersecurity and cyberdefense, defense strategy and policy, and engineering and AI applied to defense
+- Double-blind review by at least two reviewers; papers accepted as oral or poster
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 9th MICRADS
+  start: 2026-08-06
+  end: 2026-08-08
+  location: ESMENA / ESPE, Guayaquil, Ecuador
+  url: https://www.micrads.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    label: Extended from April 17
+  - kind: notification
+    date: 2026-05-24
+  - kind: camera_ready
+    date: 2026-05-31
+sources:
+- https://www.micrads.org/
+- https://www.micrads.org/index.php/call-for-papers
+- https://www.micrads.org/index.php/previous-editions
+- https://www.micrads.org/index.php/proceedings
+- https://www.springer.com/series/8767
+- https://portal.core.edu.au/conf-ranks/?search=MICRADS&by=all&source=ICORE2026
+unverified:
+- 2026 author registration deadline is given as May 31 in the sidebar but May 17 in the call for papers, so it is left out
+- Country of ITMA not stated on its site, so organizer_country is left out
+- Dates of editions before 2026 not given on the official site
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

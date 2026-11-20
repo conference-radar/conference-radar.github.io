@@ -1,0 +1,46 @@
+id: wiccon
+name: WICCON
+full_name: WICCON (Women in Cybersecurity Conference Netherlands)
+type: industry
+tier: minor
+areas: [security]
+region: europe
+frequency: annual
+organizer: WICCA (Women in Cybersecurity Community Association, Netherlands)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [10]
+links:
+  website: https://wiccon.nl/
+notes:
+- Two-day cybersecurity conference with an all-women speaker line-up; all attendees are welcome
+- Run by WICCA, a Dutch women in cybersecurity community of 1500+ members that meets monthly
+- Held at De Lichtfabriek in Haarlem, Netherlands, since at least 2025; editions listed since 2023
+- 2025 edition had 27 speakers and about 400 attendees according to the organizers
+- Topics range from policy, pentesting and forensics to human behaviour and legacy systems
+- Several ticket types (Standard, Familiar, Supporter, Business)
+- No proceedings
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-10-31
+  location: Haarlem, Netherlands (De Lichtfabriek)
+  url: https://wiccon.nl/wiccon-2025
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-30
+  location: Haarlem, Netherlands (De Lichtfabriek)
+  url: https://wiccon.nl/
+  status: confirmed
+sources:
+- https://wiccon.nl/
+- https://wiccon.nl/wiccon-2025
+- https://wiccon.nl/tickets-2026
+last_verified: 2026-11-20
+unverified:
+- Call for speakers dates are not shown on the official site
+- Talk language and ticket prices are not stated on the pages checked
+- Dates of the 2023 and 2024 editions not checked
+- 2027 edition not announced yet

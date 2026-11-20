@@ -1,0 +1,49 @@
+id: lacap
+name: LACAP
+full_name: IEEE AP-S Latin American Conference on Antennas and Propagation
+type: conference
+tier: minor
+areas: [communications]
+region: latin-america
+language: english
+organizer: IEEE Antennas and Propagation Society (AP-S)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://lacap2026.org/
+notes:
+- Regional conference of IEEE AP-S for Latin America on antennas, propagation and electromagnetics
+- 1st edition in December 2024 in Cartagena de Indias, Colombia; 2nd edition in February 2026 in Natal, Brazil
+- Two-page papers in English (A4, two columns); accepted and presented papers are submitted to IEEE Xplore
+- Travel grants offered
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-02-22
+  end: 2026-02-25
+  location: Natal, Brazil
+  url: https://lacap2026.org/
+  deadlines:
+  - kind: submission
+    date: 2025-11-30
+    label: Two-page paper (extended from 2025-11-20)
+  - kind: notification
+    date: 2025-12-20
+  - kind: other
+    date: 2026-01-07
+    label: Travel grant applications
+sources:
+- https://lacap2026.org/
+- https://lacap2026.org/information-for-authors/
+- https://lacap2026.org/call-for-papers/
+- https://api.crossref.org/types/proceedings/works?query.bibliographic=Latin+American+Conference+on+Antennas+and+Propagation
+- https://portal.core.edu.au/conf-ranks/?search=LACAP&by=all&source=ICORE2026
+unverified:
+- Frequency and the next edition not announced
+- 1st edition (2024) date and location taken from the IEEE Xplore / Crossref record, not the official site
+- CCF 2026 list not checked for this venue
+last_verified: 2026-11-20

@@ -1,0 +1,64 @@
+id: c4ai4c
+name: C4AI4C
+full_name: IEEE Workshop on Cybersecurity for AI and AI for Cybersecurity
+type: workshop
+tier: minor
+areas: [security, ai]
+region: worldwide
+language: english
+organizer: General chairs from INRS (University of Quebec), Wichita State University and UNICAMP; endorsed by the IEEE SPS Data Science Initiative and the IEEE SPS Information Forensics and Security TC
+organizer_country: [canada, usa, other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [1, 11]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/c4ai4c-2027/home
+notes:
+- Workshop on security of AI systems and on AI methods for cybersecurity
+- Moves between IEEE host conferences (SMC 2023 Honolulu, SMC 2025 Vienna, CAI 2026 Granada, ICASSP 2027 Toronto)
+- 2027 edition is a full-day ICASSP 2027 satellite workshop; papers are submitted with the ICASSP author kit through the ICASSP CMS workshop system
+- ICASSP 2027 satellite workshop papers appear in IEEE Xplore under a separate workshop record
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 3rd edition, with IEEE CAI 2026
+  start: 2026-05-08
+  end: 2026-05-08
+  location: Granada, Spain (with IEEE CAI 2026)
+  url: https://sites.google.com/view/c4ai4c-2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    label: Extended
+  - kind: camera_ready
+    date: 2026-02-28
+    label: Camera-ready and author registration (extended)
+- year: 2027
+  label: 4th edition, with ICASSP 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://sites.google.com/view/c4ai4c-2027/home
+  deadlines:
+  - kind: submission
+    date: 2026-11-11
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+sources:
+- https://sites.google.com/view/c4ai4c-2027/home
+- https://sites.google.com/view/c4ai4c-2027/author-instructions
+- https://sites.google.com/view/c4ai4c-2027/organizers
+- https://sites.google.com/view/c4ai4c-2026/home
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=C4AI4C&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Proceedings of the 2026 CAI edition are not stated on the 2026 page
+- Page limit and review type for 2027 are not stated
+- No extension of the 11 Nov 2026 deadline is posted

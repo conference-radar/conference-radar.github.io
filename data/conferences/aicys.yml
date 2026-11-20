@@ -1,0 +1,53 @@
+id: aicys
+name: AICyS
+full_name: International Conference on Artificial Intelligence and Cyber Security
+type: conference
+tier: minor
+areas: [ai, security]
+region: southeast-asia
+language: english
+organizer: Faculty of Artificial Intelligence and Cyber Security (FAIX), Universiti Teknikal Malaysia Melaka (UTeM)
+organizer_country: [malaysia]
+proceedings: UTeM Press conference proceedings
+archival: false
+fee: 380 MYR local, 100 USD international (2026, oral presentation); listeners 250 MYR or 60 USD
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://aicys.utem.edu.my/
+notes:
+- Run by UTeM FAIX, based in Durian Tunggal, Melaka; the site names no separate venue
+- Accepted papers are published in conference proceedings under UTeM Press; no ISBN or indexing is stated
+- Selected papers are recommended to the Journal of Advanced Manufacturing Technology (JAMT, Scopus), for an additional fee
+- Full papers up to 6 pages, reviewed through Microsoft CMT
+- Two-day event (2026 programme on September 14 and 15); very low registration fee
+- Not listed in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-15
+  location: Melaka, Malaysia
+  url: https://aicys.utem.edu.my/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-06
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-17
+sources:
+- https://aicys.utem.edu.my/
+- https://aicys.utem.edu.my/publication/submission.html
+- https://aicys.utem.edu.my/publication/call-for-papers.html
+- https://aicys.utem.edu.my/aics-2026/event-schedule.html
+- https://aicys.utem.edu.my/aics-2026/registration-fee.html
+- https://portal.core.edu.au/conf-ranks/?search=AICyS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Marked non-archival because the proceedings are a university press volume with no stated ISBN, series or indexing; confirm if UTeM Press registers an ISBN
+- Edition number and earlier editions are not stated on the site, so frequency and typical months rest on the 2026 edition only
+- The home page lists September 14 as the conference date, while the banner and event schedule give September 14 to 15
+- Venue not stated; location taken from the organizing faculty's address
+- AICyS 2027 not announced yet; deadline time zone not stated

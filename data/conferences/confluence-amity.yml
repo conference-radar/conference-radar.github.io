@@ -1,0 +1,55 @@
+id: confluence-amity
+name: Confluence
+full_name: International Conference on Cloud Computing, Data Science and Engineering (Confluence)
+type: conference
+tier: minor
+areas: [general, ai, data]
+region: south-asia
+language: english
+frequency: annual
+organizer: Amity School of Engineering and Technology, Amity University Uttar Pradesh; IEEE UP Section technical co-sponsor
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 9,000 INR non-member academic author, 350 USD international non-member author (2027, excluding GST)
+typical:
+  deadline_months: [12]
+  conference_months: [1]
+links:
+  website: https://amity.edu/aset/confluence2027/
+notes:
+- Annual conference of Amity University in Noida, India; the 2027 edition (January) is the 17th
+- The official past conference page links IEEE Xplore proceedings for the editions from 2013 to 2026 (no 2015 entry); the 2012 papers appeared in an IJCA special issue
+- 2027 edition technically co-sponsored by the IEEE UP Section (IEEE conference record 71526), with IET as knowledge partner
+- Broad scope covering cloud computing, data science, AI and ML, IoT, cybersecurity, blockchain, NLP and computer vision
+- Double-blind review by at least two reviewers through Microsoft CMT; 5 to 6 page papers, extra pages charged
+- Different venue from iwc-confluence
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-01-21
+  end: 2027-01-22
+  location: Amity University Uttar Pradesh, Noida, India
+  url: https://amity.edu/aset/confluence2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-04
+  - kind: notification
+    date: 2026-12-25
+  - kind: camera_ready
+    date: 2026-12-30
+  - kind: other
+    date: 2027-01-05
+    label: Last date of registration
+sources:
+- https://amity.edu/aset/confluence2027/
+- https://amity.edu/aset/confluence2027/call-for-paper.aspx
+- https://amity.edu/aset/confluence2027/Submission.aspx
+- https://amity.edu/aset/confluence2027/Registration.aspx
+- https://amity.edu/aset/confluence2027/Venue.aspx
+- https://amity.edu/aset/confluence2027/committee.aspx
+- https://amity.edu/aset/confluence2027/Past-Conference.aspx
+- https://portal.core.edu.au/conf-ranks/?search=Confluence&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Dates of the 2026 (16th) edition; the official 2026 page no longer loads

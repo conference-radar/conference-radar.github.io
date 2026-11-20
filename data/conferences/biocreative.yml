@@ -1,0 +1,53 @@
+id: biocreative
+name: BioCreative
+full_name: BioCreative Challenge and Workshop
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: biennial
+organizer: BioCreative organizers (National Library of Medicine NCBI, Cedars-Sinai Medical Center, Barcelona Supercomputing Center)
+organizer_country: [usa, europe]
+proceedings: Workshop proceedings on Zenodo (informal); selected papers invited to a journal special issue
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://www.ncbi.nlm.nih.gov/research/bionlp/biocreative
+notes:
+- Critical Assessment of Information Extraction Systems in Biology, a long-running community challenge on biomedical and clinical text mining with shared tasks plus a workshop
+- Held in the USA and Spain in earlier editions, virtual in 2021; recent editions are co-located with a host conference (BioCreative VIII with AMIA 2023 in New Orleans, BioCreative IX with IJCAI 2025 in Montreal)
+- BioCreative IX focused on LLMs for clinical and biomedical NLP with three shared tasks (MedHopQA, clinical sentence segmentation, ToxHabits on Spanish clinical text)
+- Short papers of 4 to 6 pages plus references in the CEUR template, peer reviewed, submitted via ChairingTool; at least one author must attend in person
+- Proceedings of BioCreative IX are published on Zenodo (non-archival); accepted papers may be considered for a journal special issue
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: BioCreative IX, with IJCAI 2025
+  start: 2025-08-17
+  end: 2025-08-18
+  location: Montreal, Canada
+  url: https://www.ncbi.nlm.nih.gov/research/bionlp/biocreative9
+  deadlines:
+  - kind: submission
+    date: 2025-05-12
+    label: Short papers
+  - kind: other
+    date: 2025-05-16
+    label: Shared task results
+  - kind: submission
+    date: 2025-05-23
+    label: Shared task papers
+  - kind: notification
+    date: 2025-06-06
+sources:
+- https://www.ncbi.nlm.nih.gov/research/bionlp/biocreative
+- https://www.ncbi.nlm.nih.gov/research/bionlp/biocreative9
+- https://zenodo.org/records/16875348
+- https://portal.core.edu.au/conf-ranks/?search=BioCreative&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- BioCreative X (expected 2027) not announced on the official site as of November 2026
+- Deadline times and time zones for BioCreative IX not stated

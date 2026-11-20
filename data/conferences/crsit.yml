@@ -1,0 +1,67 @@
+id: crsit
+name: CRSIT
+full_name: International Conference on Communication, Remote Sensing and Information Technology
+type: conference
+tier: minor
+areas: [communications, networking, vision]
+region: china
+language: english
+frequency: annual
+organizer: Host universities in China (2025 Kunming University of Science and Technology with Nanjing University of
+  Information Science and Technology; 2026 Nanjing University of Information Science and Technology); website run on
+  the AiScholar (ais.cn) conference platform
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [6]
+links:
+  website: https://www.crsit.net/
+notes:
+- Young conference started in 2025 covering wireless and optical communications, satellite communications, signal
+  processing and remote sensing data and image processing
+- Held in China (2025 Kunming, 2026 Nanjing, 2027 Lanzhou)
+- The 2025 and 2026 proceedings were published by IEEE (Xplore DOIs 10.1109/crsit66101.2025 and
+  10.1109/crsit69981.2026); organizers say accepted papers are submitted to EI Compendex and Scopus
+- Each paper is reviewed by two or three committee members
+- The 2025 edition reported more than 140 attendees
+- Not listed in ICORE2026 or CCF
+editions:
+- year: 2026
+  label: 2nd CRSIT
+  location: Nanjing, China (Nanjing University of Information Science and Technology)
+  url: https://www.crsit.net/adawunsx
+- year: 2027
+  label: 3rd CRSIT
+  start: 2027-06-04
+  end: 2027-06-06
+  location: Lanzhou, China
+  url: https://www.crsit.net/
+  deadlines:
+  - kind: submission
+    date: 2027-01-20
+    label: Full paper submission
+  - kind: notification
+    date: 2027-02-20
+  - kind: other
+    date: 2027-03-05
+    label: Registration deadline
+sources:
+- https://www.crsit.net/
+- https://www.crsit.net/Publication
+- https://www.crsit.net/call_for_paper
+- https://www.crsit.net/adawunsx
+- https://www.crsit.net/mdffrtxs
+- https://api.crossref.org/works/10.1109/crsit69981.2026
+- https://api.crossref.org/works/10.1109/crsit66101.2025
+- https://portal.core.edu.au/conf-ranks/?search=CRSIT&by=all&source=ICORE2026
+unverified:
+- 2026 start and end dates (the official review page only says the conference concluded on 6 June 2026, while the
+  IEEE proceedings record gives 5 to 7 June 2026)
+- 2025 and 2026 deadlines (no longer on the official site)
+- Host university for 2027 in Lanzhou not named on the official site
+- Publisher for 2027 not named on the official site (only EI Compendex and Scopus submission)
+- Acceptance rate and fees
+last_verified: 2026-11-20

@@ -1,0 +1,67 @@
+id: dipca
+name: DIPCA
+full_name: International Conference on Digital Image Processing and Computer Applications
+type: conference
+tier: minor
+areas: [vision, ai]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Xi'an University of Technology in 2025)
+organizer_country: [china]
+proceedings: IEEE
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: http://www.icipca.net/
+notes:
+- Annual since 2024 and held in a different Chinese city each spring (Zhuhai 2024, Xi'an 2025, Suzhou 2026, Urumqi 2027)
+- The 2024 edition ran as IPCA 2024, a sub-conference of CVIDL 2024 in Zhuhai
+- Covers image processing and computer vision plus AI, computer systems and intelligent applications
+- 2027 papers are reviewed by two or three reviewers and published by IEEE (ISBN 979-8-3195-6806-9), then submitted to EI Compendex and Scopus
+- 2027 edition supported by two IEEE SMC technical committees (Embodied AI Systems; Cybernetics of Complex Systems)
+- Hybrid online and onsite format in 2025
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 2nd DIPCA
+  start: 2025-04-25
+  end: 2025-04-27
+  location: Xi'an, China
+  url: http://www.icipca.net/rvdnspic
+- year: 2026
+  label: 3rd DIPCA
+  location: Suzhou, China
+  url: http://www.icipca.net/DIPCA2026
+- year: 2027
+  label: 4th DIPCA
+  start: 2027-04-01
+  end: 2027-04-03
+  location: Urumqi, China
+  url: http://www.icipca.net/
+  deadlines:
+  - kind: submission
+    date: 2027-01-16
+  - kind: notification
+    date: 2027-02-15
+  - kind: camera_ready
+    date: 2027-03-02
+sources:
+- http://www.icipca.net/
+- http://www.icipca.net/Publication
+- http://www.icipca.net/program
+- http://www.icipca.net/committee2026
+- http://www.icipca.net/DIPCA2026
+- http://www.icipca.net/rvdnspic
+- http://www.icipca.net/aaippwfq
+- https://portal.core.edu.au/conf-ranks/?search=DIPCA&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- DIPCA 2026 conference and deadline dates are not stated on the official site
+- The site says papers are published in IEEE but does not name IEEE Xplore
+- The 2027 organizer and host university appear only as logos on the official site
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded; rank.ccf left out

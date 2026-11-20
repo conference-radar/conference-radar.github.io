@@ -1,0 +1,41 @@
+id: icissc
+name: ICISSC
+full_name: International Conference on Intelligent Systems and Sustainable Computing
+type: conference
+tier: minor
+areas: [ai, general]
+region: south-asia
+language: english
+organizer: Malla Reddy University, Hyderabad (sponsored by Malla Reddy Educational Society)
+organizer_country: [india]
+proceedings: Springer SIST
+archival: true
+indexing: [Scopus, EI Compendex, DBLP]
+typical:
+  conference_months: [12]
+links:
+  website: https://www.icissc.com/
+notes:
+- Organized by Malla Reddy University, Hyderabad, India
+- Accepted and registered papers published in the Springer Smart Innovation, Systems and Technologies (SIST) series
+- Proceedings of ICISSC 2021, 2022 and 2023 published by Springer
+- Same organizers earlier ran ICSCSP (2018 to 2020, Springer) and ICCSPCIT (2014 to 2016)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: 5th ICISSC
+  start: 2025-12-19
+  end: 2025-12-20
+  location: Malla Reddy University, Hyderabad, India
+  url: https://www.icissc.com/
+sources:
+- https://www.icissc.com/
+- https://www.icissc.com/past-conferences
+- https://www.icissc.com/proceedings
+- https://portal.core.edu.au/conf-ranks/?search=ICISSC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- 2025 deadlines (the important dates page lists none)
+- Dates and venues of the 1st to 4th editions
+- Proceedings of ICISSC 2024
+- No 2026 edition announced as of 2026-11-20

@@ -1,0 +1,52 @@
+id: icassp-ni6g
+name: NI-6G@ICASSP
+full_name: Network Intelligence for Multimodal Communication, Sensing and Autonomy in 6G and Beyond
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from the University of Bologna, Stony Brook University, CNR-IEIIT, DLR and Northeastern University (Anna Guerra, Davide Dardari, Petar Djuric, Francesco Guidi, Siwei Zhang, Pau Closas), satellite workshop of IEEE ICASSP
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore (ICASSP 2027 satellite workshop record)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [5]
+links:
+  website: https://sites.google.com/view/ieeeicassp2027-workshopisac/home
+notes:
+- One-day satellite workshop of IEEE ICASSP 2027 on integrated sensing and communication (ISAC), cooperative localization, multi-agent sensing and AI-native ISAC for 6G
+- The workshop has no official acronym; NI-6G is a short label used on this site
+- Per the ICASSP 2027 call for satellite workshops, papers follow the ICASSP 2027 style and length, are reviewed on the main conference platform and the workshop organizers run the review
+- Accepted ICASSP 2027 workshop papers are published in IEEE Xplore under a separate workshop record; one author must present in person
+- Invited speakers include Yonina Eldar, Gerhard Fettweis, Fredrik Gustafsson, Athina Petropulu and Moe Win
+- Paper deadline extended from 11 Nov to 25 Nov 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  label: With IEEE ICASSP 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://sites.google.com/view/ieeeicassp2027-workshopisac/call-for-papers
+  deadlines:
+  - kind: submission
+    date: 2026-11-25
+    label: Extended
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+sources:
+- https://sites.google.com/view/ieeeicassp2027-workshopisac/home
+- https://sites.google.com/view/ieeeicassp2027-workshopisac/call-for-papers
+- https://sites.google.com/view/ieeeicassp2027-workshopisac/organizers
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=NI-6G&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Notification (16 Dec 2026) and final paper (6 Jan 2027) dates are the general ICASSP 2027 workshop dates; the workshop page lists only the submission deadline
+- The ICASSP satellite workshop FAQ PDF still says workshops are on 16 May 2027; the satellite workshop page says 17 May 2027
+- No earlier edition found; unclear whether it will recur

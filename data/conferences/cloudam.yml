@@ -1,0 +1,69 @@
+id: cloudam
+name: CloudAM
+full_name: International Workshop on Cloud and Edge Computing, and Applications Management
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs (University of Brasilia, University of Pisa, University of Glasgow in 2026), co-located
+  workshop of IEEE/ACM UCC
+organizer_country: [other, europe]
+proceedings: IEEE Xplore (UCC workshop proceedings)
+archival: true
+typical:
+  deadline_months: [9, 10]
+  conference_months: [12]
+links:
+  website: https://cloudam-workshop.github.io/
+notes:
+- Long-running workshop of IEEE/ACM UCC (15th edition in 2026) on cloud and edge computing and application management
+- Papers up to 6 pages including references in IEEE double-column format (2026); double-blind review
+- Proceedings with UCC; the 2026 UCC author instructions say workshop papers go to IEEE Xplore, while the 2025 page says ACM publishes them via IEEE Xplore and ACM DL
+- One author must register for the conference and present in person
+- Honorary chairs from LNCC (Brazil), University of Zaragoza and UNICAMP
+- Follows UCC (Nantes 2025, Florianopolis 2026)
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  start: 2025-12-01
+  end: 2025-12-01
+  location: Nantes, France (with IEEE/ACM UCC 2025)
+  url: https://sites.google.com/unizar.es/cloudam2025
+  deadlines:
+  - kind: submission
+    date: 2025-10-03
+  - kind: notification
+    date: 2025-10-17
+  - kind: camera_ready
+    date: 2025-11-03
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-01
+  location: Florianopolis, Brazil (with IEEE/ACM UCC 2026)
+  url: https://cloudam-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-10-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-31
+    time: "23:59"
+    tz: AoE
+sources:
+- https://cloudam-workshop.github.io/
+- https://sites.google.com/unizar.es/cloudam2025
+- https://ucc2025.gitlabpages.inria.fr/web/advanced_program/
+- https://ucc2026.ufsc.br/workshops/
+- https://ucc2026.ufsc.br/program/detailed-program/
+- https://ucc2026.ufsc.br/authorinstructions/ucc-and-workshops-camera-ready-guidelines/
+- https://portal.core.edu.au/conf-ranks/?search=CloudAM&by=all&source=ICORE2026
+unverified:
+- CloudAM 2027 not announced yet
+last_verified: 2026-11-20

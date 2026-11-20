@@ -1,0 +1,61 @@
+id: ic-ftai
+name: IC-FTAI
+full_name: International Conference on Future Telecommunications and Artificial Intelligence
+type: conference
+tier: minor
+areas: [communications, ai]
+region: africa
+language: english
+frequency: annual
+organizer: IEEE Egypt Section AP-S/MTT-S Joint Chapter (Alexandria)
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: About 350 USD (2026, IEEE member, in person, non-Egyptian); 250 USD virtual
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://r8.ieee.org/egypt-apmtt/ic-ftai-conference/
+notes:
+  - Run by the IEEE Egypt AP-S/MTT-S Joint Chapter with technical support from IEEE AP-S, MTT-S and the IEEE Egypt Section
+  - Held in Alexandria, Egypt, in hybrid format (in person or online); editions since 2024
+  - Accepted full papers go to IEEE Xplore (2025 proceedings added in February 2026)
+  - Double-blind review; regular papers up to 6 pages, up to 2 extra pages at 100 USD each
+  - Also has workshops, demonstrations, tutorials and a student project poster track
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    start: 2025-11-24
+    end: 2025-11-27
+    location: Alexandria, Egypt
+    url: https://r8.ieee.org/egypt-apmtt/ic-ftai2025/
+  - year: 2026
+    start: 2026-11-23
+    end: 2026-11-26
+    location: Alexandria, Egypt (hybrid)
+    url: https://r8.ieee.org/egypt-apmtt/ic-ftai-conference/
+    deadlines:
+      - kind: submission
+        date: 2026-09-28
+        label: Full papers (firm)
+      - kind: submission
+        date: 2026-09-24
+        label: Workshop papers and demonstrations
+      - kind: camera_ready
+        date: 2026-10-14
+        label: Final papers
+sources:
+  - https://r8.ieee.org/egypt-apmtt/ic-ftai-conference/
+  - https://r8.ieee.org/egypt-apmtt/ic-ftai2025/
+  - https://r8.ieee.org/egypt-apmtt/registration/
+  - https://ieeexplore.ieee.org/xpl/conhome/1855611/all-proceedings
+  - https://ieeeaps.org/conferences/upcoming-conferences
+  - https://portal.core.edu.au/conf-ranks/?search=FTAI&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+  - Full paper notification date not stated
+  - Deadline times and time zones not stated
+  - IEEE AP-S upcoming conferences page lists the 2026 paper deadline as 2026-09-14; the official page shows 2026-09-28 (used here)
+  - Dates and location of the 2024 edition
+  - 2027 edition not announced as of 2026-11-20

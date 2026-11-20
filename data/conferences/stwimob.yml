@@ -1,0 +1,65 @@
+id: stwimob
+name: STWiMob
+full_name: International Workshop on Selected Topics in Wireless and Mobile Computing
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: IEEE WiMob (chairs from Roma Tre University, University of Avignon and Universidade de Vigo in 2026)
+organizer_country: [europe]
+proceedings: IEEE Xplore (WiMob proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: http://www.wimob.org/wimob2026/STWiMob.php
+notes:
+- Long-running workshop of IEEE WiMob (19th edition in 2026); has no separate website, pages sit on the WiMob site
+- Covers the same topics as the WiMob symposia (wireless communications, next generation mobile networking, AI for networking, blockchain, security and privacy)
+- Some papers are ones with borderline review scores at the WiMob main conference
+- Same submission guidelines as WiMob (6 IEEE pages, up to 2 extra pages for a fee, EDAS)
+- Papers appear in the WiMob proceedings in IEEE Xplore; papers not presented may be excluded
+- Large for a workshop (ten STWiMob sessions on the 2026 workshop day)
+- Follows WiMob (Paris 2024, Marrakech 2025, Avignon 2026)
+- Not found in the ICORE2026 CORE portal search
+editions:
+- year: 2025
+  start: 2025-10-20
+  end: 2025-10-20
+  location: Marrakech, Morocco (with IEEE WiMob 2025)
+  url: http://www.wimob.org/wimob2025/workshops.php
+  deadlines:
+  - kind: submission
+    date: 2025-07-15
+  - kind: notification
+    date: 2025-08-15
+  - kind: camera_ready
+    date: 2025-09-01
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-14
+  location: Avignon, France (with IEEE WiMob 2026)
+  url: http://www.wimob.org/wimob2026/STWiMob.php
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Extended
+  - kind: notification
+    date: 2026-08-15
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- http://www.wimob.org/wimob2026/STWiMob.php
+- http://www.wimob.org/wimob2026/workshops.php
+- http://www.wimob.org/wimob2026/programme.php
+- http://www.wimob.org/wimob2026/guidelines.php
+- http://www.wimob.org/wimob2025/workshops.php
+- http://www.wimob.org/wimob2025/programme.php
+- https://portal.core.edu.au/conf-ranks/?search=STWiMob&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated
+- STWiMob 2027 not announced yet
+last_verified: 2026-11-20

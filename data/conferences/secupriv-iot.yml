@@ -1,0 +1,47 @@
+id: secupriv-iot
+name: SecuPriv-IoT
+full_name: International Workshop on Security and Privacy for Next-Generation Internet of Things
+type: workshop
+tier: minor
+areas: [security, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from Sakarya University (Turkiye) and Abu Dhabi Polytechnic (UAE); co-located with FICN (Emerging Technologies Network)
+organizer_country: [other]
+proceedings: IEEE Xplore (FICN proceedings)
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://emergingtechnet.org/FICN2026/Workshops/SecuPriv-IoT2026/
+notes:
+- Small workshop on security and privacy for next-generation IoT, co-located with FICN 2026 in San Antonio, Texas
+- Chairs are Ismail Butun (Sakarya University), Amar Amouri and Joseph Henry Anajemba (Abu Dhabi Polytechnic)
+- Papers of 6 to 8 pages in the IEEE A4 conference template
+- Accepted and presented papers are submitted to IEEE Xplore; workshop papers need a full registration
+- Not found in ICORE2026; not on the CCF 2026 list
+editions:
+- year: 2026
+  label: SecuPriv-IoT 2026, with FICN 2026
+  start: 2026-12-08
+  end: 2026-12-10
+  location: San Antonio, Texas, USA (hybrid)
+  url: https://emergingtechnet.org/FICN2026/Workshops/SecuPriv-IoT2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+  - kind: notification
+    date: 2026-11-10
+  - kind: camera_ready
+    date: 2026-11-20
+sources:
+- https://emergingtechnet.org/FICN2026/Workshops/SecuPriv-IoT2026/
+- https://emergingtechnet.org/FICN2026/
+last_verified: 2026-11-20
+unverified:
+- First edition with FICN, so frequency, region and typical months are not established yet
+- Edition number and deadline time zone not stated
+- Workshop page gives a 20 Sep 2026 submission deadline; the FICN main page now lists only main track dates

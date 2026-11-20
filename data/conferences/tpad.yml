@@ -1,0 +1,48 @@
+id: tpad
+name: TPAD
+full_name: 'Trustworthy Perception for Autonomous Driving: Adversarial Robustness, Multimodal Fusion, and Foundation Models'
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from Aristotle University of Thessaloniki, Singapore Institute of Technology, Duke Kunshan University, Concordia University and the University of Toronto, satellite workshop of IEEE ICASSP
+organizer_country: [europe, singapore, china, canada]
+proceedings: IEEE Xplore (ICASSP 2027 satellite workshop record)
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [5]
+links:
+  website: https://tpad-2027.github.io/
+notes:
+- Full-day satellite workshop of IEEE ICASSP 2027 on adversarial robustness and security of camera, LiDAR and radar perception for automated driving
+- Submissions must state attacker access, injection point, stages affected and measurement point
+- Papers follow the ICASSP 2027 style and length, are reviewed on the ICASSP platform and published in IEEE Xplore under a separate workshop record
+- One author of each accepted paper must present in person
+- Program has a keynote (Panos Nasiopoulos, University of British Columbia), contributed sessions, a poster session, a roundtable and an executive panel
+- Paper deadline extended from 11 Nov to 2 Dec 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  label: With IEEE ICASSP 2027
+  start: 2027-05-17
+  end: 2027-05-17
+  location: Toronto, Canada (with ICASSP 2027)
+  url: https://tpad-2027.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-12-02
+    label: Extended
+  - kind: notification
+    date: 2026-12-16
+  - kind: camera_ready
+    date: 2027-01-06
+sources:
+- https://tpad-2027.github.io/
+- https://2027.ieeeicassp.org/satellite-workshops/
+- https://2027.ieeeicassp.org/call-for-satellite-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=TPAD&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- First edition; unclear whether it will recur

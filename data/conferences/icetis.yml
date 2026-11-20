@@ -1,0 +1,70 @@
+id: icetis
+name: ICETIS
+full_name: International Conference on Electronic Technology and Information Science
+type: conference
+tier: minor
+areas: [communications, general]
+region: china
+language: english
+frequency: annual
+organizer: AEIC (AiScholar, ais.cn) conference service with a host university each year (Guizhou Institute of Technology in 2027)
+organizer_country: [china]
+proceedings: IEEE
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [4]
+  conference_months: [5, 6]
+links:
+  website: http://www.icetis.org/
+notes:
+- Annual since 2016; 2027 is the 12th edition
+- Recent editions in China (Sanya 2022, Dalian and Leeds 2023, Hangzhou 2024 and 2025, Guiyang 2026 and 2027); 2020 and 2021 were online
+- Covers electronics engineering, computer engineering and information science
+- 2025 edition advertised with IEEE publication on the official site; 2020 and 2021 papers went to IOP Journal of Physics Conference Series
+- Proceedings are submitted to EI Compendex and Scopus
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  label: 10th ICETIS
+  start: 2025-06-27
+  end: 2025-06-29
+  location: Hangzhou, China
+  url: http://www.icetis.org/slgnelgx
+- year: 2026
+  label: 11th ICETIS
+  location: Guizhou Normal University, Guiyang, China
+  url: http://www.icetis.org/gmutggie
+- year: 2027
+  label: 12th ICETIS
+  start: 2027-06-25
+  end: 2027-06-27
+  location: Guiyang, China
+  url: http://www.icetis.org/
+  deadlines:
+  - kind: submission
+    date: 2027-04-10
+  - kind: notification
+    date: 2027-05-10
+  - kind: camera_ready
+    date: 2027-05-25
+  - kind: other
+    date: 2027-06-10
+    label: Registration deadline
+sources:
+- http://www.icetis.org/
+- http://www.icetis.org/Publication
+- http://www.icetis.org/gmutggie
+- http://www.icetis.org/slgnelgx
+- http://www.icetis.org/pslouwtb
+- http://www.icetis.org/makaljzo
+- http://www.icetis.org/hbohnity
+- http://www.icetis.org/gggophao
+- https://portal.core.edu.au/conf-ranks/?search=ICETIS&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2027 page says only "conference proceedings" submitted to EI Compendex and Scopus; the publisher for 2027 is not named
+- ICETIS 2026 conference dates are not stated in text on the official site (only on a proceedings cover image that could not be loaded)
+- The 2026 and 2027 publisher is not stated in text; IEEE is inferred from the 2025 edition
+- No deadline time or time zone stated
+- CCF 2026 list could not be loaded; rank.ccf left out

@@ -1,0 +1,71 @@
+id: icsinc
+name: ICSINC
+full_name: International Conference on Signal and Information Processing, Networking and Computers
+type: conference
+tier: minor
+areas: [communications, networking, ai, security]
+region: china
+language: english
+frequency: annual
+organizer: International steering committee led by Beijing University of Posts and Telecommunications (BUPT), with
+  China Unicom Research Institute and a local host university
+organizer_country: [china]
+proceedings: Springer LNEE
+archival: true
+indexing: [EI]
+typical:
+  deadline_months: [5, 6, 7]
+  conference_months: [7, 8, 9]
+links:
+  website: http://www.icsinc.cn/
+notes:
+- Steering committee chaired from BUPT; held in a different Chinese city each year (2022 Xining, 2023 Chengdu, 2024
+  Chongqing, 2025 Changchun, 2026 Qingdao, 2027 Tianjin)
+- Accepted papers are published in Springer conference proceedings and submitted for EI indexing; the volumes appear
+  as "Signal and Information Processing, Networking and Computers" in Springer Lecture Notes in Electrical Engineering
+- IEEE conference template, up to five pages without extra page charges
+- Selected extended papers are recommended to journal special issues (IJSNet, EURASIP JWCN, Physical Communication)
+- Broad scope covering wireless communications, signal processing, AI, multimedia, electronics and cybersecurity
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-07-28
+  end: 2026-07-30
+  location: Qingdao, China
+  url: http://www.icsinc.cn/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-07-05
+    label: Hard deadline
+  - kind: notification
+    date: 2026-07-19
+  - kind: camera_ready
+    date: 2026-07-21
+- year: 2027
+  start: 2027-07-26
+  end: 2027-07-29
+  location: Tianjin, China
+  url: http://www.icsinc.cn/
+  deadlines:
+  - kind: submission
+    date: 2027-05-15
+  - kind: notification
+    date: 2027-06-15
+  - kind: camera_ready
+    date: 2027-07-18
+sources:
+- http://www.icsinc.cn/
+- http://www.icsinc.cn/Call%20for%20Papers.html
+- http://www.icsinc.cn/committee.html
+- http://www.icsinc.cn/2026/index.html
+- http://www.icsinc.cn/2025/index.html
+- http://www.icsinc.cn/2024/index.html
+- http://www.icsinc.cn/2023/index.html
+- http://www.icsinc.cn/2022/index.html
+- https://api.crossref.org/works?query.bibliographic=Signal+and+Information+Processing+Networking+and+Computers&filter=type:book
+- https://portal.core.edu.au/conf-ranks/?search=ICSINC&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The official CFP says only "Springer's conference proceedings"; the LNEE series name comes from Crossref records of
+  past volumes
+- ICSINC 2027 submission system not yet open; acceptance rate not published

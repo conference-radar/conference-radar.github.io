@@ -1,0 +1,58 @@
+id: icict-inventive
+name: ICICT
+full_name: International Conference on Inventive Computation Technologies
+type: conference
+tier: minor
+areas: [general, ai, networking, data]
+region: south-asia
+language: english
+frequency: annual
+organizer: Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University, Nepal
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore]
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://icicts.com/
+notes:
+- Hosted by Pulchowk Campus, Institute of Engineering, Tribhuvan University, Nepal; the site shows IEEE and IEEE SMC logos
+- Proceedings in IEEE Xplore (2025 and 2026 volumes linked from the official site)
+- Held in Coimbatore, India up to 2021 and in Nepal (Lalitpur, Kirtipur) since 2022 according to IEEE Crossref metadata
+- Broad computing scope (AI, machine learning, cloud and edge computing, NLP, soft computing)
+- Travel grants for selected best papers by IEEE student members
+- Not related to the ICICT held in London (icict-london); not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 9th ICICT
+  start: 2026-04-15
+  end: 2026-04-17
+  location: Kirtipur, Nepal
+  url: https://ieeexplore.ieee.org/xpl/conhome/11510710/proceeding
+- year: 2027
+  label: 10th ICICT
+  start: 2027-04-19
+  end: 2027-04-21
+  url: https://icicts.com/
+  deadlines:
+  - kind: submission
+    date: 2027-01-12
+    label: Full paper
+  - kind: notification
+    date: 2027-02-15
+  - kind: other
+    date: 2027-03-18
+    label: Registration deadline
+sources:
+- https://icicts.com/
+- https://ieeexplore.ieee.org/xpl/conhome/11510710/proceeding
+- https://ieeexplore.ieee.org/xpl/conhome/11004643/proceeding
+- https://api.crossref.org/works?query.bibliographic=International+Conference+on+Inventive+Computation+Technologies
+- https://portal.core.edu.au/conf-ranks/?search=ICICT&by=all&source=ICORE2026
+unverified:
+- 2026 edition dates and location are from IEEE Crossref metadata of the proceedings; the official site no longer shows them
+- 2027 venue is not stated on the site (organized by Pulchowk Campus, IOE, Tribhuvan University); the home page markup also has a hidden "Online Event" line
+- Camera-ready deadline, fees and acceptance rate not published
+last_verified: 2026-11-20

@@ -1,0 +1,46 @@
+id: cvbw
+name: CVBW
+full_name: Computer Vision for Biomechanics Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+organizer: Workshop organizers from QUT, CSIRO, Griffith University, ETH Zurich, University College London and University of Bath; co-located with CVPR
+organizer_country: [australia, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cvbw2026.github.io/
+notes:
+- CVPR workshop on computer vision methods for human and animal biomechanics
+- Half-day workshop (afternoon) at CVPR 2026 in Denver
+- Non-archival; the workshop has no official proceedings
+- Short papers of 4 pages excluding references and appendix, submitted through OpenReview
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://cvbw2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-04-10
+  - kind: camera_ready
+    date: 2026-04-22
+sources:
+- https://cvbw2026.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=CVBW&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The site does not say which edition 2026 was or mention earlier editions, so the frequency is unknown
+- Notification and camera-ready dates are given without a time zone
+- No edition after CVPR 2026 announced as of 2026-11-20

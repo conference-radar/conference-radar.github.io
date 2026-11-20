@@ -1,0 +1,47 @@
+id: aimv
+name: AIMV
+full_name: International Conference on Artificial Intelligence and Machine Vision
+type: conference
+tier: minor
+areas: [ai, vision, security]
+region: south-asia
+language: english
+organizer: Dept. of CSE, Pandit Deendayal Energy University (PDEU)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://aimv.in/
+notes:
+- Organized by the Department of Computer Science and Engineering, School of Technology, PDEU, Gandhinagar, Gujarat, in association with the IEEE Gujarat Section
+- Accepted and presented papers go to the IEEE digital library (Scopus indexed)
+- Tracks on machine intelligence, computer vision, HCI, data science, cognitive science, cyber security and intelligent transport systems
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  label: 2nd AIMV
+  start: 2025-08-16
+  end: 2025-08-17
+  location: Gandhinagar, India
+  url: https://aimv.in/
+  deadlines:
+  - kind: submission
+    date: 2025-03-31
+    label: Extended from 2025-02-28
+  - kind: notification
+    date: 2025-04-30
+  - kind: camera_ready
+    date: 2025-05-20
+    label: Regular registration and camera-ready
+sources:
+- https://aimv.in/
+- https://aimv.in/track-details.html
+- https://portal.core.edu.au/conf-ranks/?search=AIMV&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Year and details of the first edition not stated on the official site, so frequency is unknown
+- No 2026 or 2027 edition announced as of 2026-11-20

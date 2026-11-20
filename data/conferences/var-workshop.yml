@@ -1,0 +1,75 @@
+id: var-workshop
+name: VAR
+full_name: Workshop on Vision-based Assistants in the Real-World
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Organizing team from Qualcomm AI Research, Meta Reality Labs, National University of Singapore, University of British Columbia and York University
+organizer_country: [usa, singapore, canada]
+proceedings: IEEE Xplore and CVF Open Access (CVPR Workshops proceedings, full-paper track since 2026); extended abstracts non-archival
+archival: true
+typical:
+  deadline_months: [3, 5]
+  conference_months: [6]
+links:
+  website: https://varworkshop.github.io/
+notes:
+- Half-day CVPR workshop on real-time, real-world vision-based assistants (streaming vision-language models, egocentric video, activity understanding)
+- First edition at CVPR 2025 (Nashville), second at CVPR 2026 (Denver)
+- 2026 tracks are full-length papers with proceedings (up to 8 pages), extended abstracts (up to 4 pages, non-archival) and papers accepted to CVPR 2026
+- In 2025 all submissions were non-archival extended abstracts or CVPR main conference papers
+- Double-blind review on Microsoft CMT; demos accompanying papers are encouraged
+- Hosts two challenges each year (2026 AI Coach challenge on fitness and cooking)
+- 1 paper in the CVPR 2026 workshop proceedings on CVF Open Access
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd edition, with CVPR 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, USA
+  url: https://varworkshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    time: "23:59"
+    tz: PST
+    label: Full-length papers with proceedings (extended from March 1)
+  - kind: notification
+    date: 2026-03-20
+    label: Full-length papers with proceedings
+  - kind: camera_ready
+    date: 2026-04-01
+    label: Full-length papers with proceedings
+  - kind: submission
+    date: 2026-05-07
+    time: "23:59"
+    tz: PST
+    label: Extended abstracts and CVPR 2026 papers (non-archival, extended from May 1)
+  - kind: notification
+    date: 2026-05-15
+    label: Extended abstracts and CVPR 2026 papers
+  - kind: camera_ready
+    date: 2026-05-20
+    label: Extended abstracts and CVPR 2026 papers
+  - kind: other
+    date: 2026-06-01
+    tz: AoE
+    label: Challenge submissions
+sources:
+- https://varworkshop.github.io/
+- https://varworkshop.github.io/calls/
+- https://varworkshop.github.io/schedule/
+- https://varworkshop.github.io/organizers/
+- https://varworkshop.github.io/challenges/
+- https://varworkshop.github.io/2025/
+- https://varworkshop.github.io/2025/calls/
+- https://varworkshop.github.io/2025/schedule/
+- https://openaccess.thecvf.com/CVPR2026_workshops/VAR
+- https://portal.core.edu.au/conf-ranks/?search=VAR&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Third edition (expected with CVPR 2027) not announced yet

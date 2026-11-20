@@ -1,0 +1,60 @@
+id: am-fpd
+name: AM-FPD
+full_name: International Workshop on Active-Matrix Flatpanel Displays and Devices
+type: conference
+tier: minor
+areas: [general]
+region: japan
+language: english
+frequency: annual
+organizer: International Society of Functional Thin Film Materials & Devices (FTFMD), co-sponsored by JSAP, technically co-sponsored by IEEE EDS and ECS
+organizer_country: [japan]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [7]
+links:
+  website: https://www.amfpd.jp/
+notes:
+- Workshop on TFT technologies, flat panel display materials, thin-film devices and photovoltaics, held since 1994
+- Sponsored by FTFMD (general incorporated association founded in 2015 by the workshop committee), co-sponsored by the Japan Society of Applied Physics, technically co-sponsored by IEEE Electron Devices Society and ECS
+- Proceedings in IEEE Xplore (the official site links the AM-FPD 2012 to 2024 proceedings there)
+- Authors submit camera-ready papers in early April; acceptance notification by the end of April; separate late-news paper call in May
+- Selected papers get endorsement letters for submission to IEEE J-EDS, Open Journal on Immersive Displays or ECS JSS
+- Held in Kyoto every year since 2011 except online editions in 2020 and 2021, usually in July (Ryukoku University Jojukan in 2024 to 2026); 34th edition in 2027
+- "Registration fee (2027, by June 14): 50,000 JPY member, 52,000 JPY non-member, 20,000 JPY student"
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2025
+  start: 2025-07-01
+  end: 2025-07-04
+  location: Ryukoku University Jojukan, Kyoto, Japan
+  url: https://www.amfpd.jp/history.html
+  deadlines: []
+- year: 2027
+  start: 2027-07-06
+  end: 2027-07-09
+  location: Kyoto, Japan
+  url: https://www.amfpd.jp/
+  deadlines:
+  - kind: submission
+    date: 2027-04-02
+    tz: JST
+    label: Camera-ready paper
+  - kind: submission
+    date: 2027-05-10
+    tz: JST
+    label: Late-news paper
+sources:
+- https://www.amfpd.jp/
+- https://www.amfpd.jp/greeting.html
+- https://www.amfpd.jp/history.html
+- https://www.amfpd.jp/registration.html
+- https://www.amfpd.jp/access.html
+- https://portal.core.edu.au/conf-ranks/?search=AMFPD&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- Exact dates of AM-FPD'26 (33rd, July 2026, Kyoto) are no longer on the official site; the 2025 dates come from the news archive in the site source
+- Acceptance notification for 2027 is given only as "by the end of April, 2027"
+- 2027 venue not yet stated; the access page still shows Ryukoku University Jojukan

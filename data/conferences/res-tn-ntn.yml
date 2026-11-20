@@ -1,0 +1,46 @@
+id: res-tn-ntn
+name: Resilient TN-NTN
+full_name: Workshop on Resilience FOR and THROUGH Integrated Terrestrial and Non-Terrestrial Networks
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+organizer: Workshop chairs from TU Darmstadt, IMDEA Networks, TU Delft and ESA-ESOC, with IEEE VTC (IEEE VTS)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://events.vtsociety.org/vtc2027-spring/current-workshops/w10/
+notes:
+- Workshop 10 at IEEE VTC2027-Spring in Hamburg, held on 20 June 2027; no earlier edition found
+- Topics are satellite and aerial networks as backup for terrestrial networks, and resilient design of integrated TN-NTN infrastructure (routing, planning, AI for recovery, free-space optics)
+- Chairs from TU Darmstadt, IMDEA Networks, TU Delft and ESA-ESOC; keynote by Mohamed-Slim Alouini (KAUST)
+- Submissions through the VTC2027-Spring workshop TrackChair site; accepted papers go into the VTC proceedings in IEEE Xplore
+- Not listed in ICORE2026
+editions:
+- year: 2027
+  start: 2027-06-20
+  end: 2027-06-20
+  location: Hamburg, Germany (with IEEE VTC2027-Spring)
+  url: https://events.vtsociety.org/vtc2027-spring/current-workshops/w10/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+  - kind: notification
+    date: 2027-03-01
+  - kind: camera_ready
+    date: 2027-03-15
+sources:
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/w10/
+- https://events.vtsociety.org/vtc2027-spring/wp-content/uploads/sites/52/2026/11/VTC-27-CFP.pdf
+- https://events.vtsociety.org/vtc2027-spring/current-workshops/
+- https://events.vtsociety.org/vtc2027-spring/
+- https://portal.core.edu.au/conf-ranks/?search=Non-Terrestrial&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Proceedings inferred from the VTC conference proceedings; the workshop page and CFP do not state IEEE Xplore explicitly
+- Deadline time and time zone not stated
+last_verified: 2026-11-20

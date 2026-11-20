@@ -1,0 +1,55 @@
+id: finllm
+name: FinLLM
+full_name: International Workshop on Large Language Models for Financial Services
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (team of Qiang Yang at WeBank and HKUST, Tsinghua Shenzhen International Graduate School, E Fund Management); co-located with IJCAI
+organizer_country: [china]
+proceedings: None (non-archival; papers optionally on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://finllm.github.io/workshop/
+notes:
+- IJCAI workshop (called a symposium in 2023 and 2026) on LLMs and AI agents in finance
+- Editions at IJCAI 2023 (Macau), IJCAI 2025 (Guangzhou, alongside Montreal) and IJCAI 2026 (Bremen); no 2024 edition
+- No formal proceedings; accepted papers get review feedback and discussion, and selected papers may be invited to a journal special issue
+- Accepts work recently published or under review elsewhere
+- Papers up to 7 pages plus 2 pages of references in IJCAI format, single-blind review via EasyChair
+- Deadlines 23:59:59 AoE
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-08-29
+  end: 2025-08-29
+  location: Guangzhou, China (with IJCAI 2025)
+  url: https://finllm.github.io/workshop/
+- year: 2026
+  start: 2026-08-15
+  end: 2026-08-15
+  location: Bremen, Germany (with IJCAI 2026)
+  url: https://finllm.github.io/workshop/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-01
+    time: "23:59"
+    tz: AoE
+sources:
+- https://finllm.github.io/workshop/
+- https://2025.ijcai.org/workshops/
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=FinLLM&by=all&source=ICORE2026
+unverified:
+- 2025 deadlines no longer shown on the official site
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

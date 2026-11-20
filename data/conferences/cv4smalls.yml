@@ -1,0 +1,49 @@
+id: cv4smalls
+name: CV4Smalls
+full_name: "Computer Vision with Small Data: Beyond Scale, Toward Data-Efficient Dynamically-Aware Video Intelligence"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers led by Northeastern University, with UCF, University of Michigan, UNC Chapel Hill and industry members; co-located with WACV (2024, 2025) and CVPR (2026)
+organizer_country: [usa]
+proceedings: CVF Open Access (CVPR Workshops), full papers only
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://cv4smalls2026.sites.northeastern.edu/
+notes:
+- Workshop on computer vision with small data; the 2026 edition focused on data-efficient, dynamics-aware video understanding
+- Held at WACV 2024, WACV 2025 and CVPR 2026 (3rd edition); the subtitle and focus change each year
+- Algorithmic track full papers (up to 8 pages) appear in the CVPR workshop proceedings; Emerging Applications short papers (up to 4 pages) are non-archival
+- Every submission must include a Small Data Statement at the end of the introduction
+- 2026 edition included the TimeBlind challenge on fine-grained temporal video understanding
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-03
+  end: 2026-06-03
+  location: Denver, Colorado, USA (with CVPR 2026)
+  url: https://cv4smalls2026.sites.northeastern.edu/
+  deadlines:
+  - kind: submission
+    date: 2026-03-11
+sources:
+- https://cv4smalls2026.sites.northeastern.edu/
+- https://cv4smalls2026.sites.northeastern.edu/call-for-papers/
+- https://cv4smalls2026.sites.northeastern.edu/submission-timeline/
+- https://cv4smalls2026.sites.northeastern.edu/previous-editions/
+- https://cv4smalls2026.sites.northeastern.edu/organizing-committee/
+- https://openaccess.thecvf.com/CVPR2026_workshops/CV4Smalls
+- https://openaccess.thecvf.com/WACV2025_workshops/CV4Small
+- https://portal.core.edu.au/conf-ranks/?search=CV4Smalls&by=all&source=ICORE2026
+last_verified: 2026-11-20
+unverified:
+- The 2026 pages disagree on notification (March 18 or March 22, 2026) and camera-ready (April 8 or April 10, 2026), so those dates are left out
+- No time zone is given for the 2026 submission deadline
+- Whether accepted papers also appear in IEEE Xplore was not checked
+- No 2027 edition announced as of 2026-11-20; the host conference has changed between WACV and CVPR
