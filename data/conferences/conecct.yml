@@ -22,7 +22,7 @@ notes:
 - Flagship annual conference of the IEEE Bangalore Section, held in Bengaluru (Bangalore)
 - 'Broad scope: the 2027 edition has 18 tracks in 7 focus areas (VLSI and embedded, signals, communication systems,
   computing and software, control and robotics, energy and mobility, education and technology management)'
-- Held in July for 2024 to 2026; the 13th edition moves to March 2027 with a mid-December 2026 paper deadline
+- Held in July (2024 to 2026 and 2027), with a mid-December 2026 paper deadline for the 13th edition in 2027
 - 4 to 6 page IEEE-format papers including references, submitted via CMT (2025 rules); literature-review-only papers
   are not accepted; proceedings in IEEE Xplore
 - The 2026 theme was trusted, secure and resilient systems
@@ -57,8 +57,8 @@ editions:
     date: 2026-05-31
 - year: 2027
   label: 13th CONECCT
-  start: 2027-03-13
-  end: 2027-03-15
+  start: 2027-07-29
+  end: 2027-07-31
   location: Bengaluru, India
   url: https://ieee-conecct.org/
   deadlines:
@@ -77,8 +77,9 @@ unverified:
 - CONECCT 2027 venue and camera-ready date not yet published; the homepage timeline says the CFP opens in Dec 2026,
   so the Dec 15, 2026 deadline may still move
 - CONECCT 2027 CFP, tracks and registration subpages were not reachable (tracks page returns 404)
+- CONECCT 2027 dates were recorded earlier as March 13 to 15, 2027; the official homepage now gives July 29 to 31, 2027
 - CONECCT 2024 dates (Jul 12 to 14, 2024) and deadline (Mar 11, 2024) are from WikiCFP only
 - Whether every past edition was held in Bengaluru (2020 and 2021 editions) not confirmed
 - Registration fees not published
 - DBLP URL not re-checked (dblp.org blocked automated access)
-last_verified: 2026-09-28
+last_verified: 2026-11-20

@@ -22,7 +22,7 @@ notes:
 - Papers up to 6 pages in IEEE two-column format including references, submitted via EDAS
 - Topics are edge intelligence, large AI models, semantic communication and cloud-edge networking
 - Chaired by Victor C. M. Leung (UBC); TPC co-chairs from Carleton, NTU Singapore, Tianjin University and Ruhr University Bochum
-- Not on the IEEE INFOCOM 2026 workshop list
+- Not on the IEEE INFOCOM 2026 or IEEE INFOCOM 2027 workshop lists
 - Not listed in ICORE2026
 editions:
 - year: 2025
@@ -43,9 +43,10 @@ sources:
 - https://infocom2025.ieee-infocom.org/2nd-workshop-integrating-edge-intelligence-and-large-model-next-generation-networks-ieilm-call.html
 - https://infocom2025.ieee-infocom.org/2nd-workshop-integrating-edge-intelligence-and-large-model-next-generation-networks-ieilm-committee.html
 - https://infocom2026.ieee-infocom.org/workshops
+- https://infocom2027.ieee-infocom.org/call-workshop-papers
 - https://portal.core.edu.au/conf-ranks/?search=IEILM&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- Whether a later edition exists; the workshop is not among the IEEE INFOCOM 2026 workshops and the INFOCOM 2027 workshop list was not yet published
+- Whether a later edition exists; the workshop is not among the IEEE INFOCOM 2026 workshops or the seven IEEE INFOCOM 2027 workshops listed as of 2026-11-20
 - Time zone of the deadlines (not stated on the workshop page)
 - CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
-last_verified: 2026-11-14
+last_verified: 2026-11-20

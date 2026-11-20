@@ -69,7 +69,7 @@ editions:
   - kind: notification
     date: 2027-02-18
   - kind: camera_ready
-    date: 2027-03-20
+    date: 2027-03-16
 sources:
 - https://icdf2c.eai-conferences.org/2026/
 - https://icdf2c.eai-conferences.org/2026/call-for-papers/
@@ -81,4 +81,4 @@ unverified:
 - Deadline time zone not stated on the CFP (ccf-deadlines assumes UTC-12)
 - Indexing is as 'submitted for inclusion' per EAI; acceptance rate not published
 - 2027 CFP page still shows stale 2024 late-track dates; no 2027 late track listed
-last_verified: 2026-09-28
+last_verified: 2026-11-20

@@ -42,6 +42,9 @@ editions:
     date: 2027-02-15
   - kind: camera_ready
     date: 2027-02-25
+  - kind: other
+    date: 2027-03-15
+    label: Registration and fee payment
 sources:
 - https://infoteh.etf.ues.rs.ba/
 - http://infoteh.etf.ues.rs.ba/zbornik/2026
@@ -50,4 +53,4 @@ sources:
 unverified:
 - 2026 edition deadlines not recorded (no official 2026 call page found)
 - Not listed in the CORE ICORE2026 portal (no rank given)
-last_verified: 2026-10-17
+last_verified: 2026-11-20

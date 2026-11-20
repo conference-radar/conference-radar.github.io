@@ -46,7 +46,7 @@ editions:
 - year: 2027
   start: 2027-03-08
   end: 2027-03-12
-  location: Sydney, Australia (hosted by CSIRO)
+  location: Rydges World Square, Sydney, Australia (hosted by CSIRO; workshops at UTS)
   url: https://conf.researchr.org/home/icsa-2027
   status: tentative
   deadlines:
@@ -66,6 +66,22 @@ editions:
     label: Research papers and Software Architecture in Practice
   - kind: abstract
     date: 2026-12-16
+    tz: AoE
+    label: New and Emerging Ideas
+  - kind: submission
+    date: 2026-12-20
+    tz: AoE
+    label: New and Emerging Ideas
+  - kind: camera_ready
+    date: 2027-01-11
+    tz: AoE
+    label: Research papers and Software Architecture in Practice
+  - kind: notification
+    date: 2027-01-19
+    label: New and Emerging Ideas
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
     label: New and Emerging Ideas
 sources:
 - https://conf.researchr.org/series/icsa
@@ -73,10 +89,13 @@ sources:
 - https://conf.researchr.org/track/icsa-2026/icsa-2026-papers
 - https://conf.researchr.org/home/icsa-2027
 - https://conf.researchr.org/track/icsa-2027/icsa-2027-papers
+- https://conf.researchr.org/dates/icsa-2027
+- https://conf.researchr.org/track/icsa-2027/icsa-2027-new-and-emerging-ideas
+- https://conf.researchr.org/venue/icsa-2027/icsa-2027-venue
 - https://portal.core.edu.au/conf-ranks/?search=ICSA&by=all&source=ICORE2026
 unverified:
 - "ICSA 2027 dates: the site text says 8 to 12 March 2027 in Sydney, but the page header still says dates to be announced"
 - CCF rank not set; the CCF list only has the predecessor WICSA (Working IEEE/IFIP Conference on Software Architecture)
   under a different full name
 - Acceptance rate not stated on the official site
-last_verified: 2026-10-31
+last_verified: 2026-11-20

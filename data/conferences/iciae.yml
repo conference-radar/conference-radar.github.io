@@ -49,8 +49,8 @@ editions:
   status: confirmed
   deadlines:
   - kind: submission
-    date: 2026-11-20
-    label: Full papers
+    date: 2026-11-27
+    label: Full papers (extended from 2026-11-20)
   - kind: notification
     date: 2026-12-11
   - kind: camera_ready
@@ -66,4 +66,4 @@ sources:
 unverified:
 - Not listed in the CCF 2026 list as far as checked; acceptance rate not published
 - Proceedings are not in a formal digital library or indexed series as far as the official pages state
-last_verified: 2026-11-14
+last_verified: 2026-11-20

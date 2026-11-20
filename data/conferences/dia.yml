@@ -50,8 +50,11 @@ editions:
     date: 2026-12-04
     label: Presentation application
   - kind: camera_ready
-    date: 2027-01-15
+    date: 2027-01-22
     label: Final paper
+  - kind: other
+    date: 2027-02-26
+    label: Web participant registration (general)
 sources:
 - https://www.tc-iaip.org/dia/2027/
 - https://www.tc-iaip.org/dia/2027/original/pdf/DIA2027_1stCFP.pdf
@@ -62,5 +65,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=DIA&by=all&source=ICORE2026
 unverified:
 - Not found in the ICORE2026 portal search
-- DIA2027 notification date is not yet announced (listed as being arranged)
-last_verified: 2026-11-14
+- DIA2027 notification is given only as around 2027-01-08, so it is left out
+last_verified: 2026-11-20

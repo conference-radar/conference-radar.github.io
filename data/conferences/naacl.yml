@@ -63,10 +63,10 @@ editions:
     tz: AoE
     label: ARR October 2026 cycle
   - kind: submission
-    date: 2026-10-31
+    date: 2026-11-13
     time: '23:59'
     tz: AoE
-    label: Industry track
+    label: Industry track (extended from 2026-10-31)
   - kind: submission
     date: 2026-12-04
     time: '23:59'
@@ -99,4 +99,4 @@ sources:
 - https://aclrollingreview.org/dates
 - https://aclanthology.org/2025.naacl-long.0.pdf
 - https://portal.core.edu.au/conf-ranks/?search=NAACL&by=acronym&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-20

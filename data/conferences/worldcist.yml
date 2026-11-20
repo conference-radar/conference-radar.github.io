@@ -55,7 +55,8 @@ editions:
   url: https://worldcist.org/
   deadlines:
   - kind: submission
-    date: 2026-11-22
+    date: 2026-12-06
+    label: Papers (moved from 2026-11-22)
   - kind: notification
     date: 2027-01-06
   - kind: other
@@ -73,4 +74,4 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=WorldCIST&by=all&source=ICORE2026
 unverified:
 - Acceptance rate
-last_verified: 2026-11-14
+last_verified: 2026-11-20

@@ -23,7 +23,6 @@ notes:
 - Steering committee includes Bashar Nuseibeh and Ahmed E. Hassan; 2027 co-chairs from The Open University, CSIRO Data61 and Polytechnique Montreal
 - Technical papers up to 8 pages plus 2 for references, industrial experience reports up to 6 pages, plus demos, datasets and short discussion papers (extended abstracts up to 4 pages in 2026, discussion papers up to 2 pages in 2027)
 - 2026 papers published in the ACM Digital Library; the 2027 call uses the IEEE conference template
-- 2027 has an abstract deadline one week before the paper deadline
 - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
 editions:
 - year: 2026
@@ -48,9 +47,6 @@ editions:
   url: https://conf.researchr.org/home/icse-2027/raise-2027
   status: tentative
   deadlines:
-  - kind: abstract
-    date: 2026-11-13
-    tz: AoE
   - kind: submission
     date: 2026-11-20
     tz: AoE
@@ -70,4 +66,4 @@ unverified:
 - 2027 workshop date is listed as tentative on the official page
 - The 2027 call does not say which digital library will publish the papers (IEEE template only)
 - Acceptance rate not found on an official page
-last_verified: 2026-11-14
+last_verified: 2026-11-20

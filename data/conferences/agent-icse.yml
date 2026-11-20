@@ -48,7 +48,7 @@ editions:
   - kind: submission
     date: 2026-11-20
     tz: AoE
-    label: Extended from 2026-11-13
+    label: Extended from 2026-11-13 (firm, no further extension)
   - kind: notification
     date: 2026-12-11
     tz: AoE
@@ -62,4 +62,4 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=AGENT&by=all&source=ICORE2026
 unverified:
 - Exact AGENT 2027 workshop day within ICSE 2027 (2027-04-25 to 2027-05-01) not announced
-last_verified: 2026-11-14
+last_verified: 2026-11-20

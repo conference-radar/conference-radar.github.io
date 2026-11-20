@@ -81,9 +81,29 @@ editions:
   - kind: camera_ready
     date: 2027-04-24
     tz: AoE
+  - kind: abstract
+    date: 2027-03-01
+    tz: AoE
+    label: Industry track
+  - kind: submission
+    date: 2027-03-08
+    tz: AoE
+    label: Industry track
+  - kind: abstract
+    date: 2027-01-25
+    tz: AoE
+    label: Disrupt track
+  - kind: submission
+    date: 2027-02-01
+    tz: AoE
+    label: Disrupt track
+  - kind: other
+    date: 2027-01-13
+    label: Workshop proposals
 sources:
 - https://dsn2027-berlin.github.io/call-for-contributions/
 - https://dsn2027-berlin.github.io/
+- https://dsn2027-berlin.github.io/important-dates/
 - https://dsn2026.github.io/
 - https://dsn2026.github.io/cfpapers.html
 - https://dsn2026.github.io/registration.html
@@ -91,5 +111,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=DSN&by=all&source=ICORE2026&sort=atitle&page=1
 - https://github.com/ccfddl/ccf-deadlines
 unverified:
-- Deadlines for DSN 2027 workshops, industry, Disrupt and doctoral forum tracks not yet published
-last_verified: 2026-11-14
+- Deadlines for DSN 2027 doctoral forum and individual workshops not yet published; workshop proposal deadline time zone not stated
+last_verified: 2026-11-20

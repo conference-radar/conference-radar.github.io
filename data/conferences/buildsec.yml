@@ -69,6 +69,7 @@ editions:
 sources:
 - https://buildsec.org/
 - https://www.vau.ac.lk/BuildSec26/
+- https://www.vau.ac.lk/BuildSec26/static/js/main.6ee1bc95.js
 - https://www.vau.ac.lk/BuildSec26/static/js/main.8b673375.js
 - https://www.vau.ac.lk/BuildSec26/static/js/main.a1781d06.js
 - https://www.vau.ac.lk/BuildSec26/static/js/main.b96114a2.js
@@ -83,5 +84,5 @@ unverified:
 - BuildSEC 2026 paper registration and submission deadlines (the site only shows them as closed)
 - BuildSEC 2026 acceptance into IEEE Xplore (site says subject to IEEE approval)
 - Indexing in Scopus or DBLP not confirmed
-- buildsec.org and the 2026 host site could not be reached on 2026-11-14; 2026 data last confirmed 2026-11-07; no 2027 edition announced
-last_verified: 2026-11-14
+- No 2027 edition announced as of 2026-11-20
+last_verified: 2026-11-20

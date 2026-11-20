@@ -16,13 +16,15 @@ typical:
   deadline_months: [5, 6]
   conference_months: [9]
 links:
-  website: https://sites.google.com/unisi.it/wivace2025/home
+  website: https://sites.google.com/cam.ac.uk/wivace26/
 notes:
 - Running since 2007, formed by merging the Italian workshops WIVA and GSICE; Springer titles it the Italian Workshop on Artificial Life and Evolutionary Computation
 - Proceedings in Springer Communications in Computer and Information Science (CCIS), indexed in DBLP, EI and Scopus
 - Topics include evolutionary computation, artificial life, swarm intelligence, neuroevolution, complex systems and systems biology
-- Mostly held in Italy (Rende 2019, Gaeta 2022, Venice 2023, Siena 2025), with editions in Winterthur, Switzerland (2021) and Namur, Belgium (2024)
+- Mostly held in Italy (Rende 2019, Gaeta 2022, Venice 2023, Siena 2025), with editions in Winterthur, Switzerland (2021), Namur, Belgium (2024) and Cambridge, UK (2026)
 - 2025 edition was a satellite event of the Conference of the Complex Systems Society (CCS 2025)
+- 2026 had two tracks (AI and deep learning for complex systems, complex systems modelling); full papers up to 12 pages, extended abstracts and summaries of published papers up to 4 pages, via Microsoft CMT
+- "Registration fee: 200 GBP standard, 100 GBP students (2026)"
 - Not listed in CORE ICORE2026
 editions:
 - year: 2025
@@ -37,12 +39,36 @@ editions:
   - kind: notification
     date: 2025-07-15
     label: Extended from 2025-06-30
+- year: 2026
+  label: XX WIVACE
+  start: 2026-09-21
+  end: 2026-09-23
+  location: Cambridge, UK (Department of Computer Science and Technology, University of Cambridge)
+  url: https://sites.google.com/cam.ac.uk/wivace26/
+  deadlines:
+  - kind: submission
+    date: 2026-08-10
+    label: Papers (extended from 2026-07-27)
+  - kind: notification
+    date: 2026-08-30
+    label: Extended from 2026-08-22
+  - kind: camera_ready
+    date: 2026-09-10
+    tz: AoE
+  - kind: other
+    date: 2026-10-20
+    label: Extended submission of abstracts
 sources:
 - https://sites.google.com/unisi.it/wivace2025/home
+- https://sites.google.com/cam.ac.uk/wivace26/
+- https://sites.google.com/cam.ac.uk/wivace26/submissions/important-dates
+- https://sites.google.com/cam.ac.uk/wivace26/submissions/instruction-for-authors
+- https://sites.google.com/cam.ac.uk/wivace26/registrations
 - https://doi.org/10.1007/978-3-032-33185-4
 - https://doi.org/10.1007/978-3-031-93631-9
 - https://portal.core.edu.au/conf-ranks/?search=WIVACE&by=all&source=ICORE2026
 unverified:
-- WIVACE 2026 dates and location not found on an official page
+- WIVACE 2026 proceedings series not yet stated (the 2026 author instructions use the Springer CCIS template and say proceedings information will follow)
+- WIVACE 2027 not announced as of 2026-11-20
 - No permanent steering body or society named on the official site
-last_verified: 2026-11-14
+last_verified: 2026-11-20

@@ -39,10 +39,25 @@ editions:
 - year: 2027
   start: 2027-05-12
   end: 2027-05-18
-  location: Long Beach, California, USA
-  url: https://us.pycon.org/
-  deadlines: []
+  location: Long Beach Convention and Entertainment Center, Long Beach, California, USA
+  url: https://us.pycon.org/2027/
+  deadlines:
+  - kind: other
+    date: 2026-11-27
+    label: Proposal Mentorship Program sign-up
+  - kind: submission
+    date: 2026-12-19
+    time: "23:59"
+    tz: PST
+    label: Call for proposals (talks, tutorials, Charlas, posters)
+  - kind: notification
+    date: 2027-02-10
+    label: First of three notification rounds (Feb 10, 12 and 17)
 sources:
+- https://us.pycon.org/2027/
+- https://us.pycon.org/2027/speaking/guidelines/
+- https://us.pycon.org/2027/speaking/talks/
+- https://us.pycon.org/2027/speaking/posters/
 - https://us.pycon.org/2026/
 - https://us.pycon.org/2026/about/pycon/
 - https://us.pycon.org/2026/speaking/guidelines/
@@ -54,7 +69,6 @@ sources:
 - https://pycon.blogspot.com/2026/09/pycon-us-2026-recap-and-recordings.html
 - https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
 unverified:
-- PyCon US 2027 call for proposals dates not yet announced as of 2026-11-14 (us.pycon.org still points to the 2026 site)
 - Time and time zone of the 2026 call for proposals deadline not stated
 - Not listed in the CORE ICORE2026 portal
-last_verified: 2026-11-14
+last_verified: 2026-11-20

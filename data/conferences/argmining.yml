@@ -52,7 +52,9 @@ editions:
   - kind: camera_ready
     date: 2026-05-12
 - year: 2027
-  label: 14th edition, with EACL 2027 (workshop between March 9 and 14, exact date TBA)
+  label: 14th edition, with EACL 2027
+  start: 2027-03-14
+  end: 2027-03-14
   location: Athens, Greece
   url: https://argmining-org.github.io/2027/
   deadlines:
@@ -87,6 +89,5 @@ sources:
 - https://argmining-org.github.io/2022/
 - https://aclanthology.org/volumes/2026.argmining-1/
 unverified:
-- Exact date of the 2027 workshop (announced only as within EACL 2027, March 9 to 14)
 - Acceptance rate
-last_verified: 2026-10-17
+last_verified: 2026-11-20

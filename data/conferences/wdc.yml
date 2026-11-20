@@ -58,23 +58,23 @@ editions:
   status: tentative
   deadlines:
   - kind: submission
-    date: 2026-12-03
+    date: 2027-01-09
     tz: AoE
-    label: Round 1
+    label: Round 1 (changed from 2026-12-03)
   - kind: notification
-    date: 2027-01-20
+    date: 2027-02-27
     tz: AoE
     label: Round 1
   - kind: submission
-    date: 2027-03-02
+    date: 2027-04-10
     tz: AoE
-    label: Round 2
+    label: Round 2 (changed from 2027-03-02)
   - kind: notification
-    date: 2027-04-26
+    date: 2027-05-15
     tz: AoE
     label: Round 2
   - kind: camera_ready
-    date: 2027-05-07
+    date: 2027-05-22
     tz: AoE
 sources:
 - https://sites.google.com/view/wdc-2027/
@@ -95,10 +95,9 @@ sources:
 - https://api.crossref.org/works/10.1145/3595353
 - https://api.crossref.org/works/10.1145/3494109
 - https://portal.core.edu.au/conf-ranks/?search=WDC&by=all&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
 - Round 1 notification date for 2026 is shown as "January 11, 2025" on the official page (an obvious typo), so it is
   left out
-- WDC 2027 workshop date July 13, 2027 (with AsiaCCS 2027 in Macau) is still marked tentative and the submission site
-  link is TBA as of 2026-11-14
+- WDC 2027 workshop date July 13, 2027 (with AsiaCCS 2027 in Macau) is still marked tentative as of 2026-11-20
 - Acceptance rate and number of submissions not published

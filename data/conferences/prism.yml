@@ -24,7 +24,7 @@ notes:
 - Regular papers up to 10 pages and work-in-progress papers up to 6 pages, excluding references and appendices;
   double-blind, NDSS templates; demo-driven tutorials also accepted
 - 13 accepted papers in 2026; best paper award sponsored by Palo Alto Networks
-- NDSS 2027 moves to Seoul, Korea (March 2027); a PRISM 2027 edition is not announced yet
+- Second edition (PRISM 2027) announced for Monday 2027-03-22 with NDSS 2027 in Seoul, Korea
 editions:
 - year: 2026
   start: 2026-02-23
@@ -41,7 +41,16 @@ editions:
     date: 2026-01-22
   - kind: camera_ready
     date: 2026-02-06
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-22
+  location: Seoul, Korea (Grand InterContinental Seoul Parnas, with NDSS 2027)
+  url: https://www.ndss-symposium.org/ndss2027/co-located-events/prism/
+  status: confirmed
 sources:
+- https://www.ndss-symposium.org/ndss2027/co-located-events/prism/
+- https://www.ndss-symposium.org/ndss2027/co-located-events/
+- https://www.ndss-symposium.org/ndss2027/
 - https://www.ndss-symposium.org/ndss2026/co-located-events/prism/
 - https://www.ndss-symposium.org/ndss2026/submissions/cfp-prism/
 - https://www.ndss-symposium.org/ndss2026/co-located-events/prism/accepted-papers/
@@ -50,6 +59,6 @@ sources:
 - https://doi.org/10.14722/prism.2026
 - https://portal.core.edu.au/conf-ranks/?search=PRISM&by=all&source=ICORE2026
 unverified:
-- PRISM 2027 not announced (NDSS 2027 in Seoul); frequency unknown after a single edition
+- PRISM 2027 deadlines not published yet (as of 2026-11-20 the ndss2027 cfp-prism page still shows the 2026 call)
 - Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
-last_verified: 2026-10-11
+last_verified: 2026-11-20

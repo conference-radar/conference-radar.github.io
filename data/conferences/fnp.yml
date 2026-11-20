@@ -18,7 +18,7 @@ links:
   website: https://wp.lancs.ac.uk/cfie/
 notes:
 - Workshop on NLP for financial text (annual reports, financial narratives, summarisation, causality, financial QA); started at LREC 2018
-- Co-located with a different host conference each edition (LREC 2018 and 2022, NoDaLiDa 2019, COLING 2020, IEEE BigData 2023, COLING 2025, LREC 2026, EACL 2027)
+- Co-located with a different host conference each edition (LREC 2018 and 2022, NoDaLiDa 2019, COLING 2020, IEEE BigData 2023, COLING 2025, LREC 2026; venue for 2027 to be decided)
 - Proceedings in the ACL Anthology; the 2025 edition was a joint workshop with FinNLP and LLMFinLegal at COLING 2025 in Abu Dhabi, and the 2023 edition was part of IEEE BigData 2023 in Sorrento, Italy
 - Runs shared tasks such as FinCausal (financial causality detection), FinTOC and FNS; GreekFinRAG added for 2027
 - Long papers up to 8 pages and short papers up to 4 pages
@@ -40,7 +40,7 @@ editions:
   - kind: camera_ready
     date: 2026-03-30
 - year: 2027
-  location: Greece (co-located with EACL 2027, to be confirmed)
+  location: Venue to be decided
   url: https://wp.lancs.ac.uk/cfie/
   status: tentative
   deadlines:
@@ -62,7 +62,7 @@ sources:
 - https://aclanthology.org/venues/fnp/
 - https://aclanthology.org/volumes/2026.fnp-1/
 - https://portal.core.edu.au/conf-ranks/?search=FNP&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-11-20
 unverified:
-- FNP 2027 workshop date not announced; the page lists only "9-14 March 2027 TBA" and marks EACL 2027 in Greece as to be confirmed
+- FNP 2027 workshop date and venue not announced; the page lists only "9-14 March 2027 TBA" and "venue to be decided"
 - Time zone of the FNP 2027 deadlines not stated

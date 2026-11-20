@@ -77,10 +77,10 @@ editions:
   url: https://expo.itri.org.tw/2027VLSITSA/
   deadlines:
   - kind: submission
-    date: 2026-11-22
+    date: 2026-12-13
     time: "23:59"
     tz: UTC+8
-    label: Regular papers (TSA and DAT)
+    label: Regular papers (TSA and DAT, extended from 2026-11-22)
   - kind: notification
     date: 2027-01-27
     tz: UTC+8
@@ -108,9 +108,11 @@ sources:
 - https://expo.itri.org.tw/2027VLSITSA/
 - https://expo.itri.org.tw/api/information/2027VLSITSA/home
 - https://expo.itri.org.tw/files/downloads/2/e52685aa-42a8-4cd1-9069-c766e27f54ba.pdf
+- https://expo.itri.org.tw/files/downloads/3/b8030d77-0e0d-4eba-b1ad-936ed8e67af2.pdf
 - https://portal.core.edu.au/conf-ranks/?search=VLSI-TSA&by=all&source=ICORE2026
 unverified:
 - The 2025 and 2026 ITRI sites now return 404; dates and proceedings are taken from the IEEE CAS event pages and
   the 2026 CFP PDF hosted there
 - VLSI TSA 2027 dates come from the ITRI site and its CFP PDF; IEEE CAS 2027 event page not found as of 2026-10-31
-last_verified: 2026-11-14
+- The 2027 deadline extension to 2026-12-13 is announced on the ITRI site; the extension CFP PDF still lists the notification as 2027-01-27
+last_verified: 2026-11-20

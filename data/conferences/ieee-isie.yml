@@ -37,11 +37,14 @@ editions:
   url: https://isie2027.ieee-ies.org/
   deadlines:
   - kind: other
-    date: 2026-11-01
-    label: Special session and tutorial proposals
+    date: 2026-12-01
+    label: Special session and tutorial proposals (extended from 2026-11-01)
   - kind: submission
     date: 2026-12-15
     label: Regular and special session papers
+  - kind: other
+    date: 2027-02-01
+    label: Panel session proposals
   - kind: notification
     date: 2027-03-01
     label: Early notification for authors needing a visa
@@ -68,4 +71,4 @@ sources:
 unverified:
 - ISIE 2026 deadlines (the call for papers page is now password protected)
 - Acceptance rate and registration fees
-last_verified: 2026-10-17
+last_verified: 2026-11-20

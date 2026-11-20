@@ -24,7 +24,7 @@ notes:
 - "Acceptance: 28 full and 17 short papers from 109 submissions (2025)"
 - Topics are games, interactive art, XR entertainment, serious games, accessibility and AI for entertainment
 - Double-blind review, full papers up to 12 pages in LNCS format (2025)
-- ICEC 2025 in Tokyo was co-organized with IPSJ and ran a joint session with the domestic EC symposium; ICEC 2026 was announced for Paris, France
+- ICEC 2025 in Tokyo was co-organized with IPSJ and ran a joint session with the domestic EC symposium; ICEC 2026 was held at Cnam in Paris, France (October 6 to 9, 2026)
 - CORE C in ICORE2026; not on the CCF 2026 list
 editions:
 - year: 2025
@@ -46,7 +46,9 @@ editions:
   - kind: camera_ready
     date: 2025-05-30
 - year: 2026
-  location: Paris, France
+  start: 2026-10-06
+  end: 2026-10-09
+  location: Paris, France (Cnam)
   url: https://icec2026.cnam.fr/
 sources:
 - https://icec2025.entcomp.org/
@@ -55,8 +57,9 @@ sources:
 - https://link.springer.com/book/10.1007/978-3-032-02555-5
 - https://link.springer.com/book/10.1007/978-3-032-02534-0
 - https://ifip-tc14.org/
+- https://cedric.cnam.fr/?p=3207
 - https://portal.core.edu.au/conf-ranks/?search=ICEC&by=all&source=ICORE2026
 unverified:
-- ICEC 2026 dates and deadlines not recorded; the official site icec2026.cnam.fr was unreachable (TLS error and HTTP 503) on 2026-11-07, 2026-11-08 and 2026-11-14
-- ICEC 2027 not yet announced as of 2026-11-14
-last_verified: 2026-11-14
+- ICEC 2026 deadlines not recorded; the official site icec2026.cnam.fr was unreachable (TLS error and HTTP 503) on 2026-11-07, 2026-11-08, 2026-11-14 and 2026-11-20. Conference dates taken from the event page of the host lab CEDRIC at Cnam
+- ICEC 2027 not yet announced as of 2026-11-20
+last_verified: 2026-11-20

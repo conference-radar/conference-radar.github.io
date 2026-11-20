@@ -87,6 +87,10 @@ editions:
     date: 2027-01-31
     tz: AoE
     label: Data challenge track
+  - kind: other
+    date: 2027-02-01
+    tz: AoE
+    label: Tutorial proposals
 sources:
 - https://icpe.spec.org/
 - https://icpe2027.spec.org/
@@ -101,6 +105,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=ICPE&by=all&source=ICORE2026
 unverified:
 - CCF rank (ICPE not found in the CCF list mirrors checked)
-- Tutorial deadlines for ICPE 2027 (TBA as of 2026-11-14); artifact evaluation deadline not listed
+- Artifact evaluation deadline for ICPE 2027 not listed
 - Acceptance rate
-last_verified: 2026-11-14
+last_verified: 2026-11-20

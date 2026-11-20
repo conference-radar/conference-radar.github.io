@@ -19,10 +19,11 @@ links:
 notes:
 - One-day workshop on model-based testing (models, test generation, tools, industrial experience), co-located with IEEE ICST
 - 21st edition in 2025; held with ICST in Naples 2025, Toronto 2024, Dublin 2023 and online 2022
+- 22nd edition announced with ICST 2027 in San Sebastian, Spain (May 2027), submission via EasyChair
 - Full papers up to 8 pages and short experience or position papers up to 4 pages (IEEE two-column, excluding references); 2-page journal-first summaries also accepted
 - Each paper reviewed by at least three PC members; accepted papers published in IEEE Xplore
 - Organizers based in Austria and Sweden (Silicon Austria Labs, Mälardalen University, TU Wien)
-- Not among the ICST 2026 workshops; no later edition announced as of 2026-10-25
+- Not among the ICST 2026 workshops, so no 2026 edition took place
 - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
 editions:
 - year: 2025
@@ -40,7 +41,21 @@ editions:
   - kind: camera_ready
     date: 2025-03-08
     tz: AoE
+- year: 2027
+  location: San Sebastian, Spain (co-located with ICST 2027)
+  url: https://conf.researchr.org/home/icst-2027/a-most-2027
+  deadlines:
+  - kind: submission
+    date: 2027-02-04
+    tz: AoE
+  - kind: notification
+    date: 2027-03-04
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-18
+    tz: AoE
 sources:
+- https://conf.researchr.org/home/icst-2027/a-most-2027
 - https://conf.researchr.org/home/icst-2025/a-most-2025
 - https://conf.researchr.org/home/icst-2024/a-most-2024
 - https://conf.researchr.org/home/icst-2023/a-most-2023
@@ -49,9 +64,7 @@ sources:
 - https://conf.researchr.org/home/icst-2027
 - https://conf.researchr.org/track/icst-2027/icst-2027-workshops
 - https://portal.core.edu.au/conf-ranks/?search=A-MOST&by=all&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
-- No 2026 edition found on the ICST 2026 workshop list; A-MOST may have paused or moved
-- No A-MOST 2027 edition announced as of 2026-11-14 (ICST 2027 workshops page lists AIST, ASTA, CCIW, ITEQS, IWCT,
-  Mutation and SECUTE)
+- Exact A-MOST 2027 workshop day not stated (ICST 2027 runs 17 to 21 May 2027; the call says only May 2027)
 - Acceptance rate not found on an official page

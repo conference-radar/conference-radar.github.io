@@ -25,6 +25,18 @@ notes:
 - Several submission tracks (regular, common and late) with short gaps between deadline and conference
 - Not listed in ICORE2026
 editions:
+- year: 2027
+  start: 2027-05-16
+  end: 2027-05-19
+  location: Prague, Czech Republic (hybrid, in cooperation with Newton University)
+  url: https://mobilityiot.eai-conferences.org/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-03-25
 - year: 2025
   start: 2025-12-03
   end: 2025-12-03
@@ -57,6 +69,8 @@ editions:
   - kind: camera_ready
     date: 2026-03-15
 sources:
+- https://mobilityiot.eai-conferences.org/2027/
+- https://mobilityiot.eai-conferences.org/2027/call-for-papers/
 - https://mobilityiot.eai-conferences.org/2026/
 - https://mobilityiot.eai-conferences.org/2026/call-for-papers/
 - https://mobilityiot.eai-conferences.org/2026/final-program/
@@ -64,8 +78,8 @@ sources:
 - https://mobilityiot.eai-conferences.org/2024/
 - https://mobilityiot.eai-conferences.org/2023/
 - https://portal.core.edu.au/conf-ranks/?search=MobilityIoT&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-11-20
 unverified:
-- 2027 edition not announced yet
+- The 2027 pages call the event both the 13th and the 14th edition; poster and late track dates on the 2027 call page are left over from 2024
 - Official pages are partly inconsistent (the 2026 CFP page lists Dubai, UAE while the home page and program say fully online; the 2025 page does not name the proceedings series)
 - CCF 2026 list not checked directly on ccf.org.cn

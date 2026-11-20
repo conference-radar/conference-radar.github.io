@@ -49,7 +49,7 @@ editions:
     date: 2026-11-15
     label: Full and workshop paper abstract (extended)
   - kind: notification
-    date: 2026-11-29
+    date: 2026-11-30
     label: Abstract notification
   - kind: submission
     date: 2026-12-15
@@ -70,7 +70,7 @@ sources:
 - https://forge.ieee-ims.org/sites/ieeeims/files/documents/call-docs/iavvc25_cfp_web_09_970bbe4e83.pdf
 - https://ieee-ims.org/event/conference/2025-ieee-international-automated-vehicle-validation-conference
 - https://portal.core.edu.au/conf-ranks/?search=IAVVC&by=all&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
 - No 2026 edition; unclear whether the series will be annual or biennial from 2027
 - Acceptance rate not published

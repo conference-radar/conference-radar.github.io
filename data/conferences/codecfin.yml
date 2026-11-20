@@ -28,6 +28,16 @@ notes:
 - Deadlines have been extended (2025 from Dec 31 to Jan 25, 2026 from Dec 20 to Dec 31)
 - Held at the FC venue, which rotates worldwide (2025 Miyakojima, Japan; 2026 St. Kitts; 2027 Barbados)
 editions:
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados
+  url: https://fc27.ifca.ai/codecfin/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+  - kind: notification
+    date: 2026-12-21
 - year: 2026
   start: 2026-03-06
   end: 2026-03-06
@@ -45,11 +55,12 @@ sources:
 - https://fc25.ifca.ai/codecfin/cfp.html
 - https://fc26.ifca.ai/workshops.html
 - https://fc27.ifca.ai/workshops.html
+- https://fc27.ifca.ai/codecfin/
+- https://fc27.ifca.ai/codecfin/cfp.html
 - https://link.springer.com/book/10.1007/978-3-032-00495-6
 - https://portal.core.edu.au/conf-ranks/?search=CoDecFin&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-11-20
 unverified:
-- CoDecFin 2027 (8th) is listed on the FC 2027 workshops page (Barbados, February 2027) but its site only says
-  information coming soon, so no dates yet
+- CoDecFin 2027 camera-ready deadline not stated; no time or time zone given for the 2027 deadlines
 - The CfP pages do not state the proceedings; the LNCS series is taken from the Springer FC 2025 workshops volume
 - Not listed in ICORE2026 (no result for CoDecFin) and not found in the CCF 2026 list

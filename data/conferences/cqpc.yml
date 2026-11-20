@@ -38,6 +38,17 @@ editions:
     date: 2025-07-22
   - kind: camera_ready
     date: 2025-07-29
+- year: 2026
+  start: 2026-08-05
+  end: 2026-08-05
+  url: https://cqpc.kubg.edu.ua/
+  deadlines:
+  - kind: submission
+    date: 2026-07-15
+  - kind: notification
+    date: 2026-07-22
+  - kind: camera_ready
+    date: 2026-07-29
 sources:
 - https://cqpc.kubg.edu.ua/
 - https://ceur-ws.org/Vol-4016/
@@ -45,6 +56,7 @@ sources:
 - https://ceur-ws.org/
 - https://portal.core.edu.au/conf-ranks/?search=CQPC&by=all&source=ICORE2026
 unverified:
-- No 2026 edition found on the official site or in CEUR-WS as of 2026-11-14
+- CQPC 2026 location (the official site gives only the date, 5 August 2026) and whether it again ran with PIC S&T
+- CQPC 2026 proceedings not yet in CEUR-WS as of 2026-11-20
 - Not listed on the CORE portal (ICORE2026) or the CCF list
-last_verified: 2026-11-14
+last_verified: 2026-11-20

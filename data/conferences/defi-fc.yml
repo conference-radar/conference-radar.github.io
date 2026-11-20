@@ -49,9 +49,10 @@ editions:
   url: https://fc27.ifca.ai/defi/
   deadlines:
   - kind: abstract
-    date: 2026-11-16
+    date: 2026-11-18
     time: "23:59"
     tz: AoE
+    label: Firm, moved from 2026-11-16
   - kind: submission
     date: 2026-11-23
     time: "23:59"
@@ -76,7 +77,7 @@ sources:
 - https://fc23.ifca.ai/defi/
 - https://link.springer.com/book/10.1007/978-3-031-69231-4
 - https://portal.core.edu.au/conf-ranks/?search=DeFi&by=all&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
 - DeFi 2026 deadlines are no longer shown on the workshop page
 - The 2024 page gives the notification date as January 15, 2023 (year typo), so it is left out

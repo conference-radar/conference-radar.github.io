@@ -45,16 +45,21 @@ editions:
   end: 2026-09-11
   location: Brussels, Belgium
   url: https://clin36.ai.vub.ac.be/
+  deadlines:
+  - kind: other
+    date: 2027-01-11
+    label: CLIN Journal vol. 16 full papers
 sources:
 - https://clin35.ccl.kuleuven.be/
 - https://clin35.ccl.kuleuven.be/call-for-abstracts
 - https://clinjournal.org/clinj
 - https://clinjournal.org/clinj/announcement/view/17
+- https://clinjournal.org/clinj/announcement/view/18
 - https://clinjournal.org/clinj/announcement
 - https://portal.core.edu.au/conf-ranks/?search=CLIN&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
-- CLIN36 (2026) deadlines; the CLIN36 website (clin36.ai.vub.ac.be) was still unreachable on 2026-11-14, date and
+- CLIN36 (2026) deadlines; the CLIN36 website (clin36.ai.vub.ac.be) was still unreachable on 2026-11-20, date and
   city taken from the CLIN Journal announcement (LINGUIST List gives an abstract deadline of 2026-06-08, not
   confirmed on an official page)
-- CLIN37 (2027) host and dates not announced as of 2026-11-14
+- CLIN37 (2027) host and dates not announced as of 2026-11-20

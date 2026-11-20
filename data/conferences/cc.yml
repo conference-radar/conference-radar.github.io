@@ -46,7 +46,7 @@ editions:
     tz: AoE
     label: Author response period opens
   - kind: notification
-    date: 2027-01-15
+    date: 2027-01-20
     tz: AoE
 - year: 2026
   start: 2026-01-31
@@ -77,6 +77,6 @@ sources:
 - https://conf.researchr.org/home/hpca-cgo-ppopp-cc-2027
 - https://portal.core.edu.au/conf-ranks/?search=CC&by=all&source=ICORE2026
 unverified:
-- CC 2027 camera-ready and artifact deadlines not yet announced (as of 2026-11-14)
+- CC 2027 camera-ready and artifact deadlines not yet announced (as of 2026-11-20)
 - CCF rank not confirmed (CC not found in the CCF software engineering or architecture lists)
-last_verified: 2026-11-14
+last_verified: 2026-11-20

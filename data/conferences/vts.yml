@@ -60,11 +60,11 @@ editions:
   url: https://www.tttc-vts.org/public_html/new/2027/
   deadlines:
   - kind: abstract
-    date: 2026-11-13
-    label: Regular papers, title, abstract and authors
-  - kind: submission
     date: 2026-11-20
-    label: Regular papers, full PDF
+    label: Regular papers, title, abstract and authors (extended from 2026-11-13)
+  - kind: submission
+    date: 2026-12-04
+    label: Regular papers, full PDF (extended from 2026-11-20)
   - kind: other
     date: 2027-01-08
     label: PhD thesis competition
@@ -101,4 +101,4 @@ unverified:
 - The 2026 CFP body text gave a camera-ready date of 2026-02-28 that conflicts with 2026-03-31 in its key dates list
 - Sponsors are shown only as logos on the site; the TTTC and IEEE Computer Society role is taken from the site domain and contest names
 - CCF rank checked against a text copy of the CCF 2026 list, not on ccf.org.cn directly (site blocks automated access)
-last_verified: 2026-11-14
+last_verified: 2026-11-20

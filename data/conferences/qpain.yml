@@ -63,7 +63,7 @@ editions:
   label: 3rd QPAIN
   start: 2027-03-31
   end: 2027-04-03
-  location: Chattogram, Bangladesh
+  location: Chattogram, Bangladesh (IT Business Incubator, CUET)
   url: https://qpain.org/
   deadlines:
   - kind: submission
@@ -90,9 +90,8 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=QPAIN&by=all&source=ICORE2026
 unverified:
 - QPAIN 2026 submission and notification dates (the archived 2026 site shows them only as closed and sent)
-- Exact venue of QPAIN 2027 within Chattogram
 - Deadline times and time zones (pages give dates only)
-- The site lists the new dates (submission 2026-12-20, conference 2027-03-31 to 2027-04-03) without announcing them as an extension or change; the submission portal was not yet open on 2026-10-31
+- The site lists the new dates (submission 2026-12-20, conference 2027-03-31 to 2027-04-03) without announcing them as an extension or change; the announcements page says the PROCONF submission portal is now open (checked 2026-11-20)
 - Acceptance rate not published; DBLP coverage not checked
 - IEEE Xplore proceedings pages were not opened (IEEE Xplore blocked automated access); 2026 proceedings not confirmed on IEEE Xplore
-last_verified: 2026-10-31
+last_verified: 2026-11-20

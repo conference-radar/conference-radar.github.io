@@ -39,7 +39,20 @@ editions:
     label: Extended from 2026-01-13
   - kind: camera_ready
     date: 2026-02-02
+- year: 2027
+  label: 5th edition
+  location: Dublin, Ireland (with The Web Conference 2027)
+  url: https://sites.google.com/view/aiofai2027
+  deadlines:
+  - kind: submission
+    date: 2027-01-04
+  - kind: notification
+    date: 2027-02-01
 sources:
+- https://sites.google.com/view/aiofai2027
+- https://sites.google.com/view/aiofai2027/call-for-papers
+- https://www2027.thewebconf.org/workshops/
+- https://www2027.thewebconf.org/important-dates/
 - https://sites.google.com/view/aiofai-2026/home
 - https://sites.google.com/view/aiofai-2026/call-for-papers
 - https://sites.google.com/view/aiofai-2026/program
@@ -47,5 +60,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=AiOfAi&by=all&source=ICORE2026
 unverified:
 - The workshop home page still shows April 13 as the date; the program page gives Tuesday, June 30, 2026 after The Web Conference 2026 moved to June 29 to July 3
-- No 2027 edition announced yet
-last_verified: 2026-11-14
+- 2027 workshop day unclear (workshop home page says May 9, 2027, but The Web Conference says workshops are on May 10 and 11, 2027); 2027 deadline time zone and camera-ready date not stated on the workshop CFP
+last_verified: 2026-11-20

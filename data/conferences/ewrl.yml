@@ -15,11 +15,11 @@ typical:
   deadline_months: [5, 6]
   conference_months: [9]
 links:
-  website: https://euro-workshop-on-reinforcement-learning.github.io/
+  website: https://ewrl-org.github.io/
 notes:
 - Main gathering of the European reinforcement learning community, held since 1994 and annual since 2022 (Milan 2022,
   Brussels 2023, Toulouse 2024, Tuebingen 2025, Lille 2026)
-- Non-archival in recent editions; EWRL 2025 had no proceedings (older editions appeared in Springer LNAI 2011 and
+- Non-archival in recent editions; EWRL 2025 and 2026 had no proceedings (older editions appeared in Springer LNAI 2011 and
   JMLR proceedings 2012)
 - Regular track for unpublished work (9 pages plus references and appendix, double blind, via OpenReview) and a fast
   track for papers already accepted at major venues such as NeurIPS, ICML, ICLR and RLC
@@ -47,7 +47,15 @@ editions:
   start: 2026-10-05
   end: 2026-10-07
   location: Lille, France (Universite de Lille, Lilliad Learning Center)
-  url: https://inscription-evenement.univ-lille.fr/EWRL2026/
+  url: https://ewrl-org.github.io/ewrl-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-07-10
+    tz: AoE
 - year: 2027
   start: 2027-08-22
   end: 2027-08-25
@@ -62,10 +70,11 @@ sources:
 - https://rl-conference.cc/2026/index.html
 - https://rl-conference.cc/2027/index.html
 - https://inscription-evenement.univ-lille.fr/EWRL2026/
+- https://ewrl-org.github.io/
+- https://ewrl-org.github.io/ewrl-2026/
+- https://ewrl-org.github.io/ewrl-2026/call.html
 - https://portal.core.edu.au/conf-ranks/?search=EWRL&by=all&source=ICORE2026
 unverified:
-- EWRL 2026 (Lille) call for papers and deadlines not found; dates and venue taken from the Universite de Lille
-  registration page, since the EWRL sites still point to the 2025 edition (checked 2026-11-14)
 - EWRL 2027 submission deadlines not announced; the 2027 dates and Nyborg location come from the RLC 2027 site
-  (checked 2026-11-14)
-last_verified: 2026-11-14
+  (checked 2026-11-20)
+last_verified: 2026-11-20

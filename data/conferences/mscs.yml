@@ -12,7 +12,7 @@ organizer: SICE Control Division
 organizer_country: [japan]
 proceedings: None (participants only)
 archival: false
-fee: 11,000 JPY presentation fee on top of registration (2027)
+fee: 11,000 JPY presentation fee (7,700 JPY for student posters) on top of registration (2027)
 typical:
   deadline_months: [12]
   conference_months: [3]
@@ -54,8 +54,8 @@ editions:
         tz: PDT
         label: ISCS 2027 initial paper submission (extended from 2026-10-09)
       - kind: other
-        date: 2026-11-13
-        label: Organized session proposals
+        date: 2026-11-27
+        label: Organized session proposals (extended from 2026-11-13)
       - kind: abstract
         date: 2026-12-04
         label: Talk application
@@ -72,7 +72,7 @@ sources:
   - https://portal.core.edu.au/conf-ranks/?search=MSCS&by=all&source=ICORE2026
   - https://portal.core.edu.au/conf-ranks/?search=ISCS&by=all&source=ICORE2026
 unverified:
-  - Registration fees (only the 11,000 JPY presentation fee is stated)
+  - Registration fees (only the presentation fees are stated)
   - Whether domestic talks get any review (the site does not mention review)
   - ISCS 2027 notification is late November 2026 and the final submission date is TBA
-last_verified: 2026-11-14
+last_verified: 2026-11-20

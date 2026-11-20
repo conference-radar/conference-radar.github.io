@@ -18,7 +18,7 @@ typical:
   deadline_months: [1, 2, 3]
   conference_months: [5]
 links:
-  website: https://eng.buu.ac.th/ecti-con2026/
+  website: https://ecti-con2027.org/
   wikicfp: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190388&copyownerid=195696
 notes:
 - Main international conference of Thailand's ECTI Association, held in Thailand since 2004; in May in recent years
@@ -26,6 +26,9 @@ notes:
 - Three submission periods with separate notifications; submission via EDAS; IEEE Xplore proceedings
 - Tracks include Information and Network Security, Computing and Cybersecurity, Communication and Network Technology,
   and AI, Data and Intelligent Systems
+- 2027 (24th edition) in Bangkok, May 24 to 27; authors of accepted 2027 papers are encouraged to submit full versions
+  to ECTI Transactions on Electrical Engineering, Electronics, and Communications (ECTI-EEC)
+- Advance registration 2027 is 400 USD member, 450 USD non-member, 300 USD student member
 - Broad EE and computing scope; technical co-sponsors include IEEE (Thailand Section and Computer Chapter), SICE,
   ICROS and REV; online or on-site presentation allowed in 2026
 editions:
@@ -62,7 +65,32 @@ editions:
     time: '23:59'
     tz: UTC+7
     label: Early-bird and author registration (extended from 2026-04-19)
+- year: 2027
+  label: ECTI-CON 2027
+  start: 2027-05-24
+  end: 2027-05-27
+  location: Bangkok, Thailand (Royal Orchid Sheraton Riverside Hotel)
+  url: https://ecti-con2027.org/
+  status: confirmed
+  deadlines:
+  - kind: other
+    date: 2026-11-27
+    label: Special session proposals
+  - kind: submission
+    date: 2027-02-01
+    label: Paper submission
+  - kind: notification
+    date: 2027-03-15
+  - kind: other
+    date: 2027-03-15
+    label: Early-bird registration
+  - kind: camera_ready
+    date: 2027-03-31
 sources:
+- https://ecti-con2027.org/
+- https://ecti-con2027.org/call-for-paper/
+- https://ecti-con2027.org/registration/
+- https://ecti-con2027.org/publication/
 - https://eng.buu.ac.th/ecti-con2026/
 - https://eng.buu.ac.th/ecti-con2026/registration.html
 - https://eng.buu.ac.th/ecti-con2026/ECTI2026%20Call%20for%20Paper%20.pdf
@@ -72,9 +100,8 @@ sources:
 - https://api.crossref.org/works/10.1109/ecti-con68836.2026
 - https://doi.org/10.1109/ecti-con60892.2024.10594785
 unverified:
-- 'ECTI-CON 2027: ecti-con2027.org exists (reported venue link to The Park Nine Suvarnabhumi) but returned 403 at
-  time of check; no dates confirmed'
-- Whether authors are invited to submit extended versions to ECTI Transactions (not stated in the 2026 CFP)
+- ECTI-CON 2027 deadline times and time zone not stated; the site shows a single paper deadline (2027-02-01) and no
+  separate submission periods so far
 - Acceptance rate
 - DBLP key (DBLP blocks automated access)
-last_verified: 2026-09-28
+last_verified: 2026-11-20

@@ -49,16 +49,35 @@ editions:
 - year: 2026
   start: 2026-07-06
   end: 2026-07-10
-  location: Tallinn, Estonia
-  url: https://compose.ioc.ee/act2026/
+  location: Tallinn, Estonia (TalTech Maritime Academy)
+  url: https://actconf2026.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-24
+    tz: AoE
+    label: Abstracts (extended from 2026-03-23)
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+  - kind: notification
+    date: 2026-05-15
+    tz: AoE
+    label: Extended from 2026-05-11
+  - kind: camera_ready
+    date: 2026-06-20
+    tz: AoE
+    label: Final versions for proceedings
 sources:
 - https://www.appliedcategorytheory.org/
 - https://gataslab.org/act2025/
 - https://gataslab.org/act2025/cfp/index.html
+- https://actconf2026.github.io/
+- https://actconf2026.github.io/cfp.html
 - https://eptcs.web.cse.unsw.edu.au/published.cgi
 - https://cgi.cse.unsw.edu.au/~eptcs/forthcoming.cgi
 - https://portal.core.edu.au/conf-ranks/?search=ACT&by=all&source=ICORE2026
 unverified:
-- ACT 2026 deadlines not recorded; the official ACT 2026 site (compose.ioc.ee/act2026) did not respond on 2026-11-14
-- No 2027 edition announced on the series site as of 2026-11-14
-last_verified: 2026-11-14
+- ACT 2026 dates taken from actconf2026.github.io, the site named in the organizers' call for papers; the series site
+  links compose.ioc.ee/act2026, which did not respond on 2026-11-20
+- No 2027 edition announced on the series site as of 2026-11-20
+last_verified: 2026-11-20

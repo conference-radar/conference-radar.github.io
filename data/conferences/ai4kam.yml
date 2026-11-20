@@ -15,7 +15,7 @@ typical:
   deadline_months: [5]
   conference_months: [8]
 links:
-  website: http://ai4kam.ue.wroc.pl
+  website: https://ai4kam.pl/
 notes:
 - Workshop on AI for knowledge representation, knowledge discovery, knowledge management, business process automation and AI in management
 - Continues a series on intelligent technologies in management established in 1992, renamed in 2003 and part of FedCSIS from 2012
@@ -42,6 +42,7 @@ editions:
   - kind: camera_ready
     date: 2025-06-30
 sources:
+- https://ai4kam.pl/
 - http://ai4kam.ue.wroc.pl
 - http://ai4kam.ue.wroc.pl/Call%20For%20Papers.html
 - http://ai4kam.ue.wroc.pl/Workshop%20Chairs%20%20PC.html
@@ -55,4 +56,4 @@ unverified:
 - No 2026 edition found; whether the workshop continues at IJCAI or FedCSIS is not announced
 - Region judged from the earlier KAM editions at FedCSIS in Europe
 - Acceptance rate and fee not published
-last_verified: 2026-11-14
+last_verified: 2026-11-20

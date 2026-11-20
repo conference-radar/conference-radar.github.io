@@ -50,13 +50,27 @@ editions:
   location: Kyoto, Japan (with ACL 2027)
   url: https://sigturk.github.io/workshops/2027/
   status: tentative
-  deadlines: []
+  deadlines:
+  - kind: submission
+    date: 2027-04-28
+    time: "23:59"
+    tz: AoE
+    label: Direct submission (tentative)
+  - kind: submission
+    date: 2027-04-28
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment (tentative)
+  - kind: notification
+    date: 2027-05-26
+  - kind: camera_ready
+    date: 2027-06-16
 sources:
 - https://sigturk.github.io/workshops/
 - https://sigturk.github.io/workshops/2026/
 - https://sigturk.github.io/workshops/2027/
 - https://aclanthology.org/venues/sigturk/
 - https://portal.core.edu.au/conf-ranks/?search=SIGTURK&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-11-20
 unverified:
-- SIGTURK 2027 is one day, August 18 or 19, 2027 (to be confirmed); call for papers not yet announced
+- SIGTURK 2027 is one day, August 18 or 19, 2027 (to be confirmed); all 2027 deadlines are marked tentative until confirmed with the ACL 2027 workshop chairs

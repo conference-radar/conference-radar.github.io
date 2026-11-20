@@ -76,7 +76,26 @@ editions:
     date: 2026-02-02
     time: "23:59"
     tz: AoE
+- year: 2027
+  location: Dublin, Ireland (with The Web Conference 2027)
+  url: https://federated-learning.org/fl@fm-www-2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-04
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-16
+    time: "23:59"
+    tz: AoE
 sources:
+- https://federated-learning.org/fl@fm-www-2027/
+- https://www2027.thewebconf.org/workshops/
+- https://www2027.thewebconf.org/important-dates/
 - https://federated-learning.org/fl@fm-www-2026/
 - https://federated-learning.org/fl@fm-www-2025/
 - https://federated-learning.org/
@@ -85,5 +104,5 @@ sources:
 unverified:
 - 2026 workshop date taken from the workshop page script (2026-06-30); the page text itself shows no date and lists the venue as Hall 10 and a virtual platform
 - 2025 late-breaking deadline given as both January 21 and January 22 on the workshop page
-- No 2027 edition announced yet
-last_verified: 2026-11-14
+- 2027 workshop day not stated (workshop page gives the conference dates May 10 to 14, 2027; The Web Conference says workshops are on May 10 and 11, 2027)
+last_verified: 2026-11-20

@@ -49,7 +49,9 @@ editions:
   - kind: camera_ready
     date: 2026-02-07
 - year: 2027
-  label: 23rd edition, with EACL 2027 (one full day between March 9 and 14, exact date TBA)
+  label: 23rd edition, with EACL 2027
+  start: 2027-03-14
+  end: 2027-03-14
   location: Athens, Greece
   url: https://multiword.org/mwe2027
   deadlines:
@@ -74,7 +76,7 @@ sources:
 - https://aclanthology.org/volumes/2026.mwe-1/
 - https://aclanthology.org/volumes/2025.mwe-1/
 - https://portal.core.edu.au/conf-ranks/?search=MWE&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-11-14
+last_verified: 2026-11-20
 unverified:
-- Exact workshop day of MWE 2027 (one day between 2027-03-09 and 2027-03-14) and its notification date (January 2027, TBA)
+- Notification date of MWE 2027 (January 2027, TBA)
 - Acceptance rate not published

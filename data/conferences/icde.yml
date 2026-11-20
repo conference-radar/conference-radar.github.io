@@ -96,11 +96,21 @@ editions:
     time: '17:00'
     tz: PST
     label: PhD symposium
+  - kind: abstract
+    date: 2026-11-15
+    time: '23:59'
+    tz: AoE
+    label: Data Engineering Future Technologies
   - kind: submission
     date: 2026-11-22
-    time: '17:00'
-    tz: PST
+    time: '23:59'
+    tz: AoE
     label: Data Engineering Future Technologies
+  - kind: submission
+    date: 2026-12-09
+    time: '23:59'
+    tz: PST
+    label: TKDE poster
   - kind: submission
     date: 2026-12-07
     time: '23:59'
@@ -116,12 +126,14 @@ sources:
 - https://icde2027.github.io/important-dates.html
 - https://icde2027.github.io/cf-research-papers.html
 - https://icde2027.github.io/cf-demonstrations.html
+- https://icde2027.github.io/cf-future.html
+- https://icde2027.github.io/cf-tkde-poster.html
 - https://icde2026.github.io/
 - https://icde2026.github.io/important-dates.html
 - https://icde2026.github.io/cf-research-papers.html
 - https://portal.core.edu.au/conf-ranks/?search=ICDE&by=acronym&source=ICORE2026
 unverified:
 - ICDE acceptance rate (no official figure found)
-- ICDE 2027 TKDE poster deadlines (TBD on site); notification dates are approximate per the site
-- ICDE 2027 demo deadline time conflicts (Important Dates says 5 pm Pacific, the Demonstrations CFP says 23:59 AoE); AoE from the track page used
-last_verified: 2026-11-14
+- ICDE 2027 notification dates are approximate per the site
+- ICDE 2027 demo and DEFT deadline times conflict (Important Dates says 5 pm Pacific, the Demonstrations and DEFT CFPs say 23:59 AoE); AoE from the track pages used
+last_verified: 2026-11-20

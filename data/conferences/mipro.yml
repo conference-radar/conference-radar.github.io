@@ -38,9 +38,11 @@ editions:
   url: https://mipro.hr/MIPRO2027/ELink.aspx
   deadlines:
   - kind: abstract
-    date: 2026-11-16
+    date: 2026-11-24
+    label: Abstract (extended from 2026-11-16 except for HCI, ICTLAW, OPEL, RTA and SP)
   - kind: submission
-    date: 2026-11-30
+    date: 2026-12-21
+    label: Full paper (extended from 2026-11-30 except for HCI, ICTLAW, OPEL, RTA and SP)
   - kind: notification
     date: 2027-02-01
 sources:
@@ -56,4 +58,4 @@ unverified:
 - MIPRO 2026 deadlines no longer shown on the official site
 - No camera-ready date for 2027 on the official pages yet (only abstract, full paper and acceptance notification dates)
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
-last_verified: 2026-11-14
+last_verified: 2026-11-20

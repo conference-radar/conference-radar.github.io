@@ -20,7 +20,7 @@ typical:
   deadline_months: [12]
   conference_months: [7]
 links:
-  website: https://2026.ieeeicme.org/
+  website: https://2027.ieeeicme.org/
   dblp: https://dblp.org/db/conf/icme/
 notes:
 - Flagship multimedia conference since 2000, jointly sponsored by four IEEE societies (CAS, ComSoc, Computer
@@ -62,8 +62,27 @@ editions:
   start: 2027-07-13
   end: 2027-07-17
   location: Xiamen, China
-  url: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
-  deadlines: []
+  url: https://2027.ieeeicme.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-30
+    label: Regular papers incl. special sessions
+  - kind: other
+    date: 2027-02-26
+    label: Author rebuttal starts
+  - kind: other
+    date: 2027-03-04
+    label: Author rebuttal ends
+  - kind: notification
+    date: 2027-03-24
+  - kind: other
+    date: 2027-04-09
+    label: Workshop paper submission
+  - kind: camera_ready
+    date: 2027-05-10
+  - kind: other
+    date: 2027-05-10
+    label: Regular paper author registration deadline
 sources:
 - https://2026.ieeeicme.org/
 - https://2026.ieeeicme.org/icme-2026-call-for-papers/
@@ -73,12 +92,14 @@ sources:
 - https://2025.ieeeicme.org/
 - https://2024.ieeeicme.org/
 - https://2022.ieeeicme.org/
+- https://2027.ieeeicme.org/
+- https://2027.ieeeicme.org/about/important-dates
+- https://2027.ieeeicme.org/authors/call-for-papers
 - https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
 - https://portal.core.edu.au/conf-ranks/?search=ICME&by=all&source=ICORE2026&sort=atitle&page=1
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
 unverified:
-- ICME 2027 website, call for papers and deadlines not found yet (dates and city taken from the IEEE CAS Society
-  event page)
+- ICME 2027 regular paper deadline time and time zone not stated on the important dates page
 - ICME 2026 acceptance rate not stated on the official site
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly
-last_verified: 2026-10-04
+last_verified: 2026-11-20

@@ -39,8 +39,8 @@ editions:
   url: https://c-mric.org/cyber-science-2027/
   deadlines:
   - kind: submission
-    date: 2026-12-18
-    label: Full papers, posters and extended abstracts
+    date: 2027-02-15
+    label: Full papers, posters and extended abstracts (extended from 2026-12-18)
   - kind: notification
     date: 2027-02-26
   - kind: camera_ready
@@ -56,4 +56,5 @@ sources:
 unverified:
 - Cyber Science 2025 edition is not listed on the official previous conferences page
 - Venue of the 2027 edition in London not yet named
-last_verified: 2026-10-11
+- The important dates page gives the submission deadline as February 15, 2026 (apparently a typo); the 2027 conference and submission pages say 15th February 2027
+last_verified: 2026-11-20

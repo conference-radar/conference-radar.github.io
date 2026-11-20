@@ -39,7 +39,23 @@ editions:
     date: 2026-01-13
   - kind: camera_ready
     date: 2026-02-02
+- year: 2027
+  location: Dublin, Ireland (with The Web Conference 2027)
+  url: https://time.griffith.edu.au/workshop/time2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-04
+    tz: AoE
+  - kind: notification
+    date: 2027-02-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-16
+    tz: AoE
 sources:
+- https://time.griffith.edu.au/workshop/time2027/
+- https://www2027.thewebconf.org/workshops/
+- https://www2027.thewebconf.org/important-dates/
 - https://time.griffith.edu.au/workshop/time2026/
 - https://time.griffith.edu.au/workshop/time2026/submission
 - https://time.griffith.edu.au/workshop/time2026/program
@@ -48,5 +64,5 @@ sources:
 - https://www2026.thewebconf.org/accepted/workshops.html
 - https://portal.core.edu.au/conf-ranks/?search=TIME&by=all&source=ICORE2026
 unverified:
-- No 2027 edition announced yet
-last_verified: 2026-11-14
+- 2027 workshop day not stated (workshop page gives the conference dates May 10 to 14, 2027; The Web Conference says workshops are on May 10 and 11, 2027)
+last_verified: 2026-11-20

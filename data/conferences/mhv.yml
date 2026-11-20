@@ -44,7 +44,7 @@ editions:
     tz: AoE
     label: Talk abstract (firm)
   - kind: notification
-    date: 2026-11-20
+    date: 2026-11-25
     tz: AoE
     label: Abstract acceptance
   - kind: submission
@@ -70,4 +70,4 @@ unverified:
   day on Feb 22)
 - MHV 2026 submission deadlines no longer shown on the official site
 - Acceptance rate and registration fee not published on the official site
-last_verified: 2026-11-14
+last_verified: 2026-11-20
