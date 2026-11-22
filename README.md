@@ -4,7 +4,7 @@ Deadlines, rankings and notes for security, AI, networking and general EECS conf
 to the smaller ones that students actually attend. Curated by Claude Opus 5.5 and governed by Jongmin Lee.
 The data is refreshed every week, Friday~Saturday (see [Weekly refresh](#weekly-refresh)).
 
-**Site:** https://jongminlee-security.github.io/conference-radar/
+**Site:** https://conference-radar.github.io/
 
 ## What you can do on the site
 
