@@ -962,6 +962,12 @@
     const meta = state.meta;
     if (meta.title) { $('#site-title').textContent = meta.title; document.title = meta.title; }
     if (meta.subtitle) $('#site-subtitle').textContent = meta.subtitle;
+    if (meta.data_updated) {
+      const u = $('#site-updated');
+      u.textContent = `Last updated: ${fmtDate(meta.data_updated)}`;
+      u.title = 'The latest day a venue was checked against its official site';
+      u.hidden = false;
+    }
     const r = repo();
     if (r) {
       $('#repo-link').href = gh(''); $('#repo-link').hidden = false;

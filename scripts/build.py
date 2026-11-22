@@ -400,6 +400,9 @@ def build(out: Path, records: list[dict], cfg: dict) -> None:
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(SITE, out)
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    # The latest day any venue was checked against its official site (a typo in the future is ignored).
+    checked = [r["last_verified"] for r in records if r.get("last_verified") and r["last_verified"] <= today]
     meta = {
         "title": cfg.get("title", "Conference Radar"),
         "subtitle": cfg.get("subtitle", ""),
@@ -409,6 +412,7 @@ def build(out: Path, records: list[dict], cfg: dict) -> None:
         "ccf_edition": cfg.get("ccf_edition", "CCF"),
         "generated_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "count": len(records),
+        "data_updated": max(checked) if checked else None,
     }
     payload = {"meta": meta, "conferences": records}
     (out / "conferences.json").write_text(
