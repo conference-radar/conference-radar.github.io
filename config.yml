@@ -2,7 +2,7 @@
 # organization). Inside GitHub Actions the real repository name is used instead.
 title: Conference Radar
 subtitle: Security, AI, networking and general EECS venues with deadlines, rankings and notes. Curated by Claude Opus 5.5, governed by Jongmin Lee. Updated every week, Friday~Saturday.
-repo: strike137/conference-radar
+repo: JongminLee-Security/conference-radar
 branch: main
 
 # Ranking editions shown on the site.
