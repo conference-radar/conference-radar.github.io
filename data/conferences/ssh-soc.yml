@@ -1,0 +1,63 @@
+id: ssh-soc
+name: SSH-SoC
+full_name: Workshop on Safety and Security in Heterogeneous Open System-on-Chip Platforms
+type: workshop
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+frequency: irregular
+organizer: SSH-SoC steering committee (UC San Diego, University of Bologna, ETH Zurich)
+organizer_country: [usa, europe]
+proceedings: Workshop website (papers and slides)
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://ssh-soc-workshop.github.io/2026/
+notes:
+- Half-day workshop on secure, safe and time-predictable integration of heterogeneous SoCs built on open hardware, including AI-assisted verification and security analysis
+- Editions with DAC in San Francisco (2023, 2024) and with ICCAD in San Jose (2026); no 2025 edition
+- Peer-reviewed workshop papers up to 4 pages (IEEE conference format), single-blind review, submission via EasyChair; shorter submissions welcome
+- Program also has invited talks and an open panel discussion
+- In 2024 accepted papers and slides were posted on the workshop website as informal proceedings
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2024
+  start: 2024-06-23
+  end: 2024-06-23
+  location: San Francisco, California, USA (with DAC 2024)
+  url: https://ssh-soc-workshop.github.io/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-05-03
+    tz: AoE
+    label: Extended deadline
+  - kind: notification
+    date: 2024-05-20
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-12
+  location: San Jose, California, USA (with ICCAD 2026)
+  url: https://ssh-soc-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+  - kind: notification
+    date: 2026-10-18
+sources:
+- https://ssh-soc-workshop.github.io/2026/
+- https://ssh-soc-workshop.github.io/2026/submission/
+- https://ssh-soc-workshop.github.io/2026/organizers/
+- https://ssh-soc-workshop.github.io/2026/past-events/
+- https://ssh-soc-workshop.github.io/2024/
+- https://ssh-soc-workshop.github.io/2024/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=SSH-SoC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2026 page does not state whether papers are published; proceedings form assumed from the 2024 edition
+- 2026 deadline time zone not stated
+- Next edition (2027) and host conference not announced

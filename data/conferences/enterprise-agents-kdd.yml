@@ -1,0 +1,50 @@
+id: enterprise-agents-kdd
+name: Enterprise AI Agents
+full_name: "Enterprise AI Agents: From Prototypes to Production (KDD 2026 workshop)"
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: Workshop organizers from NVIDIA, Meta, Amazon, University of Hong Kong and Palo Alto Networks
+organizer_country: [usa]
+proceedings: None (non-archival; accepted papers are posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/kdd-2026-workshop-ai-agents/home
+notes:
+- Half-day workshop on building, deploying and evaluating AI agents in enterprise settings, held with ACM SIGKDD
+- Held at KDD 2026 in Jeju, Korea (August 10, 2026, 8am to 12pm, ICC Jeju Room 402A)
+- Organized mainly by NVIDIA Enterprise AI staff
+- Three tracks; full papers up to 6 pages, demonstrations up to 4 pages, extended abstracts up to 2 pages, ACM template
+- Single-blind review; previously submitted or published work is acceptable
+- All accepted papers are presented as posters; PDFs are posted on the workshop website
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With KDD 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, Korea (with KDD 2026)
+  url: https://sites.google.com/view/kdd-2026-workshop-ai-agents/home
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+  - kind: notification
+    date: 2026-06-12
+sources:
+- https://sites.google.com/view/kdd-2026-workshop-ai-agents/home
+- https://sites.google.com/view/kdd-2026-workshop-ai-agents/call-for-papers
+- https://sites.google.com/view/kdd-2026-workshop-ai-agents/papers
+- https://sites.google.com/view/kdd-2026-workshop-ai-agents/organizers
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Enterprise&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The call does not name any proceedings; non-archival status inferred from papers being posted on the workshop website and previously published work being accepted
+- Camera-ready deadline not stated
+- Edition number not stated; no 2027 edition announced as of 2026-11-27

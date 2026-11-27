@@ -1,0 +1,54 @@
+id: dvcon-india
+name: DVCon India
+full_name: Design and Verification Conference and Exhibition India
+type: industry
+tier: minor
+areas: [systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: DVCon India Steering Committee (Accellera Systems Initiative)
+organizer_country: [india, usa]
+proceedings: DVCon online proceedings archive (dvcon-proceedings.org)
+archival: false
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://dvcon-india.org/
+notes:
+- Indian edition of the Accellera-supported DVCon series on design and verification of chips and systems
+- Steering committee of industry and academic members (Analog Devices, Intel, Google, Qualcomm, Siemens EDA, IIT Palakkad, ...) with Accellera chairs
+- "Topics: architecture exploration and system design (incl. ESL and high-level synthesis), design implementation, design verification and pre-silicon validation, AMS verification, post-silicon validation, AI/ML design"
+- Extended abstract of 600 to 1,200 words first, then a final paper of up to 8 pages; papers and posters selected
+- Past proceedings (2014 to 2023) are linked to the DVCon online proceedings archive run by Accellera
+- 2026 edition held in Bangalore with tutorials, workshops, panels, a design contest and an exhibition
+- Not listed in the CORE ICORE2026 portal or on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-03
+  location: Radisson Blu, Marathahalli, Bangalore, India
+  url: https://dvcon-india.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    label: Initial submission (extended abstract)
+  - kind: camera_ready
+    date: 2026-07-20
+    label: Final paper or poster
+  - kind: other
+    date: 2026-07-30
+    label: Speaker confirmation, final presentation and copyright forms
+sources:
+- https://dvcon-india.org/
+- https://dvcon-india.org/call-for-papers/
+- https://dvcon-india.org/welcome-message/
+- https://dvcon-india.org/steering-committee/
+- https://dvcon-india.org/conference-history/
+- https://portal.core.edu.au/conf-ranks/?search=DVCon&by=all&source=ICORE2026
+unverified:
+- Notification date and deadline times are not stated on the call for papers page
+- Where 2024 to 2026 papers are published is not stated
+- DVCon India 2027 not yet announced
+last_verified: 2026-11-27

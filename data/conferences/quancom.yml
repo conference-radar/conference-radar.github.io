@@ -1,0 +1,63 @@
+id: quancom
+name: QUANCOM
+full_name: International Conference on Quantum Computing Infrastructure & Technologies
+type: conference
+tier: minor
+areas: [systems, networking, security]
+region: europe
+language: english
+organizer: QUANCOM organizing committee, hosted by the University of Trento
+organizer_country: [international]
+proceedings: Springer
+archival: true
+indexing: [DBLP, EI, Scopus]
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://quancom-conference.org/
+notes:
+- Conference on quantum computing infrastructure (hardware, software, networking, error correction, cloud, security and cryptography)
+- The site says accepted papers are published by Springer and indexed in DBLP, EI Compendex, INSPEC, Scopus and others
+- 2026 edition in Trento, Italy, hosted by the University of Trento; hybrid format
+- Full paper track plus workshops and special sessions
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  location: Trento, Italy (hybrid)
+  url: https://quancom-conference.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Full papers (extended from May 25)
+  - kind: notification
+    date: 2026-07-20
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-08-10
+    label: Full papers
+  - kind: submission
+    date: 2026-06-20
+    label: Workshop and special session papers
+  - kind: notification
+    date: 2026-07-20
+    label: Workshop and special session papers
+  - kind: camera_ready
+    date: 2026-07-30
+    label: Workshop and special session papers
+sources:
+- https://quancom-conference.org/
+- https://quancom-conference.org/dates.php
+- https://quancom-conference.org/cfp.php
+- https://quancom-conference.org/committee.php
+- https://portal.core.edu.au/conf-ranks/?search=QUANCOM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Springer series (LNCS, CCIS, LNNS, ...) not named on the site
+- Indexing is as claimed by the organizers before publication
+- Edition number and frequency unknown; no 2027 edition announced

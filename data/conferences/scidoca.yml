@@ -1,0 +1,65 @@
+id: scidoca
+name: SCIDOCA
+full_name: International Workshop on SCIentific DOCument Analysis
+type: workshop
+tier: minor
+areas: [nlp, data]
+region: japan
+language: english
+frequency: annual
+organizer: JAIST workshop chairs (workshop of JSAI-isAI, Japanese Society for Artificial Intelligence)
+organizer_country: [japan]
+proceedings: Springer LNAI (JSAI-isAI proceedings, New Frontiers in Artificial Intelligence)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/view/SCIDOCA/2026/
+notes:
+- Workshop of the JSAI International Symposia on AI (JSAI-isAI), held with the JSAI annual conference in Japan each May or June
+- Held since 2016 (tenth edition in 2026); chaired by Le-Minh Nguyen (JAIST), advised by Yuji Matsumoto (RIKEN AIP)
+- Topics are scientific paper analysis, document and figure/table structure, citation analysis, summarization, retrieval and NLP for scientific documents
+- Springer LNCS format; long papers up to 14 pages, short papers up to 7 pages, including references; anonymized review
+- Also accepts papers already published or presented elsewhere
+- Hybrid; online presentation possible
+- JSAI-isAI is published as Springer LNAI proceedings; papers are selected for the volume
+- Deadline is usually extended by several weeks
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-05-26
+  end: 2025-05-27
+  location: Osaka, Japan
+  url: https://sites.google.com/view/SCIDOCA/2025
+  deadlines:
+  - kind: submission
+    date: 2025-03-02
+    label: Papers (extended from Jan 26 and Feb 16)
+  - kind: notification
+    date: 2025-03-14
+  - kind: camera_ready
+    date: 2025-03-25
+- year: 2026
+  start: 2026-06-08
+  end: 2026-06-09
+  location: Takasaki (G Messe Gunma), Japan
+  url: https://sites.google.com/view/SCIDOCA/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-07
+    label: Papers (extended from Feb 14)
+  - kind: notification
+    date: 2026-03-18
+  - kind: camera_ready
+    date: 2026-03-29
+sources:
+- https://sites.google.com/view/SCIDOCA/2026/
+- https://sites.google.com/view/SCIDOCA/2025
+- https://www.ai-gakkai.or.jp/isai/jsai-isai-2026-2
+- https://portal.core.edu.au/conf-ranks/?search=SCIDOCA&by=all&source=ICORE2026
+unverified:
+- The SCIDOCA pages do not say how accepted papers are published; LNAI is from the JSAI-isAI page, which does not list which workshop papers are included
+- Deadline time and time zone not stated
+- SCIDOCA 2027 not announced yet (JSAI-isAI 2027 is planned for Jun 6 to 8, 2027 in Nagasaki)
+last_verified: 2026-11-27

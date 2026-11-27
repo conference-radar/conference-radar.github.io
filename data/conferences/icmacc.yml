@@ -1,0 +1,54 @@
+id: icmacc
+name: ICMACC
+full_name: International Conference on Recent Trends in Microelectronics, Automation, Computing and Communications Systems
+type: conference
+tier: minor
+areas: [communications, networking, ai, systems]
+region: south-asia
+language: english
+frequency: biennial
+organizer: VNR Vignana Jyothi Institute of Engineering and Technology (technically co-sponsored by IEEE Hyderabad Section)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [5, 6]
+  conference_months: [11]
+links:
+  website: https://icmacc.org/
+notes:
+- Run by VNRVJIET in Hyderabad, technically co-sponsored by the IEEE Hyderabad Section (2026 IEEE conference ID 69869)
+- Accepted and presented papers are submitted to IEEE Xplore; 2022 and 2024 proceedings are in IEEE Xplore
+- 2026 edition held at VNRVJIET, Hyderabad; earlier editions in 2022 and 2024 (proceedings linked from the CFP page)
+- Tracks on VLSI, robotics and IoT, communications and networking, signal processing, computational intelligence, data science, power and energy
+- Double-blind review, up to 5 pages (8 with page charges), submission via Microsoft CMT
+- Not in the CCF 2026 list
+editions:
+- year: 2026
+  label: 3rd ICMACC
+  start: 2026-11-05
+  end: 2026-11-07
+  location: VNRVJIET, Hyderabad, India
+  url: https://icmacc.org/
+  deadlines:
+  - kind: submission
+    date: 2026-06-08
+    label: Extended from 2026-05-25
+  - kind: notification
+    date: 2026-08-30
+  - kind: camera_ready
+    date: 2026-09-25
+    label: Camera-ready and registration
+sources:
+- https://icmacc.org/
+- https://icmacc.org/callforpapers
+- https://events.vtools.ieee.org/m/539288
+- https://portal.core.edu.au/conf-ranks/?search=ICMACC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- ICMACC 2028 not announced
+- Biennial pattern inferred from the 2022, 2024 and 2026 editions
+- Not found on the ICORE2026 portal (searched by acronym and title on 2026-11-27)
+- Host city of the 2022 and 2024 editions not confirmed on an official page
+- Deadline times and time zone not stated

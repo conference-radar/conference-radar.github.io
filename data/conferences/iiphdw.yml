@@ -1,0 +1,52 @@
+id: iiphdw
+name: IIPhDW
+full_name: International Interdisciplinary PhD Workshop
+type: conference
+tier: minor
+areas: [general, communications]
+region: europe
+language: english
+frequency: annual
+organizer: Hochschule Wismar University of Applied Sciences (2027 host); earlier editions hosted by universities in Poland, Czech Republic and Slovakia
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [5]
+links:
+  website: https://www.hs-wismar.de/en/iiphdw/iiphdw-2027/
+notes:
+- Workshop for PhD students across engineering fields (automation, communications and signal processing, electrical engineering, computer science, maritime studies and more)
+- All accepted and presented papers are submitted for inclusion in IEEE Xplore
+- Selected 2027 papers can be extended for an MDPI Sensors special issue (journal submission until 2027-08-31)
+- Rotates among universities in Poland, Germany, Czech Republic and Slovakia (Wismar 2019, Lublin 2022, Wismar 2023, Lublin 2025, Wismar 2027)
+- Described as annual, but no 2024 or 2026 edition is listed on the history page
+- Best Paper and Best Presentation awards, plus scholarships covering the registration fee
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2027
+  start: 2027-05-05
+  end: 2027-05-07
+  location: Wismar, Germany
+  url: https://www.hs-wismar.de/en/iiphdw/iiphdw-2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-23
+    label: Full paper (extended)
+  - kind: notification
+    date: 2027-02-28
+  - kind: camera_ready
+    date: 2027-04-02
+  - kind: other
+    date: 2027-04-09
+    label: Author registration
+sources:
+- https://www.hs-wismar.de/en/iiphdw/iiphdw-2027/
+- https://www.hs-wismar.de/en/iiphdw/
+- https://portal.core.edu.au/conf-ranks/?search=IIPhDW&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Dates and deadlines of the 2025 edition in Lublin could not be found on an official page
+- Original full paper deadline before the extension not stated
+- Fees not stated

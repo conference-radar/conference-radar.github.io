@@ -1,0 +1,52 @@
+id: becs
+name: BECS
+full_name: International Workshop on Big data driven Edge Cloud Services
+type: workshop
+tier: minor
+areas: [data, systems, networking]
+region: europe
+language: english
+frequency: annual
+organizer: BECS organizers (In-Young Ko, KAIST; Michael Mrissa, University of Primorska; Juan Manuel Murillo, University of Extremadura; Abhishek Srivastava, IIT Indore), workshop of ICWE
+organizer_country: [korea, europe, india]
+proceedings: Springer CCIS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://becs.kaist.ac.kr/iwbecs2026/
+notes:
+- Workshop co-located with ICWE (International Conference on Web Engineering), held with it every year since 2021
+- 6th edition on June 9, 2026 in Lyon, France; earlier editions in Biarritz 2021 (virtual), Bari 2022, Alicante 2023, Tampere 2024 and Delft 2025
+- Focus on big data driven services on edge and cloud infrastructures
+- Full papers up to 12 pages and short or demo papers up to 6 pages in Springer LNCS format via EasyChair
+- Accepted papers appear in the ICWE workshop post-proceedings in Springer CCIS
+- Selected papers invited to a special issue of the Journal of Web Engineering
+- 2026 program (shared with the ATLAS workshop) had a keynote, eight paper talks (six BECS, two ATLAS) and two BECS posters
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-09
+  location: Lyon, France (with ICWE 2026)
+  url: https://becs.kaist.ac.kr/iwbecs2026/
+  deadlines:
+  - kind: submission
+    date: 2026-04-11
+    tz: AoE
+    label: Extended from 2026-03-29
+  - kind: notification
+    date: 2026-04-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+sources:
+- https://becs.kaist.ac.kr/iwbecs2026/
+- https://portal.core.edu.au/conf-ranks/?search=BECS&by=all&source=ICORE2026
+unverified:
+- 2027 edition not yet announced
+last_verified: 2026-11-27

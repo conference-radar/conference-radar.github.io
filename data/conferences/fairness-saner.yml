@@ -1,0 +1,68 @@
+id: fairness-saner
+name: FAIRNESS
+full_name: International Workshop on Fairness in Software Systems
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: FAIRNESS workshop chairs (University of Salerno, Polytechnique Montreal, University of Bari), co-located with IEEE SANER
+organizer_country: [europe, canada]
+proceedings: IEEE Xplore (SANER companion proceedings, SANER-C)
+archival: true
+typical:
+  deadline_months: [10, 12]
+  conference_months: [3]
+links:
+  website: https://fairness27.github.io/
+notes:
+  - Workshop on software fairness, bias in ML models and LLMs, fairness in the development lifecycle, fairness debt and agentic systems
+  - Held every year with IEEE SANER since 2025 (Montreal 2025, Limassol 2026, Richmond 2027)
+  - Accepted papers appear in the SANER companion proceedings (SANER-C) in IEEE Xplore; at least one author must register (full, non-student) and present
+  - Full papers 5 to 8 pages, short papers 4 pages, position papers 2 pages, IEEE format, double-anonymous review
+  - 2026 edition had 4 accepted papers plus a panel
+  - Each edition uses its own website (the 2026 site fairnessworkshop.github.io no longer resolves)
+  - Not listed in the CORE portal (ICORE2026)
+editions:
+  - year: 2026
+    label: 2nd FAIRNESS, with SANER 2026
+    start: 2026-03-17
+    end: 2026-03-17
+    location: Limassol, Cyprus (co-located with SANER 2026)
+    url: https://conf.researchr.org/track/saner-2026/saner-2026-workshops-tutorials-track
+  - year: 2027
+    label: 3rd FAIRNESS, with SANER 2027
+    start: 2027-03-09
+    end: 2027-03-09
+    location: Richmond, Virginia, USA (co-located with SANER 2027)
+    url: https://fairness27.github.io/
+    deadlines:
+      - kind: abstract
+        date: 2026-10-19
+        tz: AoE
+        label: Mandatory
+      - kind: submission
+        date: 2026-10-23
+        tz: AoE
+      - kind: notification
+        date: 2026-12-08
+        tz: AoE
+      - kind: camera_ready
+        date: 2027-01-08
+        tz: AoE
+      - kind: other
+        date: 2027-01-08
+        tz: AoE
+        label: Author registration
+sources:
+  - https://fairness27.github.io/
+  - https://conf.researchr.org/track/saner-2027/saner-2027-workshops-tutorials-track
+  - https://conf.researchr.org/track/saner-2026/saner-2026-workshops-tutorials-track
+  - https://conf.researchr.org/track/saner-2025/saner-2025-workshops-track
+  - https://doi.org/10.1109/saner-c67878.2026.00023
+  - https://portal.core.edu.au/conf-ranks/?search=Fairness&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - 2026 paper deadlines not recorded (the 2026 workshop site returned 404)
+  - The 2027 workshop site states no time zone; AoE taken from the SANER 2027 workshop track page, which gives the same dates

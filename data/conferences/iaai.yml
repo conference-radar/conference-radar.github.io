@@ -1,0 +1,80 @@
+id: iaai
+name: IAAI
+full_name: Annual Conference on Innovative Applications of Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Association for the Advancement of Artificial Intelligence (AAAI), held with the AAAI conference
+organizer_country: [usa]
+proceedings: AAAI Digital Library (Proceedings of the AAAI Conference on Artificial Intelligence)
+archival: true
+rank:
+  core: C
+typical:
+  deadline_months: [8, 9]
+  conference_months: [1, 2]
+links:
+  website: https://aaai.org/conference/aaai/aaai-27/iaai-27-call/
+notes:
+- AAAI conference on deployed and emerging applications of AI, co-located with the AAAI conference (IAAI-27 is the 39th)
+- Most years IAAI papers are published in a joint proceedings with AAAI (Proceedings of the AAAI Conference on Artificial Intelligence)
+- 'Tracks: deployed highly innovative applications (8 pages), emerging applications (6 pages), deployment insights (6 page full papers, 2 to 4 page experience reports)'
+- Single-blind review via OpenReview, no rebuttal; some papers are accepted conditionally on revisions
+- Accepted deployed application papers receive the IAAI Deployed Application Award
+- CORE ICORE2026 rank C
+editions:
+- year: 2026
+  start: 2026-01-22
+  end: 2026-01-24
+  location: Singapore (with AAAI-26)
+  url: https://aaai.org/conference/aaai/aaai-26/iaai-26-call/
+  deadlines:
+  - kind: abstract
+    date: 2025-08-11
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2025-08-18
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-10-10
+    tz: AoE
+    label: Extended
+  - kind: camera_ready
+    date: 2025-11-19
+    time: "23:59"
+    tz: AoE
+- year: 2027
+  start: 2027-02-18
+  end: 2027-02-20
+  location: Montreal, Canada (with AAAI-27)
+  url: https://aaai.org/conference/aaai/aaai-27/iaai-27-call/
+  deadlines:
+  - kind: submission
+    date: 2026-09-08
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-11-03
+    tz: AoE
+  - kind: other
+    date: 2026-11-24
+    tz: AoE
+    label: Final decisions on conditionally accepted papers
+  - kind: camera_ready
+    date: 2026-12-14
+    tz: AoE
+sources:
+- https://aaai.org/conference/aaai/aaai-27/iaai-27-call/
+- https://aaai.org/conference/aaai/aaai-27/
+- https://aaai.org/conference/aaai/aaai-26/iaai-26-call/
+- https://aaai.org/aaai-publications/aaai-conference-proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=IAAI&by=all&source=ICORE2026
+unverified:
+- IAAI-27 call does not state the proceedings; AAAI says IAAI papers are in the joint AAAI proceedings in most years
+- Acceptance rate and registration fees not confirmed
+last_verified: 2026-11-27

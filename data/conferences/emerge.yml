@@ -1,0 +1,58 @@
+id: emerge
+name: EMERGE
+full_name: Workshop on Enabling Machine Learning Operations for next-Gen Embedded Wireless Networked Devices
+type: workshop
+tier: minor
+areas: [ai, networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: EMERGE organizers (satellite workshop of EWSN)
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, Scopus]
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://emergeworkshop.github.io/
+notes:
+- Workshop on MLOps, TinyML and federated learning for resource-constrained IoT and embedded wireless devices
+- Satellite workshop of EWSN; held since 2024 (Abu Dhabi 2024, Leuven 2025, Dresden 2026)
+- Organized in 2026 by researchers from Imperial College London, Technical University of Cluj-Napoca and Digital Catapult
+- Papers up to 6 pages including references, letter-size two-column ACM-style format, submitted via HotCRP; author names included (not anonymous)
+- Accepted papers appear in the EWSN proceedings, indexed in the ACM Digital Library and Scopus
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-16
+  location: Dresden, Germany
+  url: https://emergeworkshop.github.io/2026/home.html
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-06
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-07-30
+  - kind: camera_ready
+    date: 2026-08-05
+sources:
+- https://emergeworkshop.github.io/
+- https://emergeworkshop.github.io/2026/cfp.html
+- https://emergeworkshop.github.io/2026/submission.html
+- https://emergeworkshop.github.io/2026/organizers.html
+- https://emergeworkshop.github.io/2025/home.html
+- https://emergeworkshop.github.io/2025/cfp.html
+- https://emerge2024.github.io/
+- https://ewsn26.netd.cs.tu-dresden.de/
+- https://portal.core.edu.au/conf-ranks/?search=EMERGE&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-27
+- Original 2026 submission deadline before the extension not stated on the site
+- Acceptance rate not published
+last_verified: 2026-11-27

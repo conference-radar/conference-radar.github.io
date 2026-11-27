@@ -1,0 +1,55 @@
+id: china3dv
+name: China3DV
+full_name: China 3D Vision Conference
+name_local: 中国三维视觉大会
+type: conference
+tier: domestic
+areas: [vision, ai]
+region: china
+language: chinese
+frequency: annual
+organizer: CSIG (China Society of Image and Graphics) 3D Vision Technical Committee
+organizer_country: [china]
+proceedings: None (poster session shows papers already published at or submitted to other venues)
+archival: false
+rank:
+  core: Unranked
+fee: 2400 CNY CSIG member, 1700 CNY CSIG student member, 3000 CNY non-member (2026, early bird)
+typical:
+  conference_months: [4]
+links:
+  website: https://china3dv.csig.org.cn/
+notes:
+- Hosted by CSIG and run by its 3D Vision Technical Committee; held in April in a different Chinese city
+  (Xiamen 2021, Beijing 2023, Shenzhen 2024, Beijing 2025, Hangzhou 2026, Shanghai 2027)
+- 'Non-archival: the poster session shows work from CVPR, ICCV, NeurIPS, TPAMI and similar venues; TOP paper awards
+  are chosen from the posters'
+- Also has keynotes, a youth forum, a student forum, live demos and an emerging scholar program
+- About 1500 attendees in 2025; talks mostly in Chinese
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-17
+  end: 2026-04-19
+  location: Hangzhou International Expo Center, Hangzhou, China
+  url: https://china3dv.csig.org.cn/2026/
+  deadlines:
+  - kind: other
+    date: 2026-03-31
+    label: Early-bird registration
+- year: 2027
+  start: 2027-04-16
+  end: 2027-04-18
+  location: Kerry Hotel Pudong, Shanghai, China
+  url: https://china3dv.csig.org.cn/
+  deadlines: []
+sources:
+- https://china3dv.csig.org.cn/
+- https://china3dv.csig.org.cn/2026/
+- https://china3dv.csig.org.cn/2026/ShowPoster.html
+- https://china3dv.csig.org.cn/2026/organization.html
+- https://portal.core.edu.au/conf-ranks/?search=China3DV&by=all&source=ICORE2026
+unverified:
+- Poster and live demo call deadlines (published only on WeChat, which could not be read)
+- China3DV 2027 calls and fees not yet announced
+last_verified: 2026-11-27

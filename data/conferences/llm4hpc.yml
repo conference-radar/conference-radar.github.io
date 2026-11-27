@@ -1,0 +1,58 @@
+id: llm4hpc
+name: LLM4HPC
+full_name: International Workshop on Foundational Large Language Models Advances for HPC
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Oak Ridge National Laboratory (chairs from US national labs and Carnegie Mellon University), held with ISC High Performance
+organizer_country: [usa]
+proceedings: Springer LNCS (ISC High Performance workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://ornl.github.io/events/llm4hpc2026/
+notes:
+- Half-day workshop on large language models for HPC (programming environments, runtimes, scientific applications, hardware design, benchmarking), held with ISC High Performance in Hamburg
+- First edition in 2025, second in 2026; chaired by Pedro Valero-Lara (ORNL)
+- Full papers of 6 to 12 pages in Springer LNCS format including references, plus up to two extra pages after review
+- Accepted papers appear in the ISC High Performance workshop proceedings published by Springer
+- Submissions through the ISC Linklings system (EasyChair in 2025); a Best Paper Award is given
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-13
+  end: 2025-06-13
+  location: Hamburg, Germany (with ISC 2025)
+  url: https://ornl.github.io/events/llm4hpc2025/
+  deadlines:
+  - kind: submission
+    date: 2025-03-14
+  - kind: notification
+    date: 2025-03-31
+  - kind: camera_ready
+    date: 2025-05-16
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-26
+  location: Hamburg, Germany (with ISC 2026)
+  url: https://ornl.github.io/events/llm4hpc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-13
+  - kind: notification
+    date: 2026-03-27
+  - kind: camera_ready
+    date: 2026-05-15
+sources:
+- https://ornl.github.io/events/llm4hpc2026/
+- https://ornl.github.io/events/llm4hpc2025/
+- https://portal.core.edu.au/conf-ranks/?search=LLM4HPC&by=all&source=ICORE2026
+unverified:
+- A 2027 edition with ISC 2027 (Hamburg, June 2027) is not yet announced
+- The 2026 page still names the "ISC-HPC Workshops 2025 proceedings"; the 2026 volume is not confirmed
+last_verified: 2026-11-27

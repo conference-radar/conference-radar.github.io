@@ -1,0 +1,60 @@
+id: isense
+name: ISENSE
+full_name: International Conference on Smart Electronics and Communication Systems
+type: conference
+tier: minor
+areas: [communications, security, systems]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Department of ECE, Indian Institute of Information Technology Kottayam (with IEEE Kerala Section)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: Authors 8,000 to 11,000 INR (India) or 250 to 350 USD (outside India), students less (2026)
+typical:
+  deadline_months: [6]
+  conference_months: [12]
+links:
+  website: https://isense26.iiitkottayam.ac.in/
+notes:
+- Electronics engineering conference run by the ECE department of IIIT Kottayam in association with the IEEE Kerala Section
+- Held on the IIIT Kottayam campus in Valavoor, Pala, Kerala; 2026 is the second edition
+- Accepted papers that pass the IEEE quality check are published in IEEE Xplore; posters appear only in the conference proceedings
+- Tracks on VLSI and embedded systems, communication systems, IoT and sensor networks, security and privacy, RF and microwave, and signal processing
+- Single-blind review, up to 6 pages in IEEE two-column format, submission via Microsoft CMT
+- Separate call for posters open to students and researchers, with cash prizes per track
+- Not in the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd ISENSE
+  start: 2026-12-11
+  end: 2026-12-12
+  location: IIIT Kottayam, Kerala, India
+  url: https://isense26.iiitkottayam.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2026-06-30
+    label: Firm deadline (extended from 2026-05-31, then 2026-06-15)
+  - kind: notification
+    date: 2026-08-10
+    label: Moved from 2026-07-31
+  - kind: other
+    date: 2026-08-31
+    label: Revised paper submission
+  - kind: camera_ready
+    date: 2026-10-15
+  - kind: other
+    date: 2026-11-15
+    label: Late registration (firm)
+  - kind: other
+    date: 2026-11-25
+    label: Poster submission
+sources:
+- https://isense26.iiitkottayam.ac.in/
+- https://portal.core.edu.au/conf-ranks/?search=ISENSE&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- First edition (year and dates) not stated on the official site
+- Not found on the ICORE2026 portal (searched by acronym and title on 2026-11-27)
+- Deadline times and time zone not stated

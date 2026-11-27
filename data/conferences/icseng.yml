@@ -1,0 +1,56 @@
+id: icseng
+name: ICSEng
+full_name: International Conference on Systems Engineering
+type: conference
+tier: minor
+areas: [general, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Nevada, Las Vegas, Military University of Technology (Warsaw) and Toyo University, on a rotating basis
+organizer_country: [usa, europe, japan]
+proceedings: Springer LNNS (Advances in Systems Engineering)
+archival: true
+indexing: [Web of Science, DBLP, Scopus]
+rank:
+  core: C
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://icseng.com/
+notes:
+- Broad applied systems engineering conference (AI, IoT, networks, cybersecurity, embedded systems, control, robotics, energy, biomedical)
+- Jointly organized on a rotating basis by UNLV (USA), Military University of Technology (Poland) and Toyo University (Japan)
+- Recent hosts Wroclaw 2021, Tokyo 2022, Las Vegas 2023, Warsaw 2024 and 2025, Las Vegas 2026
+- Proceedings in Springer Lecture Notes in Networks and Systems as Advances in Systems Engineering
+- Selected papers invited to the International Journal of Electronics and Telecommunications
+- "Fee: 460 USD for the first paper, 360 USD per additional paper (2026)"
+- CORE C (ICORE2026); not on the CCF list
+- The 2026 site calls it the 52nd edition, while the previous conferences page numbers 2025 as the 32nd ICSEng
+editions:
+- year: 2026
+  start: 2026-08-20
+  end: 2026-08-21
+  location: University of Nevada, Las Vegas, USA
+  url: https://icseng.com/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+  - kind: submission
+    date: 2026-05-12
+    label: Second date listed
+  - kind: notification
+    date: 2026-06-04
+  - kind: camera_ready
+    date: 2026-07-05
+sources:
+- https://icseng.com/
+- https://icseng.com/important-dates/
+- https://icseng.com/previous-conferences/
+- https://icseng.com/conference-topics/
+- https://portal.core.edu.au/conf-ranks/?search=ICSEng&by=all&source=ICORE2026
+unverified:
+- The important dates page lists two paper deadlines (April 24 and May 12, 2026) without saying the second is an extension
+- ICSEng 2027 dates and host not announced yet
+last_verified: 2026-11-27

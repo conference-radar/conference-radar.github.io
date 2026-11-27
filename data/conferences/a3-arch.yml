@@ -1,0 +1,53 @@
+id: a3-arch
+name: A3
+full_name: International Workshop on Agentic Approaches to Computer Architecture
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Organizers from Google, Google DeepMind, NVIDIA, UC Berkeley and Carnegie Mellon University
+organizer_country: [usa]
+proceedings: None stated (presenting does not preclude later conference publication)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://agentic-arch.org/
+notes:
+- Workshop on AI agents and LLM based approaches for computer architecture research and design
+- First edition held 2026-11-01 with MICRO 2026 in Athens; organizers say they plan to return next year
+- Short papers, position pieces and blue-sky ideas, 2 to 4 pages double column, via HotCRP
+- Presenting at A3 does not preclude future conference publication; no proceedings mentioned
+- Ran the CHIA Hackathon alongside the workshop, with cash prizes and travel funding for top teams
+- Sponsored by Google, NVIDIA and IEEE Computer Society TCMM
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-01
+  location: Athens, Greece (with MICRO 2026)
+  url: https://agentic-arch.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-14
+    tz: AoE
+  - kind: submission
+    date: 2026-09-21
+    tz: AoE
+  - kind: notification
+    date: 2026-09-26
+    tz: AoE
+sources:
+- https://agentic-arch.org/
+- https://agentic-arch.org/call-for-papers.html
+- https://agentic-arch.org/program.html
+- https://microarch.org/micro59/program/workshops-new.php
+- https://portal.core.edu.au/conf-ranks/?search=A3&by=all&source=ICORE2026
+unverified:
+- The site does not state explicitly whether papers are archival; non-archival inferred from the statement that presenting does not preclude future publication
+- The call for papers gives deadlines without a year; 2026 assumed from the MICRO 2026 co-location
+- Next edition not announced (checked 2026-11-27)
+last_verified: 2026-11-27

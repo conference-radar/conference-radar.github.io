@@ -1,0 +1,49 @@
+id: loyal-agents-aaai
+name: Loyal Agents
+full_name: "Who Does Your AI Agent Work For? A Workshop on Loyal Agents (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai, security]
+region: north-america
+language: english
+frequency: irregular
+organizer: Loyal Agents workshop organizers (Stanford Digital Economy Lab, Stanford CodeX, Harvard Kennedy School, MIT Media Lab); co-located with AAAI
+organizer_country: [usa]
+proceedings: CEUR-WS (opt-in for original work; otherwise non-archival, papers posted on the workshop website)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://loyalagents.github.io/aaai27/
+notes:
+  - AAAI workshop on AI agents that stay faithful to the people they represent (permissions, delegation, conflicts of interest, evaluation, law and governance)
+  - 1st edition at AAAI-27 in Montreal, one day in person on February 22 or 23, 2027 (day assigned by AAAI)
+  - Research, position, and law and policy papers up to 8 pages plus references in the AAAI-27 author kit; shorter papers welcome
+  - Single-blind review on OpenReview with at least two reviews per paper
+  - Accepted papers are non-archival by default; authors of original work may opt into a CEUR-WS volume
+  - Work under review elsewhere and previously published work (with the prior venue disclosed) are accepted
+  - At least one author must register for AAAI-27 and present in person
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    location: Montreal, Canada (with AAAI-27)
+    url: https://loyalagents.github.io/aaai27/
+    deadlines:
+      - kind: submission
+        date: 2026-11-27
+        tz: AoE
+        label: Papers (extended from Nov 20)
+      - kind: notification
+        date: 2026-12-09
+        tz: AoE
+      - kind: camera_ready
+        date: 2027-01-15
+        tz: AoE
+sources:
+  - https://loyalagents.github.io/aaai27/
+  - https://portal.core.edu.au/conf-ranks/?search=Loyal&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day not fixed yet (February 22 or 23, 2027, assigned by AAAI), so no start date is recorded

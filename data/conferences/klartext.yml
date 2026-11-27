@@ -1,0 +1,78 @@
+id: klartext
+name: KlarText
+full_name: KlarText Workshop on German Text Simplification & Readability Assessment
+type: workshop
+tier: minor
+areas: [nlp]
+region: europe
+frequency: annual
+organizer: Workshop organizers from Heidelberg University, ETH Zurich (SDSC), HAW Hamburg and Bielefeld University (co-located workshop of KONVENS)
+organizer_country: [europe]
+proceedings: ACL Anthology
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://klar-text.github.io/
+notes:
+- Workshop of KONVENS (Conference on Natural Language Processing, German-speaking NLP community); held since 2025
+- Topics are German text simplification, readability assessment, Leichte Sprache (Easy Language) and plain language, evaluation and applications
+- Long papers 8 pages, short papers 4 pages, ACL style, double-blind review via OpenReview
+- Accepted papers are archival and published in the ACL Anthology
+- Also takes papers already reviewed in ARR or by KONVENS through a separate later deadline
+- In person only; half-day workshop with keynote and poster session
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-09-09
+  end: 2025-09-09
+  location: Hildesheim, Germany
+  url: https://klar-text.github.io/2025/
+  deadlines:
+  - kind: submission
+    date: 2025-07-04
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from Jun 30)
+  - kind: notification
+    date: 2025-08-04
+  - kind: camera_ready
+    date: 2025-08-18
+- year: 2026
+  start: 2026-09-14
+  end: 2026-09-14
+  location: Hamburg, Germany
+  url: https://klar-text.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: submission
+    date: 2026-07-26
+    time: "23:59"
+    tz: AoE
+    label: Pre-reviewed papers (ARR or KONVENS)
+  - kind: notification
+    date: 2026-08-04
+  - kind: camera_ready
+    date: 2026-08-23
+    label: Extended from Aug 15
+sources:
+- https://klar-text.github.io/
+- https://klar-text.github.io/call
+- https://klar-text.github.io/organizers
+- https://klar-text.github.io/program
+- https://klar-text.github.io/venue
+- https://konvens2026.uni-hamburg.de/index.php/venue/
+- https://klar-text.github.io/2025/
+- https://klar-text.github.io/2025/call
+- https://klar-text.github.io/2025/venue
+- https://portal.core.edu.au/conf-ranks/?search=KlarText&by=all&source=ICORE2026
+unverified:
+- 2026 notification date conflicts on the official site (Aug 4 on the call page, Aug 5 on the home page)
+- 2026 city is from the KONVENS 2026 venue page (Universitaet Hamburg) that the workshop venue page links to
+- KlarText 2027 not announced yet
+last_verified: 2026-11-27

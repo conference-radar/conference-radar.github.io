@@ -1,0 +1,57 @@
+id: iciet-kl
+name: ICIET
+full_name: International Conference on Innovations in Engineering and Technology (Ilahia College of Engineering and Technology)
+type: conference
+tier: minor
+areas: [general, ai, communications]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Ilahia College of Engineering and Technology, with the IEEE Kerala Section
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: About 7,000 to 10,000 INR for Indian authors, 300 to 450 USD for foreign authors (2026)
+typical:
+  deadline_months: [4]
+  conference_months: [7, 8]
+links:
+  website: https://ieee.icet.ac.in/
+notes:
+- Organized by Ilahia College of Engineering and Technology (ICET), Muvattupuzha, Kerala, India
+- Technically co-sponsored by the IEEE Kerala Section
+- Accepted and presented papers submitted to IEEE Xplore; the 2023 edition is in Xplore (DOI 10.1109/ICIET57285.2023)
+- Held in person at the college
+- Double-blind review by at least two reviewers via Microsoft CMT
+- Broad engineering scope (AI and data science, IoT, robotics, VLSI, 5G/6G and signal processing, power electronics, cyber security)
+- Editions in 2023 (1st) and 2026 (2nd)
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2023
+  label: 1st ICIET
+  start: 2023-07-13
+  end: 2023-07-14
+- year: 2026
+  label: 2nd ICIET
+  start: 2026-08-20
+  end: 2026-08-21
+  location: Muvattupuzha, India
+  url: https://ieee.icet.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Full paper submission
+  - kind: camera_ready
+    date: 2026-06-30
+  - kind: other
+    date: 2026-06-15
+    label: Registration
+sources:
+- https://ieee.icet.ac.in/
+- https://ieee.icet.ac.in/callforpapers.html
+- https://ieee.icet.ac.in/publication.html
+- https://portal.core.edu.au/conf-ranks/?search=ICIET&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Next edition not announced
+- Location of the 2023 edition not stated on the official site

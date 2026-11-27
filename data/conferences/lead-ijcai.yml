@@ -1,0 +1,49 @@
+id: lead-ijcai
+name: IJCAI-LEAD
+full_name: International Workshop on Learning-assisted Algorithm Design
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: LEAD workshop co-chairs (South China University of Technology, Jozef Stefan Institute, Singapore Management University, Hong Kong Polytechnic University and others)
+organizer_country: [china, europe, singapore]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/lead-ijcai-ecai2026
+notes:
+- Workshop on learning to optimize, neural combinatorial optimization, meta-black-box optimization and LLM-based algorithm design
+- First held at IJCAI-ECAI 2026 in Bremen (WS12), hybrid format
+- Papers are not published in the IJCAI-ECAI proceedings; preprints and dual submissions are welcome
+- Papers 6 to 9 pages (4 to 7 pages body plus 2 pages references), single-blind review via EasyChair
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with IJCAI-ECAI 2026
+  start: 2026-08-15
+  end: 2026-08-15
+  location: Bremen, Germany (hybrid)
+  url: https://sites.google.com/view/lead-ijcai-ecai2026
+  deadlines:
+  - kind: submission
+    date: 2026-06-05
+    label: Extended from May 30
+  - kind: notification
+    date: 2026-06-10
+sources:
+- https://sites.google.com/view/lead-ijcai-ecai2026/home
+- https://sites.google.com/view/lead-ijcai-ecai2026/call-for-contributions
+- https://sites.google.com/view/lead-ijcai-ecai2026/organization
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=LEAD&by=all&source=ICORE2026
+unverified:
+- The call does not name any workshop proceedings; non-archival status inferred from papers not entering the IJCAI-ECAI proceedings and dual submissions being welcome
+- Workshop site gives 15 to 17 August 2026; the IJCAI-ECAI workshop list gives one day on 15 August
+- Camera-ready deadline not stated
+- IJCAI-LEAD 2027 not announced yet
+last_verified: 2026-11-27

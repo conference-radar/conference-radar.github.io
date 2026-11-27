@@ -1,0 +1,57 @@
+id: cccsagsin
+name: CCCSAGSIN
+full_name: Workshop on Cooperative Communications and Computations in Space-Air-Ground-Sea Integrated Networks
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs (Northwestern Polytechnical University, Idaho State University, Western University, Central South University) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://sites.google.com/view/cccsagsin2026/
+notes:
+- Workshop co-located with IEEE ICC; 1st edition at ICC 2024, 2nd at ICC 2025 (Montreal, WS28), 3rd at ICC 2026 (Glasgow, WS06)
+- Topics are SAGSIN architecture, mobility management, THz and FSO links, computing-aware routing, SDN and slicing, edge computing and caching, and LLM-driven optimization
+- Chaired by Bomin Mao, Mostafa Fouda, Zubair Fadlullah and Fengxiao Tang
+- Papers up to 6 pages in IEEE two-column format (a 7th page costs 100 USD); submissions via EDAS
+- Accepted and presented papers go into the IEEE ICC workshop proceedings in IEEE Xplore; in-person presentation required (no-show papers removed)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: 3rd edition, WS06 at IEEE ICC 2026
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://icc2026.ieee-icc.org/workshop/ws06-workshop-cooperative-communications-and-computations-space-air-ground-sea-integrated.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-18
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws06-workshop-cooperative-communications-and-computations-space-air-ground-sea-integrated.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://sites.google.com/view/cccsagsin2026/
+- https://sites.google.com/view/cccsagsin2026/program
+- https://sites.google.com/view/cccsagsin2026/previous-version
+- https://sites.google.com/view/cccsagsin2025/
+- https://sites.google.com/view/cooperative-comm-comp-sagsin/
+- https://icc2025.ieee-icc.org/program/workshops
+- https://icc2024.ieee-icc.org/program/workshops
+- https://icc2027.ieee-icc.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=Space-Air-Ground&by=all&source=ICORE2026
+unverified:
+- Whether a 2027 edition will run (the ICC 2027 call for workshop papers said "coming soon" on 2026-11-27)
+- 2026 camera-ready date is 22 March on the ICC page but 15 March on the workshop site
+- Deadline time zone not stated
+last_verified: 2026-11-27

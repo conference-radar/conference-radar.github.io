@@ -1,0 +1,50 @@
+id: discoli
+name: DISCOLI
+full_name: DISCOLI Workshop on DIStributed COLlective Intelligence
+type: workshop
+tier: minor
+areas: [ai, systems, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from the University of Bologna, Universitat Politecnica de Valencia, ISTC-CNR and the
+  University of Calabria
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, Scopus]
+rank:
+  core: Unranked
+typical:
+  conference_months: [6]
+links:
+  website: https://discoli-workshop.github.io/2027/
+notes:
+- Co-located with DCOSS-IoT since 2023; 1st edition at IEEE ICDCS 2022 in Bologna
+- Accepted and presented papers go to IEEE Xplore with the DCOSS-IoT proceedings
+- Single-blind, at least 3 reviews; workshop papers 6 pages including references, work-in-progress papers 4 pages
+- Chairs from Italy (Bologna, ISTC-CNR, Calabria) and Spain (Valencia)
+- Locations follow DCOSS-IoT (2023 Pafos, 2024 Abu Dhabi, 2025 Lucca, 2026 Reykjavik, 2027 Montreal)
+- Deadlines stated in AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: Reykjavik, Iceland
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://discoli-workshop.github.io/2027/
+sources:
+- https://discoli-workshop.github.io/2027/
+- https://discoli-workshop.github.io/history/
+- https://dcoss.org/dcoss2026/
+- https://www.dcoss.org/
+- https://portal.core.edu.au/conf-ranks/?search=DISCOLI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 deadlines and workshop day still TBD on the official site
+- 2026 deadlines not available (the 2026 workshop page returns 404)
+- Exact workshop day within the DCOSS-IoT dates not stated

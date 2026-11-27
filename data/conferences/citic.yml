@@ -1,0 +1,81 @@
+id: citic
+name: CITIC
+full_name: International Conference on Computer, Information Technology and Intelligent Computing
+type: conference
+tier: minor
+areas: [general, ai, security]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: Multimedia University (MMU) Faculty of Computing and Informatics and Faculty of Information Science and
+  Technology, as part of the Digital Futures International Congress (DIFCON)
+organizer_country: [malaysia]
+proceedings: AIP Conference Proceedings (2024 to 2026)
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [2, 3]
+  conference_months: [5, 6, 7]
+links:
+  website: https://difcon.mmu.edu.my/citic.html
+notes:
+- Computing conference of Multimedia University, Malaysia; 7th edition in 2027
+- One of six co-located conferences of DIFCON, MMU's yearly academic congress (with MECON, ICTIM, ICCM, CLESS and ICLD)
+- Held at MMU Cyberjaya in hybrid mode (2024 was virtual)
+- Tracks cover AI and machine learning, software engineering, information systems, image processing, IoT and big data, and security and privacy
+- Papers of 2025 and 2026 published in a special volume of AIP Conference Proceedings (max 6 pages); 2024 papers went to indexed journals or AIP proceedings
+- For 2027 the site only says papers will appear as proceedings, book chapters or journal papers submitted for Scopus and WoS indexing; no publisher named yet
+- Selected papers can be extended for partner journals (JOIV, IJASEIT and MMU Press journals)
+- Not ranked by CORE (ICORE2026); not in the CCF list
+editions:
+- year: 2026
+  start: 2026-05-05
+  end: 2026-05-07
+  location: Multimedia University, Cyberjaya, Malaysia (DIFCON 2026, hybrid)
+  url: https://difcon.mmu.edu.my/2026/citic.html
+  deadlines:
+  - kind: abstract
+    date: 2026-01-13
+    label: Abstract submission (extended from 2025-12-24)
+  - kind: submission
+    date: 2026-02-28
+    label: Full paper (extended from 2026-02-04)
+  - kind: notification
+    date: 2026-03-15
+  - kind: camera_ready
+    date: 2026-04-01
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Multimedia University, Cyberjaya, Malaysia (DIFCON 2027)
+  url: https://difcon.mmu.edu.my/citic.html
+  deadlines:
+  - kind: other
+    date: 2027-01-01
+    label: Call for papers opens
+  - kind: submission
+    date: 2027-03-15
+    label: Full paper
+  - kind: notification
+    date: 2027-04-30
+  - kind: other
+    date: 2027-05-15
+    label: Early bird registration
+  - kind: camera_ready
+    date: 2027-06-07
+  - kind: other
+    date: 2027-06-07
+    label: Registration deadline
+sources:
+- https://difcon.mmu.edu.my/
+- https://difcon.mmu.edu.my/citic.html
+- https://difcon.mmu.edu.my/publication.html
+- https://difcon.mmu.edu.my/2026/citic.html
+- https://difcon.mmu.edu.my/2026/publication.html
+- https://difcon.mmu.edu.my/2025/citic.html
+- https://difcon.mmu.edu.my/2024/citic.html
+- https://portal.core.edu.au/conf-ranks/?search=CITIC&by=all&source=ICORE2026
+unverified:
+- Publisher of the 2027 proceedings not stated on the official site (only "submitted for indexing consideration by Scopus and WoS")
+- Not checked whether the 2026 AIP volume has appeared
+last_verified: 2026-11-27

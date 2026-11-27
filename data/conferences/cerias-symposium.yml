@@ -1,0 +1,49 @@
+id: cerias-symposium
+name: CERIAS Symposium
+full_name: Annual CERIAS Cybersecurity Symposium
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: CERIAS (Center for Education and Research in Information Assurance and Security), Purdue University
+organizer_country: [usa]
+proceedings: None (participants only)
+archival: false
+rank:
+  core: 'National: USA'
+typical:
+  conference_months: [4]
+links:
+  website: https://www.cerias.purdue.edu/site/symposium/
+notes:
+- Annual two-day cybersecurity symposium run by CERIAS at Purdue University, held since 2000
+- Held at the Purdue Memorial Union (PMU), West Lafayette, Indiana; 2020 and 2021 were virtual
+- Programme of panels, technical talks, a fireside chat and a student poster session; no call for papers and no published proceedings
+- Posters received by the deadline are included in the materials handed to attendees; many talks are posted on YouTube
+- CERIAS prints posters for Purdue students who send them by the poster deadline
+- "Listed in CORE ICORE2026 as Information Security Symposium (CERIAS), rank National: USA"
+editions:
+- year: 2025
+  label: 26th edition
+  start: 2025-04-01
+  end: 2025-04-02
+  location: Purdue Memorial Union, West Lafayette, IN, USA
+  url: https://www.cerias.purdue.edu/site/symposium2025/
+- year: 2026
+  label: 27th edition
+  start: 2026-04-07
+  end: 2026-04-08
+  location: PMU North and South Ballrooms, Purdue University, West Lafayette, IN, USA
+  url: https://www.cerias.purdue.edu/site/symposium/
+sources:
+- https://www.cerias.purdue.edu/site/symposium/
+- https://www.cerias.purdue.edu/site/symposium2026/presenters/
+- https://www.cerias.purdue.edu/site/symposium2025/
+- https://portal.core.edu.au/conf-ranks/?search=CERIAS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- "2026 poster deadline given as Friday, March 17th, 2026 5pm, but March 17, 2026 is a Tuesday, so the date is not recorded"
+- Whether non-Purdue presenters can submit posters is not stated
+- 2027 edition not announced as of 2026-11-27

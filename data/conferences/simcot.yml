@@ -1,0 +1,49 @@
+id: simcot
+name: SimCoT
+full_name: Special Session on Simulation of Distributed Systems across the Cloud-to-Thing Continuum (PDP 2027)
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: europe
+language: english
+organizer: SimCoT chairs (Attila Kertesz, University of Szeged; Amjad Ullah, Edinburgh Napier University), special session of Euromicro PDP
+organizer_country: [europe]
+proceedings: IEEE CPS (PDP 2027 proceedings)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://iotcloud.sed.inf.szte.hu/simcot/
+notes:
+- First edition, a special session of Euromicro PDP 2027 (Barcelona, Spain)
+- Covers modeling and simulation of IoT, edge, fog and cloud systems, digital twins, simulator validation and benchmarking, orchestration and resource management
+- Chaired by Attila Kertesz (University of Szeged, Hungary) and Amjad Ullah (Edinburgh Napier University, UK); linked to the Horizon Europe project Swarmchestrate
+- Papers up to 8 pages in IEEE conference format, double-blind, submitted through the PDP 2027 EasyChair system
+- Accepted papers published in the PDP proceedings by IEEE CPS, submitted for Scopus indexing
+- At least one author must register and present at PDP
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list (PDP itself is CORE C)
+editions:
+- year: 2027
+  start: 2027-03-17
+  end: 2027-03-19
+  location: Barcelona, Spain (with PDP 2027)
+  url: https://iotcloud.sed.inf.szte.hu/simcot/
+  deadlines:
+  - kind: submission
+    date: 2026-11-16
+    label: Extended
+  - kind: notification
+    date: 2026-12-14
+  - kind: camera_ready
+    date: 2027-01-25
+sources:
+- https://iotcloud.sed.inf.szte.hu/simcot/
+- https://portal.core.edu.au/conf-ranks/?search=SimCoT&by=all&source=ICORE2026
+unverified:
+- Exact session day within PDP 2027 (dates shown are the whole conference)
+- Original (pre-extension) submission deadline not stated on the session page
+- Whether the session will recur after 2027
+last_verified: 2026-11-27

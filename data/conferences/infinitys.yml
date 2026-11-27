@@ -1,0 +1,58 @@
+id: infinitys
+name: INFINITYS
+full_name: IEEE International Conference on Instrumentation, Networks, Future Sustainability, Information Theory, Transportation, and Systems
+type: conference
+tier: minor
+areas: [communications, networking, ai, general]
+region: southeast-asia
+language: english
+organizer: IEEE Indonesia IMS/ITS Joint Chapter
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+archival: true
+fee: 350 USD IEEE member, 400 USD non-member, 250 to 300 USD students (2027, overseas); 2 to 3 million IDR Indonesian
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://infinitys-ic.org/
+notes:
+- Organizing committee lists the IEEE Indonesia IMS/ITS Joint Chapter; general and program chairs from Institut Teknologi Bandung
+- Accepted and presented papers are submitted to IEEE Xplore; INFINITYS 2026 proceedings are on IEEE Xplore
+- Full papers up to 6 pages in IEEE format, submitted as DOC/DOCX through EDAS; double-blind review
+- IEEE no-show policy applies; one registration covers one paper
+- 2027 edition in Solo (Surakarta), Central Java, Indonesia
+- The site header uses "Future Mobility" in the title while the call for papers uses "Future Sustainability"
+- Not in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2027
+  start: 2027-06-23
+  end: 2027-06-25
+  location: Solo (Surakarta), Central Java, Indonesia
+  url: https://infinitys-ic.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-03-30
+  - kind: notification
+    date: 2027-04-30
+  - kind: other
+    date: 2027-04-20
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-05-30
+sources:
+- https://infinitys-ic.org/
+- https://infinitys-ic.org/call-for-papers/
+- https://infinitys-ic.org/papers-submission-2/
+- https://infinitys-ic.org/registration/
+- https://infinitys-ic.org/organizing-committee/
+- https://infinitys-ic.org/about-solo/
+- https://infinitys-ic.org/best-paper-awards/
+- https://ieeexplore.ieee.org/xpl/conhome/11665558/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=INFINITYS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Dates and location of INFINITYS 2026 are not stated on the current site, so the past edition is not recorded
+- Edition history before 2026 not confirmed
+- No deadline time or time zone stated

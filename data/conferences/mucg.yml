@@ -1,0 +1,61 @@
+id: mucg
+name: MUCG
+full_name: Workshop on Multimodal Large Language Models for Unified Comprehension and Generation
+type: workshop
+tier: minor
+areas: [vision, ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (University of Oxford, National University of Singapore, NVIDIA Research, Stanford, Meta, KAUST and others)
+organizer_country: [international]
+proceedings: ECCV 2026 Workshops proceedings (archival track only)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://mllm-mucg.github.io/ECCV2026/
+notes:
+  - Workshop on multimodal LLMs that unify understanding and generation (image, video, audio, 3D)
+  - 2nd edition held with ECCV 2026 in Malmo, hybrid format
+  - Two tracks; archival papers up to 14 pages in Springer LNCS / ECCV format, double-blind via OpenReview
+  - Non-archival track (at least 4 pages) accepts already published work and unpublished work
+  - 32 accepted papers in 2026, all presented as posters; best paper awards
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 2nd edition, with ECCV 2026
+    start: 2026-09-08
+    end: 2026-09-08
+    location: Malmo, Sweden (with ECCV 2026, Malmomassan A)
+    url: https://mllm-mucg.github.io/ECCV2026/
+    deadlines:
+      - kind: submission
+        date: 2026-07-05
+        tz: AoE
+        label: Archival track (extended from Jul 1)
+      - kind: notification
+        date: 2026-07-22
+        tz: AoE
+        label: Archival track
+      - kind: submission
+        date: 2026-07-25
+        tz: AoE
+        label: Non-archival track
+      - kind: notification
+        date: 2026-08-07
+        tz: AoE
+        label: Non-archival track
+      - kind: camera_ready
+        date: 2026-08-15
+        tz: AoE
+sources:
+  - https://mllm-mucg.github.io/ECCV2026/
+  - https://portal.core.edu.au/conf-ranks/?search=MUCG&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - First edition (venue and year) is not named on the 2026 site
+  - The proceedings series for the archival track (presumably Springer LNCS ECCV Workshops) is not named explicitly
+  - Camera-ready is listed as Aug 15 (page metadata suggests a window from Aug 8)
+  - Next edition not announced yet

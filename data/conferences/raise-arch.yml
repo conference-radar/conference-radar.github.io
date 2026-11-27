@@ -1,0 +1,45 @@
+id: raise-arch
+name: RAISE-Arch
+full_name: "RAISE-Arch: Refactoring Heterogeneous Systems Architectures for Scalable and Efficient AI Infrastructure"
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+organizer: Organizers from TU Darmstadt, University of Edinburgh, Hebrew University of Jerusalem and Huawei
+organizer_country: [europe, china, other]
+proceedings: None (slides may be posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [10]
+links:
+  website: https://raise-arch-workshop.github.io/
+notes:
+- Industry and academic workshop on heterogeneous architectures for AI infrastructure (HBM, CXL, chiplets, computational storage, PIM, accelerators)
+- First edition held 2026-10-31 with MICRO 2026 in Athens
+- Extended abstracts of up to 2 pages excluding references, double column, not anonymized, via EasyChair
+- CFP states no formal proceedings; submissions are non-archival
+- Program of invited talks plus selected presentations
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-10-31
+  end: 2026-10-31
+  location: Athens, Greece (with MICRO 2026)
+  url: https://raise-arch-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-23
+    tz: AoE
+  - kind: notification
+    date: 2026-10-01
+    tz: AoE
+sources:
+- https://raise-arch-workshop.github.io/
+- https://raise-arch-workshop.github.io/assets/documents/RAISE_Arch_CFP.pdf
+- https://microarch.org/micro59/program/workshops-new.php
+- https://portal.core.edu.au/conf-ranks/?search=RAISE&by=all&source=ICORE2026
+unverified:
+- Next edition and frequency not announced (checked 2026-11-27)
+last_verified: 2026-11-27

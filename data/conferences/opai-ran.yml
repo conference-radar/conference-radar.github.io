@@ -1,0 +1,53 @@
+id: opai-ran
+name: OPAI-RAN
+full_name: "Workshop on Open, Programmable and AI-Native Radio Access Network: Key Techniques, Algorithms, and Implementation"
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers (University of Exeter, Zhejiang University, SUTD, Linkoping University) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and.html
+notes:
+- Half-day workshop (WS19) at IEEE ICC 2026 on Open RAN, programmable PHY/MAC, AI/ML-driven RIC and xApps/rApps, testbeds and demos
+- Organized by Chenyuan Feng (Exeter), Howard H. Yang (ZJU-UIUC), Zihan Chen and Jihong Park (SUTD) and Nikolaos Pappas (Linkoping); steering committee Tony Q.S. Quek
+- First edition at ICC 2026 in Glasgow (about 19 papers in the program); not in the ICC 2025 or GLOBECOM 2025 workshop lists
+- Workshop papers go into the ICC proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: OPAI-RAN 2026 (at ICC 2026)
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-18
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-15
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and.html
+- https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and-0.html
+- https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and-1.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/program/workshops-0.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://icc2025.ieee-icc.org/program/workshops.html
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=OPAI-RAN&by=all&source=ICORE2026
+unverified:
+- Short name OPAI-RAN is not used on the official pages
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Time zone of the deadlines (not stated)
+- Region and organizer are based on the single 2026 edition
+last_verified: 2026-11-27

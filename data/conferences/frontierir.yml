@@ -1,0 +1,64 @@
+id: frontierir
+name: FrontierIR
+full_name: Workshop on New Frontiers in Information Retrieval
+type: workshop
+tier: minor
+areas: [ai, nlp, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizing committee (chair Jiahui Geng, Linkoping University) with organizers from UCL, Yale, NYU, University of Birmingham, INSAIT, NTU, TU Darmstadt and University of Groningen
+organizer_country: [europe, usa]
+proceedings: Workshop website (non-archival)
+archival: false
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [11, 12]
+  conference_months: [1, 2]
+links:
+  website: https://frontier-ir-workshop.github.io/
+notes:
+- Workshop on information retrieval for AI systems (reasoning-intensive retrieval, agent memory and tool retrieval, code and multimodal retrieval, RAG), held with AAAI
+- First edition at AAAI 2026 in Singapore, second at AAAI-27 in Montreal
+- Non-archival; accepted papers are hosted on the workshop website and presented as talks or posters
+- Full papers 4 to 7 pages and short papers up to 4 pages (excluding references and appendices) in the AAAI-27 format, OpenReview
+- 2027 uses double-blind review with at least three reviews per paper (2026 was single-blind and welcomed already published papers)
+- Best paper award
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  location: Singapore (with AAAI-26)
+  url: https://frontier-ir-workshop.github.io/2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-11-13
+    tz: AoE
+    label: Extended from 2025-10-22
+  - kind: notification
+    date: 2025-12-11
+    tz: AoE
+- year: 2027
+  start: 2027-02-23
+  end: 2027-02-23
+  location: Palais des congres, Montreal, Canada (with AAAI-27)
+  url: https://frontier-ir-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-12-10
+    tz: AoE
+    label: Extended from 2026-11-20
+  - kind: notification
+    date: 2027-01-06
+    tz: AoE
+sources:
+- https://frontier-ir-workshop.github.io/
+- https://frontier-ir-workshop.github.io/2026/index.html
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/
+- https://portal.core.edu.au/conf-ranks/?search=FrontierIR&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact day of the 2026 workshop not stated on the archived site
+- 2027 day taken from the AAAI-27 workshop program (Feb 23); the workshop page still says Feb 22 or 23
+- Camera-ready date for 2027 not stated

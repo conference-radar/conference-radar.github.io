@@ -1,0 +1,50 @@
+id: sdad
+name: SDAD
+full_name: Safe and Defensive Autonomous Driving Workshop (at ECCV 2026)
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizers (HKUST, EPFL, UIUC, Zhejiang University, AWS AI, DeepRoute.Ai)
+organizer_country: [international]
+proceedings: None (non-archival; accepted papers posted on the workshop site)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://sdad.cc/
+notes:
+  - Full-day workshop at ECCV 2026 on defensive driving, latent hazards, learning under uncertainty and evaluation beyond trajectory-centric benchmarks
+  - First edition in 2026; sponsored by DeepRoute.Ai
+  - Non-archival track; double-blind review on OpenReview with 2 to 3 reviews per paper
+  - Short papers up to 7 pages or long papers up to 14 pages in ECCV 2026 (LNCS) format
+  - 18 papers accepted in 2026, 4 of them orals; best paper award 300 USD and two 200 USD honorable mentions
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with ECCV 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://sdad.cc/
+    deadlines:
+      - kind: submission
+        date: 2026-07-15
+      - kind: notification
+        date: 2026-08-03
+        tz: AoE
+        label: Postponed from 2026-08-08 and 2026-08-01
+      - kind: camera_ready
+        date: 2026-08-15
+sources:
+  - https://sdad.cc/
+  - https://sdad.cc/cfp.html
+  - https://sdad.cc/papers.html
+  - https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/SDAD
+  - https://portal.core.edu.au/conf-ranks/?search=SDAD&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Region and frequency based on a single edition (ECCV 2026); no next edition announced as of 2026-11-27

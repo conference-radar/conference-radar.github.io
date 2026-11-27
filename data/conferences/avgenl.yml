@@ -1,0 +1,44 @@
+id: avgenl
+name: AVGenL
+full_name: Workshop on Audio-Visual Generation and Learning (at ECCV 2026)
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Google DeepMind, SB Intuitions, KAIST, Ecole Polytechnique, Microsoft Research, UC Merced and others)
+organizer_country: [international]
+proceedings: None (extended abstracts posted on the workshop site, not in ECCV proceedings)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://avgen123.github.io/eccv26.html
+notes:
+  - Workshop on audio-visual generation, audio-visual foundation models and audio-visual learning applications
+  - Editions at ECCV 2024, ICCV 2025 (Honolulu) and ECCV 2026 (Malmo, 3rd edition)
+  - Extended abstracts up to 4 pages in ECCV format; already accepted papers welcome; accepted papers posted on the site only
+  - Linked IJCV special issue on audio-visual generation (2nd edition, manuscripts due 2027-02-01)
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 3rd edition, with ECCV 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026, Malmomassan K1)
+    url: https://avgen123.github.io/eccv26.html
+    deadlines:
+      - kind: submission
+        date: 2026-07-15
+      - kind: notification
+        date: 2026-08-01
+sources:
+  - https://avgen123.github.io/eccv26.html
+  - https://avgen123.github.io/iccv25.html
+  - https://avgen123.github.io/index.html
+  - https://portal.core.edu.au/conf-ranks/?search=AVGenL&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Next workshop edition (2027) not announced as of 2026-11-27

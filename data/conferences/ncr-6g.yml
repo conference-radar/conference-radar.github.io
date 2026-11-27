@@ -1,0 +1,55 @@
+id: ncr-6g
+name: NCR-6G
+full_name: IEEE ICC Workshop on Networked Collaborative Robotics in the Era of 6G Communication
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (TU Dresden, EURECOM, Central Michigan University, TU Dortmund, Airbus, TU Munich and MBZUAI) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication.html
+notes:
+- WS30 at IEEE ICC 2026 in Glasgow, a half-day workshop on 28 May 2026
+- Topics are 6G for cobots, drones, humanoid, mobile and social robots (embedded AI, ISAC, RIS, URLLC, edge cloud, DECT NR+, SLAM, testbeds)
+- Organizers include Frank Fitzek (TU Dresden), Florian Kaltenberger (EURECOM), Christian Wietfeld (TU Dortmund) and Sami Haddadin (TU Munich and MBZUAI)
+- Short name NCR-6G is used in this list only; the workshop has no official acronym
+- Not in the ICC 2025 workshop list
+- Accepted and presented papers go into the IEEE ICC 2026 proceedings and IEEE Xplore; no-show papers can be removed
+- Submissions via EDAS through the ICC workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended date on the ICC workshop call (workshop page says 2026-01-18)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication.html
+- https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication/call-papers.html
+- https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication/committees.html
+- https://icc2026.ieee-icc.org/workshop/ws30-networked-collaborative-robotics-era-6g-communication/program.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2025.ieee-icc.org/program/workshops
+- https://icc2027.ieee-icc.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=Collaborative+Robotics&by=all&source=ICORE2026
+unverified:
+- Whether a 2027 edition will run (the ICC 2027 call for workshop papers says "coming soon" on 2026-11-27)
+- Edition number and whether earlier editions exist at other venues
+- Deadline time zone not stated
+last_verified: 2026-11-27

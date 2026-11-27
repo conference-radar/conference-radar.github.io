@@ -1,0 +1,34 @@
+id: bsides-malaga
+name: BSides Málaga
+full_name: Security BSides Málaga
+type: industry
+tier: minor
+areas: [security]
+region: europe
+organizer: La Peña Overflow
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [3]
+links:
+  website: https://www.bsidesmalaga.com/
+notes:
+- Community Security BSides conference in Málaga, Spain, run by La Peña Overflow
+- 2026 edition held on 20 March 2026 from 17:00 at GSEC Málaga
+- Official site is bilingual (English and Spanish); tickets went to a waitlist
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-03-20
+  end: 2026-03-20
+  location: GSEC Málaga, Málaga, Spain
+  url: https://www.bsidesmalaga.com/
+sources:
+- https://www.bsidesmalaga.com/
+- https://bsides.org/event/bsides-malaga-spain/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Talk language, call for papers dates and frequency are not stated on the official site
+- No 2027 edition announced yet

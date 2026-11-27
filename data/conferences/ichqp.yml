@@ -1,0 +1,56 @@
+id: ichqp
+name: ICHQP
+full_name: IEEE International Conference on Harmonics and Quality of Power
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: biennial
+organizer: IEEE Power & Energy Society (PES) with an international steering committee and a local host university
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [8, 9]
+links:
+  website: https://ichqp2026.org/
+notes:
+- The only IEEE PES conference dedicated exclusively to power quality (harmonics, supraharmonics, flicker, unbalance, voltage sags and transients)
+- Started in 1984 as the IEEE International Conference on Harmonics in Power Systems (ICHPS); renamed ICHQP in 1996
+- Held every two years in even years, rotating worldwide (2016 Belo Horizonte, 2018 Ljubljana, 2020 Dubai online, 2022 Naples, 2024 Chengdu, 2026 Dresden)
+- Full papers up to 5 pages in the IEEE PES template, single-blind review via Microsoft CMT
+- Presented papers are archived in IEEE Xplore; not presented papers can be excluded
+- Recently accepted IEEE Transactions papers can apply for presentation at the conference
+- One full registration covers up to two papers; a student registration covers one paper (2026)
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-04
+  location: Dresden, Germany (Penck Hotel Dresden)
+  url: https://ichqp2026.org/
+  deadlines:
+  - kind: submission
+    date: 2026-03-09
+    label: Full paper (page also lists 2026-02-16, apparently the original date)
+  - kind: notification
+    date: 2026-05-10
+    label: Page also lists 2026-04-20, apparently the original date
+  - kind: camera_ready
+    date: 2026-06-01
+    label: Final paper and author registration
+sources:
+- https://ichqp2026.org/
+- https://ichqp2026.org/authors/
+- https://ichqp2026.org/conference/
+- https://ichqp2026.org/committees/
+- https://ichqp2026.org/programm/
+- https://ichqp2026.org/venue/
+- https://portal.core.edu.au/conf-ranks/?search=ICHQP&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- ICHQP 2028 host and dates not found on an official page as of 2026-11-27
+- Deadline times and time zones not stated on the 2026 author page
+- CCF 2026 list not checked directly; power engineering venue, not expected in the CCF CS list

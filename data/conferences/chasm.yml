@@ -1,0 +1,48 @@
+id: chasm
+name: CHASM
+full_name: Workshop on Composable Heterogeneous Architectures for Scalable Machine Learning
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers from Gimlet Labs, MPI-SWS and NVIDIA; co-located with MICRO
+organizer_country: [usa, europe]
+proceedings: Workshop website (accepted papers posted, no formal proceedings)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://sites.google.com/view/chasm-micro26/home
+notes:
+  - Workshop on disaggregated and heterogeneous AI infrastructure, covering compilation and orchestration, memory pooling, interconnects and characterization of AI workloads
+  - Held with MICRO 2026 in Athens as a morning workshop
+  - Full papers 8 to 10 pages and short or position papers 4 to 6 pages, excluding references, in ACM templates
+  - Double-blind review by at least three program committee members; submissions through EasyChair
+  - Accepted papers are published on the workshop site only
+  - Not listed in CORE ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-11-01
+    end: 2026-11-01
+    location: Athens, Greece (co-located with MICRO 2026)
+    url: https://sites.google.com/view/chasm-micro26/home
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-09-04
+        label: Extended deadline
+      - kind: notification
+        date: 2026-09-18
+      - kind: camera_ready
+        date: 2026-10-02
+sources:
+  - https://sites.google.com/view/chasm-micro26/home
+  - https://www.microarch.org/micro59/
+  - https://portal.core.edu.au/conf-ranks/?search=CHASM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - The site marks the submission deadline as extended but does not give the original date or a time zone
+  - Earlier editions and the next edition are not listed on the site (checked 2026-11-27)

@@ -1,0 +1,65 @@
+id: math4ai
+name: MATH4AI
+full_name: "MATH4AI Workshop: Foretelling the Future of AI through Mathematical Foundations (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: NVIDIA AI Technology Center (NVAITC) MATH4AI group with LMU Munich, Hong Kong Baptist University and Yale University; co-located with AAAI
+organizer_country: [usa, europe, china]
+proceedings: None (non-archival; accepted papers hosted on the workshop website)
+archival: false
+typical:
+  deadline_months: [10, 11, 12]
+  conference_months: [1, 2]
+links:
+  website: https://sites.google.com/view/math4aiworkshop2027
+notes:
+  - AAAI workshop on mathematical foundations of AI (approximation theory, optimization, math-inspired architectures, theory of AI agents)
+  - First held at AAAI-26 in Singapore (26 January 2026); second edition at AAAI-27 in Montreal on Monday 22 February 2027
+  - Short or poster papers up to 4 pages and long papers up to 7 pages, excluding references and appendix, AAAI format, via OpenReview
+  - Single-blind peer review; all accepted papers presented as posters, a few selected for oral talks; best paper awards
+  - Non-archival; papers hosted on the workshop website
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with AAAI-26
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI-26)
+    url: https://sites.google.com/view/math4aiworkshop
+    deadlines:
+      - kind: submission
+        date: 2025-11-02
+        label: Extended from 2025-10-22
+      - kind: notification
+        date: 2025-11-10
+        label: Moved from 2025-11-05
+  - year: 2027
+    label: 2nd edition, with AAAI-27
+    start: 2027-02-22
+    end: 2027-02-22
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://sites.google.com/view/math4aiworkshop2027
+    deadlines:
+      - kind: submission
+        date: 2026-12-01
+        label: Extended from 2026-11-20
+      - kind: notification
+        date: 2026-12-11
+        label: Moved from 2026-12-02
+sources:
+  - https://sites.google.com/view/math4aiworkshop2027
+  - https://sites.google.com/view/math4aiworkshop2027/call-of-papers
+  - https://sites.google.com/view/math4aiworkshop2027/organizers
+  - https://sites.google.com/view/math4aiworkshop
+  - https://sites.google.com/view/math4aiworkshop/call-of-papers
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=MATH4AI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - 2027 workshop day taken from the AAAI-27 workshop schedule (Feb 22); the workshop page says February 22-23, 2027
+  - Camera-ready dates not stated for either edition

@@ -1,0 +1,65 @@
+id: refresh
+name: REFRESH
+full_name: International Workshop on Real-life Modeling in 5G/6G networks and beyond
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: National Technical University of Athens (NETMODE) and ICCS, steering committee with Arizona State University, with DCOSS-IoT
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://refresh2026.netmode.ece.ntua.gr/
+notes:
+- Held in conjunction with IEEE DCOSS-IoT; 6th edition at DCOSS-IoT 2026 in Reykjavik, listed again for DCOSS-IoT 2027 in Montreal
+- Real-life modeling of 5G/6G networks; supported by the 6G-LEADER Horizon Europe project
+- Papers in the DCOSS-IoT conference proceedings, submitted to IEEE Xplore
+- Full papers up to 8 pages and work-in-progress papers up to 4 pages including figures and references
+- Not double-blind; author names must appear; submission via EasyChair
+- Selected papers may be considered for a journal special issue
+- DCOSS-IoT 2026 programme at a glance places REFRESH on Monday, June 22
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 6th REFRESH (at DCOSS-IoT 2026)
+  start: 2026-06-22
+  end: 2026-06-22
+  location: Reykjavik, Iceland (with DCOSS-IoT 2026)
+  url: https://refresh2026.netmode.ece.ntua.gr/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    label: Extended from 2026-04-05
+  - kind: notification
+    date: 2026-05-08
+    label: Changed from 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-22
+    label: Changed from 2026-05-08
+- year: 2027
+  label: REFRESH 2027 (at DCOSS-IoT 2027)
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada (with DCOSS-IoT 2027)
+  url: https://dcoss.org/
+sources:
+- https://refresh2026.netmode.ece.ntua.gr/
+- https://refresh2026.netmode.ece.ntua.gr/papers.php
+- https://refresh2026.netmode.ece.ntua.gr/commitees.php
+- https://dcoss.org/
+- https://dcoss.org/dcoss2026/wp-content/uploads/2026/06/DCOSS-IoT_programme_2026_v04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=REFRESH&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadline time zone not stated on the workshop site
+- The site lists two dates per deadline without labels; the later ones are taken as the extended deadlines
+- Earlier editions (1st to 5th) not listed on the 2026 site
+- REFRESH 2027 workshop day and deadlines not yet announced; dates shown are the DCOSS-IoT 2027 conference dates

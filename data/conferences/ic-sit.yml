@@ -1,0 +1,68 @@
+id: ic-sit
+name: IC-SIT
+full_name: International Conference on Intelligent Computing and Sustainable Innovations in Technology
+type: conference
+tier: minor
+areas: [ai, data, general]
+region: south-asia
+language: english
+frequency: biennial
+organizer: Silicon University, Odisha
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 8]
+  conference_months: [9, 11]
+links:
+  website: https://ic-sit.netlify.app/
+notes:
+- Organized and hosted by Silicon University, Bhubaneswar, Odisha, India
+- Proceedings in IEEE Xplore (IEEE conference record 69723 for 2026, 63503 for 2024)
+- Hybrid; delegates can attend in person or present remotely
+- Editions so far in 2024 (1st) and 2026 (2nd)
+- Broad IT scope in six tracks (intelligent learning, data science and business analytics, communication networks, and others)
+- Papers up to 6 pages in IEEE two column format, similarity index below 20%
+- Selected extended papers invited to a special issue of SN Computer Science
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2024
+  label: 1st IC-SIT
+  start: 2024-11-21
+  end: 2024-11-23
+  location: Bhubaneswar, India
+  url: https://i24.ic-sit.in/
+  deadlines:
+  - kind: submission
+    date: 2024-08-16
+    label: Paper submission (extended from 2024-08-01)
+  - kind: notification
+    date: 2024-09-15
+  - kind: camera_ready
+    date: 2024-11-01
+- year: 2026
+  label: 2nd IC-SIT
+  start: 2026-09-08
+  end: 2026-09-10
+  location: Bhubaneswar, India
+  url: https://ic-sit.netlify.app/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-07-15
+    label: Notification (extended from 2026-07-01)
+  - kind: camera_ready
+    date: 2026-08-10
+  - kind: other
+    date: 2026-08-08
+    label: Author registration closes
+sources:
+- https://ic-sit.netlify.app/
+- https://ic-sit.netlify.app/call-for-paper
+- https://ic-sit.netlify.app/conference-proceedings
+- https://i24.ic-sit.in/
+- https://portal.core.edu.au/conf-ranks/?search=IC-SIT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Next edition (2027 or 2028) not announced; the biennial cycle is inferred from the 2024 and 2026 editions only

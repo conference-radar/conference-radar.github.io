@@ -1,0 +1,157 @@
+id: biodevices
+name: BIODEVICES
+full_name: International Conference on Biomedical Electronics and Devices
+type: conference
+tier: minor
+areas: [communications, systems]
+region: europe
+language: english
+frequency: annual
+organizer: INSTICC
+organizer_country: [europe]
+proceedings: SCITEPRESS
+archival: true
+indexing: [DBLP]
+typical:
+  deadline_months: [9, 10, 11]
+  conference_months: [2, 3]
+links:
+  website: https://biodevices.scitevents.org/
+notes:
+- INSTICC conference on biomedical electronics, sensors, wearable and implantable devices; one of the conferences of the BIOSTEC joint conference
+- Proceedings in the SCITEPRESS Digital Library, submitted for indexing by Scopus, DBLP, EI and Web of Science
+- Selected revised and extended papers appear in the BIOSTEC Revised Selected Papers volume of Springer CCIS
+- Two submission stages plus late-breaking and abstracts tracks; all deadlines AoE
+- 2027 is the 20th BIOSTEC, run at two venues, Valletta (Feb 19 to 21) and Nanjing, China (May 14 to 16); remote talks allowed only for Malta
+- Registration gives free access to the other BIOSTEC conferences and to ICORES, MODELSWARD and ICPRAM in 2027
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-02
+  end: 2026-03-04
+  location: Marbella, Spain
+  url: https://biodevices.scitevents.org/?y=2026
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+    tz: AoE
+    label: Regular papers, stage 1
+  - kind: submission
+    date: 2025-11-20
+    tz: AoE
+    label: Position/regular papers, stage 2
+  - kind: notification
+    date: 2025-12-04
+    tz: AoE
+    label: Stage 1
+  - kind: camera_ready
+    date: 2025-12-19
+    tz: AoE
+    label: Stage 1 camera-ready and registration
+  - kind: submission
+    date: 2025-12-16
+    tz: AoE
+    label: Late-breaking papers
+  - kind: submission
+    date: 2025-12-17
+    tz: AoE
+    label: Abstracts track
+  - kind: notification
+    date: 2025-12-19
+    tz: AoE
+    label: Stage 2
+  - kind: camera_ready
+    date: 2026-01-13
+    tz: AoE
+    label: Stage 2 camera-ready and registration
+  - kind: notification
+    date: 2026-01-14
+    tz: AoE
+    label: Abstracts track
+  - kind: notification
+    date: 2026-01-15
+    tz: AoE
+    label: Late-breaking papers
+  - kind: camera_ready
+    date: 2026-01-22
+    tz: AoE
+    label: Late-breaking and abstracts camera-ready and registration
+- year: 2027
+  start: 2027-02-19
+  end: 2027-02-21
+  location: Valletta, Malta
+  url: https://biodevices.scitevents.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-29
+    tz: AoE
+    label: Regular papers, stage 1
+  - kind: submission
+    date: 2026-10-29
+    tz: AoE
+    label: Position/regular papers, stage 2
+  - kind: other
+    date: 2026-10-02
+    tz: AoE
+    label: Workshop, special session, tutorial, demo and panel proposals
+  - kind: notification
+    date: 2026-11-13
+    tz: AoE
+    label: Stage 1
+  - kind: camera_ready
+    date: 2026-11-27
+    tz: AoE
+    label: Stage 1 camera-ready and registration
+  - kind: submission
+    date: 2026-11-29
+    tz: AoE
+    label: Late-breaking papers
+  - kind: submission
+    date: 2026-12-03
+    tz: AoE
+    label: Abstracts track, special session and workshop papers
+  - kind: notification
+    date: 2026-12-04
+    tz: AoE
+    label: Stage 2
+  - kind: camera_ready
+    date: 2026-12-18
+    tz: AoE
+    label: Stage 2 camera-ready and registration
+  - kind: notification
+    date: 2026-12-18
+    tz: AoE
+    label: Late-breaking papers
+  - kind: notification
+    date: 2026-12-21
+    tz: AoE
+    label: Abstracts track
+  - kind: other
+    date: 2026-12-22
+    tz: AoE
+    label: Doctoral Consortium paper submission
+  - kind: camera_ready
+    date: 2027-01-08
+    tz: AoE
+    label: Late-breaking and abstracts camera-ready and registration
+  - kind: notification
+    date: 2027-01-12
+    tz: AoE
+    label: Doctoral Consortium
+  - kind: camera_ready
+    date: 2027-01-20
+    tz: AoE
+    label: Doctoral Consortium camera-ready and registration
+sources:
+- https://biodevices.scitevents.org/
+- https://biodevices.scitevents.org/ImportantDates.aspx
+- https://biodevices.scitevents.org/CallForPapers.aspx
+- https://biodevices.scitevents.org/BooksPublished.aspx
+- https://biodevices.scitevents.org/?y=2026
+- https://biodevices.scitevents.org/ImportantDates.aspx?y=2026
+- https://biodevices.scitevents.org/ConferenceVenue.aspx?y=2026
+- https://portal.core.edu.au/conf-ranks/?search=BIODEVICES&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- Acceptance rate and fees not checked on official pages

@@ -1,0 +1,48 @@
+id: dpdk-summit
+name: DPDK Summit
+full_name: DPDK Summit (Data Plane Development Kit)
+type: industry
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: DPDK Project (The Linux Foundation)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [5, 9]
+links:
+  website: https://www.dpdk.org/events/
+notes:
+- Community summit of the DPDK project (Linux Foundation) on fast packet processing in user space
+- Two days of talks on deployments, drivers, testing and tooling, plus time with maintainers
+- Talks chosen through a call for proposals; no papers, talk recordings are posted on YouTube afterwards
+- In-person speakers are strongly preferred and vendor sales pitches are not accepted
+- 'Past venues: Montreal and Bangkok (APAC) 2024, Prague 2025, Stockholm 2026; Vienna announced for 2027'
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-13
+  location: Stockholm, Sweden
+  url: https://www.dpdk.org/event/dpdk-summit-2026/
+  deadlines: []
+- year: 2027
+  start: 2027-05-11
+  end: 2027-05-12
+  location: Le Meridien Vienna, Vienna, Austria
+  url: https://www.dpdk.org/event/dpdk-summit-2027/
+  deadlines: []
+sources:
+- https://www.dpdk.org/events/
+- https://www.dpdk.org/event/dpdk-summit-2027/
+- https://www.dpdk.org/event/dpdk-summit-2026/
+- https://www.dpdk.org/event/dpdk-summit-2025-prague/
+- https://www.dpdk.org/news/past-events/
+- https://portal.core.edu.au/conf-ranks/?search=DPDK&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 call for proposals dates (the CFP "opens in the coming weeks")
+- 2026 CFP deadline not stated on the official event page

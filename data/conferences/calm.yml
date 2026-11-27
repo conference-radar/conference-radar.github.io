@@ -1,0 +1,59 @@
+id: calm
+name: CALM
+full_name: International Workshop on Causality, Agents and Large Models
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: CIAD lab, UTBM (France), with chairs from Tongji University and the Luxembourg Institute of Science and Technology
+organizer_country: [europe]
+proceedings: Elsevier Procedia Computer Science
+archival: true
+indexing: [Scopus, EI, DBLP]
+typical:
+  deadline_months: [11, 1]
+  conference_months: [4]
+links:
+  website: https://www.ciad-lab.fr/calm-27/
+notes:
+- Workshop held with ANT (International Conference on Ambient Systems, Networks and Technologies); 4th edition in 2027
+- Since 2026 papers appear open access in Elsevier Procedia Computer Science with the ANT proceedings
+- 2024 and 2025 editions were published as Springer volumes
+- Papers up to 6 pages in Procedia format, reviewed by 2 to 3 program committee members
+- Topics include causal reasoning in multi-agent systems and LLMs, agentic AI and explainable AI
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-04-14
+  end: 2026-04-16
+  location: Istanbul, Türkiye
+  url: https://www.ciad-lab.fr/calm-26/
+  deadlines:
+  - kind: notification
+    date: 2026-01-20
+  - kind: camera_ready
+    date: 2026-01-28
+- year: 2027
+  start: 2027-04-13
+  end: 2027-04-15
+  location: Delft, Netherlands
+  url: https://www.ciad-lab.fr/calm-27/
+  deadlines:
+  - kind: submission
+    date: 2026-11-27
+    tz: AoE
+  - kind: notification
+    date: 2027-01-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-20
+    tz: AoE
+sources:
+- https://www.ciad-lab.fr/calm-27/
+- https://www.ciad-lab.fr/calm-26/
+- https://portal.core.edu.au/conf-ranks/?search=CALM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2026 submission deadline is garbled on the official page (apparently 2026-01-07 final), so it is left out

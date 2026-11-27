@@ -1,0 +1,54 @@
+id: ngsrw
+name: NGSRW
+full_name: IEEE GLOBECOM Workshop on Next Generation Short-Range Wireless Technology
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-21-next-generation-short-range-wireless-technology-0
+notes:
+- Workshop on deterministic short-range wireless (Wi-Fi 7/8, IEEE 802.11bf sensing, 802.11ba wake-up radio,
+  802.11bp ambient power) for Industry 4.0, smart homes and XR
+- WS-21 at IEEE GLOBECOM 2026 (Macau); co-chaired by Yulin Hu, Carlos Cordeiro and Ming Gan
+- Short name NGSRW is not used on the official pages
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore; no-show papers are removed
+- Not in the GLOBECOM 2025 workshop list
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-21-next-generation-short-range-wireless-technology-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop page (GLOBECOM workshop call says 2026-10-05)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop page (GLOBECOM workshop call says 2026-10-14)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-21-next-generation-short-range-wireless-technology-0
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/authors/instructions-final-camera-ready-manuscript-submission
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=NGSRW&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Short-Range&by=all&source=ICORE2026
+unverified:
+- Short name NGSRW (not used on the official pages)
+- Exact 2026 workshop day (GLOBECOM 2026 runs 7 to 11 December 2026; the workshop list says date to be announced)
+- Time zone of the deadlines (not stated)
+- Earlier or later editions at other IEEE conferences were not checked
+- Co-chair affiliations (not stated on the workshop page)
+last_verified: 2026-11-27

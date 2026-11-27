@@ -1,0 +1,56 @@
+id: casa-ecsa
+name: CASA
+full_name: International Workshop on Context-Aware, Autonomous and Smart Architectures
+type: workshop
+tier: minor
+areas: [software, systems]
+region: europe
+language: english
+frequency: annual
+organizer: CASA organizing committee, co-located with ECSA (2026 chairs from Aarhus University, Linnaeus University and University of L'Aquila)
+organizer_country: [europe]
+proceedings: Springer LNCS (ECSA tracks and workshops volume)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://conf.researchr.org/track/ecsa-2026/casa-2026
+notes:
+- Half-day workshop co-located with the European Conference on Software Architecture (ECSA)
+- Covers architectures of context-aware, autonomous and smart systems, self-adaptive systems, IoT, edge and cloud, model-driven engineering, AI and LLMs in such systems, robotics and CPS security
+- 2025 was the 8th edition (ECSA 2025, Limassol)
+- ECSA 2026 tracks and workshops proceedings published by Springer in LNCS (volume 16991)
+- Full papers up to 16 pages and short or position papers up to 8 pages in LNCS style, at least 3 reviewers per paper
+- At least one author must attend and present
+- Not to be confused with CASA (Computer Animation and Social Agents)
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Bolzano, Italy (with ECSA 2026)
+  url: https://conf.researchr.org/track/ecsa-2026/casa-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-08
+    tz: AoE
+  - kind: submission
+    date: 2026-05-15
+    tz: AoE
+  - kind: notification
+    date: 2026-06-15
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-29
+    tz: AoE
+sources:
+- https://conf.researchr.org/track/ecsa-2026/casa-2026
+- https://conf.researchr.org/home/ecsa-2026
+- https://conf.researchr.org/info/ecsa-2025/workshops
+- https://conf.researchr.org/track/ecsa-2027/ecsa-2027-workshop-and-tutorial-track
+- https://portal.core.edu.au/conf-ranks/?search=CASA&by=all&source=ICORE2026
+unverified:
+- The 2026 page gives no edition number
+- CASA 2027 not announced yet; ECSA 2027 (Porto) has not listed its workshops
+last_verified: 2026-11-27

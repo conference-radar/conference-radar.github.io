@@ -1,0 +1,52 @@
+id: qmod
+name: QMod
+full_name: Workshop on Quantum Modeling
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+organizer: QMod workshop chairs (JKU Linz, LIST and University of Luxembourg, Simula Research Laboratory), co-located with MODELS
+organizer_country: [europe]
+proceedings: MODELS Companion proceedings (ACM 2026)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://quantum-modeling-workshop.github.io/
+notes:
+- Workshop on model-driven engineering for quantum software and quantum computing, co-located with MODELS
+- First edition in 2026 with MODELS 2026 in Malaga; listed in the MODELS programme as "Quantum and MDE"
+- Presented papers go into the MODELS Companion proceedings (ACM format, open access)
+- Full papers up to 10 pages; tool demonstrations and extended abstracts up to 5 pages
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 1st edition, with MODELS 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Malaga, Spain (co-located with MODELS 2026)
+  url: https://quantum-modeling-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-07-03
+  - kind: notification
+    date: 2026-07-31
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-08-14
+    time: "23:59"
+    tz: AoE
+sources:
+- https://quantum-modeling-workshop.github.io/
+- https://conf.researchr.org/track/models-2026/models-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=QMod&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The workshop site gives only the MODELS week (4 to 9 October 2026); the day 6 October comes from the MODELS workshop programme
+- No 2027 edition announced; frequency unknown

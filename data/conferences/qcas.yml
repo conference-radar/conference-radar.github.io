@@ -1,0 +1,61 @@
+id: qcas
+name: QCAS
+full_name: Quantum Computing Applications and Systems Workshop
+type: workshop
+tier: minor
+areas: [systems, general]
+region: north-america
+language: english
+frequency: annual
+organizer: QCAS organizing committee (co-located with IEEE/ACM ICCAD)
+organizer_country: [usa]
+proceedings: QCAS website (poster abstracts only)
+archival: false
+typical:
+  deadline_months: [9, 10]
+  conference_months: [10, 11]
+links:
+  website: https://qcas-workshop.org/qcas2026/index.html
+notes:
+- One-day workshop co-located with ICCAD, held since 2024 (3rd edition in 2026)
+- Invited talks plus a poster session; the open call is for 1 to 3 page poster proposals via EasyChair
+- Accepted 200 to 250 word poster abstracts are posted on the workshop website; non-archival
+- At least one author per accepted poster must register for ICCAD and present in person
+- 'Past venues: Newark NJ 2024, Munich 2025, San Jose 2026 (following ICCAD)'
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2025
+  start: 2025-10-30
+  end: 2025-10-30
+  location: The Westin Grand Munich, Munich, Germany
+  url: https://sites.google.com/view/qcas-2025
+  deadlines:
+  - kind: submission
+    date: 2025-09-29
+    tz: AoE
+    label: Poster proposals
+  - kind: notification
+    date: 2025-10-02
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-12
+  location: San Jose Marriott, San Jose, California, USA
+  url: https://qcas-workshop.org/qcas2026/index.html
+  deadlines:
+  - kind: submission
+    date: 2026-10-19
+    time: "23:59"
+    tz: AoE
+    label: Poster proposals (extended)
+  - kind: camera_ready
+    date: 2026-10-26
+    label: Final abstract
+sources:
+- https://qcas-workshop.org/qcas2026/index.html
+- https://sites.google.com/view/qcas-2025
+- https://sites.google.com/view/qcas-2024/home
+- https://portal.core.edu.au/conf-ranks/?search=QCAS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2026 poster notification date (page says a revised date would be announced)
+- 2027 edition not announced yet

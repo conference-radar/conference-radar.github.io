@@ -1,0 +1,73 @@
+id: engitek
+name: EngiTek
+full_name: International Conference on Engineering and Computing Technologies (EngiTek)
+type: conference
+tier: minor
+areas: [general, communications, ai, security, software]
+region: middle-east
+language: english
+frequency: annual
+organizer: Faculty of Engineering, Jordan University of Science and Technology (JUST), Irbid
+organizer_country: [other]
+proceedings: IEEE Xplore (2025)
+archival: true
+fee: 500 USD regular, 350 USD local, 200 USD online (early, 2026); 20% IEEE member discount
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://www.just.edu.jo/Conferences/EngiTek2026/Pages/default.aspx
+notes:
+- Run by the Faculty of Engineering at Jordan University of Science and Technology and held in Irbid, Jordan
+- Not the same venue as the Pakistani ICECT (icect-numl), which shares the full name
+- Very broad engineering scope; 2026 groups tracks into electrical engineering, engineering applications, information and computing systems (AI, security, software) and paper contests
+- 2025 accepted and presented papers were published in IEEE Xplore
+- Papers up to 6 pages, double column; 50 USD per extra page
+- 2026 edition held in hybrid mode
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2025
+  label: EngiTek 2025
+  start: 2025-12-29
+  end: 2025-12-31
+  location: Irbid, Jordan (Jordan University of Science and Technology)
+  url: https://www.just.edu.jo/Conferences/EngiTek2025/Pages/default.aspx
+  deadlines:
+  - kind: submission
+    date: 2025-10-15
+    label: Extended
+  - kind: notification
+    date: 2025-11-30
+  - kind: camera_ready
+    date: 2025-12-10
+- year: 2026
+  label: EngiTek 2026
+  start: 2026-12-14
+  end: 2026-12-16
+  location: Irbid, Jordan (Jordan University of Science and Technology) and online
+  url: https://www.just.edu.jo/Conferences/EngiTek2026/Pages/default.aspx
+  status: tentative
+  deadlines:
+  - kind: submission
+    date: 2026-10-04
+  - kind: notification
+    date: 2026-10-18
+  - kind: camera_ready
+    date: 2026-11-01
+sources:
+- https://www.just.edu.jo/Conferences/EngiTek2026/Pages/default.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2026/Pages/call-for-papers.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2026/Pages/key-dates.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2026/Pages/Conference-Tracks.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2026/Pages/Registration-Fees.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2025/Pages/default.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2025/Pages/key-dates.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2025/Pages/call-for-papers.aspx
+- https://www.just.edu.jo/Conferences/EngiTek2025/Pages/submit-paper.aspx
+- https://portal.core.edu.au/conf-ranks/?search=EngiTek&by=all&source=ICORE2026
+unverified:
+- "2026 conference dates conflict: the site header says 14 to 16 Dec 2026 (hybrid), the call for papers says 5 to 7 Oct 2026, and an older hidden header says 5 to 8 Oct 2026"
+- 2025 notification is 30 Nov 2025 on the key dates page but 31 Oct 2025 on the call for papers page
+- 2026 proceedings not stated; IEEE Xplore confirmed only for 2025
+- Edition number and year the series started
+last_verified: 2026-11-27

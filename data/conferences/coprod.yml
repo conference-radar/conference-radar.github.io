@@ -1,0 +1,54 @@
+id: coprod
+name: CoProD
+full_name: International Workshop on Constraint Programming and Decision Making
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Martine Ceberio and Vladik Kreinovich, Department of Computer Science, University of Texas at El Paso
+organizer_country: [usa]
+proceedings: Springer (2026 papers of at least 4 pages in the NAFIPS 2026 proceedings)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [3, 5, 9]
+links:
+  website: https://www.reliable-computing.org/coprod26.html
+notes:
+- One-day workshop on constraint solving, optimization and decision making, including interval and fuzzy uncertainty
+- Co-located with either NAFIPS (2022 Halifax, 2023 Cincinnati, 2026 El Paso) or the SCAN symposium (2021 Szeged online, 2025 Oldenburg)
+- 18th edition in 2026; no edition in 2024
+- Short submissions of 2 to 5 pages in Springer svmult format, sent by email to the organizers; idea submissions also welcome
+- Publication venue depends on the host conference; in 2026 accepted papers of 4+ pages went into the Springer NAFIPS 2026 proceedings
+- 'Registration fee 2026: USD 50, USD 25 for students and retirees; free with NAFIPS 2026 registration'
+- Remote participation possible in 2026
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 18th CoProD, before NAFIPS 2026
+  start: 2026-03-13
+  end: 2026-03-13
+  location: El Paso Community College, El Paso, Texas, USA (before NAFIPS 2026)
+  url: https://www.reliable-computing.org/coprod26.html
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+  - kind: notification
+    date: 2026-02-22
+  - kind: camera_ready
+    date: 2026-03-01
+sources:
+- https://www.reliable-computing.org/coprod26.html
+- https://www.reliable-computing.org/coprod25.html
+- https://www.reliable-computing.org/coprod23.html
+- https://www.reliable-computing.org/coprod22.html
+- https://www.reliable-computing.org/coprod21.html
+- https://portal.core.edu.au/conf-ranks/?search=CoProD&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 edition not announced as of 2026-11-27
+- Proceedings of the 2025 edition (with SCAN 2025) not checked
+- Not listed in ICORE2026; no CORE rank recorded

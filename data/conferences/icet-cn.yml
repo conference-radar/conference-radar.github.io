@@ -1,0 +1,61 @@
+id: icet-cn
+name: ICET
+full_name: International Conference on Electronics Technology
+type: conference
+tier: minor
+areas: [communications, networking, general]
+region: china
+language: english
+frequency: annual
+organizer: Sichuan Institute of Electronics and IEEE Chengdu Section (hosted by the Youth Talent Work Committee of the Sichuan Institute of Electronics)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI, Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icet.net/
+notes:
+  - Annual conference since 2018 (10th edition in 2027), held in Chengdu, China in May (2023 to 2027 editions)
+  - Co-sponsored by IEEE Chengdu Section and the Sichuan Institute of Electronics, supported by UESTC, Sichuan University
+    and Southwest Jiaotong University
+  - Proceedings in IEEE Xplore and EI Compendex (Scopus also stated up to 2024)
+  - Broad electronics scope with tracks on antennas and microwaves, electronic materials and devices, communication and
+    networks, and power engineering
+  - Regular papers 4 to 10 pages, page charge 70 USD per page beyond 6; abstract-only presentations are not published
+  - Not the same as ICET (International Conference on Emerging Technologies, Pakistan)
+  - Not listed in ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2026
+    start: 2026-05-29
+    end: 2026-05-31
+    location: Chengdu, China
+    url: https://icet.net/2026.html
+  - year: 2027
+    start: 2027-05-14
+    end: 2027-05-17
+    location: Chengdu, China
+    url: https://icet.net/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2027-01-25
+      - kind: notification
+        date: 2027-02-25
+      - kind: other
+        date: 2027-03-10
+        label: Registration deadline
+      - kind: camera_ready
+        date: 2027-05-05
+sources:
+  - https://icet.net/
+  - https://icet.net/submission.html
+  - https://icet.net/2026.html
+  - https://conferences.ieee.org/conferences_events/conferences/conferencedetails/74672
+  - https://portal.core.edu.au/conf-ranks/?search=ICET&by=all&source=ICORE2026
+unverified:
+  - ICET 2026 deadlines (not on the current site)
+  - Registration fee and acceptance rate
+last_verified: 2026-11-27

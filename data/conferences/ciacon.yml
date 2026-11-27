@@ -1,0 +1,42 @@
+id: ciacon
+name: CIACON
+full_name: The CIA Conference (CIACON)
+type: industry
+tier: minor
+areas: [security]
+region: south-asia
+language: english
+frequency: annual
+organizer: CIA Conference Committee
+organizer_country: [india]
+proceedings: None (non-archival)
+archival: false
+fee: "Explorer 1,699 INR / Student 1,999 INR / Individual 2,999 INR / Corporate 4,999 INR; exhibition pass free (2026)"
+typical:
+  conference_months: [9]
+links:
+  website: https://ciaconference.com/
+notes:
+- Practitioner cybersecurity conference in New Delhi, India; named after the CIA triad (confidentiality, integrity, availability), not linked to any intelligence agency
+- 2026 edition had a pre-conference training day (8 hour Agentic AI and MCP security workshop) and one conference day at PHD House, Hauz Khas, New Delhi
+- A separate Capture The Flag ran on 2026-09-19 at Cybercube, Gurugram
+- Talks selected through a call for papers with blind peer review by the CIA Conference review board
+- Industry talks only; no proceedings are mentioned on the site
+- Group discounts of 15% (3 to 5 tickets) and 25% (6 to 10 tickets)
+editions:
+- year: 2026
+  start: 2026-09-23
+  end: 2026-09-24
+  location: PHD House, New Delhi, India
+  url: https://ciaconference.com/
+sources:
+- https://ciaconference.com/
+- https://ciaconference.com/call-for-papers
+- https://ciaconference.com/archive
+unverified:
+- CFP deadline and notification date for 2026 are not shown; the CFP page says submissions are closed and the next deadline is yet to be announced
+- The site does not say whether any papers are published; listed as non-archival talks
+- Edition history is not given; the archive page only lists trainings held 2020-12-03 to 2020-12-06
+- CIACON 2027 not announced as of 2026-11-27
+- Not listed on the ICORE2026 CORE portal (0 results for CIACON on 2026-11-27); not in the CCF list
+last_verified: 2026-11-27

@@ -1,0 +1,70 @@
+id: 3scea
+name: 3SCEA
+full_name: IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications
+type: conference
+tier: minor
+areas: [ai, security, networking, systems]
+region: africa
+language: english
+frequency: annual
+organizer: Universite Francaise d'Egypte (UFE); partially sponsored by IEEE Egypt Section
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, EI]
+fee: 350 EUR non-IEEE author, 300 EUR IEEE member author (early); 4,500 / 4,000 EGP for Egyptian authors (2026)
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4]
+links:
+  website: https://ufe.edu.eg/3scea2027/
+notes:
+- Hosted by the Universite Francaise d'Egypte with French and Egyptian partner universities; partially sponsored by IEEE Egypt Section
+- Started in 2026 (Cairo); 2nd edition in 2027 moves to Alexandria, Egypt
+- Proceedings in IEEE Xplore, stated as covered by Scopus and EI
+- Eight tracks on sustainability themes, including AI and machine learning, cybersecurity and blockchain, IoT and edge/cloud computing, robotics and quantum computing
+- Double-anonymous review via Microsoft CMT; regular papers up to 10 pages, short papers up to 6, PhD posters up to 2
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st 3SCEA
+  start: 2026-04-19
+  end: 2026-04-21
+  location: Fairmont Nile City Hotel, Cairo, Egypt
+  url: https://ufe.edu.eg/wp-content/uploads/2026/01/IEEE-3SCEA2026-19-21-April-2026-CFP-Flyer.pdf
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Second round (firm, last extension)
+  - kind: notification
+    date: 2026-02-15
+  - kind: camera_ready
+    date: 2026-02-28
+- year: 2027
+  label: 2nd 3SCEA
+  start: 2027-04-20
+  end: 2027-04-22
+  location: Alexandria, Egypt
+  url: https://ufe.edu.eg/3scea2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: UTC+3
+  - kind: notification
+    date: 2027-01-15
+    time: "23:59"
+    tz: UTC+3
+  - kind: camera_ready
+    date: 2027-01-24
+    time: "23:59"
+    tz: UTC+3
+sources:
+- https://ufe.edu.eg/3scea2027/
+- https://ufe.edu.eg/wp-content/uploads/2026/09/IEEE-3SCEA2027-20-22-April-2027-CFP-Flyer-17-9-2026.pdf
+- https://ufe.edu.eg/wp-content/uploads/2026/01/IEEE-3SCEA2026-19-21-April-2026-CFP-Flyer.pdf
+- https://portal.core.edu.au/conf-ranks/?search=3SCEA&by=all&source=ICORE2026
+unverified:
+- The 2026 edition page (ufe.edu.eg/3scea2026) no longer loads; 2026 details come from the CFP flyer only
+- 2026 first-round submission deadline not recorded
+last_verified: 2026-11-27

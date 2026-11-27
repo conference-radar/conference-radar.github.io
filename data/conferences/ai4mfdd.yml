@@ -1,0 +1,53 @@
+id: ai4mfdd
+name: AI4MFDD
+full_name: Workshop on AI for Multimedia Forensics and Disinformation Detection
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (University of Warwick SIP Lab, Deakin University, Sapienza University of Rome, La Rochelle Universite); IAPR TC6 technical sponsor
+organizer_country: [europe, australia]
+proceedings: ECCV 2026 Workshops proceedings (Springer and/or ECVA)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://warwick.ac.uk/fac/sci/dcs/research/siplab/ai4mfdd2026
+notes:
+- Workshop on deepfake and forgery detection, disinformation detection, provenance analysis and anti-forensics, with a focus on multimodal methods
+- 1st edition at ICPR 2022, 2nd at WACV 2025, 3rd at ECCV 2026 in Malmo; the host conference changes each time
+- Run by the Signal and Information Processing Lab at the University of Warwick, technically sponsored by IAPR TC6 (Computational Forensics)
+- Papers follow the ECCV 2026 template; accepted papers are published by Springer and/or ECVA with the ECCV workshops
+- Submission via OpenReview; IAPR TC6 Best Paper Award
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: Third edition, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://warwick.ac.uk/fac/sci/dcs/research/siplab/ai4mfdd2026
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    label: Extended from June 24
+  - kind: notification
+    date: 2026-07-31
+    label: Moved from July 22
+  - kind: camera_ready
+    date: 2026-08-12
+sources:
+- https://warwick.ac.uk/fac/sci/dcs/research/siplab/ai4mfdd2026
+- https://warwick.ac.uk/fac/sci/dcs/research/siplab/AI4MFDD2026/submission/
+- https://warwick.ac.uk/fac/sci/dcs/research/siplab/AI4MFDD2026/committees/
+- https://warwick.ac.uk/fac/sci/dcs/research/siplab/AI4MFDD2026/program
+- https://warwick.ac.uk/fac/sci/dcs/research/siplab/ai4mfdd2025/
+- https://portal.core.edu.au/conf-ranks/?search=AI4MFDD&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadline time and zone not stated on the official page
+- Exact proceedings series (Springer LNCS volume or ECVA) not confirmed
+- Next edition and host conference not announced yet

@@ -1,0 +1,65 @@
+id: anfc
+name: ANFC
+full_name: International Conference on AI Principles in Advanced Networks and Future Communications
+type: conference
+tier: minor
+areas: [networking, communications, ai]
+region: europe
+language: english
+frequency: annual
+organizer: DTR Society (Digital Transformation Research Society)
+organizer_country: [usa]
+proceedings: DTR Society Press (ISSN 3071-3234, DTR Society Digital Library)
+archival: true
+typical:
+  deadline_months: [7, 9]
+  conference_months: [11]
+links:
+  website: https://www.dtrsociety.org/anfc2027/
+notes:
+- New conference run by DTR Society (registered in Newark, Delaware, USA); 1st edition 2025 near Nice, 2nd 2026 in Lisbon, 3rd 2027 near Barcelona
+- Hybrid, with on-site and remote presentation
+- Papers published by DTR Society Press with ISBN and ISSN and in the DTR Society Digital Library
+- Not yet indexed; the organizer says Scopus, DBLP and Google Scholar indexing is planned
+- 2027 page uses the name International Conference on Advanced Networking and Future Communications
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-11-01
+  end: 2026-11-05
+  location: Lisbon, Portugal
+  url: https://www.dtrsociety.org/anfc2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-01
+  - kind: notification
+    date: 2026-09-18
+  - kind: other
+    date: 2026-10-03
+    label: Registration
+  - kind: camera_ready
+    date: 2026-10-10
+- year: 2027
+  start: 2027-11-14
+  end: 2027-11-18
+  location: Cornellà de Llobregat (Barcelona), Spain
+  url: https://www.dtrsociety.org/anfc2027/
+  deadlines:
+  - kind: submission
+    date: 2027-07-15
+  - kind: notification
+    date: 2027-08-23
+  - kind: other
+    date: 2027-09-02
+    label: Registration
+  - kind: camera_ready
+    date: 2027-09-09
+sources:
+- https://www.dtrsociety.org/anfc2027/
+- https://www.dtrsociety.org/anfc2026/
+- https://www.dtrsociety.org/anfc2025/
+- https://portal.core.edu.au/conf-ranks/?search=ANFC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Acceptance rate and fees not recorded
+- Only three editions so far; region judged from Nice 2025, Lisbon 2026 and Barcelona 2027

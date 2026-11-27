@@ -1,0 +1,79 @@
+id: flics
+name: FLICS
+full_name: IEEE International Conference on Federated Learning and Intelligent Computing Systems
+type: conference
+tier: minor
+areas: [ai, systems]
+region: europe
+language: english
+frequency: annual
+organizer: FLICS steering committee, technically co-sponsored by local IEEE sections
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [2]
+  conference_months: [6]
+links:
+  website: https://www.flics-conference.org/
+notes:
+- Conference on federated learning, distributed and intelligent computing systems
+- Technically co-sponsored by the IEEE section of the host country (2026 IEEE Spain Section; 2027 IEEE Italy Section, IEEE Computer Society Italy Chapter and IEEE SMC Italy Chapter)
+- 2026 proceedings in IEEE Xplore
+- Hybrid format; held in Europe (2025 Vienna, 2026 Valencia, 2027 Naples)
+- Full paper track plus workshops and special sessions with a later paper deadline
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Valencia, Spain (hybrid)
+  url: https://www.flics-conference.org/editions/flics2026/index.php
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+  - kind: notification
+    date: 2026-04-15
+  - kind: camera_ready
+    date: 2026-05-05
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-16
+  location: Naples, Italy (hybrid)
+  url: https://www.flics-conference.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-02-20
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2027-04-15
+    label: Full papers
+  - kind: camera_ready
+    date: 2027-05-05
+    label: Full papers
+  - kind: submission
+    date: 2027-04-28
+    label: Workshop and special session papers
+  - kind: notification
+    date: 2027-05-05
+    label: Workshop and special session papers
+  - kind: camera_ready
+    date: 2027-05-15
+    label: Workshop and special session papers
+sources:
+- https://www.flics-conference.org/
+- https://www.flics-conference.org/dates.php
+- https://www.flics-conference.org/versions.php
+- https://www.flics-conference.org/editions/flics2026/index.php
+- https://ieeexplore.ieee.org/xpl/conhome/11620591/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=FLICS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Edition numbering is unclear (the previous editions page lists a 2025 Vienna edition, but 2026 is called the second edition and 2027 the third)
+- 2027 proceedings publisher not stated on the 2027 page; IEEE Xplore assumed from the 2026 edition
+- 2027 workshop proposal deadline shown as December 20th, 2027 (after its own notification date), so it is left out

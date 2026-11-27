@@ -1,0 +1,49 @@
+id: cf-oshw
+name: CF-OSHW
+full_name: Workshop on Open-Source Hardware
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: OSHW workshop co-chairs (ETH Zurich, Politecnico di Torino, UPM, University of Modena and Reggio Emilia); co-located with ACM Computing Frontiers
+organizer_country: [europe]
+proceedings: ACM DL (CF workshop proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://cfwosh2026.github.io/
+notes:
+- Workshop on open-source hardware co-located with the ACM International Conference on Computing Frontiers (CF)
+- Topics include open-source processors, memory and I/O, EDA tools, FPGA and ASIC design, firmware, compilers, verification, energy efficiency and hardware security
+- Papers up to 4 pages in the double-column ACM format, with a link to a public repository (for example GitHub)
+- Double-blind review; accepted papers appear in the ACM Digital Library together with the CF papers
+- At least one author needs a full CF registration and papers are presented in person
+- 2026 was the 4th edition, held with CF'26 in Catania, Italy
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-19
+  end: 2026-05-21
+  location: Catania, Sicily, Italy (ACM CF'26)
+  url: https://cfwosh2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-03-23
+  - kind: notification
+    date: 2026-04-13
+  - kind: camera_ready
+    date: 2026-04-20
+sources:
+- https://cfwosh2026.github.io/
+- https://www.computingfrontiers.org/2027/
+- https://portal.core.edu.au/conf-ranks/?search=OSHW&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within CF'26 not stated; dates shown are the host conference dates
+- Time zone of the 2026 deadlines not stated
+- CF'27 (25 to 27 May 2027, Trento) has not yet announced its workshops, so a 2027 edition is not confirmed
+- Earlier editions not checked (their sites did not render without JavaScript)
+last_verified: 2026-11-27

@@ -1,0 +1,67 @@
+id: iaria-energy
+name: ENERGY
+full_name: International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies
+type: conference
+tier: minor
+areas: [communications, networking]
+region: europe
+language: english
+frequency: annual
+organizer: IARIA
+organizer_country: [usa]
+proceedings: IARIA Press (IARIA ThinkMind Digital Library); prints via Curran Associates
+archival: true
+rank:
+  core: null
+typical:
+  deadline_months: [12, 2]
+  conference_months: [3, 5]
+links:
+  website: https://www.iaria.org/conferences2027/ENERGY27.html
+notes:
+- Organized by IARIA as part of the InfoSys congress, co-located with ICNS, ICAS, WEB, DBKDA, SIGNAL, BIOTECHNO and AIHealth (17th edition in 2027)
+- Covers smart grids, green communications and networking, energy-efficient data centers, e-mobility and energy-aware computing
+- Published open access in the IARIA ThinkMind library (ISSN 2308-412X); prints via Curran Associates; selected papers invited to IARIA journals
+- Not ranked by CORE; IARIA events are generally regarded as low-selectivity
+- Held in southern Europe (Valencia 2026, Venice 2027); IARIA deadlines are often extended
+editions:
+- year: 2026
+  start: 2026-03-08
+  end: 2026-03-12
+  location: Valencia, Spain
+  url: https://www.iaria.org/conferences2026/ENERGY26.html
+  deadlines:
+  - kind: submission
+    date: 2025-12-05
+  - kind: notification
+    date: 2026-01-05
+  - kind: other
+    date: 2026-01-18
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-02-01
+- year: 2027
+  start: 2027-05-23
+  end: 2027-05-27
+  location: Venice, Italy
+  url: https://www.iaria.org/conferences2027/ENERGY27.html
+  deadlines:
+  - kind: submission
+    date: 2027-02-01
+  - kind: notification
+    date: 2027-03-28
+  - kind: other
+    date: 2027-04-11
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-04-18
+sources:
+- https://www.iaria.org/conferences2027/ENERGY27.html
+- https://www.iaria.org/conferences2026/ENERGY26.html
+- https://portal.core.edu.au/conf-ranks/?search=ENERGY&by=all&source=ICORE2026
+unverified:
+- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- Deadlines differ for special tracks; no time or time zone stated
+- Indexing not stated on the official page beyond the Library of Congress ISSN registration
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-27

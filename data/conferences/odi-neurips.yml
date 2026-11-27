@@ -1,0 +1,54 @@
+id: odi-neurips
+name: ODI
+full_name: "On-Device Intelligence: Foundation Models under Real-World Constraints (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ODI workshop organizers (ETH Zurich, MPI for Intelligent Systems, ELLIS Institute Tuebingen, MIT); co-located with NeurIPS
+organizer_country: [europe, usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://odi2026.github.io/
+notes:
+  - NeurIPS workshop on on-device foundation models under compute, memory, energy, latency and connectivity constraints
+  - Topics include compression and quantization, efficient adaptation and inference, embodied and multimodal on-device AI, private local execution and benchmarks
+  - Held at NeurIPS 2026, ICC Sydney (room MR C3.6), 12 December 2026
+  - Non-archival with double-blind review on OpenReview
+  - Short papers up to 5 pages in NeurIPS style, references and appendix excluded
+  - In-person workshop; at least one author of each accepted paper is expected to present in Sydney
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-12
+    end: 2026-12-12
+    location: Sydney, Australia (ICC Sydney, with NeurIPS 2026)
+    url: https://odi2026.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        time: "23:59"
+        tz: AoE
+        label: Papers, extended from 2026-08-29
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+sources:
+  - https://odi2026.github.io/
+  - https://odi2026.github.io/content/dates.md
+  - https://odi2026.github.io/content/topics.md
+  - https://odi2026.github.io/content/organizers.md
+  - https://neurips.cc/virtual/2026/workshop/137496
+  - https://portal.core.edu.au/conf-ranks/?search=ODI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready deadline not stated on the official site
+  - Edition number not stated; no earlier edition found
+  - No 2027 edition announced as of 2026-11-27

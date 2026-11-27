@@ -1,0 +1,59 @@
+id: limits
+name: LIMITS
+full_name: Workshop on Computing within Limits
+type: conference
+tier: minor
+areas: [general, systems]
+region: online
+language: english
+frequency: annual
+organizer: LIMITS workshop community (2026 co-chairs Oliver Bates, Christoph Becker and Daniel Pargman)
+organizer_country: [international]
+proceedings: arXiv (post-workshop proceedings) and workshop website
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://computingwithinlimits.org/2026/
+notes:
+- Standalone annual workshop since 2015 on computing in a world of ecological, material and social limits (sustainability, collapse, degrowth)
+- Online via Zoom since at least 2024, distributed through optional local LIMITS-hubs; attendance is free but registration is required
+- Peer-reviewed papers of 5 to 10 pages in ACM double-column format without ACM copyright; reviewing is non-blind
+- Papers are freely available on the workshop website and post-workshop proceedings are published on arXiv, with copyright kept by the authors
+- Alternative contributions (sessions, art, stories) are accepted for open space sessions
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 12th LIMITS
+  start: 2026-06-23
+  end: 2026-06-25
+  location: Online
+  url: https://computingwithinlimits.org/2026/
+  deadlines:
+  - kind: abstract
+    date: 2026-03-27
+    time: "23:59"
+    tz: AoE
+  - kind: submission
+    date: 2026-04-03
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-05-01
+    label: Alternative contributions proposal
+  - kind: notification
+    date: 2026-05-15
+    label: Paper reviews available
+  - kind: camera_ready
+    date: 2026-06-01
+sources:
+- https://computingwithinlimits.org/2026/
+- https://computingwithinlimits.org/2025/
+- https://computingwithinlimits.org/2024/
+- https://portal.core.edu.au/conf-ranks/?search=LIMITS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The 2026 page also shows earlier dates in brackets (abstract March 20, paper "March 24st"), likely the original deadlines before an extension
+- No 2027 edition announced yet
+- arXiv post-proceedings are not a formal series, so the venue is marked non-archival

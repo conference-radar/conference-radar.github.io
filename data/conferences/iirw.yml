@@ -1,0 +1,60 @@
+id: iirw
+name: IIRW
+full_name: IEEE International Integrated Reliability Workshop
+type: conference
+tier: minor
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE, with the IEEE Electron Devices Society (EDS) and IEEE Reliability Society (RS) as sponsors
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [10]
+links:
+  website: https://www.iirw.org/
+notes:
+- Workshop on semiconductor device reliability; originated in 1982 as the Wafer Level Reliability Workshop and renamed in 1993
+- Covers device, memory, circuit and system reliability, wafer-level testing, ESD, failure analysis and power electronics (SiC, GaN) reliability
+- Submission is a 2-page extended abstract; accepted authors write a final paper, with a mentor assigned to each paper
+- Accepted papers are published in the IIRW proceedings on IEEE Xplore
+- The best five papers are invited to a special issue of IEEE Transactions on Device and Materials Reliability (TDMR)
+- Informal retreat format at the Stanford Sierra Conference Center, Fallen Leaf Lake near South Lake Tahoe; the fee includes lodging and all meals
+- Late news papers (4 pages, camera-ready) are accepted in September
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-10-04
+  end: 2026-10-08
+  location: Stanford Sierra Conference Center, South Lake Tahoe, CA, USA
+  url: https://www.iirw.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-07-05
+    label: Regular 2-page extended abstract (CFP gave 2026-06-14)
+  - kind: notification
+    date: 2026-07-26
+  - kind: submission
+    date: 2026-09-04
+    label: Full paper
+  - kind: other
+    date: 2026-09-13
+    label: Late news papers
+  - kind: camera_ready
+    date: 2026-09-25
+    label: Final paper
+sources:
+- https://www.iirw.org/
+- https://www.iirw.org/publication
+- https://www.iirw.org/history
+- https://www.iirw.org/registration
+- https://drive.google.com/uc?export=download&id=1sif1O1cMScouzyZ6u6_u9ikvAQiu52jU
+- https://portal.core.edu.au/conf-ranks/?search=IIRW&by=all&source=ICORE2026
+unverified:
+- IIRW 2027 dates and deadlines not yet announced
+- Sponsors (IEEE, EDS, RS) are shown only as logo links on the home page, not named in text
+- Region assumed from the long-standing Stanford Sierra Conference Center venue; past host venues not checked edition by edition
+last_verified: 2026-11-27

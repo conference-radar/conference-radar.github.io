@@ -1,0 +1,63 @@
+id: 4dmr
+name: 4DMR
+full_name: Challenge and Workshop for 4D Micro-Expression Analysis for Mind Reading
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (Yante Li, Xiaobai Li, Hui Yu, Patrick Le Callet); co-located with IJCAI
+organizer_country: [china, europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [6, 7]
+  conference_months: [8]
+links:
+  website: https://jingjingchen-pro.github.io/4DMR2026/
+notes:
+  - Workshop plus a 4D micro-expression recognition challenge on Kaggle, using the 4DME dataset
+  - "Organizers: Yante Li (CAAS Agricultural Information Institute), Xiaobai Li (Zhejiang University and University of Oulu), Hui Yu (University of Glasgow), Patrick Le Callet (University of Nantes)"
+  - 1st edition at IJCAI 2025 (29 Aug 2025, Montreal and Guangzhou), papers in CEUR Workshop Proceedings
+  - 2nd edition at IJCAI-ECAI 2026 in Bremen, workshop WS09, half day on 17 Aug 2026
+  - 2026 papers in Springer LNCS format (full 12, short 6, poster 4 pages), published in Springer LNCS
+  - Each paper must be presented onsite by an author
+  - Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+  - year: 2025
+    start: 2025-08-29
+    end: 2025-08-29
+    location: Montreal, Canada and Guangzhou, China (with IJCAI 2025)
+    url: https://jingjingchen-pro.github.io/4DMR2025/
+    deadlines:
+      - kind: submission
+        date: 2025-06-13
+      - kind: camera_ready
+        date: 2025-06-13
+  - year: 2026
+    start: 2026-08-17
+    end: 2026-08-17
+    location: Bremen, Germany (with IJCAI-ECAI 2026)
+    url: https://jingjingchen-pro.github.io/4DMR2026/
+    status: confirmed
+    deadlines:
+      - kind: abstract
+        date: 2026-07-01
+      - kind: submission
+        date: 2026-07-07
+sources:
+  - https://jingjingchen-pro.github.io/4DMR2026/
+  - https://jingjingchen-pro.github.io/4DMR2025/
+  - https://2026.ijcai.org/accepted-workshops/
+  - https://2025.ijcai.org/workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=4DMR&by=all&source=ICORE2026
+unverified:
+  - 2026 notification date on the official page (5 Jul) is earlier than the extended submission deadline (7 Jul), so it is left out
+  - 2025 notification date unclear (6 Jun, extension notice says 7 Jun); 2025 submission deadline was extended several times, last to 13 Jun
+  - The 2026 page says 15-17 Aug (IJCAI-ECAI workshop days); the IJCAI-ECAI 2026 workshop list gives 17 Aug
+  - No 2027 edition announced as of 2026-11-27
+last_verified: 2026-11-27

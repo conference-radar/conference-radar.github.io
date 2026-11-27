@@ -1,0 +1,58 @@
+id: ai4td
+name: AI4TD
+full_name: International Workshop on AI for Technical Debt Management in Agile Software Development
+type: workshop
+tier: minor
+areas: [software, ai]
+region: latin-america
+language: english
+organizer: AI4TD organizing committee (University of Oslo, SINTEF, TU Eindhoven, Knowit, Visma), held with XP
+organizer_country: [europe]
+proceedings: Springer (XP post-conference proceedings, long and short papers)
+archival: true
+typical:
+  deadline_months: [1, 2]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/track/xp-2026/xp-2026-international-workshop-on-ai-for-technical-debt-management-in-agile-software-development--ai4td-
+notes:
+- Research workshop of XP (International Conference on Agile Software Development) on how AI creates and helps manage technical debt in agile development
+- First edition at XP 2026 in Sao Paulo, Brazil; XP 2027 is in Tampere, Finland
+- Long papers up to 9 pages, discussion papers and industrial experience reports up to 6 pages, tool or method demos up to 4 pages and lightning talks up to 2 pages, Springer LNCS template
+- Single-blind review with at least three reviews per paper
+- Accepted long and short papers appear in the digital library (Springer XP post-conference proceedings); tool demos and lightning talks are not published
+- Best papers may be invited to a journal special issue (tentative)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Sao Paulo, Brazil (Insper, with XP 2026)
+  url: https://conf.researchr.org/track/xp-2026/xp-2026-international-workshop-on-ai-for-technical-debt-management-in-agile-software-development--ai4td-
+  deadlines:
+  - kind: submission
+    date: 2026-02-04
+    tz: AoE
+    label: Workshop papers (CFP text gave 31 Jan 2026)
+  - kind: other
+    date: 2026-03-04
+    label: Tool or method demos and lightning talks
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+    label: Workshop papers
+  - kind: notification
+    date: 2026-03-09
+    label: Tool or method demos and lightning talks
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+    label: Workshop papers (CFP text gave 24 Apr 2026)
+sources:
+- https://conf.researchr.org/track/xp-2026/xp-2026-international-workshop-on-ai-for-technical-debt-management-in-agile-software-development--ai4td-
+- https://conf.researchr.org/track/xp-2027/xp-2027-research-and-practice-workshops
+- https://portal.core.edu.au/conf-ranks/?search=AI4TD&by=all&source=ICORE2026
+unverified:
+- Whether AI4TD returns at XP 2027 (workshop proposals due 9 Dec 2026); no 2027 edition announced as of 2026-11-27
+- Springer series of the XP 2026 workshop post-proceedings (LNBIP or other) not named on the workshop page; volume not checked
+last_verified: 2026-11-27

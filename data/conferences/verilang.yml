@@ -1,0 +1,50 @@
+id: verilang
+name: VeriLang
+full_name: Workshop on Verification Languages
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: VeriLang organizing committee, co-located with ECOOP
+organizer_country: [other, europe]
+proceedings: ACM DL (ECOOP-C'26 companion proceedings, open access)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://2026.ecoop.org/track/verilang-2026-verilang-2026
+notes:
+- Organized by researchers from Universidad de los Andes, Pontificia Universidad Javeriana (Colombia), University of Bologna and IMDEA Software Institute
+- New workshop in 2026 (1st edition), co-located with ECOOP 2026 at Vrije Universiteit Brussel
+- Cross-community forum on verification languages and proof assistants (Coq, Lean, Agda, Athena, Liquid Haskell, Maude, ...)
+- Papers published open access in the ACM Digital Library as part of the ECOOP-C'26 proceedings; ECOOP pays the APCs
+- Full papers up to 12 pages and short papers up to 6 pages, excluding references, ACM sigplan format, via EasyChair
+- Program includes a Verification Challenge solved with the participants' languages of choice
+- Not listed in ICORE2026 (portal search returns no results) or the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st VeriLang
+  start: 2026-06-29
+  end: 2026-06-29
+  location: Brussels, Belgium (with ECOOP 2026)
+  url: https://2026.ecoop.org/track/verilang-2026-verilang-2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-14
+    tz: AoE
+  - kind: notification
+    date: 2026-04-24
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-08
+    tz: AoE
+sources:
+- https://2026.ecoop.org/track/verilang-2026-verilang-2026
+- https://portal.core.edu.au/conf-ranks/?search=VeriLang&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-11-27
+unverified:
+- Whether VeriLang continues at ECOOP 2027 not announced as of 2026-11-27, so annual frequency is assumed

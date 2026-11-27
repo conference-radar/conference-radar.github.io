@@ -1,0 +1,73 @@
+id: gecoin
+name: GeCoIn
+full_name: Generative Code Intelligence Workshop
+type: workshop
+tier: minor
+areas: [ai, software, security]
+region: europe
+language: english
+frequency: annual
+organizer: Organizers from University of Parma, Ca' Foscari University of Venice and Imperial College London; co-located with ECAI or IJCAI-ECAI
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+indexing: [DBLP, Scopus]
+typical:
+  deadline_months: [5, 8]
+  conference_months: [8, 10]
+links:
+  website: https://gecoin-workshop.github.io/
+notes:
+- Workshop on generative AI for code, with a focus on security, safety, verification and software engineering of AI-generated code
+- First edition at ECAI 2025 (Bologna), second at IJCAI-ECAI 2026 (Bremen)
+- Regular papers up to 8 pages excluding references in CEUR single-column format; abstract-only oral presentations also accepted
+- Double-blind review with at least three PC reviews, submission via EasyChair
+- Regular papers in CEUR Workshop Proceedings (2025 is CEUR-WS Vol-4075)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-10-26
+  end: 2025-10-26
+  location: Bologna, Italy (with ECAI 2025)
+  url: https://gecoin-workshop.github.io/past_editions/2025/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-01
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2025-09-08
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2025-09-28
+    time: "23:59"
+    tz: AoE
+- year: 2026
+  start: 2026-08-16
+  end: 2026-08-16
+  location: Bremen, Germany (with IJCAI-ECAI 2026)
+  url: https://gecoin-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-21
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (earlier date May 14 replaced)
+  - kind: notification
+    date: 2026-06-12
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://gecoin-workshop.github.io/
+- https://gecoin-workshop.github.io/past_editions/2025/index.html
+- https://ceur-ws.org/Vol-4075/
+- https://portal.core.edu.au/conf-ranks/?search=GeCoIn&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- CEUR-WS volume for the 2026 edition not found yet
+- No 2027 edition announced as of 2026-11-27

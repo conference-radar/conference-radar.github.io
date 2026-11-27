@@ -1,0 +1,53 @@
+id: agenticls
+name: AgenticLS
+full_name: "Agentic AI for Biological Discovery: Toward Closed-Loop Life-Science Intelligence (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AgenticLS workshop organizers (Princeton University, GenBio AI and MBZUAI, Genentech, OpenAI, Heidelberg University Hospital); co-located with NeurIPS
+organizer_country: [usa, europe, other]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://agenticls.github.io/
+notes:
+  - NeurIPS workshop on agentic AI systems for life science, from scientific copilots to closed-loop autonomous labs
+  - Two tracks, building agentic systems for life science, and closed-loop discovery and applications
+  - Held at NeurIPS 2026, Sydney (Grand Ballroom B1), 11 December 2026
+  - Full papers up to 9 pages and extended abstracts up to 4 pages, references and appendices excluded
+  - Non-archival with double-blind review on OpenReview, up to three reviews per paper
+  - Dual submissions allowed, except work already published at NeurIPS, ICML or ICLR
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://agenticls.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-26
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2026-09-29
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://agenticls.github.io/
+  - https://agenticls.github.io/cfp.html
+  - https://agenticls.github.io/organizers.html
+  - https://neurips.cc/virtual/2026/workshop/137498
+  - https://portal.core.edu.au/conf-ranks/?search=AgenticLS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready deadline given only as mid-October 2026
+  - Edition number not stated; no earlier edition found
+  - No 2027 edition announced as of 2026-11-27

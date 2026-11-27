@@ -1,0 +1,48 @@
+id: sfm-dl
+name: SFM-DL
+full_name: Workshop on Structure-from-Motion in the Age of Deep Learning
+type: workshop
+tier: minor
+areas: [vision]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizers (Politecnico di Milano, ETH Zurich, University of Udine, KTH, Lund University, CVUT Prague, FBK, Meta)
+organizer_country: [europe]
+proceedings: ECCV 2026 Workshops proceedings (Springer / ECVA)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://sfm-dl.fbk.eu/
+notes:
+  - Workshop on Structure-from-Motion combining classical multi-view geometry and minimal solvers with learned components
+  - First held with ECCV 2026 in Malmo (morning of 9 September)
+  - Double-blind review by at least three reviewers via OpenReview; follows ECCV 2026 submission policies
+  - Accepted papers go into the ECCV 2026 proceedings, made public by Springer and/or ECVA
+  - 8 accepted papers in 2026, all with spotlight and poster
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with ECCV 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026)
+    url: https://sfm-dl.fbk.eu/
+    deadlines:
+      - kind: submission
+        date: 2026-07-17
+        label: Extended
+      - kind: notification
+        date: 2026-07-31
+      - kind: camera_ready
+        date: 2026-08-15
+sources:
+  - https://sfm-dl.fbk.eu/
+  - https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/SFM-DL
+  - https://portal.core.edu.au/conf-ranks/?search=SFM-DL&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Treated as a first edition; the site does not mention earlier editions
+  - Next edition not announced yet

@@ -1,0 +1,54 @@
+id: spf-llm
+name: SPF-LLM
+full_name: Security and Privacy Foundations for Large Language Models
+type: workshop
+tier: minor
+areas: [security, ai, nlp]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers (Northeastern University, University of Washington Tacoma, Capital One, Synopsys, Microsoft, Cisco), held with AAAI-27
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://spf-llm-2026.github.io/spf-llm-workshop.github.io/
+notes:
+- AAAI-27 workshop on security and privacy risks of LLMs (architecture, training, context handling, tool use, multi-agent coordination) and defenses
+- Chaired by Shanu Sushmita (Northeastern University, Seattle)
+- First edition; no earlier edition is mentioned
+- All accepted papers are non-archival; work accepted at the AAAI-27 main track may not appear at the workshop
+- Full papers up to 6 pages (oral), posters up to 4 pages, works in progress up to 2 pages, AAAI format, OpenReview
+- In person at Palais des congres, Montreal
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2027
+  label: With AAAI-27
+  start: 2027-02-22
+  end: 2027-02-22
+  location: Palais des congres, Montreal, Canada (with AAAI-27)
+  url: https://spf-llm-2026.github.io/spf-llm-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+  - kind: notification
+    date: 2026-12-02
+    tz: AoE
+sources:
+- https://spf-llm-2026.github.io/spf-llm-workshop.github.io/
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+- https://portal.core.edu.au/conf-ranks/?search=SPF-LLM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Workshop day taken from the AAAI-27 program (Monday Feb 22); the workshop page says Feb 22-23, 2027
+- Review mode unclear; the workshop page says double-blind, the AAAI-27 list says single-blind
+- Camera-ready date not announced
+- Whether the workshop will recur after AAAI-27 is unknown

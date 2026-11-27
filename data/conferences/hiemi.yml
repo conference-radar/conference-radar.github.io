@@ -1,0 +1,60 @@
+id: hiemi
+name: HIEMI
+full_name: International Workshop on Hybrid Intelligence for Internet of Everything Models and Implementations
+type: workshop
+tier: minor
+areas: [ai, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: University of Salerno and New Jersey Institute of Technology (general chairs), with DCOSS-IoT
+organizer_country: [europe, usa]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://hiemi-workshop.github.io/2026
+notes:
+- Held in conjunction with IEEE DCOSS-IoT; 2nd edition at DCOSS-IoT 2026 in Reykjavik (Askja, University of Iceland), listed again for DCOSS-IoT 2027 in Montreal
+- Formerly the International Workshop on Hybrid Internet of Everything Models for Industry 5.0
+- Accepted and presented papers to be submitted to IEEE Xplore
+- Workshop papers 6 pages and work-in-progress papers 4 pages including references, IEEE two-column format
+- Single-blind review with at least two reviews per paper; submission via EasyChair
+- DCOSS-IoT 2026 programme at a glance places HIEMI (with SmaCE and LS-NoT) on Wednesday, June 24
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd HIEMI (at DCOSS-IoT 2026)
+  start: 2026-06-24
+  end: 2026-06-24
+  location: Reykjavik, Iceland (with DCOSS-IoT 2026)
+  url: https://hiemi-workshop.github.io/2026
+  deadlines:
+  - kind: abstract
+    date: 2026-05-03
+  - kind: submission
+    date: 2026-05-06
+  - kind: notification
+    date: 2026-05-12
+  - kind: camera_ready
+    date: 2026-05-20
+- year: 2027
+  label: HIEMI 2027 (at DCOSS-IoT 2027)
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada (with DCOSS-IoT 2027)
+  url: https://dcoss.org/
+sources:
+- https://hiemi-workshop.github.io/2026
+- https://dcoss.org/
+- https://dcoss.org/dcoss2026/wp-content/uploads/2026/06/DCOSS-IoT_programme_2026_v04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=HIEMI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadline time zone not stated on the workshop site
+- 1st edition dates and venue not given on the workshop site
+- HIEMI 2027 workshop day and deadlines not yet announced; dates shown are the DCOSS-IoT 2027 conference dates

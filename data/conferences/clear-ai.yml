@@ -1,0 +1,53 @@
+id: clear-ai
+name: CLEAR
+full_name: "CLEAR: Collaborative Methods and Tools for Engineering and Evaluating Transparency in AI"
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: CLEAR organizers (Umeå University, Leiden University, Tilburg University)
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://clear-ws.github.io/2026/
+notes:
+- Workshop on methods and tools for engineering and evaluating transparency in AI systems
+- Not the same venue as CLeaR, the Conference on Causal Learning and Reasoning (clear.yml)
+- 2025 edition held at ECAI 2025 in Bologna; 2026 edition held at IJCAI-ECAI 2026 in Bremen (WS28)
+- 2026 proceedings via CEUR-WS; papers up to 15 pages excluding references in CEUR format
+- Anonymised submissions via OpenReview, at least two reviewers per paper
+- At least one author must register for the workshop and IJCAI-ECAI 2026
+- A special section in the ACM Journal on Responsible Computing followed the 2025 edition
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-16
+  end: 2026-08-16
+  location: Bremen, Germany (with IJCAI-ECAI 2026)
+  url: https://clear-ws.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    tz: AoE
+  - kind: notification
+    date: 2026-06-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-15
+    tz: AoE
+sources:
+- https://clear-ws.github.io/2026/
+- https://clear-ws.github.io/2025/
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=CLEAR&by=all&source=ICORE2026
+unverified:
+- CEUR-WS volume number for the 2026 edition not found
+- Exact date of the 2025 edition at ECAI 2025 not stated on the official page
+- CLEAR 2027 not announced yet
+last_verified: 2026-11-27

@@ -1,0 +1,50 @@
+id: finfm-aaai
+name: FinFM
+full_name: "FinFM: Foundation Models and Generative AI for Finance (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: FinFM workshop organizers (University of Oxford, FinHorizons Foundation); co-located with AAAI
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://finfm.finhorizons.org/
+notes:
+  - AAAI workshop on foundation models and generative AI for finance, with a research track and a benchmark track
+  - 1st edition at AAAI-27 in Montreal, one day on Monday 22 February 2027
+  - Non-archival, no proceedings; submissions on OpenReview stay private, camera-ready PDFs optionally posted on the workshop site
+  - Long papers up to 7 pages and short papers up to 4 pages of technical content, AAAI-27 template, unlimited references and appendices
+  - Double-blind review on OpenReview with at least two reviews and a meta-review per paper
+  - Best Paper and Best Benchmark awards; at least one author must attend in person
+  - Submission deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    start: 2027-02-22
+    end: 2027-02-22
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://finfm.finhorizons.org/
+    deadlines:
+      - kind: submission
+        date: 2026-11-23
+        time: "23:59"
+        tz: AoE
+        label: Papers (extended from Nov 20)
+      - kind: notification
+        date: 2026-12-02
+sources:
+  - https://finfm.finhorizons.org/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=FinFM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date not stated
+  - Workshop site still lists the day as February 22 or 23; February 22 is from the AAAI-27 workshop schedule

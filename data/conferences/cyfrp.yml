@@ -1,0 +1,52 @@
+id: cyfrp
+name: CyFRP
+full_name: "Advances in Interdisciplinary Cybersecurity: Insights from Funded Research Projects (EICC special session)"
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: CyFRP co-chairs (Damjan Fujs, University of Ljubljana; Simon Vrhovec, University of Maribor), special session of EICC
+organizer_country: [europe]
+proceedings: Springer CCIS (EICC proceedings)
+archival: true
+typical:
+  deadline_months: [3]
+  conference_months: [6]
+links:
+  website: https://www.fvv.um.si/eicc2026/cyfrp/
+notes:
+- Special session of the European Interdisciplinary Cybersecurity Conference (EICC) for national and EU-funded research projects to present results and find collaborators
+- Held with EICC (Rennes 2025, Darmstadt 2026)
+- Single-blind review, unlike the EICC main track; papers may name projects and funding
+- Accepts very short papers (5 pages or less) besides full (12 to 16 pages) and short (6 to 11 pages) papers
+- Submitted through the EICC EasyChair (CyFRP track); papers published by Springer Nature in CCIS as part of the EICC proceedings
+- Papers under 4 pages may be moved to the back matter and are then not indexed
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-18
+  location: Darmstadt, Germany (with EICC 2026)
+  url: https://www.fvv.um.si/eicc2026/cyfrp/
+  deadlines:
+  - kind: submission
+    date: 2026-03-08
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-03-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-04-05
+    tz: AoE
+sources:
+- https://www.fvv.um.si/eicc2026/cyfrp/
+- https://www.fvv.um.si/eicc2025/cyfrp/
+- https://www.fvv.um.si/eicc2027/
+- https://portal.core.edu.au/conf-ranks/?search=CyFRP&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- CyFRP 2027 not announced yet; the EICC 2027 site (Paris, June 2027) does not mention a CyFRP session
+- Original (pre-extension) 2026 submission deadline not shown on the site

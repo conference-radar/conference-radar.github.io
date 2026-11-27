@@ -1,0 +1,49 @@
+id: detap
+name: DeTaP
+full_name: 'Workshop on Decentralisation: Theory and Practice'
+type: workshop
+tier: minor
+areas: [crypto, systems]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizers from the University of Edinburgh (Blockchain Technology Lab); co-located with AFT
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://blockchain-technology-lab.github.io/DeTaP/
+notes:
+- Afternoon workshop (13:30 to 17:00) on defining, measuring and governing decentralisation in blockchains and other systems,
+  including legal and normative angles
+- 1st edition held with AFT 2026 in London (Space House, near the LSE venue)
+- No proceedings; authors may optionally post papers on the workshop website
+- Submissions are a title and talk abstract, with an optional full or short paper; work published or under
+  review elsewhere is welcome
+- Free to attend, registration required and places limited
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st DeTaP, with AFT 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: London, UK (with AFT 2026)
+  url: https://blockchain-technology-lab.github.io/DeTaP/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    label: Talk abstract (extended from 2026-08-24)
+  - kind: notification
+    date: 2026-09-04
+    label: Author notification (moved from 2026-08-31)
+sources:
+- https://blockchain-technology-lab.github.io/DeTaP/
+- https://aft.ifca.ai/aft26/
+- https://portal.core.edu.au/conf-ranks/?search=DeTaP&by=all&source=ICORE2026
+unverified:
+- Time and time zone of the 2026 deadlines not stated
+- Second edition not announced as of 2026-11-27
+last_verified: 2026-11-27

@@ -1,0 +1,49 @@
+id: cqcs
+name: CQCS
+full_name: International Symposium on Quantum Computing and Communications Systems
+type: workshop
+tier: minor
+areas: [systems, communications, networking]
+region: worldwide
+language: english
+organizer: CQCS steering committee, alongside the Intelligent Cybersecurity Conference (ICSC)
+organizer_country: [international]
+proceedings: IEEE Xplore (ICSC proceedings)
+archival: true
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [8]
+  conference_months: [9]
+links:
+  website: https://cqcs-conference.net/CQCS2026/index.php
+notes:
+- New symposium on quantum computing and quantum communication systems, first held in 2026
+- Accepted papers appear in the IEEE proceedings of the IEEE Sixth Intelligent Cybersecurity Conference (ICSC 2026)
+- 2026 edition listed in Abu Dhabi alongside ICSC 2026 (which rotates between countries); the home page also says online only
+- Very short review cycle (about two weeks from submission to notification)
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2026
+  start: 2026-09-15
+  end: 2026-09-16
+  location: Abu Dhabi, UAE
+  url: https://cqcs-conference.net/CQCS2026/index.php
+  deadlines:
+  - kind: submission
+    date: 2026-08-06
+  - kind: notification
+    date: 2026-08-21
+  - kind: camera_ready
+    date: 2026-09-01
+sources:
+- https://cqcs-conference.net/CQCS2026/index.php
+- https://cqcs-conference.net/CQCS2026/dates.php
+- https://cqcs-conference.net/CQCS2026/committee.php
+- https://portal.core.edu.au/conf-ranks/?search=CQCS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Notification date is August 20 on the home page and August 21 on the key dates page
+- Whether the 2026 edition was in person, hybrid or online only is unclear
+- Frequency unknown; no 2027 edition announced

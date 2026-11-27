@@ -1,0 +1,69 @@
+id: secriot
+name: SecRIoT
+full_name: IEEE International Workshop on Security, Reliability of IoT Systems & Supply Chain Cybersecurity
+type: workshop
+tier: minor
+areas: [security, networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop chairs from the University of Thessaly, De Montfort University, Edinburgh Napier University and the
+  University of Iceland
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/secriot-2027/home
+notes:
+- Also written SecRIoT-SCC since the supply chain cybersecurity scope was added
+- Co-located with DCOSS-IoT since 2023; papers go into the DCOSS-IoT proceedings (IEEE Xplore)
+- Chairs from Greece (University of Thessaly) and the UK (De Montfort, Edinburgh Napier)
+- 8 pages including references, plus up to 2 appendix pages at 100 USD per page
+- 2019 to 2021 editions held in Greece (Santorini, Corfu, Preveza); no 2022 edition; 2027 in Montreal
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: Reykjavik, Iceland
+  url: https://sites.google.com/view/secriot2026
+  deadlines:
+  - kind: submission
+    date: 2026-04-23
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-05-22
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://sites.google.com/view/secriot-2027/home
+  deadlines:
+  - kind: submission
+    date: 2027-04-23
+  - kind: notification
+    date: 2027-05-15
+  - kind: camera_ready
+    date: 2027-05-22
+sources:
+- https://sites.google.com/view/secriot2026
+- https://sites.google.com/view/secriot2026/home/submission-guidelines
+- https://sites.google.com/view/secriot2026/home/past-events
+- https://sites.google.com/view/secriot-2027/home
+- https://www.dcoss.org/
+- https://dcoss.org/dcoss2026/
+- https://dcoss.org/dcoss2025/
+- https://api.crossref.org/works?query.container-title=Distributed+Computing+in+Smart+Systems+and+the+Internet+of+Things+DCOSS-IoT+2025
+- https://portal.core.edu.au/conf-ranks/?search=SecRIoT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Workshop site does not name the publisher; IEEE Xplore inferred from DCOSS-IoT camera-ready instructions and Crossref
+  records of the DCOSS-IoT proceedings
+- Deadline times and time zone not stated on the official site
+- Exact workshop day within the DCOSS-IoT dates not stated

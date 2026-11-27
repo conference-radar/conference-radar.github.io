@@ -1,0 +1,65 @@
+id: morevms
+name: MoreVMs
+full_name: International Workshop on Modern Language Runtimes, Ecosystems, and VMs
+type: workshop
+tier: minor
+areas: [software, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: MoreVMs organizers, co-located with ‹Programming› (2027 co-chairs from Tokyo Metropolitan University and Institute of Science Tokyo)
+organizer_country: [international]
+proceedings: ACM DL (‹Programming› conference companion, TBC)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3]
+links:
+  website: https://2027.programming-conference.org/home/MoreVMs-2027
+notes:
+- Workshop on language runtimes, virtual machines and their ecosystems, held with the ‹Programming› conference every year since 2017
+- Accepts talk proposals (title and 400 word abstract, no paper), extended abstracts of 2 to 4 pages in ACM format, and blog posts
+- Only accepted extended abstracts go into the ‹Programming› companion proceedings in the ACM DL (marked TBC on the site)
+- Follows ‹Programming›; Munich 2026, Kyoto 2027
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 10th edition
+  start: 2026-03-17
+  end: 2026-03-17
+  location: LMU Munich, Germany (with ‹Programming› 2026)
+  url: https://2026.programming-conference.org/home/MoreVMs-2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-17
+    tz: AoE
+    label: Pre-holiday
+  - kind: submission
+    date: 2026-01-12
+    tz: AoE
+    label: Post-holiday
+  - kind: notification
+    date: 2026-01-30
+    tz: AoE
+- year: 2027
+  label: 11th edition
+  start: 2027-03-16
+  end: 2027-03-16
+  location: Kyoto, Japan (with ‹Programming› 2027)
+  url: https://2027.programming-conference.org/home/MoreVMs-2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-14
+    tz: AoE
+  - kind: notification
+    date: 2027-01-15
+    tz: AoE
+sources:
+- https://2027.programming-conference.org/home/MoreVMs-2027
+- https://2026.programming-conference.org/home/MoreVMs-2026
+- https://2026.programming-conference.org/series/MoreVMs
+- https://2027.programming-conference.org/
+- https://portal.core.edu.au/conf-ranks/?search=MoreVMs&by=all&source=ICORE2026
+unverified:
+- Publication in the ACM DL companion is marked TBC on the 2026 and 2027 pages
+last_verified: 2026-11-27

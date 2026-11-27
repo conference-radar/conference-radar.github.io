@@ -1,0 +1,51 @@
+id: adaptfm
+name: AdaptFM
+full_name: "AdaptFM: Resource-Adaptive Foundation Model Inference (ICML Workshop)"
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AdaptFM workshop organizers (Amazon, MBZUAI, Meta Reality Labs, MPI-SWS); co-located with ICML
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://adaptfm.gitlab.io/
+notes:
+  - ICML workshop on resource-efficient and adaptive inference of foundation models (elastic architectures, early exit, MoE, speculative decoding, compression, HW/SW co-design)
+  - Held at ICML 2026 in Seoul
+  - Non-archival; work under submission elsewhere is accepted, but simultaneous submission to other ICML 2026 workshops is discouraged
+  - Full papers and short position or experience papers, up to 6 pages excluding references in ICML format; double-blind review on OpenReview
+  - Also ran an Efficient Qwen inference competition in 2026
+  - Not listed in ICORE2026 and not on the CCF list
+editions:
+  - year: 2026
+    label: With ICML 2026
+    start: 2026-07-11
+    end: 2026-07-11
+    location: Seoul, South Korea (co-located with ICML 2026)
+    url: https://adaptfm.gitlab.io/
+    deadlines:
+      - kind: submission
+        date: 2026-05-08
+        tz: AoE
+      - kind: notification
+        date: 2026-05-30
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-06-10
+        tz: AoE
+sources:
+  - https://adaptfm.gitlab.io/
+  - https://adaptfm.gitlab.io/call-for-papers/
+  - https://adaptfm.gitlab.io/committee/
+  - https://icml.cc/virtual/2026/workshop/54100
+  - https://portal.core.edu.au/conf-ranks/?search=AdaptFM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No 2027 edition announced as of 2026-11-27

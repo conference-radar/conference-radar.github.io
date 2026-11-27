@@ -1,0 +1,75 @@
+id: lm4uc
+name: LM4UC
+full_name: Workshop on Language Models for Underserved Communities
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizing committee led from Stanford University (with MLCommons, NUS, University of Luxembourg and others); co-located with major NLP and AI conferences
+organizer_country: [usa]
+proceedings: ACL Anthology (NAACL 2025 edition, archival track)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://lm4uc.github.io/
+notes:
+  - Workshop on language models for underserved and low-resource communities (benchmarks, multilingual alignment and safety, agentic systems)
+  - Host conference changes; 1st at NAACL 2025 (Albuquerque), 2nd at AAAI 2026 (Singapore), 3rd at IJCAI 2026 (Bremen, hybrid)
+  - NAACL 2025 edition had archival and non-archival tracks; archival papers are in the ACL Anthology (12 papers)
+  - 2026 IJCAI edition took long papers up to 8 pages and short papers up to 4 pages in the IJCAI style, via OpenReview
+  - Deadlines in AoE; the IJCAI 2026 page states 11:59 PM AoE
+  - Not ranked in ICORE2026 and not on the CCF list
+editions:
+  - year: 2026
+    label: 2nd LM4UC at AAAI 2026
+    start: 2026-01-27
+    end: 2026-01-27
+    location: Singapore EXPO, Singapore (AAAI 2026)
+    url: https://lm4uc.github.io/2026/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2025-11-24
+        tz: AoE
+        label: Papers (extended from November 14 and 20)
+      - kind: notification
+        date: 2025-12-12
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-01-10
+        tz: AoE
+  - year: 2026
+    label: 3rd LM4UC at IJCAI 2026
+    start: 2026-08-16
+    end: 2026-08-16
+    location: Bremen, Germany, hybrid (IJCAI 2026)
+    url: https://lm4uc.github.io/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-05-24
+        time: "23:59"
+        tz: AoE
+        label: Papers (extended from May 15)
+      - kind: notification
+        date: 2026-06-07
+        time: "23:59"
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-07-01
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://lm4uc.github.io/
+  - https://lm4uc.github.io/2026/
+  - https://lm4uc.github.io/2025/
+  - https://aclanthology.org/venues/lm4uc/
+  - https://portal.core.edu.au/conf-ranks/?search=LM4UC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - The 2026 (AAAI and IJCAI) pages do not say whether papers are archival or where they are published
+  - Next edition not announced as of 2026-11-27

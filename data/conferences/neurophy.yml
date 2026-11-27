@@ -1,0 +1,54 @@
+id: neurophy
+name: NeuroPHY
+full_name: Neuromorphic Physical Layer Signal Processing for Wireless Systems Workshop
+type: workshop
+tier: minor
+areas: [communications, ai]
+region: europe
+language: english
+organizer: NeuroPHY workshop co-chairs (workshop of EWSN)
+organizer_country: [europe]
+proceedings: ACM DL
+archival: true
+indexing: [ACM DL, Scopus]
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://ewsn-neurophy.github.io/2026/
+notes:
+- Workshop on neuromorphic computing for physical layer processing in wireless communication and sensing
+- 1st edition in 2026, co-located with EWSN 2026 in Dresden, Germany
+- Co-chaired by researchers from University of Brescia, University of Padova, Eurecom and DTU; endorsed by the MultiX Horizon JU-SNS project
+- Papers up to 6 pages all-inclusive in the EWSN-modified ACM format, double-blind review via HotCRP
+- Accepted papers appear in the EWSN proceedings, archived in the ACM Digital Library and indexed in Scopus
+- Submission deadline was extended twice in 2026 (June 20 -> July 12 -> July 19)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-16
+  location: Dresden, Germany
+  url: https://ewsn-neurophy.github.io/2026/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-19
+    tz: AoE
+    label: Research papers (extended from 2026-06-20, then 2026-07-12)
+  - kind: notification
+    date: 2026-08-10
+    label: Notification (moved from 2026-07-30)
+  - kind: camera_ready
+    date: 2026-08-17
+    label: Camera ready (moved from 2026-08-05)
+sources:
+- https://ewsn-neurophy.github.io/2026/
+- https://ewsn-neurophy.github.io/2026/cfp.html
+- https://ewsn-neurophy.github.io/2026/committee.html
+- https://ewsn26.netd.cs.tu-dresden.de/
+- https://portal.core.edu.au/conf-ranks/?search=NeuroPHY&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-27; frequency not yet known after the first edition
+- Acceptance rate not published
+last_verified: 2026-11-27

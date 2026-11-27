@@ -1,0 +1,58 @@
+id: qada
+name: QADA
+full_name: Workshop on Quantum Algorithm Design Automation
+type: workshop
+tier: minor
+areas: [general, software]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from Delft University of Technology (QuTech) and Fujitsu Research India; co-located with IEEE Quantum Week (QCE)
+organizer_country: [europe, india]
+proceedings: IEEE Xplore (IEEE QCE workshop proceedings, Volume 2)
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/ieee-qada
+notes:
+- Workshop at IEEE Quantum Week (IEEE International Conference on Quantum Computing and Engineering, QCE)
+- Editions QADA-23 (Bellevue), QADA-24, QADA-25 (Albuquerque) and QADA-26 (Toronto)
+- Themes are soft-computing based QADA, quantum information based QADA, and UI/UX of quantum computers
+- Short workshop papers of 2 to 4 pages, submitted via EasyChair, following the QCE technical paper guidelines
+- Accepted papers go into the QCE proceedings Volume 2
+- One-day format with invited talks and accepted papers; supported by QWorld and the Quantum Intelligence Alliance
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: QADA-26, with IEEE QCE26
+  start: 2026-09-14
+  end: 2026-09-14
+  location: Toronto, Ontario, Canada (with IEEE QCE26)
+  url: https://sites.google.com/view/ieee-qada
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-09
+    tz: AoE
+    label: Paper submission (extended from 2026-06-29)
+  - kind: notification
+    date: 2026-07-20
+    label: Moved from 2026-07-01
+  - kind: camera_ready
+    date: 2026-07-27
+    tz: AoE
+    label: Moved from 2026-07-07
+sources:
+- https://sites.google.com/view/ieee-qada
+- https://sites.google.com/view/ieee-qada/team
+- https://sites.google.com/view/ieee-qada/past-editions
+- https://sites.google.com/view/ieee-qada/past-editions/qada-25/qada-25-venue
+- https://sites.google.com/view/ieee-qada/past-editions/qada-23/qada-23-venue
+- https://portal.core.edu.au/conf-ranks/?search=QADA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- QADA-27 (with IEEE QCE27) not announced as of 2026-11-27
+- Dates and location of QADA-24 not checked
+- Not listed in ICORE2026; no CORE rank recorded

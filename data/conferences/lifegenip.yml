@@ -1,0 +1,69 @@
+id: lifegenip
+name: LifeGenIP
+full_name: "LifeGenIP: Workshop on Life-Cycle Intellectual Property Governance of Visual Generative Models"
+type: workshop
+tier: minor
+areas: [security, vision, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizing committee (University of Sydney, University of Oxford, MBZUAI, University of Melbourne); co-located with ECCV
+organizer_country: [australia, europe, other]
+proceedings: ECCV 2026 Workshops proceedings (archival track only)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://lifegenip.cc/
+notes:
+- Workshop on intellectual property protection of visual generative models, such as watermarking, model ownership and copyright
+- 1st edition at ECCV 2026 in Malmo, half-day morning workshop
+- Archival track reviewed under the main conference policy; accepted papers appear in the ECCV workshop proceedings
+- Non-archival track for work under review or recently accepted elsewhere; not included in the proceedings
+- Up to 14 pages in the ECCV 2026 template, references and appendix unlimited; submission via OpenReview
+- Best Paper Award and two runner-up awards
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: First workshop, with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://lifegenip.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+    label: Archival track (extended from Jul 15)
+  - kind: notification
+    date: 2026-08-05
+    tz: AoE
+    label: Archival track
+  - kind: camera_ready
+    date: 2026-08-10
+    tz: AoE
+    label: Archival track
+  - kind: other
+    date: 2026-08-10
+    tz: AoE
+    label: Author registration
+  - kind: submission
+    date: 2026-07-30
+    tz: AoE
+    label: Non-archival track (extended from Jul 25)
+  - kind: notification
+    date: 2026-08-10
+    tz: AoE
+    label: Non-archival track
+  - kind: camera_ready
+    date: 2026-08-15
+    tz: AoE
+    label: Non-archival track
+sources:
+- https://lifegenip.cc/
+- https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/LifeGenIP
+- https://portal.core.edu.au/conf-ranks/?search=LifeGenIP&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Whether the workshop will continue after 2026 is not announced

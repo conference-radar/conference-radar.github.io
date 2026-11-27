@@ -1,0 +1,60 @@
+id: substrates
+name: Substrates
+full_name: Substrates Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Substrates workshop organizers, co-located with ‹Programming› (Aarhus University, HPI/University of Potsdam, Kyoto University of Advanced Science and independent researchers)
+organizer_country: [europe, usa, japan]
+proceedings: ACM DL (‹Programming› Conference Companion, from 2027); earlier editions on the workshop's own web proceedings
+archival: true
+typical:
+  deadline_months: [12, 2]
+  conference_months: [3]
+links:
+  website: https://2027.programming-conference.org/home/substrates-2027
+notes:
+- Workshop on software substrates, malleable software and interactive computational media, held with ‹Programming› since 2025
+- Editions in Prague 2025, Munich 2026 and Kyoto 2027
+- 2026 accepted 2 to 4 page papers, videos up to 10 minutes and demo descriptions; proceedings with reviews posted on software-substrates.github.io (informal, no DOI)
+- From 2027, peer-reviewed papers (ACM sigplan format, about eight pages suggested, no page limit) go into the ‹Programming› Conference Companion in the ACM DL
+- Demos and short talks (video up to 5 minutes) are reviewed but appear only in the web proceedings
+- Discussion-centered format with a discussant after each talk; remote participation possible
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: Substrates-26, with ‹Programming› 2026
+  start: 2026-03-17
+  end: 2026-03-17
+  location: LMU Munich, Germany (with ‹Programming› 2026)
+  url: https://2026.programming-conference.org/home/substrates-2026
+  deadlines:
+  - kind: submission
+    date: 2026-02-20
+    tz: AoE
+- year: 2027
+  label: Substrates-27, with ‹Programming› 2027
+  location: Kyoto, Japan (Kyoto University, with ‹Programming› 2027)
+  url: https://2027.programming-conference.org/home/substrates-2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-14
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2027-02-08
+    tz: AoE
+    label: Demos and short talks
+sources:
+- https://2027.programming-conference.org/home/substrates-2027
+- https://2026.programming-conference.org/home/substrates-2026
+- https://2027.programming-conference.org/series/substrates
+- https://software-substrates.github.io/proceedings/2026/
+- https://portal.core.edu.au/conf-ranks/?search=Substrates&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No longer official title is given; the researchr pages say only "Substrates" and the proceedings page "Substrates Workshop"
+- Exact 2027 workshop day (‹Programming› 2027 runs 15 to 19 March 2027) and notification date not announced

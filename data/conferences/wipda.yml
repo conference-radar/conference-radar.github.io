@@ -1,0 +1,57 @@
+id: wipda
+name: WiPDA
+full_name: IEEE Workshop on Wide Bandgap Power Devices and Applications
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE and the Power Sources Manufacturers Association (PSMA)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10, 11]
+links:
+  website: https://wipda.org/
+notes:
+- Annual IEEE/PSMA workshop on wide bandgap (SiC, GaN) and ultrawide bandgap power devices, packaging and power electronics applications; 13th edition in 2026
+- Held in the United States since 2013 (2020 postponed, 2021 virtual, Redondo Beach 2022, Charlotte 2023, Dayton 2024, Fayetteville 2025, Burlington 2026)
+- Selection by a 3-page abstract (1 page summary plus 2 supporting pages) via EDAS, then a final paper of up to 6 pages in the 2-column IEEE template with an IEEE copyright form
+- Final papers must be IEEE Xplore compliant
+- First day of tutorials, then keynotes, panels, oral and poster sessions and an exhibition; strong industry and national lab presence
+- Regional spinoffs WiPDA Asia and WiPDA Europe exist
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 13th edition
+  start: 2026-10-26
+  end: 2026-10-28
+  location: Burlington, Vermont, USA
+  url: https://wipda.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    label: 3-page paper abstract (also tutorial abstracts)
+  - kind: notification
+    date: 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-18
+    label: Final paper with IEEE copyright form
+sources:
+- https://wipda.org/
+- https://wipda.org/authors/
+- https://wipda.org/about/
+- https://wipda.org/about/history/
+- https://wipda.org/committees/
+- https://wipda.org/wp-content/uploads/sites/739/2025/04/IEEE_WIPDA-2024-DIGITAL-PROGRAM.pdf
+- https://portal.core.edu.au/conf-ranks/?search=WiPDA&by=all&source=ICORE2026
+unverified:
+- Official pages require IEEE Xplore compliant papers and an IEEE copyright form but do not state outright that the proceedings appear in IEEE Xplore
+- Exact sponsoring IEEE societies not stated in text (IEEE PELS and EDS logos shown)
+- WiPDA 2027 dates and location not announced; the committees page names program chairs from Stony Brook University
+- Deadline times and time zones not stated
+last_verified: 2026-11-27

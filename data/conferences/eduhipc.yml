@@ -1,0 +1,65 @@
+id: eduhipc
+name: EduHiPC
+full_name: Workshop on Education for High Performance Computing (at HiPC)
+type: workshop
+tier: minor
+areas: [general, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: CDER Center (Center for Parallel and Distributed Computing Curriculum Development and Educational Resources), held with IEEE HiPC
+organizer_country: [usa, india]
+proceedings: IEEE Xplore (HiPC Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://cdercenter.org/eduhipc-2026/
+notes:
+- Workshop on HPC and parallel and distributed computing education, held with IEEE HiPC in India every year (8th edition in 2026)
+- Sister workshop of EduHPC at SC, run by the same CDER Center community
+- Tracks for educational research (up to 8 pages), research to education and student engagement (4 to 6 pages), plus 2-page poster abstracts
+- Papers published in the HiPC Workshop Proceedings; the 2025 call says they are included in IEEE Xplore
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-17
+  end: 2025-12-17
+  location: Hyderabad, India (with HiPC 2025)
+  url: https://cdercenter.org/eduhipc-2025/
+  deadlines:
+  - kind: submission
+    date: 2025-10-13
+    label: Revised from 2025-10-06
+  - kind: notification
+    date: 2025-10-30
+  - kind: camera_ready
+    date: 2025-11-14
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-16
+  location: Bengaluru, India (with HiPC 2026)
+  url: https://cdercenter.org/eduhipc-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-05
+    label: Papers (revised from 2026-09-27)
+  - kind: other
+    date: 2026-10-26
+    label: Poster abstracts
+  - kind: notification
+    date: 2026-10-28
+    label: Papers (revised from 2026-10-18)
+  - kind: notification
+    date: 2026-11-04
+    label: Posters
+  - kind: camera_ready
+    date: 2026-11-13
+sources:
+- https://cdercenter.org/eduhipc-2026/
+- https://cdercenter.org/eduhipc-2025/
+- https://portal.core.edu.au/conf-ranks/?search=EduHiPC&by=all&source=ICORE2026
+unverified:
+- The 2026 page names the HiPC Workshop Proceedings but not the publisher; IEEE Xplore is taken from the 2025 call
+last_verified: 2026-11-27

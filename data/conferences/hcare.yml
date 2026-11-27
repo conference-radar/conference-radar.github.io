@@ -1,0 +1,51 @@
+id: hcare
+name: HCARE
+full_name: Human-Centered AI for Requirements Engineering Workshop
+type: workshop
+tier: minor
+areas: [software, ai]
+region: worldwide
+language: english
+organizer: HCARE workshop chairs (Al-Ain University, ETS Montreal, The Open University, UQAM); co-located with IEEE RE
+organizer_country: [other, canada, europe]
+proceedings: IEEE Xplore (RE workshop proceedings)
+archival: true
+typical:
+  deadline_months: [5, 6]
+  conference_months: [8]
+links:
+  website: https://hcarew.github.io/
+notes:
+- Workshop on human-centered use of AI, LLMs and generative AI in requirements engineering (trust, oversight, explainability, workforce change)
+- 1st edition held on August 17, 2026 with IEEE RE 2026 in Montreal, Canada; follows RE, which rotates worldwide
+- Research papers 6 to 8 pages, experience reports 4 to 6 pages, vision papers 4 pages, IEEE format
+- Each paper reviewed by at least two program committee members; submitted via EasyChair in the RE workshops track
+- Accepted papers appear in the RE 2026 workshop proceedings in the IEEE Digital Library
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Montreal, Canada (IEEE RE 2026)
+  url: https://hcarew.github.io/
+  deadlines:
+  - kind: abstract
+    date: 2026-05-25
+  - kind: submission
+    date: 2026-06-01
+  - kind: notification
+    date: 2026-06-22
+  - kind: camera_ready
+    date: 2026-06-29
+sources:
+- https://hcarew.github.io/
+- https://hcarew.github.io/dates.html
+- https://hcarew.github.io/Call_For_Paper.html
+- https://hcarew.github.io/Organizing_Committee.html
+- https://conf.researchr.org/track/RE-2026/RE-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=HCARE&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and a 2027 edition not announced
+- Time zone of the deadlines not stated on the workshop page (the RE 2026 workshops track uses AoE)
+- The RE 2026 workshops page lists HCARE on Monday 17 August in its program but on Tuesday in its summary; the workshop site says 17 August
+last_verified: 2026-11-27

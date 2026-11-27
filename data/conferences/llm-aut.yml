@@ -1,0 +1,48 @@
+id: llm-aut
+name: LLM-AUT
+full_name: LLM Agents Under Threat in Cyberspace (AAAI Workshop)
+type: workshop
+tier: minor
+areas: [security, ai]
+region: north-america
+language: english
+organizer: Workshop organizers from The Hong Kong Polytechnic University, City University of Hong Kong, Carnegie Mellon University and University of Waterloo; co-located with AAAI
+organizer_country: [china, usa, canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://llm-agents-under-threat.github.io/
+notes:
+  - First edition at AAAI-27 (Montreal), full-day in-person workshop on Tuesday 23 February 2027
+  - Security of deployed, tool-using LLM agents (prompt injection, memory poisoning, tool misuse, multi-agent security, defenses, benchmarks)
+  - Full papers up to 7 pages excluding references in AAAI two-column format, double-blind via OpenReview
+  - At least two reviews per paper, a third for borderline submissions
+  - Non-archival; expanded work can be submitted elsewhere
+  - Advisory board includes Florian Tramer (ETH Zurich), Neil Gong (Duke) and Virginia Smith (CMU)
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    label: 1st edition, with AAAI-27
+    start: 2027-02-23
+    end: 2027-02-23
+    location: Montreal, Canada (with AAAI-27)
+    url: https://llm-agents-under-threat.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-11-27
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2026-12-15
+sources:
+  - https://llm-agents-under-threat.github.io/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=LLM-AUT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day taken from the AAAI-27 workshop schedule (Feb 23); the workshop page still says Feb 22 or 23
+  - Camera-ready date not announced

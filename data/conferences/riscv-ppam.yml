@@ -1,0 +1,56 @@
+id: riscv-ppam
+name: RISC-V@PPAM
+full_name: PPAM Workshop on RISC-V
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: biennial
+organizer: Czestochowa University of Technology (with BSC, EPCC and industry partners in technical cooperation), held with PPAM
+organizer_country: [europe]
+proceedings: Springer LNCS (PPAM post-proceedings)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [9]
+links:
+  website: https://ppam.edu.pl/docs/workshops/risc-v_workshop.html
+notes:
+- Workshop on the RISC-V hardware and software ecosystem with emphasis on HPC, edge computing and AI/ML, co-located with the biennial PPAM conference
+- First edition at PPAM 2024 in Ostrava (September 9, 2024); second at PPAM 2026 in Poznan
+- Chaired by Roman Wyrzykowski (Czestochowa University of Technology); technical cooperation with Barcelona Supercomputing Center, EPCC Edinburgh, InspireSemi, E4 Computer Engineering and Semidynamics
+- Full papers up to 15 pages in LNCS style, or 2-page abstracts for presentation only
+- Presented papers appear in the PPAM proceedings, published by Springer in LNCS after the conference
+- Best paper award of 500 euros and an award of 400 euros for the best RVA23-related paper (2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-09-09
+  end: 2024-09-09
+  location: Ostrava, Czech Republic (with PPAM 2024)
+- year: 2026
+  start: 2026-08-31
+  end: 2026-09-01
+  location: Poznan, Poland (with PPAM 2026)
+  url: https://ppam.edu.pl/docs/workshops/risc-v_workshop.html
+  deadlines:
+  - kind: submission
+    date: 2026-05-19
+    label: Full papers, moved from 2026-04-30
+  - kind: submission
+    date: 2026-05-31
+    label: 2-page abstracts, moved from 2026-05-07
+  - kind: notification
+    date: 2026-06-22
+    label: Moved from 2026-05-31
+  - kind: camera_ready
+    date: 2026-10-31
+sources:
+- https://ppam.edu.pl/docs/workshops/risc-v_workshop.html
+- https://ppam.edu.pl/
+- https://portal.core.edu.au/conf-ranks/?search=RISC-V&by=all&source=ICORE2026
+unverified:
+- 2024 edition deadlines not found on an official page
+- PPAM 2028 and a third workshop edition not yet announced
+last_verified: 2026-11-27

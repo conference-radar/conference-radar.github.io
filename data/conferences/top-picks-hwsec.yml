@@ -1,0 +1,47 @@
+id: top-picks-hwsec
+name: Top Picks HW Security
+full_name: Workshop on Top Picks in Hardware and Embedded Security
+type: workshop
+tier: minor
+areas: [security, systems]
+region: north-america
+language: english
+frequency: irregular
+organizer: IEEE Hardware Security and Trust Technical Committee (HSTTC)
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [11]
+links:
+  website: https://www.ieee-hsttc.org/top-picks-2026/
+notes:
+- Co-located with ICCAD; editions in 2021, 2022, 2023 and 2026
+- Recognizes already published hardware and embedded security papers (2026 call covered papers published 2020 to 2025)
+- Submission is a two-page self-nomination letter (contributions and long-term impact), via EasyChair
+- Shortlisted papers are presented at the in-person workshop; selected Top Picks are invited to an IEEE Design & Test special issue
+- Non-archival; workshop-only registration 250 USD (2026)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2026
+  start: 2026-11-11
+  end: 2026-11-11
+  location: San Jose, California, USA (with ICCAD 2026)
+  url: https://www.ieee-hsttc.org/top-picks-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-09-14
+    label: Self-nomination letters (extended from 2026-09-07)
+  - kind: notification
+    date: 2026-09-28
+sources:
+- https://www.ieee-hsttc.org/top-picks-2026/
+- https://www.ieee-hsttc.org/top-picks-2023/
+- https://www.ieee-hsttc.org/
+- https://iccad.com/
+- https://portal.core.edu.au/conf-ranks/?search=Top+Picks&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Next edition (2027) not announced; the workshop skipped 2024 and 2025
+- Edition number not stated on the official page

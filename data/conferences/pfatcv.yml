@@ -1,0 +1,65 @@
+id: pfatcv
+name: PFATCV
+full_name: Privacy, Fairness, Accountability and Transparency in Computer Vision (at ECCV 2026)
+type: workshop
+tier: minor
+areas: [vision, security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizers led by University of Glasgow (Deligianni), with UCF, Aalborg University, University of Cyprus / ETH Zurich, Singapore Institute of Technology and University of Oxford
+organizer_country: [international]
+proceedings: ECCV 2026 Workshops proceedings (full paper track)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 11]
+links:
+  website: https://fd301.github.io/PFATCV26ECCV/
+notes:
+  - Workshop on privacy-preserving vision, fairness, accountability, transparency and responsible AI in computer vision
+  - 3rd edition in 2026; earlier editions at BMVC 2024 and BMVC 2025, 2026 edition moved to ECCV
+  - Full papers 4 to 14 pages in ECCV workshop format via OpenReview, included in the workshop proceedings
+  - Poster papers 2 to 6 pages by email, not included in proceedings
+  - Awards for best paper, best paper runner-up and best poster
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 3rd edition, with ECCV 2026 (afternoon)
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026, Malmomassan C2)
+    url: https://fd301.github.io/PFATCV26ECCV/
+    deadlines:
+      - kind: abstract
+        date: 2026-07-17
+        tz: AoE
+        label: Full papers (extended from 2026-07-03)
+      - kind: submission
+        date: 2026-07-17
+        tz: AoE
+        label: Full papers (extended from 2026-07-10)
+      - kind: other
+        date: 2026-07-31
+        tz: AoE
+        label: Poster papers (not in proceedings)
+      - kind: notification
+        date: 2026-08-01
+        tz: AoE
+        label: Full papers
+      - kind: camera_ready
+        date: 2026-08-07
+        tz: AoE
+        label: Full papers
+sources:
+  - https://fd301.github.io/PFATCV26ECCV/
+  - https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/PFATCV
+  - https://eccv.ecva.net/Conferences/2026/CallForWorkshops
+  - https://sites.google.com/view/pfatcvbmvc25/home
+  - https://sites.google.com/view/pfatcvbmvc24/home
+  - https://portal.core.edu.au/conf-ranks/?search=PFATCV&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Publisher of the ECCV 2026 workshop proceedings not stated on the workshop page
+  - Proceedings and dates of the BMVC 2024 and BMVC 2025 editions not checked (sites only show the overview)
+  - Next edition (2027) and its host conference not announced as of 2026-11-27

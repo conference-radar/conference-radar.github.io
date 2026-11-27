@@ -1,0 +1,60 @@
+id: destion
+name: DESTION
+full_name: Workshop on Design Automation for CPS and IoT
+type: workshop
+tier: minor
+areas: [systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from Vanderbilt University, ETH Zurich and University of Florida, with a mostly US steering committee; held at CPS-IoT Week
+organizer_country: [usa]
+proceedings: DESTION workshop proceedings (publisher not stated)
+typical:
+  deadline_months: [3]
+  conference_months: [5]
+links:
+  website: https://cps-vo.org/group/DESTION2026
+notes:
+- Full-day workshop at IEEE/ACM CPS-IoT Week on modeling, simulation, synthesis, validation and verification tools for CPS and IoT
+- 2026 themes were AI for design automation and design automation for AI (automotive, avionics, robotics, buildings, grid, medical devices)
+- 8th edition in 2026, Saint Malo, France; location follows CPS-IoT Week
+- Full papers up to 6 pages (IEEE two-column) or 2-page abstracts for short, tool, benchmark and demo papers; single-blind review via EasyChair
+- Accepted papers appear in the DESTION 2026 proceedings; the CFP does not name a publisher
+- At least one author must register and present in person
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th DESTION, at CPS-IoT Week 2026
+  start: 2026-05-11
+  end: 2026-05-11
+  location: Saint Malo, France (CPS-IoT Week 2026)
+  url: https://cps-vo.org/group/DESTION2026
+  deadlines:
+  - kind: submission
+    date: 2026-03-10
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-03-05
+  - kind: notification
+    date: 2026-03-23
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-03-28
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2026-03-31
+    label: Author registration
+sources:
+- https://cps-vo.org/group/DESTION2026
+- https://cps-vo.org/group/DESTION2026/callforpapers
+- https://cps-vo.org/group/DESTION2026/organizers
+- https://cps-iot-week2026.inria.fr/events.php
+- https://portal.core.edu.au/conf-ranks/?search=DESTION&by=all&source=ICORE2026
+unverified:
+- Proceedings publisher and whether the proceedings are archival not stated on the 2026 CFP
+- Locations of editions before 2026 not checked; region assumed from CPS-IoT Week rotating worldwide
+- DESTION 2027 not announced as of 2026-11-27
+last_verified: 2026-11-27

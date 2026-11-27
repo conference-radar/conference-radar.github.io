@@ -1,0 +1,63 @@
+id: dfrws-eu
+name: DFRWS EU
+full_name: Digital Forensics Conference Europe (DFC Europe, formerly DFRWS EU)
+type: conference
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: DFRWS (Digital Forensic Research Workshop, non-profit)
+organizer_country: [usa]
+proceedings: 'Forensic Science International: Digital Investigation (Elsevier)'
+archival: true
+rank:
+  ccf: C
+typical:
+  deadline_months: [9, 10]
+  conference_months: [3, 4]
+links:
+  website: https://dfrws.org/conferences/dfceurope2027/
+notes:
+- European edition of DFRWS (sister events in the USA and Asia-Pacific); renamed Digital Forensics Conference (DFC) Europe from 2027
+- 'Full research papers (up to 10 pages, blinded) get double-blind review and may appear in Forensic Science International: Digital Investigation (Elsevier)'
+- Also takes practitioner talks and demos, posters, workshops, Birds of a Feather sessions and a co-located Digital Forensics Doctoral Symposium
+- Held in a different European city each year (Linkoping 2026, Edinburgh 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-03-24
+  end: 2026-03-27
+  location: Linkoping, Sweden
+  url: https://dfrws.org/conferences/dfrws-eu-2026/
+- year: 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  location: Edinburgh, Scotland, UK (with Edinburgh Napier University)
+  url: https://dfrws.org/conferences/dfceurope2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-02
+    tz: AoE
+    label: Extended
+  - kind: submission
+    date: 2026-10-09
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-12-04
+  - kind: camera_ready
+    date: 2026-12-11
+sources:
+- https://groups.google.com/a/dfrws.org/g/dfsci/c/7kfytPeOjwk
+- https://groups.google.com/a/dfrws.org/g/dfsci/c/RqKUZ2OzB4c
+- https://groups.google.com/a/dfrws.org/g/dfsci/c/jN8Eva3p8_s/m/SNbkWf69AQAJ
+- https://groups.google.com/a/dfrws.org/g/dfsci/c/lhJfQ6NvWKE/m/xydLI8mFDAAJ
+- https://dfrws.org/conferences/dfceurope2027/
+- https://portal.core.edu.au/conf-ranks/?search=DFRWS&by=all&source=ICORE2026
+unverified:
+- Official site blocks direct access (HTTP 403); dates and deadlines taken from the official DFRWS mailing-list announcements
+- DFRWS EU 2026 paper deadlines not confirmed
+- 'CCF C: the 2026 CCF list names ''DFRWS'' (dblp conf/dfrws), assumed to cover the European edition as for DFRWS USA and APAC'
+- Registration fees not confirmed
+last_verified: 2026-11-27

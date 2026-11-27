@@ -1,0 +1,54 @@
+id: ma-6g
+name: MA-6G
+full_name: IEEE ICC Workshop on Multiple Access Techniques for Intelligent and Multi-functional 6G
+type: workshop
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IEEE ComSoc WTC Special Interest Group on Rate-Splitting Multiple Access (RSMA) with IEEE ICC
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws25-ieee-icc-2026-workshop-multiple-access-techniques-intelligent-and-multi-functional-6g.html
+notes:
+- Workshop on multiple access for 6G (RSMA, NOMA and other MA schemes, AI for MA, MA for ISAC, over-the-air computation, NTN, cell-free MIMO)
+- Co-chaired in 2026 by Bruno Clerckx (Imperial College London), Jinhong Yuan (UNSW), Zhaohui Yang (Zhejiang University) and Yijie Mao (ShanghaiTech)
+- Run through the IEEE ComSoc WTC RSMA special interest group, which also lists an ICC 2024 RSMA workshop
+- WS25 at IEEE ICC 2026 (Glasgow), held on 28 May 2026
+- Workshop papers go into the ICC proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws25-ieee-icc-2026-workshop-multiple-access-techniques-intelligent-and-multi-functional-6g.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Firm, extended from 2026-01-18
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws25-ieee-icc-2026-workshop-multiple-access-techniques-intelligent-and-multi-functional-6g.html
+- https://icc2026.ieee-icc.org/workshop/ws25-ieee-icc-2026-workshop-multiple-access-techniques-intelligent-and-multi-functional-6-1.html
+- https://icc2026.ieee-icc.org/workshop/ws25-ieee-icc-2026-workshop-multiple-access-techniques-intelligent-and-multi-functional-6-2.html
+- https://sites.google.com/view/ieee-comsoc-wtc-sig-rsma/events/icc-2026-workshop
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://portal.core.edu.au/conf-ranks/?search=MA-6G&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Multiple+Access&by=all&source=ICORE2026
+unverified:
+- Short name MA-6G is not used on the official pages
+- Whether this continues the ICC 2024 RSMA workshop or the ICC 2025 NGMA workshop as one series
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Deadline time zone not stated
+last_verified: 2026-11-27

@@ -1,0 +1,45 @@
+id: bsides-peru
+name: BSides Peru
+full_name: Security BSides Peru
+type: industry
+tier: minor
+areas: [security]
+region: latin-america
+frequency: annual
+organizer: Capítulo Oficial de BSides Perú (official Peruvian BSides chapter)
+organizer_country: [other]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [10]
+links:
+  website: https://linktr.ee/bsidesperu
+notes:
+- Annual conference of the Peruvian Security BSides chapter in Lima, covering defensive and offensive security; running since 2018
+- 2026 theme 'AI is coming after YOU !'
+- Call for papers runs on Sessionize; CFP rules are in Spanish
+- The 2025 edition was held at ESET Perú, Lima
+- Talks only, no proceedings
+editions:
+- year: 2026
+  start: 2026-10-24
+  end: 2026-10-24
+  location: Lima, Peru
+  url: https://sessionize.com/security-bsides-peru-2026
+  deadlines:
+  - kind: submission
+    date: 2026-09-30
+    time: "23:59"
+    tz: UTC-5
+    label: Call for papers closes
+sources:
+- https://linktr.ee/bsidesperu
+- https://sessionize.com/security-bsides-peru-2026
+- https://bsides.org/event/bsides-peru/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+unverified:
+- The chapter site bsidesperu.org could not be reached on 2026-11-27
+- Exact 2026 venue not stated on the official pages
+- 2027 edition not yet announced
+last_verified: 2026-11-27

@@ -1,0 +1,57 @@
+id: privai-rcps
+name: PrivAI-RCPS
+full_name: Workshop on Privacy-Preserving Artificial Intelligence in Regulated and Cyber-Physical Systems
+type: workshop
+tier: minor
+areas: [security, ai]
+region: europe
+language: english
+frequency: annual
+organizer: ACNS satellite workshop; chairs Peng Liu (Loughborough University, UK) and Akarsh K. Nair (Nottingham Trent
+  University, UK)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://privai-rcps.github.io/privai-rcps-2027/
+notes:
+- New ACNS satellite workshop, 1st edition in 2027 at Royal Holloway, University of London, run by a UK team
+- "Scope: federated and split learning, differential privacy, privacy attacks, private generative models and synthetic\
+  \ data, applied to regulated or cyber-physical settings (healthcare, industrial IoT, energy, transport); general\
+  \ privacy-preserving AI without that link is out of primary scope"
+- Regular, short, systems/survey and dataset/benchmark papers in LNCS format; at least three reviews per paper; submission
+  through Microsoft CMT
+- Accepted papers appear in the joint ACNS workshop post-proceedings in Springer LNCS; in-person presentation required
+- Full-day, in-person workshop
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Egham, UK (with ACNS 2027)
+  url: https://privai-rcps.github.io/privai-rcps-2027/
+  label: Within ACNS 2027 (28 Jun to 1 Jul); exact workshop day TBA
+  deadlines:
+  - kind: submission
+    date: 2027-02-19
+    label: Provisional
+  - kind: notification
+    date: 2027-03-21
+    label: Provisional
+  - kind: camera_ready
+    date: 2027-06-14
+    label: ACNS proceedings deadline
+sources:
+- https://privai-rcps.github.io/privai-rcps-2027/
+- https://acns2027.isg.rhul.ac.uk/workshops
+- https://portal.core.edu.au/conf-ranks/?search=PrivAI-RCPS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Submission and notification dates are provisional until confirmed by the chairs; deadline time zone to be announced
+- Exact workshop day within ACNS 2027 (28 Jun to 1 Jul 2027) not yet announced; start and end show the ACNS dates
+- Page limit not stated

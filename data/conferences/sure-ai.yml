@@ -1,0 +1,52 @@
+id: sure-ai
+name: SuRE
+full_name: Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SuRE organizers (DFKI, RPTU Kaiserslautern-Landau, Heidelberg University, Korea University)
+organizer_country: [europe, korea]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sure-wshop.github.io/
+notes:
+- Half-day workshop on sustainable and resource-efficient AI, first held at IJCAI-ECAI 2026 in Bremen (WS38)
+- Not the same venue as SURE, the Workshop on Software Understanding and Reverse Engineering (sure.yml)
+- Full papers (7 pages plus 2 of references) are archival in CEUR-WS (2026 -> Vol-4275); short papers (4+1 pages) could opt in, position papers (2+1 pages) are non-archival
+- Double-blind review
+- 2026 -> 8 papers accepted out of 27 submitted (CEUR-WS Vol-4275)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with IJCAI-ECAI 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany
+  url: https://sure-wshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-05-22
+    tz: AoE
+    label: Extended from May 15
+  - kind: notification
+    date: 2026-06-08
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-30
+    tz: AoE
+sources:
+- https://sure-wshop.github.io/
+- https://sure-wshop.github.io/cfp
+- https://ceur-ws.org/Vol-4275/
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=SuRE&by=all&source=ICORE2026
+unverified:
+- SuRE 2027 not announced yet
+last_verified: 2026-11-27

@@ -1,0 +1,53 @@
+id: gohyb
+name: GoHyb
+full_name: Workshop on Global and Hybrid Work in Software Engineering
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: GoHyb workshop organizers, co-located with XP (LUT University and Aalto University)
+organizer_country: [europe]
+proceedings: Springer LNBIP (XP post-conference proceedings, open access)
+archival: true
+typical:
+  deadline_months: [1, 3]
+  conference_months: [4, 6]
+links:
+  website: https://conf.researchr.org/track/xp-2026/xp-2026-gohyb-workshop
+notes:
+- Workshop on global, distributed and hybrid work in software engineering, co-located with the XP conference
+- 3rd edition at XP 2025 in Brugg-Windisch, 4th at XP 2026 in Sao Paulo
+- Full papers up to 8 pages including references (Springer LNCS/LNBIP template); research and industry papers welcome
+- Short industry presentations as a 2-page paper or up to 5 slides
+- Full papers published in the XP post-conference proceedings; the 2025 page names Springer LNBIP open access
+- 2025 required in-person presentation by at least one author
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 4th edition, with XP 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Sao Paulo, Brazil (Insper, with XP 2026)
+  url: https://conf.researchr.org/track/xp-2026/xp-2026-gohyb-workshop
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+sources:
+- https://conf.researchr.org/track/xp-2026/xp-2026-gohyb-workshop
+- https://conf.researchr.org/home/xp-2025/gohyb-2025
+- https://conf.researchr.org/series/gohyb
+- https://conf.researchr.org/track/xp-2027/xp-2027-research-and-practice-workshops
+- https://portal.core.edu.au/conf-ranks/?search=GoHyb&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 edition not announced (XP 2027 workshop proposals due 2026-12-09)
+- Years and host conferences of the 1st and 2nd editions not listed on the official pages

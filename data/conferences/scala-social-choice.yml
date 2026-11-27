@@ -1,0 +1,63 @@
+id: scala-social-choice
+name: SCaLA
+full_name: Workshop on Social Choice and Learning Algorithms
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 - Tulane University, University of Oxford, GATE Lyon Saint-Etienne); co-located with AAMAS or IJCAI
+organizer_country: [usa, europe]
+proceedings: Workshop website (papers posted online, non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/scala26/home
+notes:
+  - Workshop on the interplay of computational social choice (voting, fair division, mechanism design, matching) and machine learning
+  - 1st edition at AAMAS 2024 (Auckland), 2nd at IJCAI 2025 (Montreal), 3rd at IJCAI-ECAI 2026 (Bremen)
+  - Full papers up to 7 pages and extended abstracts up to 3 pages plus references, IJCAI format; anonymization optional
+  - Papers are posted online but there are no formal proceedings (non-archival)
+  - Not the Scala programming language workshop (scala-workshop)
+  - Fully in person; one-day workshop
+  - Not listed in ICORE2026 and not on the CCF list
+editions:
+  - year: 2025
+    start: 2025-08-16
+    end: 2025-08-16
+    location: Montreal, Canada (with IJCAI 2025)
+    url: https://sites.google.com/view/scala25/home
+    deadlines:
+      - kind: submission
+        date: 2025-05-16
+      - kind: notification
+        date: 2025-06-06
+      - kind: camera_ready
+        date: 2025-06-30
+  - year: 2026
+    start: 2026-08-16
+    end: 2026-08-16
+    location: Bremen, Germany (with IJCAI-ECAI 2026)
+    url: https://sites.google.com/view/scala26/home
+    deadlines:
+      - kind: submission
+        date: 2026-05-15
+        label: Extended from 2026-05-08
+      - kind: notification
+        date: 2026-06-10
+sources:
+  - https://sites.google.com/view/scala26/home
+  - https://sites.google.com/view/scala26/submission
+  - https://sites.google.com/view/scala26/organizers
+  - https://sites.google.com/view/scala25/home
+  - https://sites.google.com/view/scala24/home
+  - https://2026.ijcai.org/accepted-workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=SCaLA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Deadline times and time zone not stated on the official pages
+  - 2026 camera-ready date not stated
+  - No 2027 edition announced as of 2026-11-27

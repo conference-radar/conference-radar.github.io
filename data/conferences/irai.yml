@@ -1,0 +1,46 @@
+id: irai
+name: IRAI
+full_name: Workshop on Information Retrieval for Accountability and Integrity (ECIR 2026)
+type: workshop
+tier: minor
+areas: [data, nlp]
+region: europe
+language: english
+organizer: IRAI organizers (Chung-Chi Chen, AIST; 3DS Outscale; Chulalongkorn University; National Taipei University; University of Tsukuba), with ECIR
+organizer_country: [japan, europe, taiwan, thailand]
+proceedings: CEUR-WS (opt-in)
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://nlpfin.com/sites/ECIR2026.html
+notes:
+- First edition, a half-day pilot workshop aligned with ECIR 2026 in Delft, Netherlands
+- Covers claim and promise retrieval and verification, forecast accuracy, longitudinal IR, and corporate, policy and societal accountability via IR and NLP
+- Led by Chung-Chi Chen (AIST, Japan) with organizers from 3DS Outscale (France), Chulalongkorn University (Thailand), National Taipei University (Taiwan), AIST and University of Tsukuba (Japan)
+- Long papers up to 12 pages and short papers up to 6 pages in Springer LNCS format, double-blind, via EasyChair
+- Proceedings in CEUR-WS are optional for authors
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-02
+  end: 2026-04-02
+  location: Delft, Netherlands (with ECIR 2026)
+  url: https://nlpfin.com/sites/ECIR2026.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-01
+  - kind: notification
+    date: 2026-02-21
+  - kind: camera_ready
+    date: 2026-03-01
+sources:
+- https://nlpfin.com/sites/ECIR2026.html
+- https://portal.core.edu.au/conf-ranks/?search=IRAI&by=all&source=ICORE2026
+unverified:
+- Whether a CEUR volume was published for 2026
+- No 2027 edition announced
+last_verified: 2026-11-27

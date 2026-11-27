@@ -1,0 +1,49 @@
+id: miniplop-genai
+name: MiniPLoP
+full_name: "MiniPLoP: Patterns for Generative AI in Software Engineering Activities"
+type: workshop
+tier: minor
+areas: [software, ai]
+region: latin-america
+language: english
+organizer: Joseph Yoder (The Refactory, USP), Kyle Brown (IBM) and Doug Schmidt (William & Mary), held with XP
+organizer_country: [usa]
+proceedings: Springer (XP post-conference proceedings, LNBIP format)
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/track/xp-2026/xp-2026-patterns-for-generative-ai-in-software-engineering-activities
+notes:
+- Pattern writing workshop (MiniPLoP format) at XP on patterns for using generative AI across the software lifecycle
+- Papers are discussed in a writers' workshop with authors listening, in the PLoP tradition
+- Short papers of 3 to 5 pages with patterns or pattern ideas; published papers follow Springer LNBIP instructions
+- In person only; at least one author must attend
+- First edition at XP 2026 in Sao Paulo, Brazil; XP 2027 is in Tampere, Finland
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Sao Paulo, Brazil (Insper, with XP 2026)
+  url: https://conf.researchr.org/track/xp-2026/xp-2026-patterns-for-generative-ai-in-software-engineering-activities
+  deadlines:
+  - kind: submission
+    date: 2026-02-09
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+    label: Workshop papers (CFP text gave 24 Apr 2026)
+sources:
+- https://conf.researchr.org/track/xp-2026/xp-2026-patterns-for-generative-ai-in-software-engineering-activities
+- https://conf.researchr.org/track/xp-2027/xp-2027-research-and-practice-workshops
+- https://portal.core.edu.au/conf-ranks/?search=MiniPLoP&by=all&source=ICORE2026
+unverified:
+- The CFP says published submissions follow Springer LNBIP instructions but does not say explicitly which papers enter the XP post-proceedings
+- Whether the workshop returns at XP 2027 (workshop proposals due 9 Dec 2026); no 2027 edition announced as of 2026-11-27
+last_verified: 2026-11-27

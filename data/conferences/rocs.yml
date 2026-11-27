@@ -1,0 +1,52 @@
+id: rocs
+name: ROCS
+full_name: Reconfigurable Computing and Systems Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: ROCS organizers (IIIT Hyderabad, IIT Guwahati and AMD), held with IEEE HiPC
+organizer_country: [india]
+proceedings: IEEE Xplore (HiPCW proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://rocs-hipc.github.io/2026/
+notes:
+- Half-day workshop on reconfigurable computing (FPGAs and adaptive systems) held with IEEE HiPC in India since 2024 (3rd edition in 2026)
+- Short papers up to 4 pages excluding references (IEEE two-column template), presented as talks
+- Poster abstracts up to 2 pages are presented but not included in the proceedings
+- Short papers appear in the HiPCW proceedings (with ISBN) and eligible papers are then submitted to IEEE Xplore; authors may opt out
+- The 2025 edition was a keynote and tutorials only; 2026 introduced the first peer-reviewed short-paper track
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-12-17
+  end: 2025-12-17
+  location: Hyderabad, India (with HiPC 2025)
+  url: https://rocs-hipc.github.io/2025/
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-16
+  location: Bengaluru, India (with HiPC 2026)
+  url: https://rocs-hipc.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-10-16
+    tz: AoE
+    label: Short papers and poster abstracts (extended from 2026-10-09)
+  - kind: notification
+    date: 2026-11-06
+  - kind: camera_ready
+    date: 2026-11-13
+sources:
+- https://rocs-hipc.github.io/2026/
+- https://rocs-hipc.github.io/2025/
+- https://portal.core.edu.au/conf-ranks/?search=ROCS&by=all&source=ICORE2026
+unverified:
+- The 2025 page lists no paper track, deadlines or proceedings
+last_verified: 2026-11-27

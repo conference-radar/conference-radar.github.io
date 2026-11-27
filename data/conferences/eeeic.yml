@@ -1,0 +1,52 @@
+id: eeeic
+name: IEEE EEEIC
+full_name: IEEE International Conference on Environment and Electrical Engineering
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: annual
+organizer: International Association on Environment and Electrical Engineering (EEEIA) with a host university; IEEE, IEEE PES and IEEE IAS technical sponsors
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus, Web of Science]
+typical:
+  deadline_months: [5]
+  conference_months: [6, 7]
+links:
+  website: https://www.eeeic.net
+notes:
+- Annual European conference on electrical power systems, renewable energy and environmental issues; 26th edition in 2026
+- Held jointly with Industrial and Commercial Power Systems Europe (I&CPS Europe, 10th edition in 2026)
+- Organized by the not-for-profit EEEIA (based in Rome) with the host university; 2026 hosted by Instituto Superior Tecnico, Lisbon
+- Hybrid; registered authors may present on site or remotely (2026)
+- Rolling review via Microsoft CMT; notification within 3 weeks of submission and final paper within 2 weeks after that
+- Only presented papers go into the electronic proceedings in IEEE Xplore
+- Indexed in Scopus since 2010 and Web of Science CPCI since 2013 according to the conference
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-02
+  location: Lisbon, Portugal (Instituto Superior Tecnico)
+  url: https://www.eeeic.net/
+  deadlines:
+  - kind: other
+    date: 2026-01-01
+    label: Special session proposals
+  - kind: submission
+    date: 2026-05-11
+    label: Full papers (page also shows 2026-05-04)
+sources:
+- https://www.eeeic.net/
+- https://www.eeeic.net/eeeic-2026/publication-indexing/
+- https://www.eeeia.org/eeeic-conference/
+- https://portal.core.edu.au/conf-ranks/?search=EEEIC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- EEEIC 2027 host and dates not announced on the official site as of 2026-11-27
+- The 2026 home page lists two full paper submission end dates (04 May and 11 May 2026) without saying which was the extension, and the EEEIA page gives 27 April 2026; 11 May recorded
+- Past edition locations not listed on the official site; region europe taken from the home page calling it an event of its kind in Europe
+- CCF 2026 list not checked directly; power engineering venue, not expected in the CCF CS list

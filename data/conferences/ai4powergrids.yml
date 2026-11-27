@@ -1,0 +1,51 @@
+id: ai4powergrids
+name: AI4PowerGrids
+full_name: "AI Foundations for Power Grids: From Models to Deployment at Scale"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Microsoft Research, IBM Research, University of Washington, Johns Hopkins, NYU, University of Michigan, Harvard); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://ai4powergrids.github.io/
+notes:
+- NeurIPS workshop on machine learning and foundation models for power grid operation and deployment
+- First edition at NeurIPS 2026 in Sydney; no earlier edition mentioned on the site
+- Non-archival, no formal proceedings; accepted papers may be posted on OpenReview
+- Up to 4 pages of main content, double-blind review on OpenReview with 2 reviews per paper
+- Tracks for methods, benchmarks and datasets, position and empirical evaluation papers, and negative results
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://ai4powergrids.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-09-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-06
+    tz: AoE
+sources:
+- https://ai4powergrids.github.io/
+- https://ai4powergrids.github.io/cfp
+- https://neurips.cc/virtual/2026/workshop/137491
+- https://portal.core.edu.au/conf-ranks/?search=AI4PowerGrids&by=all&source=ICORE2026
+unverified:
+- Only one edition (NeurIPS 2026) found; no next edition announced as of 2026-11-27
+last_verified: 2026-11-27

@@ -1,0 +1,63 @@
+id: multidems
+name: MultiDems
+full_name: Multidisciplinary Workshop on NLP for Democracies
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop organizers led by Sorbonne Universite and SciencesPo (with Bocconi University and University College Dublin); co-located with EACL
+organizer_country: [europe]
+proceedings: EACL 2027 workshop proceedings (archival track)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3]
+links:
+  website: https://sites.google.com/view/multidems/home
+notes:
+- EACL workshop on NLP for democratic processes (deliberation, debate summarization, preference aggregation,
+  political and parliamentary NLP, fairness of political NLP systems), with social science input
+- 1st edition at EACL 2027 in Athens, one day, hybrid
+- Archival long papers (8 pages) and short papers (4 pages) appear in the workshop proceedings; non-archival
+  extended abstracts (4 pages) are also accepted
+- Double-blind review on OpenReview; direct submission or commitment of ACL Rolling Review papers; ACL templates
+- Includes a shared task with system description papers
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  label: 1st MultiDems, with EACL 2027
+  start: 2027-03-13
+  end: 2027-03-13
+  location: Athens, Greece (hybrid, with EACL 2027)
+  url: https://sites.google.com/view/multidems/home
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-23
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: other
+    date: 2027-01-18
+    time: "23:59"
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2027-01-22
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-02
+    time: "23:59"
+    tz: AoE
+sources:
+- https://sites.google.com/view/multidems/home
+- https://sites.google.com/view/multidems/submission
+- https://sites.google.com/view/multidems/organizers
+- https://portal.core.edu.au/conf-ranks/?search=MultiDems&by=all&source=ICORE2026
+unverified:
+- Workshop site does not name the proceedings venue (EACL workshop proceedings are normally in the ACL Anthology)
+- Shared task deadlines given only as approximate periods (late December 2026, mid January 2027)
+last_verified: 2026-11-27

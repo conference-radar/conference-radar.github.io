@@ -1,0 +1,60 @@
+id: wccct
+name: WCCCT
+full_name: IEEE World Conference on Computing and Communication Technologies
+type: conference
+tier: minor
+areas: [networking, communications, security, ai, systems, general]
+region: china
+language: english
+frequency: annual
+organizer: Rotating Chinese host university with IEEE sponsorship (Southwest Jiaotong University in 2027, Ocean University of China in 2026)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [IEEE Xplore, EI, Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [4]
+links:
+  website: https://www.wccct.org/
+notes:
+  - Annual conference since 2020 (10th edition in 2027; 2020 planned for Warsaw but held online); host university changes each year
+  - Held in Chengdu, Shenzhen, Qingdao and Dalian; 2021 to 2023 editions in January, from 2024 in April
+  - Proceedings in IEEE Xplore and indexed in EI Compendex and Scopus (2020, 2021 and 2023 to 2026; 2022 not listed)
+  - 2027 tracks include edge intelligence, large model inference, AI chips, 6G and SDN, space-air-ground networks,
+    cybersecurity and trusted computing, and quantum computing and communication
+  - Full papers 4 to 10 pages; one regular registration covers 5 pages, extra pages charged
+  - Not listed in ICORE2026 or the CCF 2026 list; a small regional venue
+editions:
+  - year: 2026
+    start: 2026-04-10
+    end: 2026-04-12
+    location: Qingdao, China (Ocean University of China)
+    url: https://www.wccct.org/wccct2026.html
+  - year: 2027
+    start: 2027-04-16
+    end: 2027-04-18
+    location: Chengdu, China (Southwest Jiaotong University)
+    url: https://www.wccct.org/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-12-25
+        label: Full paper
+      - kind: notification
+        date: 2027-01-25
+      - kind: camera_ready
+        date: 2027-02-10
+      - kind: other
+        date: 2027-02-10
+        label: Registration deadline
+sources:
+  - https://www.wccct.org/
+  - https://www.wccct.org/history.html
+  - https://www.wccct.org/wccct2026.html
+  - https://conferences.ieee.org/conferences_events/conferences/conferencedetails/56755
+  - https://portal.core.edu.au/conf-ranks/?search=WCCCT&by=all&source=ICORE2026
+unverified:
+  - WCCCT 2026 deadlines (not on the current site)
+  - Acceptance rate and registration fee
+last_verified: 2026-11-27

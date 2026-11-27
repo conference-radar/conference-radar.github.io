@@ -1,0 +1,54 @@
+id: scsetech
+name: IEEE SCSETech
+full_name: IEEE Smart Connected Systems and Emerging Technologies Conference
+type: conference
+tier: minor
+areas: [communications, networking, ai, security]
+region: north-america
+language: english
+organizer: IEEE Foothill Section, IEEE Foothill ComSoc Chapter and Cal Poly Pomona
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [7, 8]
+  conference_months: [12]
+links:
+  website: https://www.ieeescsetech.com/
+notes:
+- Hosted by the IEEE Foothill Section, its ComSoc chapter and Cal Poly Pomona; held at Cal Poly Pomona, California
+- Hybrid (in person and virtual); presented papers are submitted to IEEE Xplore, no-shows are excluded
+- Five tracks covering wireless communication and networking, AI and ML, cybersecurity and privacy, IoT and IoV,
+  and smart power and sustainable systems
+- Papers up to 6 pages in IEEE double-column format, double-blind review, submitted through EDAS
+- Also runs a workshop, a student poster session and an industrial panel
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-01
+  end: 2026-12-03
+  location: Cal Poly Pomona, Pomona, California, USA (hybrid)
+  url: https://www.ieeescsetech.com/
+  deadlines:
+  - kind: submission
+    date: 2026-08-20
+    label: Papers (postponed from 2026-07-30)
+  - kind: notification
+    date: 2026-10-06
+    label: Postponed from 2026-09-20
+  - kind: camera_ready
+    date: 2026-10-25
+  - kind: other
+    date: 2026-11-02
+    label: Author registration
+sources:
+- https://www.ieeescsetech.com/
+- https://www.ieeescsetech.com/call-for-papers
+- https://www.ieeescsetech.com/paper-management
+- https://www.ieeescsetech.com/organization-committee
+- https://portal.core.edu.au/conf-ranks/?search=SCSETech&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Whether 2026 is the first edition and whether the conference will be annual (the site names no earlier editions)
+- "Author registration deadline: the paper management page gives 2026-11-02 in the dates list and 2026-11-10 in the
+  camera-ready instructions"

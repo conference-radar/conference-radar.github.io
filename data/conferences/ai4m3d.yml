@@ -1,0 +1,51 @@
+id: ai4m3d
+name: AI4M3D
+full_name: Workshop on Artificial Intelligence for Medical 3D Vision
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+organizer: Workshop organizers from Universita Politecnica delle Marche, University of Bologna, University of Macerata, University of Cambridge, Weill Cornell Medicine, University Medicine Halle and Harvard Medical School; 2026 edition co-located with ECCV
+organizer_country: [europe, usa]
+proceedings: ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://ai4m3d.github.io/
+notes:
+- Workshop on artificial intelligence for 3D vision in medicine
+- Half-day (morning) workshop at ECCV 2026 in Malmo, mostly organized by Italian universities
+- Papers up to 14 pages in ECCV format plus references, double-blind with at least two reviewers, on OpenReview
+- Accepted original papers appear in the ECCV 2026 workshop proceedings; previously published work can be presented but is not included
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: With ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026, Quality View Hotel)
+  url: https://ai4m3d.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-17
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-07-10
+  - kind: notification
+    date: 2026-08-03
+  - kind: camera_ready
+    date: 2026-08-15
+    time: "23:59"
+    tz: AoE
+sources:
+- https://ai4m3d.github.io/
+- https://eccv.ecva.net/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=AI4M3D&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The site says ECCV 2026 proceedings without naming the series; ECCV workshop proceedings are published in Springer LNCS
+- Edition number and any earlier editions not stated on the site
+- Next edition not announced as of 2026-11-27

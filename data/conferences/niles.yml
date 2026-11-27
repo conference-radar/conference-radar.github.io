@@ -1,0 +1,60 @@
+id: niles
+name: NILES
+full_name: Novel Intelligent and Leading Emerging Sciences Conference
+type: conference
+tier: minor
+areas: [communications, ai, security, systems, general]
+region: africa
+language: english
+frequency: annual
+organizer: Nile University (NU), Giza
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+acceptance_rate: 39.8% (2025, 121/304); 44.8% (2024, 126/281)
+fee: 350 USD IEEE member, 400 USD non-member full registration (early); 4000 / 4500 EGP for fully Egyptian papers (2026)
+typical:
+  deadline_months: [7, 8]
+  conference_months: [10]
+links:
+  website: https://nilesconf.org/
+notes:
+- Run by Nile University and held on the NU campus in Sheikh Zayed, Giza, Egypt; 8th edition in 2026 (series since 2019)
+- IEEE-sponsored (NILES2024 carried IEEE conference record 63360); papers are Scopus-indexed
+- Four tracks -> electrical engineering, communications, industrial and mechanical engineering, and computer science, informatics and biomedical engineering
+- Short papers, 4 pages in IEEE double-column format, submitted anonymously via EDAS
+- "Similarity limits: 30% overall, 10% to a single source (2026)"
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th NILES
+  start: 2026-10-22
+  end: 2026-10-24
+  location: Nile University, Sheikh Zayed, Giza, Egypt
+  url: https://nilesconf.org/
+  deadlines:
+  - kind: other
+    date: 2026-08-01
+    label: Special session proposals
+  - kind: submission
+    date: 2026-08-01
+  - kind: submission
+    date: 2026-08-20
+    label: Special session papers
+  - kind: notification
+    date: 2026-09-01
+  - kind: camera_ready
+    date: 2026-09-07
+sources:
+- https://nilesconf.org/
+- https://nu.edu.eg/events/8th-novel-intelligent-and-leading-emerging-sciences-conference-niles2026
+- https://www.nilesconf.org/history/2025/
+- https://www.nilesconf.org/history/2024/
+- https://portal.core.edu.au/conf-ranks/?search=NILES&by=all&source=ICORE2026
+unverified:
+- The official pages say IEEE-sponsored and Scopus-indexed but do not name IEEE Xplore explicitly
+- 2026 paper deadline is 1 Aug on the conference site but 15 Jul on the Nile University event page
+- 2026 special session proposal deadline is 1 Aug in the important dates table but 15 Jun in the special session section
+- NILES 2027 dates not announced as of 2026-11-27
+last_verified: 2026-11-27

@@ -1,0 +1,49 @@
+id: nila-ijcai
+name: NILA
+full_name: Neuro-Symbolic Intelligence for LLMs and Autonomous Agents Workshop
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: europe
+language: english
+organizer: Workshop organizers (2026 - University of Verona, Purdue University, IBM Research, City St George's University of London, Imperial College London); co-located with IJCAI-ECAI
+organizer_country: [europe, usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/nila-workshop-ijcai-2026
+notes:
+  - IJCAI-ECAI 2026 workshop on neuro-symbolic AI for LLMs and autonomous agents (symbolic reasoning and planning with LLMs, world models, verification of learning agents)
+  - Full papers 8 pages and short papers 4 pages including references, plus 2-page extended abstracts; IJCAI-ECAI format
+  - Anonymized submissions on OpenReview; peer reviewed
+  - Non-archival, so work under review elsewhere is allowed; extended versions can go to an associated journal special issue
+  - One-day workshop in Bremen on 2026-08-16
+  - Not listed in ICORE2026 and not on the CCF list
+editions:
+  - year: 2026
+    start: 2026-08-16
+    end: 2026-08-16
+    location: Bremen, Germany (with IJCAI-ECAI 2026)
+    url: https://sites.google.com/view/nila-workshop-ijcai-2026
+    deadlines:
+      - kind: submission
+        date: 2026-05-24
+        label: Extended from 2026-05-09
+      - kind: notification
+        date: 2026-06-10
+        label: Extended from 2026-06-06
+      - kind: camera_ready
+        date: 2026-07-31
+sources:
+  - https://sites.google.com/view/nila-workshop-ijcai-2026
+  - https://sites.google.com/view/nila-workshop-ijcai-2026/call-for-papers
+  - https://2026.ijcai.org/accepted-workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=NILA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Deadline time and time zone not stated on the official page
+  - Whether NILA had earlier editions or will recur is not stated
+  - No 2027 edition announced as of 2026-11-27

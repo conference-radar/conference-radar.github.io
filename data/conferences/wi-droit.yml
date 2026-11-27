@@ -1,0 +1,67 @@
+id: wi-droit
+name: Wi-DroIT
+full_name: International Workshop on Wireless Sensors and Drones in Internet of Things
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Wi-DroIT steering committee (University of Perugia, University of Padova, Technology Innovation Institute)
+organizer_country: [europe, other]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://widroit.github.io/
+notes:
+- Co-located with IEEE DCOSS-IoT every year since 2019; 8th edition in Reykjavik 2026, 9th in Montreal 2027
+- Drones and UAVs with IoT (sensing, path planning, communication protocols, multi-UAV); the 2027 call broadens the scope to autonomous agents in general
+- Full papers up to 6 pages at submission (8 pages in the 2027 camera-ready), IEEE conference format; not double-blind
+- Workshop papers go into the DCOSS-IoT IEEE Xplore proceedings (DCOSS-IoT camera-ready instructions cover workshop papers)
+- Selected 2026 papers invited to an ACM Journal on Autonomous Transportation Systems special issue
+- The DCOSS-IoT 2026 program at a glance places Wi-DroIT on Tuesday June 23, 2026; six papers and a keynote in the 2026 program
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th Wi-DroIT (at DCOSS-IoT 2026)
+  start: 2026-06-23
+  end: 2026-06-23
+  location: Reykjavik, Iceland (with DCOSS-IoT 2026)
+  url: https://widroit2026.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-04-29
+    label: Extended from 2026-04-15 (firm)
+  - kind: notification
+    date: 2026-05-05
+  - kind: camera_ready
+    date: 2026-05-15
+- year: 2027
+  label: 9th Wi-DroIT (at DCOSS-IoT 2027)
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada (with DCOSS-IoT 2027)
+  url: https://widroit.github.io/
+sources:
+- https://widroit.github.io/
+- https://widroit2026.github.io/
+- https://widroit2025.github.io/
+- https://dcoss.org/
+- https://dcoss.org/dcoss2026/
+- https://dcoss.org/dcoss2026/workshops/
+- https://dcoss.org/dcoss2027/workshops/
+- https://dcoss.org/dcoss2027/call-for-papers/
+- https://dcoss.org/dcoss2026/camera-ready-instructions/
+- https://dcoss.org/dcoss2026/wp-content/uploads/2026/06/DCOSS-IoT_programme_2026_v04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=Wi-DroIT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Wi-DroIT 2027 deadlines are TBA on the official site
+- 2026 workshop day (June 23) taken from the DCOSS-IoT program at a glance; the workshop site gives only the DCOSS-IoT dates June 22-24
+- Deadline time zone not stated
+- Workshop site itself does not name the proceedings; IEEE Xplore inferred from the DCOSS-IoT camera-ready instructions for workshop papers

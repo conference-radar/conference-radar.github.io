@@ -1,0 +1,62 @@
+id: aise-environment
+name: AISE
+full_name: International Workshop on AI Systems for the Environment
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop organizers (2026 - University of Southampton, University of Lincoln, Utrecht University, University of Virginia, Polytechnic Institute of Porto); co-located with ECAI or IJCAI-ECAI
+organizer_country: [europe, usa]
+proceedings: Workshop pre-proceedings (open access, non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8, 10]
+links:
+  website: https://sites.google.com/view/aise2026
+notes:
+  - Workshop on AI for sustainability (renewable energy, biodiversity, circular economy, AI's own environmental footprint)
+  - 1st edition at ECAI 2025 (Bologna), 2nd at IJCAI-ECAI 2026 (Bremen)
+  - Short papers of 4-6 pages plus one page of references in Springer LNCS format; submitted via EasyChair
+  - At least two reviews per paper by the organising and program committees
+  - Accepted papers go into non-archival open-access pre-proceedings; selected papers may be invited to a journal special issue
+  - In person only; at least one author must register and present
+  - Half-day workshop in 2026
+  - Not the ICSE RAISE workshop or the CAiSE conference
+  - Not listed in ICORE2026 and not on the CCF list
+editions:
+  - year: 2025
+    start: 2025-10-25
+    end: 2025-10-25
+    location: Bologna, Italy (with ECAI 2025)
+    url: https://sites.google.com/view/aise25/home
+  - year: 2026
+    start: 2026-08-16
+    end: 2026-08-16
+    location: Bremen, Germany (with IJCAI-ECAI 2026)
+    url: https://sites.google.com/view/aise2026
+    deadlines:
+      - kind: submission
+        date: 2026-05-12
+        time: "23:59"
+        tz: AoE
+        label: Extended from 2026-05-04
+      - kind: notification
+        date: 2026-06-09
+        label: Extended from 2026-06-01
+      - kind: camera_ready
+        date: 2026-07-09
+        label: Pre-proceedings
+sources:
+  - https://sites.google.com/view/aise2026
+  - https://sites.google.com/view/aise2026/cfp
+  - https://sites.google.com/view/aise2026/organisation
+  - https://sites.google.com/view/aise25/home
+  - https://2026.ijcai.org/accepted-workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=AISE&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - AISE 2025 deadlines not recorded
+  - No 2027 edition announced as of 2026-11-27

@@ -1,0 +1,45 @@
+id: eurodw
+name: EuroDW
+full_name: EuroSys Doctoral Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: EuroDW workshop chairs, co-located with EuroSys
+organizer_country: [europe]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://eurodw.github.io/
+notes:
+- One-day doctoral workshop for PhD students in computer systems, co-located with EuroSys every year; 20th edition in 2026
+- Held with EuroSys in Europe (online 2020 and 2021, Rennes 2022, Rome 2023, Athens 2024, Rotterdam 2025, Edinburgh 2026)
+- Submissions are 2-page research proposals (2-column, 10pt, references excluded) describing the planned PhD work
+- No published proceedings, so work in progress and simultaneous submissions are allowed
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 20th edition, with EuroSys 2026
+  start: 2026-04-27
+  end: 2026-04-27
+  location: Edinburgh, UK
+  url: https://eurodw.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-02-15
+  - kind: notification
+    date: 2026-03-20
+sources:
+- https://eurodw.github.io/
+- https://2027.eurosys.org/
+- https://portal.core.edu.au/conf-ranks/?search=EuroDW&by=all&source=ICORE2026
+unverified:
+- EuroDW 2027 not announced yet; EuroSys 2027 is in Rabat, Morocco (workshops on 2027-04-19) but the EuroSys 2027 page does not mention EuroDW
+- Deadline times and time zones not stated
+last_verified: 2026-11-27

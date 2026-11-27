@@ -1,0 +1,51 @@
+id: ai-flow
+name: AI Flow
+full_name: "IEEE GLOBECOM Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models"
+type: workshop
+tier: minor
+areas: [communications, ai, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-07-ai-flow-towards-ubiquitous-intelligence-era-large-foundation-models
+notes:
+- Workshop on running large foundation models across device, edge and cloud networks (familial models, generative
+  data compression, multi-agent systems) for 6G
+- WS-07 at IEEE GLOBECOM 2026 (Macau); co-chaired by Xuelong Li, Jun Zhang and Jiawei Shao
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore; no-show papers are removed
+- Not in the GLOBECOM 2025 workshop list
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-07-ai-flow-towards-ubiquitous-intelligence-era-large-foundation-models
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop page (GLOBECOM workshop call says 2026-10-05)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop page (GLOBECOM workshop call says 2026-10-14)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-07-ai-flow-towards-ubiquitous-intelligence-era-large-foundation-models
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/authors/instructions-final-camera-ready-manuscript-submission
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=AI+Flow&by=all&source=ICORE2026
+unverified:
+- Exact 2026 workshop day (GLOBECOM 2026 runs 7 to 11 December 2026; the workshop list says date to be announced)
+- Time zone of the deadlines (not stated)
+- Earlier or later editions at other IEEE conferences were not checked
+- Co-chair affiliations (not stated on the workshop page)
+last_verified: 2026-11-27

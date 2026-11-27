@@ -1,0 +1,71 @@
+id: iaria-digital
+name: DIGITAL (IARIA)
+full_name: Advances on Societal Digital Transformation
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: IARIA
+organizer_country: [usa]
+proceedings: IARIA Press (IARIA ThinkMind Digital Library); selected papers extended in IARIA journals; prints via
+  Curran Associates
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://www.iaria.org/conferences2027/DIGITAL27.html
+notes:
+- Organized by IARIA as the lead event of the DigiTech congress, co-located with IoTAI, GPTMB and AIMEDIA
+- Broad scope on digital transformation (communications, transportation, healthcare, smart cities, factories, agriculture, security and privacy)
+- Published open access in the IARIA ThinkMind library; prints via Curran Associates; selected papers invited to IARIA journals
+- Onsite and online participation options offered in recent editions
+- Held in southern Europe (Valencia 2022, Porto 2023 and 2024, Venice 2025, Nice 2026, Valencia 2027)
+- Moved from November (2021, 2022) and September (2023) to early July from 2024
+- Not listed in ICORE2026; IARIA events are generally regarded as low-selectivity
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-09
+  location: Nice, France
+  url: https://www.iaria.org/conferences2026/DIGITAL26.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-03
+  - kind: notification
+    date: 2026-05-04
+  - kind: other
+    date: 2026-05-17
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-05-31
+- year: 2027
+  start: 2027-07-04
+  end: 2027-07-08
+  location: Valencia, Spain
+  url: https://www.iaria.org/conferences2027/DIGITAL27.html
+  deadlines:
+  - kind: submission
+    date: 2027-03-15
+  - kind: notification
+    date: 2027-05-02
+  - kind: other
+    date: 2027-05-16
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-05-30
+sources:
+- https://www.iaria.org/conferences2027/DIGITAL27.html
+- https://www.iaria.org/conferences2026/DIGITAL26.html
+- https://www.iaria.org/conferences2025/DIGITAL25.html
+- https://www.iaria.org/conferences2024/DIGITAL24.html
+- https://www.iaria.org/conferences2023/DIGITAL23.html
+- https://www.iaria.org/conferences2022/DIGITAL22.html
+- https://portal.core.edu.au/conf-ranks/?search=DIGITAL&by=all&source=ICORE2026
+unverified:
+- Acceptance statistics not checked
+- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- No ICORE2026 entry found for DIGITAL (IARIA), so no CORE rank is recorded
+last_verified: 2026-11-27

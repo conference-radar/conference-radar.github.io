@@ -1,0 +1,49 @@
+id: diffpp
+name: DiffPP
+full_name: Workshop on Differentiable Parallel Programming
+type: workshop
+tier: minor
+areas: [systems, software, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Argonne National Laboratory organizers (Jan Hueckelheim, Paul Hovland); co-located with ACM SIGPLAN PPoPP
+organizer_country: [usa]
+proceedings: None (non-archival, abstracts posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [2, 3]
+links:
+  website: https://diffprog-ppopp.github.io/
+notes:
+- Informal workshop on automatic differentiation of parallel and HPC programs, differentiable languages and frameworks, for scientific computing and machine learning
+- Held with PPoPP since 2024 (PPoPP 2024, PPoPP 2025, PPoPP 2026 in Sydney)
+- Invited talks plus lightning talks; lightning talk proposals submitted through a Google form, rolling review
+- Previously published material is welcome; accepted abstracts are shared on the website only, no formal publication
+- Half-day program on February 1, 2026 at ICC Sydney (HPCA/CGO/PPoPP/CC 2026)
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  label: With PPoPP 2026
+  start: 2026-02-01
+  end: 2026-02-01
+  location: Sydney, Australia (ICC Sydney, PPoPP 2026)
+  url: https://diffprog-ppopp.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-01-21
+    time: "23:59"
+    tz: AoE
+    label: Lightning talk proposals, extended from 2026-01-02
+sources:
+- https://diffprog-ppopp.github.io/
+- https://diffprog-ppopp.github.io/cfp/
+- https://diffprog-ppopp.github.io/program/
+- https://ppopp26.sigplan.org/track/PPoPP-2026-workshops-and-tutorials
+- https://portal.core.edu.au/conf-ranks/?search=DiffPP&by=all&source=ICORE2026
+unverified:
+- Notification is rolling; no date stated
+- Dates and venues of the 2024 and 2025 editions not checked in detail
+- 2027 edition not announced as of 2026-11-27
+last_verified: 2026-11-27

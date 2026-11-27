@@ -1,0 +1,54 @@
+id: mwm-aaai
+name: MedWM
+full_name: First Workshop on Medical World Models at AAAI-27
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: MedWM workshop organizers (Tongji University, Columbia University, The Hong Kong Polytechnic University, Stanford University, National University of Singapore); co-located with AAAI
+organizer_country: [china, usa, singapore]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://med-wm.github.io/aaai27-mwm/
+notes:
+  - AAAI workshop on medical world models (patient-state dynamics, disease trajectory simulation, clinical decision support)
+  - Listed as W41 in the AAAI-27 workshop program
+  - 1st edition at AAAI-27 in Montreal, half day (morning) on Tuesday 23 February 2027
+  - Non-archival with no official proceedings; accepted papers hosted on OpenReview and the workshop website
+  - Authors of accepted papers are invited to submit extended versions to a MELBA journal special issue
+  - Full papers 6 to 8 pages and short, poster or position papers 2 to 4 pages, AAAI two-column format
+  - Single-blind review on OpenReview; work under review or recently published elsewhere is accepted
+  - No submission fee; in person only, presenting author must register for AAAI-27
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    start: 2027-02-23
+    end: 2027-02-23
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://med-wm.github.io/aaai27-mwm/
+    deadlines:
+      - kind: submission
+        date: 2026-11-20
+        tz: AoE
+        label: Papers (extended from Nov 15)
+      - kind: notification
+        date: 2026-12-02
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-12-15
+        tz: AoE
+sources:
+  - https://med-wm.github.io/aaai27-mwm/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=MWM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop site still lists the day as February 22 or 23; February 23 (AM) is from the AAAI-27 workshop schedule

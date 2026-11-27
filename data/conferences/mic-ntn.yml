@@ -1,0 +1,56 @@
+id: mic-ntn
+name: MIC-NTN
+full_name: "Workshop on Massive IoT Connectivity in Non-Terrestrial Networks: Challenges and Opportunities"
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+organizer: Workshop organizers (German Aerospace Center DLR, Fraunhofer HHI, University of Bologna) with IEEE ICC (IEEE ComSoc)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: http://smalldatanet.com/ICC_MIC_NTN_2026.html
+notes:
+- Half-day workshop (WS11) at IEEE ICC 2026 on massive IoT access over satellites, HAPs and UAVs (grant-free and unsourced random access, NTN waveforms, 3GPP NTN)
+- Chaired by Estefania Recayte and Andrea Munari (DLR), Zoran Utkovski (Fraunhofer HHI) and Enrico Paolini (Bologna)
+- Supported by the 6G-NTN, xG-RIC and xG-byNTN projects; two industry keynotes (Sateliot, CCww) in 2026
+- First edition at ICC 2026 in Glasgow; not in the ICC 2025 or GLOBECOM 2025 workshop lists
+- Papers up to 6 pages; accepted and presented papers go into the ICC proceedings and IEEE Xplore
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: MIC-NTN 2026 (at ICC 2026)
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws11-workshop-massive-iot-connectivity-non-terrestrial-networks-challenges-and.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended from 2026-01-18 (firm)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+    label: ICC workshop page (the smalldatanet.com workshop site lists 2026-03-15)
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws11-workshop-massive-iot-connectivity-non-terrestrial-networks-challenges-and.html
+- https://icc2026.ieee-icc.org/workshop/ws11-workshop-massive-iot-connectivity-non-terrestrial-networks-challenges-and-0.html
+- https://icc2026.ieee-icc.org/workshop/ws11-workshop-massive-iot-connectivity-non-terrestrial-networks-challenges-and-1.html
+- http://smalldatanet.com/ICC_MIC_NTN_2026.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/program/workshops-0.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://icc2025.ieee-icc.org/program/workshops.html
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=MIC-NTN&by=all&source=ICORE2026
+unverified:
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Time zone of the deadlines (not stated)
+- Region and organizer are based on the single 2026 edition
+last_verified: 2026-11-27

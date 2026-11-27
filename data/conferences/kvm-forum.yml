@@ -1,0 +1,43 @@
+id: kvm-forum
+name: KVM Forum
+full_name: KVM Forum
+type: industry
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: QEMU and KVM community (2025 edition organized by Red Hat and Software Freedom Conservancy)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [9, 11]
+links:
+  website: https://kvm-forum.qemu.org/
+notes:
+- Developer conference for the KVM, QEMU and wider open source virtualization community
+- Talks are streamed and recorded on YouTube, slides uploaded via Pretalx; no proceedings
+- "Recent locations: virtual (2021), Dublin (2022), Brno (2023, 2024), Milan (2025), Vancouver (2026)"
+- 2027 edition announced for fall 2027, location TBD
+editions:
+- year: 2026
+  start: 2026-11-12
+  end: 2026-11-13
+  location: Vancouver, Canada
+  url: https://kvm-forum.qemu.org/2026/
+sources:
+- https://kvm-forum.qemu.org/2026/
+- https://kvm-forum.qemu.org/2027/
+- https://kvm-forum.qemu.org/2025/
+- https://kvm-forum.qemu.org/2024/
+- https://kvm-forum.qemu.org/2023/
+- https://kvm-forum.qemu.org/2022/
+- https://kvm-forum.qemu.org/2021/
+- https://portal.core.edu.au/conf-ranks/?search=KVM&by=all&source=ICORE2026
+unverified:
+- 2026 call for proposals deadlines no longer shown on the official site
+- KVM Forum 2027 dates and location not yet announced (only "Fall 2027")
+- 2026 organizers not named on the 2026 page
+- Not listed in the CORE ICORE2026 portal
+last_verified: 2026-11-27

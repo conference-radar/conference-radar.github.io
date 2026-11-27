@@ -1,0 +1,50 @@
+id: cdt-ne
+name: CDT-NE
+full_name: IEEE GLOBECOM Workshop on Cognitive Digital Twin for Intelligent and Autonomous Network Ecosystems
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+organizer: Workshop co-chairs (Jun Cai, Dusit Niyato, Mohsen Guizani and others) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-25-cognitive-digital-twin-intelligent-and-autonomous-network-ecosystems-0
+notes:
+- Workshop (WS-25) at IEEE GLOBECOM 2026 in Macau on cognitive digital twins for intent-driven autonomous 6G networks
+- 2026 co-chairs are Jun Cai, Dusit Niyato, Mohsen Guizani, Changyan Yi, Zhou Su, Jiawen Kang, Bodhaswar TJ Maharaj, Samuel D. Okegbile and Fang Zhu
+- First edition at GLOBECOM 2026; not in the GLOBECOM 2025, ICC 2025 or ICC 2026 workshop lists
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-25-cognitive-digital-twin-intelligent-and-autonomous-network-ecosystems-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop page (GLOBECOM workshop call says 2026-10-05)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop page (GLOBECOM workshop call says 2026-10-14)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-25-cognitive-digital-twin-intelligent-and-autonomous-network-ecosystems-0
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2025.ieee-globecom.org/workshops
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=CDT-NE&by=all&source=ICORE2026
+unverified:
+- Short name CDT-NE is not used on the official pages
+- Exact 2026 workshop day (GLOBECOM 2026 runs 7 to 11 December 2026; the workshop list says date to be announced)
+- Next edition not announced
+- Time zone of the deadlines (not stated)
+- Region and organizer are based on the single 2026 edition
+last_verified: 2026-11-27

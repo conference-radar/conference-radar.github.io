@@ -1,0 +1,45 @@
+id: hsi-workshop
+name: HSI
+full_name: "Workshop on Human-Scene Interaction: Towards Scene-Aware Motion, Communication, and Embodied Agents"
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+organizer: Workshop organizers from KTH Royal Institute of Technology, Max Planck Institute for Informatics, Saarland University and University of Cambridge; 2026 edition co-located with ECCV
+organizer_country: [europe]
+proceedings: ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://www.hsi-workshop.com
+notes:
+- Workshop on scene-aware human motion generation, vision-language-motion alignment, VLA models for manipulation, and human-object and human-scene interaction datasets
+- Half-day (morning) workshop at ECCV 2026 in Malmo
+- Archival track papers are peer reviewed and published in the ECCV 2026 Workshop Proceedings (Springer LNCS)
+- Non-archival track accepts previously published or ongoing work for presentation only
+- Includes a challenge; challenge submissions are treated as archival papers
+- Submissions on OpenReview in ECCV format
+- Not listed in ICORE2026 (the CORE "HSI" is Human System Interaction, a different venue) and not on the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026, Malmomassan C2)
+  url: https://www.hsi-workshop.com
+  deadlines:
+  - kind: submission
+    date: 2026-07-26
+sources:
+- https://www.hsi-workshop.com
+- https://www.hsi-workshop.com/call-for-papers
+- https://eccv.ecva.net/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=HSI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Notification is listed as "August 5, August 10, 2026" without saying which date applies to what, so it is left out
+- Camera-ready deadline not stated
+- Next edition not announced as of 2026-11-27

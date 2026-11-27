@@ -1,0 +1,50 @@
+id: lp4fm
+name: LP4FM
+full_name: Workshop on the Linguistic Principles for Foundation Models
+type: workshop
+tier: minor
+areas: [nlp, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (HKUST, Xiaomi, MBZUAI, University of Melbourne, Hong Kong Baptist University, RIKEN AIP, University of Tokyo, Zhongguancun Academy); co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://lp4fm.github.io/
+notes:
+- NeurIPS workshop on linguistic principles (linguistic theory and structure) applied to foundation models
+- First edition at NeurIPS 2026 in Sydney (ICC Sydney, room C3.3); no earlier edition mentioned on the site
+- Non-archival; authors keep copyright and may submit extended versions elsewhere, papers under review at NeurIPS welcome
+- Full and position papers up to 9 pages, short and demo papers up to 4 pages, NeurIPS 2026 workshop template
+- Double-blind review on OpenReview
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://lp4fm.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    tz: AoE
+    label: Papers (extended)
+  - kind: notification
+    date: 2026-09-29
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-10
+    tz: AoE
+sources:
+- https://lp4fm.github.io/
+- https://neurips.cc/virtual/2026/workshop/137490
+- https://portal.core.edu.au/conf-ranks/?search=LP4FM&by=all&source=ICORE2026
+unverified:
+- Only one edition (NeurIPS 2026) found; no next edition announced as of 2026-11-27
+last_verified: 2026-11-27

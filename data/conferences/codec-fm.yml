@@ -1,0 +1,51 @@
+id: codec-fm
+name: CODEC-FM
+full_name: Workshop on Collaborative, Open, and Decentralized Training of Foundation Models
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Pluralis Research, ANU, University of Adelaide, Mila, University of Zurich, KAUST, Stanford, University of Cambridge, Flower Labs); co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://collaborative-open-decentralized-fomo.github.io/
+notes:
+- NeurIPS workshop on collaborative, open and decentralized training of foundation models
+- First edition at NeurIPS 2026 in Sydney; no earlier edition mentioned on the site
+- Non-archival; concurrent submission to other venues allowed
+- Long papers up to 6 pages (eligible for orals), tiny papers up to 2 pages (posters), via OpenReview
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://collaborative-open-decentralized-fomo.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-29
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-25
+    time: "23:59"
+    tz: AEDT
+sources:
+- https://collaborative-open-decentralized-fomo.github.io/
+- https://neurips.cc/virtual/2026/workshop/137520
+- https://portal.core.edu.au/conf-ranks/?search=CODEC-FM&by=all&source=ICORE2026
+unverified:
+- Only one edition (NeurIPS 2026) found; no next edition announced as of 2026-11-27
+last_verified: 2026-11-27

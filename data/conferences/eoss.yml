@@ -1,0 +1,56 @@
+id: eoss
+name: EOSS
+full_name: Embedded Open Source Summit
+type: industry
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: irregular
+organizer: The Linux Foundation
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5, 6]
+links:
+  website: https://events.linuxfoundation.org/embedded-open-source-summit/
+notes:
+- Linux Foundation umbrella event for open source embedded projects (Embedded Linux Conference, Zephyr Developer Summit and others)
+- Talks chosen through a call for proposals; no papers
+- 'Past editions: Prague 2023 (hybrid), Seattle 2024; in 2025 and 2026 the Embedded Linux Conference ran as a track of Open Source Summit North America instead'
+- 2027 edition in Vancouver on the same dates as Open Source Summit North America (separate entry oss-na)
+- Not listed in the CORE ICORE2026 portal
+editions:
+- year: 2024
+  start: 2024-04-16
+  end: 2024-04-18
+  location: Seattle, Washington, USA
+  url: https://events.linuxfoundation.org/archive/2024/embedded-open-source-summit/
+  deadlines:
+  - kind: submission
+    date: 2024-01-16
+    time: "23:59"
+    tz: PST
+    label: Talk proposals (CFP, extended)
+  - kind: notification
+    date: 2024-02-13
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-19
+  location: Vancouver, BC, Canada
+  url: https://events.linuxfoundation.org/embedded-open-source-summit/
+  deadlines: []
+sources:
+- https://events.linuxfoundation.org/embedded-open-source-summit/
+- https://events.linuxfoundation.org/archive/2024/embedded-open-source-summit/
+- https://events.linuxfoundation.org/archive/2024/embedded-open-source-summit/program/cfp/
+- https://events.linuxfoundation.org/archive/2023/embedded-open-source-summit/
+- https://events.linuxfoundation.org/archive/2025/open-source-summit-north-america/
+- https://events.linuxfoundation.org/archive/2026/open-source-summit-north-america/
+- https://portal.core.edu.au/conf-ranks/?search=Embedded+Open+Source&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 call for proposals dates (not announced yet)
+- 2027 venue within Vancouver

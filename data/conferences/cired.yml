@@ -1,0 +1,70 @@
+id: cired
+name: CIRED
+full_name: International Conference and Exhibition on Electricity Distribution
+type: conference
+tier: minor
+areas: [communications]
+region: europe
+language: english
+frequency: biennial
+organizer: CIRED international not-for-profit association (Brussels), with AIM (Belgium) and the IET (UK) running the conferences
+organizer_country: [europe]
+proceedings: IET Digital Library (also in IEEE Xplore)
+archival: true
+indexing: [Scopus, EI Compendex, Inspec]
+typical:
+  deadline_months: [9]
+  conference_months: [6]
+links:
+  website: https://www.cired.net
+notes:
+- The main international conference on electricity distribution networks, held every two years in odd years since 1971
+- Industry heavy (DSOs, manufacturers, regulators); up to 3000 participants and an exhibition with over 140 companies
+- Held in Europe (2017 Glasgow, 2019 Madrid, 2021 online, 2023 Rome, 2025 Geneva, 2027 Stockholm)
+- Two-stage selection; abstract first, then a full paper of up to 5 pages for selected abstracts
+- Most papers are presented as posters with guided poster tours; some are chosen for oral sessions
+- Presented papers are published in the IET Digital Library and are available on IEEE Xplore, indexed in Scopus, Inspec and Ei Compendex
+- Smaller CIRED workshops run in the even years
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2025
+  start: 2025-06-16
+  end: 2025-06-19
+  location: Geneva, Switzerland
+  url: https://www.cired.net/publications/proceedings-special-reports/
+- year: 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Stockholm, Sweden (Stockholmsmassan)
+  url: https://2027.cired.net/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-14
+  - kind: notification
+    date: 2026-11-13
+    label: Abstract acceptance
+  - kind: submission
+    date: 2027-01-22
+    label: Full paper
+  - kind: notification
+    date: 2027-04-09
+    label: Final acceptance
+  - kind: other
+    date: 2027-05-10
+    label: Author registration
+sources:
+- https://www.cired.net
+- https://www.cired.net/about-cired/
+- https://www.cired.net/events/
+- https://www.cired.net/publications/proceedings-special-reports/
+- https://2027.cired.net/
+- https://2027.cired.net/key-dates/
+- https://2027.cired.net/submission-process/
+- https://2027.cired.net/f-a-q/
+- https://2027.cired.net/venue/
+- https://portal.core.edu.au/conf-ranks/?search=CIRED&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- CIRED 2025 end date shown as 19 June on the proceedings page and 20 June on the events page; 19 June recorded
+- Deadline times and time zones not stated
+- CCF 2026 list not checked directly; power engineering venue, not expected in the CCF CS list

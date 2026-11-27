@@ -1,0 +1,46 @@
+id: orconf
+name: ORConf
+full_name: ORConf (FOSSi Foundation conference on free and open source silicon)
+type: industry
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: annual
+organizer: FOSSi Foundation
+organizer_country: [europe]
+proceedings: None (talks only)
+archival: false
+typical:
+  conference_months: [9]
+links:
+  website: https://fossi-foundation.org/orconf/2026
+notes:
+- European conference on free and open source silicon run by the FOSSi Foundation (a UK not-for-profit community interest company) and its volunteers
+- Practitioner and research talks on open hardware, RISC-V cores, EDA tools, open PDKs, logic synthesis, verification and analog/mixed-signal design
+- Three days (Friday to Sunday) with a Sunday unconference and workshops proposed on the day
+- No papers or proceedings; talk recordings go to the FOSSi Foundation YouTube channel
+- Pay-what-you-want or professional tickets; 2026 registration closed at capacity
+- Venue moves around Europe (Valencia 2025, Ghent 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-09-12
+  end: 2025-09-14
+  location: School of Informatics (ETSINF), Universitat Politecnica de Valencia, Valencia, Spain
+  url: https://fossi-foundation.org/orconf/2025
+- year: 2026
+  start: 2026-09-11
+  end: 2026-09-13
+  location: Zebrastraat, Ghent, Belgium
+  url: https://fossi-foundation.org/orconf/2026
+  deadlines: []
+sources:
+- https://fossi-foundation.org/orconf/2026
+- https://fossi-foundation.org/orconf/2025
+- https://fossi-foundation.org/about-us
+- https://portal.core.edu.au/conf-ranks/?search=ORConf&by=all&source=ICORE2026
+unverified:
+- Call for talks deadlines are not shown on the official pages
+- ORConf 2027 not yet announced
+last_verified: 2026-11-27

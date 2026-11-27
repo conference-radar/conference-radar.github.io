@@ -1,0 +1,60 @@
+id: ls-not
+name: LS-NoT
+full_name: International Workshop on Long and Short Range Wireless Technologies Applied to IoT for Networks of Tomorrow
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: INSA Lyon, Inria and IMT Nord Europe (TPC chairs), with DCOSS-IoT
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://ls-not-workshop.github.io/ls-not-2026/
+notes:
+- Held in conjunction with IEEE DCOSS-IoT every year since 2023 (2023 Pafos, 2024 Abu Dhabi, 2025 Lucca, 2026 Reykjavik)
+- Long and short range wireless technologies (LPWAN and others) for IoT
+- Proceedings in IEEE Xplore with the DCOSS-IoT proceedings
+- Up to 8 pages including figures and references, IEEE conference template
+- Not double-blind; author names must appear; submission via EasyChair
+- Submission deadline extended by several weeks in 2025 and 2026
+- DCOSS-IoT 2026 programme at a glance places LS-NoT (with SmaCE and HIEMI) on Wednesday, June 24
+- Not in the DCOSS-IoT 2027 workshop list as of 2026-11-27
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 4th LS-NoT (at DCOSS-IoT 2026)
+  start: 2026-06-24
+  end: 2026-06-24
+  location: Reykjavik, Iceland (with DCOSS-IoT 2026)
+  url: https://ls-not-workshop.github.io/ls-not-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Extended from 2026-04-08
+  - kind: notification
+    date: 2026-05-08
+    tz: AoE
+    label: Changed from 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-22
+    tz: AoE
+sources:
+- https://ls-not-workshop.github.io/ls-not-2026/
+- https://ls-not-workshop.github.io/ls-not-2025/
+- https://ls-not-ws.github.io/LS-NoT2024/
+- https://ls-not-ws.github.io/Ls-NoT2023/
+- https://dcoss.org/
+- https://dcoss.org/dcoss2026/wp-content/uploads/2026/06/DCOSS-IoT_programme_2026_v04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=LS-NoT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- LS-NoT 2027 not yet announced and not in the DCOSS-IoT 2027 workshop list

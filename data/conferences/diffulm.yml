@@ -1,0 +1,56 @@
+id: diffulm
+name: DiffuLM
+full_name: "NeurIPS Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+organizer: Workshop organizers from Google DeepMind, HKU, Apple, Georgia Tech, NUS, Meta and NVIDIA Research; co-located with NeurIPS
+organizer_country: [international]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [12]
+links:
+  website: https://7amin.github.io/diffulm-neurips2026/
+notes:
+  - NeurIPS 2026 workshop on diffusion language models and related non-autoregressive methods (foundations, efficiency, reasoning, systems)
+  - Described as the first NeurIPS workshop dedicated to diffusion language models
+  - Two tracks, extended abstracts (up to 4 pages) and short papers (up to 8 pages), in the NeurIPS 2026 style
+  - Double-blind review on OpenReview with at least three reviews per submission
+  - Non-archival; work already published at an archival venue is not eligible
+  - Best Paper and Best Student Paper awards
+  - Each accepted paper gets one reserved NeurIPS registration at the Sydney site
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://7amin.github.io/diffulm-neurips2026/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        tz: AoE
+        label: Extended from 2026-08-31
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-11-08
+        time: "23:59"
+        tz: UTC-7
+        label: Extended from 2026-10-31
+sources:
+  - https://7amin.github.io/diffulm-neurips2026/
+  - https://7amin.github.io/diffulm-neurips2026/cfp.html
+  - https://7amin.github.io/diffulm-neurips2026/camera-ready.html
+  - https://neurips.cc/virtual/2026/workshop/137483
+  - https://portal.core.edu.au/conf-ranks/?search=DiffuLM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - First edition; frequency and whether it will return at NeurIPS 2027 are not known

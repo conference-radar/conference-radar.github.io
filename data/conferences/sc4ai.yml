@@ -1,0 +1,58 @@
+id: sc4ai
+name: SC4AI
+full_name: Social Choice for AI Ethics and Safety
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (UC Berkeley, Carnegie Mellon University, Hasso Plattner Institute, Potsdam Institute for Climate Impact Research)
+organizer_country: [usa, europe]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://sites.google.com/view/sc4ai/workshops
+notes:
+- Workshop on using social choice theory (preference aggregation, mechanism design, preference elicitation) for AI alignment, ethics and safety
+- Chaired by Wesley Holliday (UC Berkeley); organizers include Vincent Conitzer (CMU)
+- "Host changes each year: 2023 UC Berkeley, 2024 ECAI, 2025 AAMAS, 2026 IASEAI'26 (Paris), 2027 AAAI-27 (Montreal)"
+- Non-archival; previously published and concurrently submitted work is welcome
+- Full papers 6 to 8 pages and short papers 2 to 4 pages in AAAI format; anonymization optional
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: SC4AI'26e, with IASEAI'26
+  start: 2026-02-26
+  end: 2026-02-26
+  location: Paris, France (with IASEAI'26)
+  url: https://sites.google.com/view/sc4ai/workshops
+- year: 2027
+  label: SC4AI'27, with AAAI-27
+  start: 2027-02-22
+  end: 2027-02-22
+  location: Palais des congres, Montreal, Canada (with AAAI-27)
+  url: https://sites.google.com/view/sc4ai/workshops/sc4ai27
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+    tz: AoE
+  - kind: notification
+    date: 2026-12-02
+sources:
+- https://sites.google.com/view/sc4ai/workshops/sc4ai27
+- https://sites.google.com/view/sc4ai/workshops
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+- https://portal.core.edu.au/conf-ranks/?search=SC4AI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 submission deadline taken from the AAAI-27 workshop list; the workshop page only says submissions are closed
+- Deadlines of the 2026 IASEAI edition not checked
+- Camera-ready date for 2027 not announced

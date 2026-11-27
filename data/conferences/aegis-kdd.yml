@@ -1,0 +1,46 @@
+id: aegis-kdd
+name: AEGIS
+full_name: "Adaptation and Evidence-grounding of Generative Interventional Systems: Causality and Uncertainty in AI for Decision Making and Policy Awareness (KDD 2026 workshop)"
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+organizer: University of Florida (College of Public Health and Health Professions)
+organizer_country: [usa]
+proceedings: None (non-archival; papers are not in the KDD proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://phhp.ufl.edu/aegis-2026/
+notes:
+- Half-day workshop on causality and uncertainty in generative AI for decision making and policy, held with ACM SIGKDD
+- Held at KDD 2026 in Jeju, Korea (August 10, 2026, afternoon, ICC Jeju)
+- Organized by University of Florida faculty, led by Mattia Prosperi
+- Short papers of 1,500 to 2,500 words excluding references, single-blind review
+- Accepted papers are not in the KDD proceedings; authors keep the right to publish elsewhere
+- A post-workshop special issue in Springer's Journal of Healthcare Informatics Research was under negotiation (extended versions, extra review, APCs)
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With KDD 2026
+  start: 2026-08-10
+  end: 2026-08-10
+  location: Jeju, Korea (with KDD 2026)
+  url: https://phhp.ufl.edu/aegis-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-10
+  - kind: notification
+    date: 2026-06-05
+sources:
+- https://phhp.ufl.edu/aegis-2026/
+- https://kdd2026.kdd.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=AEGIS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Whether the Journal of Healthcare Informatics Research special issue went ahead
+- Edition number not stated on the official site
+- No 2027 edition announced as of 2026-11-27

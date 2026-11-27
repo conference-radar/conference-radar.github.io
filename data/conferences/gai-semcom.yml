@@ -1,0 +1,52 @@
+id: gai-semcom
+name: GAI-SemCom
+full_name: IEEE GLOBECOM Workshop on Generative AI-Driven Semantic Communication
+type: workshop
+tier: minor
+areas: [communications, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-37-generative-ai-driven-semantic-communication-0
+notes:
+- Workshop WS-37 co-located with IEEE GLOBECOM 2026 in Macau; full-day in-person workshop on 11 December 2026
+- Covers generative AI for semantic communication, semantic compression, security, quantum and ISAC aspects
+- General chairs from NIT Rourkela, IIT Jammu, MTU Ireland, NEC Laboratories and National Sun Yat-sen University; steering committee includes Deniz Gunduz and Dusit Niyato
+- 2026 program has 21 papers in four sessions plus a keynote and a panel
+- Accepted and presented papers go into the IEEE GLOBECOM workshop proceedings in IEEE Xplore; in-person presentation required (no-show papers removed)
+- Submissions via EDAS through the GLOBECOM workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://globecom2026.ieee-globecom.org/events/ws-37-generative-ai-driven-semantic-communication-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: Firm
+  - kind: notification
+    date: 2026-10-05
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-09-27)
+  - kind: camera_ready
+    date: 2026-10-14
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-10-05)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-37-generative-ai-driven-semantic-communication-0
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/authors/instructions-final-camera-ready-manuscript-submission
+- https://portal.core.edu.au/conf-ranks/?search=Semantic+Communication&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- The acronym GAI-SemCom is not used on the official pages
+- Appears to be a first edition; no earlier edition located, so recurrence is unknown
+- Deadline time zone not stated
+last_verified: 2026-11-27

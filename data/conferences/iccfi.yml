@@ -1,0 +1,59 @@
+id: iccfi
+name: ICCFI
+full_name: International Conference on Communications and Future Internet
+type: conference
+tier: minor
+areas: [communications, networking]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat with host universities (Universite de Haute-Alsace and aivancity in 2026)
+organizer_country: [other]
+proceedings: ACM ICPS (ACM DL)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  conference_months: [7, 8, 10]
+links:
+  website: https://www.iccfi.org/
+notes:
+- Smaller commercially organized conference on mobile and wireless communications, future internet architectures and AI for networks
+- Run through a conference secretariat (zmeeting submission system) with a host university each year
+- Publisher changes by year (IEEE Xplore 2024, Springer LNDECT 2025, ACM ICPS 2026)
+- Held in Japan 2022 to 2025 (Okayama, Nagoya, Kagoshima, Okinawa); 10th edition in Paris in 2026
+- Double-blind review; abstract-only submissions are presented but not published
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-07-11
+  end: 2025-07-13
+  location: Okinawa, Japan
+  url: https://www.iccfi.org/2025.html
+- year: 2026
+  start: 2026-10-29
+  end: 2026-10-31
+  location: Paris, France
+  url: https://www.iccfi.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-25
+  - kind: camera_ready
+    date: 2026-10-10
+    label: Camera-ready and registration
+sources:
+- https://www.iccfi.org/
+- https://www.iccfi.org/sub.html
+- https://www.iccfi.org/com.html
+- https://www.iccfi.org/contact.html
+- https://www.iccfi.org/history.html
+- https://www.iccfi.org/2025.html
+- https://www.iccfi.org/2024.html
+- https://www.iccfi.org/2023.html
+- https://link.springer.com/book/9783032150349
+- https://portal.core.edu.au/conf-ranks/?search=ICCFI&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- 2027 edition not announced yet
+- Notification date for 2026 not stated on the official site
+- Acceptance rate and fees not checked

@@ -1,0 +1,75 @@
+id: socialsim-llm
+name: SocialSim-LLM
+full_name: Social Simulation with LLMs Workshop
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: north-america
+language: english
+frequency: annual
+organizer: Workshop organizers from Mila, McGill University and Universite de Montreal
+organizer_country: [canada]
+proceedings: None (non-archival; accepted papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [6, 11]
+  conference_months: [2, 10]
+links:
+  website: https://sites.google.com/view/social-sims-with-llms/social-sim27
+notes:
+  - Workshop on LLM-based social simulation (agent populations, collective dynamics, validation, safety and policy)
+  - Host conference changes; COLM 2025 and COLM 2026, then AAAI-27 (Montreal, Monday 22 February 2027) for the 3rd edition
+  - 2027 theme is From Proxies to Populations; 2026 theme was Fidelity in Applications
+  - Regular papers up to 7 pages, early-stage and replication or resource papers up to 4 pages, references excluded; double-blind via OpenReview
+  - Non-archival; accepted papers presented as spotlights or posters
+  - 2026 edition had a shared task alongside the paper track
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 2nd edition, with COLM 2026
+    start: 2026-10-09
+    end: 2026-10-09
+    location: San Francisco, USA (with COLM 2026)
+    url: https://sites.google.com/view/social-sims-with-llms/social-sim26
+    deadlines:
+      - kind: submission
+        date: 2026-06-26
+        tz: AoE
+        label: Extended from 2026-06-23
+      - kind: notification
+        date: 2026-07-24
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-07-31
+        tz: AoE
+  - year: 2027
+    label: 3rd edition, with AAAI-27
+    start: 2027-02-22
+    end: 2027-02-22
+    location: Montreal, Canada (with AAAI-27)
+    url: https://sites.google.com/view/social-sims-with-llms/social-sim27
+    deadlines:
+      - kind: submission
+        date: 2026-11-20
+        tz: AoE
+      - kind: notification
+        date: 2026-12-02
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-12-09
+        tz: AoE
+sources:
+  - https://sites.google.com/view/social-sims-with-llms/social-sim27
+  - https://sites.google.com/view/social-sims-with-llms/call-for-papers-2027
+  - https://sites.google.com/view/social-sims-with-llms/social-sim26
+  - https://sites.google.com/view/social-sims-with-llms/social-sim26/call-for-papers-2026
+  - https://sites.google.com/view/social-sims-with-llms/social-sim25
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://colm.cc/
+  - https://portal.core.edu.au/conf-ranks/?search=Social+Simulation&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - 2027 workshop day taken from the AAAI-27 workshop schedule (Feb 22); the workshop page says February 22 or 23 (TBD)
+  - The AAAI-27 workshop list gives a submission deadline of 06 Nov 2026, while the workshop CFP says 20 Nov 2026 AoE (the CFP date is used)
+  - 2026 location (San Francisco) taken from the COLM 2026 entry, not stated on the workshop page

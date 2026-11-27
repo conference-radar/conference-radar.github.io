@@ -1,0 +1,53 @@
+id: ai-spc
+name: AI-SPC
+full_name: Workshop on AI for Scientific and General Purpose Computing
+type: workshop
+tier: minor
+areas: [ai, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: AI-SPC program chairs (Shell and AMD), held with IEEE HiPC
+organizer_country: [india]
+proceedings: IEEE Xplore (HiPC Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://aispc.github.io/
+notes:
+- Workshop on the synergy of HPC and AI for scientific computing and computer systems, held with IEEE HiPC in India (3rd edition in 2026)
+- Program chairs from Shell and AMD
+- Papers up to 4 pages in IEEE conference format plus 1 page of references; single-blind review
+- 2025 papers are in IEEE Xplore; the 2026 page does not name the proceedings
+- 1st edition at HiPC 2024 (introduction in the 2024 HiPCW proceedings, IEEE)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  location: Hyderabad, India (with HiPC 2025)
+  url: https://aispc.github.io/
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-16
+  location: Bengaluru, India (with HiPC 2026)
+  url: https://aispc.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-10-09
+  - kind: notification
+    date: 2026-11-06
+    label: Moved from 2026-11-01
+  - kind: camera_ready
+    date: 2026-11-18
+    label: Moved from 2026-11-15
+sources:
+- https://aispc.github.io/
+- https://ieeexplore.ieee.org/document/11459229
+- https://www.hipc.org/workshops/
+- https://doi.org/10.1109/hipcw63042.2024.00008
+- https://portal.core.edu.au/conf-ranks/?search=AI-SPC&by=all&source=ICORE2026
+unverified:
+- 2026 proceedings venue not stated; IEEE Xplore is taken from the 2025 edition
+- Exact dates of the 2024 and 2025 editions are not listed on the workshop page
+last_verified: 2026-11-27

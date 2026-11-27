@@ -1,0 +1,73 @@
+id: clihc
+name: CLIHC
+full_name: Latin American Conference on Human-Computer Interaction
+name_local: Conferencia Latinoamericana de Interacción Humano-Computadora
+type: conference
+tier: minor
+areas: [general]
+region: latin-america
+language: mixed
+frequency: biennial
+organizer: Latin American HCI Community (LAIHC)
+organizer_country: [other]
+proceedings: SBC OpenLib (SOL) (2026); ACM DL for 2021 and 2023
+archival: true
+rank:
+  core: null
+  ccf: null
+acceptance_rate: 22.2% full papers (10/45), 42.3% short papers (11/26) (2026)
+typical:
+  deadline_months: [3, 6]
+  conference_months: [5, 10, 11]
+links:
+  website: https://clihc2026.laihc.org/
+notes:
+- Human-computer interaction conference of the Latin American HCI community LAIHC, held every two years since 2003 (Rio de Janeiro)
+- Rotates around Latin America (Panama City 2019, online from Valparaiso 2021, Puebla 2023, Aracaju and Oaxaca 2026)
+- 2026 (12th edition) ran in a distributed format with two in-person sites, Aracaju, Brazil (May 6-8) and Oaxaca, Mexico (May 27-29); full papers were presented in Aracaju only
+- 2026 proceedings published in SBC OpenLib (DOI 10.5753/clihc.2026); 2021 and 2023 proceedings were in the ACM Digital Library
+- Full papers up to 15 pages including references, in English, Portuguese or Spanish, double-anonymous review by at least two reviewers
+- Four best papers of 2026 invited to an extended version in a special issue of the Journal of the Brazilian Computer Society
+- Also has short papers, posters, workshops and tutorials, a student design competition and a graduate colloquium
+- Not listed in the CORE portal (ICORE2026) or on the CCF list
+editions:
+- year: 2026
+  start: 2026-05-06
+  end: 2026-05-29
+  location: Aracaju, Brazil (May 6-8) and Oaxaca, Mexico (May 27-29)
+  url: https://clihc2026.laihc.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-03-09
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: submission
+    date: 2026-03-09
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: notification
+    date: 2026-03-30
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-04-12
+    time: "23:59"
+    tz: AoE
+    label: Full papers
+  - kind: other
+    date: 2026-04-05
+    label: Posters
+sources:
+- https://clihc2026.laihc.org/
+- https://www.laihc.org/
+- https://sol.sbc.org.br/index.php/clihc/issue/view/1692
+- https://portal.core.edu.au/conf-ranks/?search=CLIHC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- CLIHC 2028 host city, dates and deadlines not yet announced
+- Short paper deadline (March 9, 2026) appears only on the calls overview, so it is not listed separately
+- Call for papers read from the 2026 site (a single-page app without a stable call for papers URL)

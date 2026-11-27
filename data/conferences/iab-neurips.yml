@@ -1,0 +1,56 @@
+id: iab-neurips
+name: IAB
+full_name: "Interpreting Agent Behavior: Human-Centered Interpretation for Understanding Agents, Humans, and Interaction (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: IAB workshop organizers (Johns Hopkins University, Google DeepMind, University of Hong Kong, xAI, Caltech); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://iab-agents.github.io/
+notes:
+  - NeurIPS workshop on human-centered interpretation of what AI agents do and how they interact with humans
+  - 1st edition at NeurIPS 2026, ICC Sydney, 12 December 2026
+  - Non-archival; submissions on OpenReview with NeurIPS-style formatting and double-blind review
+  - Long papers up to 9 pages and short papers up to 4 pages, plus references and unlimited appendix
+  - Second route for NeurIPS 2026 papers (accepted or rejected) submitted with their NeurIPS reviews
+  - Hosts the GLEE competition on agents in language-based economic games, with a competition paper track
+  - "Received 260 direct submissions in 2026 (221 main track, 39 competition track)"
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with NeurIPS 2026
+    start: 2026-12-12
+    end: 2026-12-12
+    location: Sydney, Australia (ICC Sydney, with NeurIPS 2026)
+    url: https://iab-agents.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        time: "23:59"
+        tz: AoE
+        label: Papers without reviews, extended from 2026-08-29
+      - kind: submission
+        date: 2026-09-25
+        tz: AoE
+        label: Submission with NeurIPS reviews
+      - kind: notification
+        date: 2026-09-29
+      - kind: camera_ready
+        date: 2026-11-20
+sources:
+  - https://iab-agents.github.io/
+  - https://neurips.cc/virtual/2026/workshop/137495
+  - https://portal.core.edu.au/conf-ranks/?search=IAB&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No 2027 edition announced as of 2026-11-27
+  - Competition paper track deadline not confirmed separately

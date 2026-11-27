@@ -1,0 +1,55 @@
+id: retrieve
+name: RETRIEVE
+full_name: Workshop on Cross-Domain Architectural Support for Information Retrieval
+type: workshop
+tier: minor
+areas: [systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers at Cornell University (Mohammad Alian, Jose Martinez); co-located with MICRO
+organizer_country: [usa]
+proceedings: Workshop proceedings (papers posted on the workshop site)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://research.ece.cornell.edu/retrieve/
+notes:
+  - Workshop on architecture and systems support for retrieval primitives such as attention and KV-cache lookup, ANN search, recommendation embeddings, databases and tiered memory
+  - First edition held with MICRO 2026 in Athens as a half-day afternoon workshop
+  - Papers up to 6 pages excluding references in the IEEE Computer Architecture Letters (CAL) two-column format
+  - Double-blind review through HotCRP
+  - Accepted papers appear in the workshop proceedings; paper PDFs are posted on the workshop site
+  - Not listed in CORE ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with MICRO 2026
+    start: 2026-11-01
+    end: 2026-11-01
+    location: Athens, Greece (co-located with MICRO 2026)
+    url: https://research.ece.cornell.edu/retrieve/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-08-28
+        time: "23:59"
+        tz: AoE
+        label: Extended from Aug 14
+      - kind: notification
+        date: 2026-09-11
+        time: "23:59"
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-10-01
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://research.ece.cornell.edu/retrieve/
+  - https://www.microarch.org/micro59/
+  - https://portal.core.edu.au/conf-ranks/?search=RETRIEVE&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - The site does not name a publisher or digital library for the workshop proceedings; treated as informal proceedings (non-archival)
+  - Whether there will be a second edition, and its host conference, is not announced yet (checked 2026-11-27)

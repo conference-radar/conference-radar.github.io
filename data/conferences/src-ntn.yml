@@ -1,0 +1,53 @@
+id: src-ntn
+name: SRC-NTN
+full_name: IEEE GLOBECOM Workshop on Secure and Reliable Communications in Non-Terrestrial Networks
+type: workshop
+tier: minor
+areas: [communications, security]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop co-chairs (Xidian University, Huawei, SUTD, UCL, UNSW) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-03-secure-and-reliable-communications-non-terrestrial-networks-0
+notes:
+- WS-03 at IEEE GLOBECOM 2026 in Macau
+- Topics are physical-layer security, covert communications, AFDM and RSMA, fluid antennas, RIS, digital twins and trustworthy AI for satellite and other non-terrestrial networks
+- Co-chairs Zan Li and Chao Wang (Xidian University), Wee Kiat New (Huawei), Shengyu Zhang (SUTD), Kai-Kit Wong (UCL) and Derrick W. K. Ng (UNSW)
+- Short name SRC-NTN is used in this list only; the workshop has no official acronym
+- Accepted and presented papers go into the IEEE GLOBECOM 2026 Conference Proceedings and IEEE Xplore; no-show papers can be removed
+- Submissions via EDAS through the GLOBECOM workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-11
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://globecom2026.ieee-globecom.org/events/ws-03-secure-and-reliable-communications-non-terrestrial-networks-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: Extended date (firm)
+  - kind: notification
+    date: 2026-10-05
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-09-27)
+  - kind: camera_ready
+    date: 2026-10-14
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-10-05)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-03-secure-and-reliable-communications-non-terrestrial-networks-0
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/submission-guidelines
+- https://portal.core.edu.au/conf-ranks/?search=Non-Terrestrial&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within GLOBECOM 2026 (7 to 11 December); the workshop list says date to be announced
+- Edition number and whether earlier or later editions exist
+- Deadline time zone not stated
+last_verified: 2026-11-27

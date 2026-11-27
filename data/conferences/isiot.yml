@@ -1,0 +1,68 @@
+id: isiot
+name: ISIoT
+full_name: International Workshop on Intelligent Systems for the Internet of Things
+type: workshop
+tier: minor
+areas: [ai, networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop chairs from Neapolis University Pafos, Philips University of Cyprus, Cyprus University of Technology
+  and the University of Cyprus / CYENS
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/isiot2027
+notes:
+- Co-located workshop of DCOSS-IoT; follows the main conference location (2026 Reykjavik, 2027 Montreal)
+- Accepted and presented papers go into the DCOSS-IoT proceedings, submitted to IEEE Xplore
+- Workshop chairs are based in Cyprus
+- Not double-blind; 8 pages including references, plus up to 2 appendix pages at 100 USD per page
+- Submission deadline was extended twice in 2026 (January -> March -> April)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: Reykjavik, Iceland
+  url: https://sites.google.com/view/isiot-2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-04-21
+    label: Final extension (earlier deadlines 2026-01-27 and 2026-03-31)
+  - kind: notification
+    date: 2026-05-08
+    label: Moved from 2026-04-30
+  - kind: camera_ready
+    date: 2026-05-18
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://sites.google.com/view/isiot2027
+  deadlines:
+  - kind: submission
+    date: 2027-03-31
+  - kind: notification
+    date: 2027-04-15
+  - kind: camera_ready
+    date: 2027-04-30
+sources:
+- https://sites.google.com/view/isiot-2026/home
+- https://sites.google.com/view/isiot-2026/home/author-information
+- https://sites.google.com/view/isiot-2026/home/organizing-committee
+- https://sites.google.com/view/isiot2027
+- https://www.dcoss.org/
+- https://dcoss.org/dcoss2026/
+- https://portal.core.edu.au/conf-ranks/?search=ISIoT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadline times and time zone not stated on the official site
+- Exact workshop day within the DCOSS-IoT dates not stated
+- Locations of editions before 2026 not listed on the official site

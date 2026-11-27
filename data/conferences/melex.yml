@@ -1,0 +1,66 @@
+id: melex
+name: MELEX
+full_name: Workshop on More Exploration, Less Exploitation
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Belagiannis, Farshad, Nalpantidis, Carneiro) from FAU Erlangen-Nuremberg, Aalto University, DTU and University of Surrey; co-located with ICCV/ECCV
+organizer_country: [europe]
+proceedings: ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/melex-2026/
+notes:
+- Computer vision workshop for explorative papers with new ideas that are competitive but not state of the art
+- Targets unpublished papers previously rejected from main conferences for not beating SOTA; submissions include a one-page letter on the paper's review history
+- Editions with ICCV 2021, ECCV 2024 and ECCV 2026 (3rd)
+- Accepted papers published in the ECCV workshop proceedings
+- Small workshop; 3 accepted papers in 2026
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 2nd edition, with ECCV 2024
+  start: 2024-09-30
+  end: 2024-09-30
+  location: Milan, Italy (with ECCV 2024)
+  url: https://sites.google.com/view/melex2024
+  deadlines:
+  - kind: submission
+    date: 2024-07-07
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2024-08-07
+  - kind: camera_ready
+    date: 2024-08-15
+- year: 2026
+  label: 3rd edition, with ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026, Malmomassan C1)
+  url: https://sites.google.com/view/melex-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-02
+    time: "23:59"
+    tz: PST
+  - kind: notification
+    date: 2026-07-25
+  - kind: camera_ready
+    date: 2026-08-08
+sources:
+- https://sites.google.com/view/melex-2026/
+- https://sites.google.com/view/melex2024
+- https://sites.google.com/view/melex-2021/home
+- https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/MELEX
+- https://portal.core.edu.au/conf-ranks/?search=MELEX&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2026 important dates were labeled tentative on the official site
+- Next edition not announced as of 2026-11-27

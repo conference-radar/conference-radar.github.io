@@ -1,0 +1,47 @@
+id: logisymb-ijcai
+name: LogiSymb
+full_name: Workshop on Logical and Symbolic Reasoning of Large Language Models
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+organizer: LogiSymb program chairs (Peking University, University of Amsterdam, University of Melbourne, Tsinghua University, Stanford University, University of Oxford)
+organizer_country: [china, europe, australia, usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [6]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/ijcai-2026-logisymb
+notes:
+- Workshop on logical and symbolic reasoning in large language models, held with IJCAI
+- Held at IJCAI 2026 in Bremen, Germany (August 17, 2026)
+- The official page states that contributions are non-archival
+- Regular papers 4 to 10 pages and tiny/short papers 2 to 4 pages, excluding references and supplementary material
+- Double-blind review
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  label: With IJCAI 2026
+  start: 2026-08-17
+  end: 2026-08-17
+  location: Bremen, Germany (with IJCAI 2026)
+  url: https://sites.google.com/view/ijcai-2026-logisymb
+  deadlines:
+  - kind: submission
+    date: 2026-06-04
+    time: "00:00"
+    tz: UTC
+  - kind: notification
+    date: 2026-06-14
+    tz: AoE
+sources:
+- https://sites.google.com/view/ijcai-2026-logisymb
+- https://portal.core.edu.au/conf-ranks/?search=LogiSymb&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Edition number and earlier editions not stated on the official site
+- Camera-ready deadline not stated
+- No 2027 edition announced as of 2026-11-27

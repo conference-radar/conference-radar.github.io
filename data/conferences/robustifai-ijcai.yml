@@ -1,0 +1,48 @@
+id: robustifai-ijcai
+name: RobustifAI
+full_name: "RobustifAI: Robustifying Generative AI for Reliable, Safe, and Human-Centric Systems"
+type: workshop
+tier: minor
+areas: [ai, security]
+region: europe
+language: english
+organizer: Organizers from University of Liverpool, AIT, Hebrew University of Jerusalem, Chalmers, University of Oldenburg, TU Vienna and DLR; co-located with IJCAI-ECAI
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/robustifai-workshop
+notes:
+- IJCAI-ECAI 2026 workshop (WS02) on robustness, safety and reliability of generative AI
+- Funded by the EU RobustifAI project (ID 101212818, granted by HADEA)
+- Long papers up to 7 pages, short papers up to 4 pages, technical abstracts up to 2 pages, IJCAI template
+- Double-blind review on OpenReview
+- Non-archival, authors keep copyright and may submit the work elsewhere later
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-15
+  end: 2026-08-15
+  location: Bremen, Germany (with IJCAI-ECAI 2026)
+  url: https://sites.google.com/view/robustifai-workshop
+  deadlines:
+  - kind: submission
+    date: 2026-05-18
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-06-10
+    tz: AoE
+sources:
+- https://sites.google.com/view/robustifai-workshop
+- https://sites.google.com/view/robustifai-workshop/call-for-papers
+- https://sites.google.com/view/robustifai-workshop/organizers
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=RobustifAI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Earlier editions and frequency not stated on the official page
+- No 2027 edition announced as of 2026-11-27

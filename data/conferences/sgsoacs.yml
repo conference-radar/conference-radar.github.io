@@ -1,0 +1,67 @@
+id: sgsoacs
+name: SGSOACS
+full_name: Spanish-German Symposium on Applied Computer Science
+type: conference
+tier: minor
+areas: [software, security, data]
+region: europe
+language: english
+frequency: annual
+organizer: University of Cadiz, Frankfurt University of Applied Sciences and Complutense University of Madrid (with TU Graz in 2025)
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+fee: 450 EUR per on-site participant (2026)
+typical:
+  deadline_months: [5]
+  conference_months: [6, 7]
+links:
+  website: https://sgsoacs.eu/
+notes:
+- Small symposium promoting applied computer science collaboration mainly between Spanish and German universities; 2026 was the 12th edition
+- Topics include complex event processing, cyber security and blockchain, data science, human activity recognition, smart cities, software architecture, engineering and testing
+- Accepted papers published by Springer Nature in CCIS (11th edition proceedings appeared in 2025)
+- Full papers 12 to 15 pages, short papers 6 to 11 pages; one-page extended abstracts are presented but not published
+- At least three PC reviews per paper, no rebuttal; submission through Springer Meteor
+- Held in Central Europe (Vienna 2025, Oberursel near Frankfurt 2026)
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-06-30
+  end: 2025-07-03
+  location: Vienna, Austria
+  url: https://sgsoacs.eu/past-events/sgsoacs2025/
+  deadlines:
+  - kind: submission
+    date: 2025-05-23
+    label: Extended from 2025-05-18
+  - kind: notification
+    date: 2025-06-06
+    label: Extended from 2025-06-01
+  - kind: camera_ready
+    date: 2025-06-20
+- year: 2026
+  start: 2026-06-29
+  end: 2026-07-01
+  location: Oberursel, Germany
+  url: https://sgsoacs.eu/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    time: "23:59"
+    label: Extended from 2026-05-03
+  - kind: notification
+    date: 2026-06-02
+    label: Moved from 2026-05-31
+  - kind: camera_ready
+    date: 2026-06-15
+sources:
+- https://sgsoacs.eu/
+- https://sgsoacs.eu/past-events/sgsoacs2025/
+- https://link.springer.com/book/10.1007/978-3-032-14816-2
+- https://portal.core.edu.au/conf-ranks/?search=SGSOACS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- SGSOACS 2027 not announced yet
+- Time zone of the 2026 submission deadline not stated (site gives only EOD 23.59)
+- Venues and years of editions before 2025 not listed on the site

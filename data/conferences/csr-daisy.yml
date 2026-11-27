@@ -1,0 +1,52 @@
+id: csr-daisy
+name: DAISY
+full_name: IEEE CSR Workshop on Decentralised AI for Secure and Resilient Networked Systems
+type: workshop
+tier: minor
+areas: [security, ai, networking]
+region: europe
+language: english
+frequency: annual
+organizer: University of Portsmouth workshop chairs (co-located workshop of IEEE CSR)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [8]
+links:
+  website: https://www.ieee-csr.org/csr-daisy/
+notes:
+- Workshop of the IEEE International Conference on Cyber Security and Resilience (IEEE CSR); first edition in 2026 in Lisbon, in person only
+- Chaired by Aikaterini Kanta and Tijana Markovic (University of Portsmouth, UK); supported by the ENSURE-6G project
+- Topics include secure and privacy-preserving distributed and federated AI, decentralised learning for IoT, edge and 5G/6G networks, AI-driven intrusion detection and forensics
+- Workshop papers go into the IEEE CSR proceedings in IEEE Xplore; 6 pages plus up to 2 extra pages with overlength charges
+- Small workshop; 4 papers in one session (WS1) on Monday 3 Aug 2026
+- In 2026 the CSR CSAIP workshop program was merged into DAISY
+- Deadline was extended by one month in 2026 (Apr 13 -> May 13)
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-08-03
+  end: 2026-08-03
+  location: Lisbon, Portugal
+  url: https://www.ieee-csr.org/csr-daisy/
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    label: Papers (extended from Apr 13)
+  - kind: notification
+    date: 2026-06-04
+  - kind: camera_ready
+    date: 2026-06-25
+  - kind: other
+    date: 2026-06-25
+    label: Author registration
+sources:
+- https://www.ieee-csr.org/csr-daisy/
+- https://www.ieee-csr.org/csr-csaip/
+- https://portal.core.edu.au/conf-ranks/?search=DAISY&by=all&source=ICORE2026
+unverified:
+- Deadline time and time zone not stated
+- DAISY 2027 not announced yet; unclear whether the workshop continues after its first edition
+last_verified: 2026-11-27

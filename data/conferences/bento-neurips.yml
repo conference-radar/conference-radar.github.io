@@ -1,0 +1,51 @@
+id: bento-neurips
+name: BeNTo
+full_name: "Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: BeNTo workshop organizers (KAIST, Georgia Tech, University of Pennsylvania, Cerebras Systems, MBZUAI); co-located with NeurIPS
+organizer_country: [korea, usa, other]
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://bento-neurips.github.io/
+notes:
+  - NeurIPS workshop on discrete diffusion and flow models as an alternative to autoregressive next-token generation
+  - Two tracks, theories and algorithms, and applications and systems
+  - Held at NeurIPS 2026, Sydney (Hall 4), 12 December 2026
+  - Papers of 4 or 8 pages in NeurIPS style, anonymized, submitted on OpenReview
+  - Mutual review policy; at least one author per submission serves as a reviewer
+  - Accepted papers presented as posters, with 6 contributed orals and a best paper award
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-12
+    end: 2026-12-12
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://bento-neurips.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2026-09-28
+      - kind: camera_ready
+        date: 2026-10-02
+        label: Tentative
+sources:
+  - https://bento-neurips.github.io/
+  - https://neurips.cc/virtual/2026/workshop/137507
+  - https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/BeNTo
+  - https://portal.core.edu.au/conf-ranks/?search=BeNTo&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Proceedings and archival status not stated on the official site
+  - Edition number not stated; no earlier edition found
+  - No 2027 edition announced as of 2026-11-27

@@ -1,0 +1,62 @@
+id: hmem
+name: HMEM
+full_name: Workshop on Heterogeneity and Memory Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: HMEM organizers (Intel, INESC-ID / Universidade de Lisboa, Barcelona Supercomputing Center)
+organizer_country: [europe, usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [8, 9]
+  conference_months: [11]
+links:
+  website: https://hmem-workshop.github.io/
+notes:
+- Workshop on heterogeneous memory and memory systems (CXL, unified memory, data placement) for HPC; formerly the Workshop on Heterogeneous Memory Systems
+- Running since 2020; co-located with ICS (2020 to 2022), SC'23, CLUSTER'24, SC'25 and SC'26
+- Traditional-style workshop without formal proceedings; authors may post their PDF on the workshop site and publish the work later
+- Position papers and completed or early work up to 10 pages (IEEE two-column, double-blind), or 2-page abstracts of recently published work
+- Submission through the SC submissions portal
+- Listed as a symposium-style workshop (no proceedings) for SC26
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://hmem-workshop.github.io/hmem2025/
+  deadlines:
+  - kind: submission
+    date: 2025-09-01
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2025-09-15
+    tz: AoE
+- year: 2026
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Chicago, IL, USA (with SC26)
+  url: https://hmem-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-09-15
+    tz: AoE
+sources:
+- https://hmem-workshop.github.io/
+- https://hmem-workshop.github.io/hmem2025/
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=HMEM&by=all&source=ICORE2026
+unverified:
+- Original (pre-extension) submission deadlines not shown on the site
+- Next edition (2027) not announced as of 2026-11-27
+last_verified: 2026-11-27

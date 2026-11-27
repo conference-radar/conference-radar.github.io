@@ -1,0 +1,73 @@
+id: icrera
+name: ICRERA
+full_name: International Conference on Renewable Energy Research and Applications
+type: conference
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: ICRERA committee with a rotating host university (University of Strathclyde in 2027); technical co-sponsors IEEE, IEEE IAS, IEEE IES and IEICE
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [8, 9]
+  conference_months: [10, 11]
+links:
+  website: https://www.icrera.org/
+notes:
+- Annual conference on renewable energy, power electronics and smart grids, held since 2012; power and energy scope rather than computing
+- Proceedings of the 2012 to 2025 editions are in IEEE Xplore and indexed in Scopus
+- Selected papers go to IEEE Transactions on Industry Applications, IJRER, ijSmartGrid and AIra
+- Rotates between countries (Nagasaki 2024, Vienna 2025, Paris 2026, Glasgow 2027)
+- Submission is a 3 to 5 page long digest in IEEE format via Microsoft CMT; includes an IEEE IAS workshop
+- Late deadlines, about two months before the conference
+- Not listed in CORE ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: 15th ICRERA
+  start: 2026-10-12
+  end: 2026-10-15
+  location: Paris, France
+  url: https://www.icrera.org/archieve2026
+  deadlines:
+  - kind: submission
+    date: 2026-09-20
+    tz: AoE
+    label: Long digest (3 to 5 pages)
+  - kind: camera_ready
+    date: 2026-09-25
+    tz: AoE
+- year: 2027
+  label: 16th ICRERA
+  start: 2027-10-11
+  end: 2027-10-14
+  location: Glasgow, UK
+  url: https://www.icrera.org/
+  deadlines:
+  - kind: submission
+    date: 2027-08-20
+    tz: AoE
+    label: Long digest (3 to 5 pages)
+  - kind: notification
+    date: 2027-09-10
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-09-20
+    tz: AoE
+sources:
+- https://www.icrera.org/
+- https://www.icrera.org/index.php?id=dead
+- https://www.icrera.org/index.php?id=call
+- https://www.icrera.org/archieve2026
+- https://www.icrera.org/archieve2026/index.php?id=dead
+- https://www.icrera.org/archieve2025
+- https://www.icrera.org/archieve2024
+- https://portal.core.edu.au/conf-ranks/?search=ICRERA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The 2026 deadlines page lists the notification on the same day as the digest deadline (2026-09-20), so the 2026 notification date is left out
+- The 2027 site does not yet state where the proceedings will be published; IEEE Xplore is based on the 2012 to 2025 editions
+- The body that runs the series is not named, so organizer_country is left out
+- All dates are marked subject to change

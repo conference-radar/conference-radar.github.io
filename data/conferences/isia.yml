@@ -1,0 +1,62 @@
+id: isia
+name: ISIA
+full_name: International Symposium on Informatics and its Applications
+type: conference
+tier: minor
+areas: [general, ai, data, networking, software, security]
+region: africa
+language: english
+frequency: biennial
+organizer: Laboratory of Informatics and its Applications of M'sila (LIAM), Mohamed Boudiaf University of M'sila, with ASIAM
+organizer_country: [other]
+proceedings: Conference proceedings (publisher not stated)
+typical:
+  deadline_months: [7]
+  conference_months: [11, 12]
+links:
+  website: https://isia.univ-msila.dz/
+notes:
+- Organized by LIAM at Mohamed Boudiaf University of M'sila, Algeria, with the Algerian Society of Industrial and Applied Mathematics (ASIAM)
+- Biennial since 2014 (2014, 2016, 2018, 2020, 2022, 2024, 2026), always held in M'sila
+- Broad computer science scope (AI and ML, data science, networks, software engineering, databases, cybersecurity, optimization, bioinformatics)
+- 2026 papers of six pages in IEEE double-column format, double-blind review via Microsoft CMT
+- 2026 site says accepted papers go in the official conference proceedings, intended to be submitted for indexing; publisher not named
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2024
+  label: 6th ISIA
+  start: 2024-12-10
+  end: 2024-12-11
+  location: M'sila, Algeria
+  url: https://isia.univ-msila.dz/ISIA24/
+  deadlines:
+  - kind: submission
+    date: 2024-10-31
+    label: Firm deadline (after extensions from Sep 20 and Oct 20)
+  - kind: notification
+    date: 2024-11-10
+  - kind: camera_ready
+    date: 2024-11-20
+- year: 2026
+  label: 7th ISIA
+  start: 2026-11-10
+  end: 2026-11-11
+  location: Faculty of Mathematics and Computer Science, Mohamed Boudiaf University of M'sila, Algeria
+  url: https://isia.univ-msila.dz/
+  deadlines:
+  - kind: submission
+    date: 2026-07-25
+    label: Firm deadline (extended from Jul 15)
+  - kind: notification
+    date: 2026-09-15
+  - kind: camera_ready
+    date: 2026-10-01
+sources:
+- https://isia.univ-msila.dz/
+- https://isia.univ-msila.dz/ISIA24/
+- https://portal.core.edu.au/conf-ranks/?search=ISIA&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-11-27
+unverified:
+- Publisher and indexing of the 2024 and 2026 proceedings not stated on the official site, so archival status is not set
+- ISIA 2028 not announced as of 2026-11-27

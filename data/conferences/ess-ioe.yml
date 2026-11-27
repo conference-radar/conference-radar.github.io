@@ -1,0 +1,56 @@
+id: ess-ioe
+name: ESS-IoE
+full_name: IEEE GLOBECOM Workshop on Energy Self-Sustainable Internet of Everything for 6G
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (UESTC, China Unicom, CQUPT, University of Cyprus, Nanjing University) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [china, europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-20-workshop-energy-self-sustainable-internet-everything-6g-0
+notes:
+- Workshop on energy efficiency and energy self-supply for battery-powered and battery-less IoE devices in 6G
+  (wireless information and power transfer, backscatter, wireless powered communications)
+- WS-20 at IEEE GLOBECOM 2026 (Macau); co-chairs from UESTC, China Unicom Research Institute, CQUPT, University of
+  Cyprus and Nanjing University
+- Full-day program in 2026 with about 27 papers and a keynote
+- Short name ESS-IoE is not used on the official pages
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore; no-show papers are removed
+- Not in the GLOBECOM 2025 workshop list
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-20-workshop-energy-self-sustainable-internet-everything-6g-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop page (GLOBECOM workshop call says 2026-10-05)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop page (GLOBECOM workshop call says 2026-10-14)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-20-workshop-energy-self-sustainable-internet-everything-6g-0
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/authors/instructions-final-camera-ready-manuscript-submission
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=Self-Sustainable&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ESS-IoE&by=all&source=ICORE2026
+unverified:
+- Short name ESS-IoE (not used on the official pages)
+- Time zone of the deadlines (not stated)
+- Earlier or later editions at other IEEE conferences were not checked
+last_verified: 2026-11-27

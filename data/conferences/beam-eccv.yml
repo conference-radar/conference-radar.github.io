@@ -1,0 +1,47 @@
+id: beam-eccv
+name: BEAM
+full_name: Workshop on Benchmarking Evidence-Aligned Multimodal Reasoning
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from Carnegie Mellon University, Amazon AGI, Google and Adobe; 2026 edition co-located with ECCV
+organizer_country: [usa]
+proceedings: Archival workshop proceedings (series not stated on the site)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://beamv2-eccv-workshop.github.io/
+notes:
+- Workshop on benchmarks and metrics that check whether multimodal model answers are grounded in the right visual or audio evidence
+- 2026 is the 2nd edition (BEAM 2), a half-day workshop at ECCV 2026 in Malmo
+- Accepted original submissions are archival; position statements and benchmark reports also welcome
+- Papers 4 to 14 pages in ECCV format, submitted on OpenReview
+- 6 accepted papers in 2026
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: 2nd edition (BEAM 2), with ECCV 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Malmo, Sweden (with ECCV 2026, Malmomassan Room C1)
+  url: https://beamv2-eccv-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+  - kind: notification
+    date: 2026-08-07
+  - kind: camera_ready
+    date: 2026-08-13
+sources:
+- https://beamv2-eccv-workshop.github.io/
+- https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/BEAM
+- https://portal.core.edu.au/conf-ranks/?search=BEAM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Where archival papers are published (e.g. ECCV Workshops proceedings) is not stated on the site
+- Date and host conference of the 1st edition not confirmed
+- Next edition not announced as of 2026-11-27

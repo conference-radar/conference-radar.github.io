@@ -1,0 +1,61 @@
+id: icsgrc
+name: ICSGRC
+full_name: IEEE Control and System Graduate Research Colloquium
+type: conference
+tier: minor
+areas: [general, communications]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: IEEE Malaysia Control Systems Society Chapter
+organizer_country: [malaysia]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+fee: 1 paper USD 380 IEEE / USD 430 non-IEEE professional, USD 320 / 370 student (2027, international, physical)
+typical:
+  deadline_months: [4]
+  conference_months: [8]
+links:
+  website: https://www.asprg.net/cms/conference.php?conf_short_name=icsgrc2027
+notes:
+- Graduate research colloquium run by the IEEE Malaysia Control Systems Society chapter, part of the same yearly
+  series as CSPA, ICSET, ICSPC and I2CACIS
+- One-day event held in Shah Alam (Kuala Lumpur area), Malaysia; 18th edition in 2027
+- Accepted papers are submitted to IEEE Xplore; the series is indexed in Scopus
+- Broad scope covering control, systems engineering, communication, computer, electronics, power, signal and image
+  processing, drones and remote sensing
+- Double-blind review with at least 3 reviewers; similarity below 30% expected before submission
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 17th ICSGRC
+  start: 2026-08-01
+  end: 2026-08-01
+  location: Shah Alam, Malaysia
+- year: 2027
+  label: 18th ICSGRC
+  start: 2027-08-07
+  end: 2027-08-07
+  location: Mardhiyyah Hotel, Shah Alam, Malaysia
+  url: https://www.asprg.net/cms/conference.php?conf_short_name=icsgrc2027
+  deadlines:
+  - kind: submission
+    date: 2027-04-15
+  - kind: notification
+    date: 2027-05-15
+    label: Notifications from this date onwards
+  - kind: camera_ready
+    date: 2027-07-01
+    label: Camera-ready and registration
+sources:
+- https://www.asprg.net/cms/conference.php?conf_short_name=icsgrc2027
+- https://ieeexplore.ieee.org/xpl/conhome/1800129/all-proceedings
+- https://api.crossref.org/works/10.1109/icsgrc69436.2026
+- https://api.crossref.org/works/10.1109/icsgrc65918.2025
+- https://portal.core.edu.au/conf-ranks/?search=ICSGRC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- "2026 edition dates and location come from IEEE Xplore / Crossref metadata (1 August 2026, Shah Alam); the 2026
+  page on asprg.net is no longer active and acscrg.com refused access"
+- 2026 deadlines

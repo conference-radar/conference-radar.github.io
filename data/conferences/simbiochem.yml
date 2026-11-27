@@ -1,0 +1,58 @@
+id: simbiochem
+name: SIMBIOCHEM
+full_name: Machine Learning for Simulations in Biology and Chemistry Workshop
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: SIMBIOCHEM organizing committee (University of Oxford, NVIDIA, MIT, Novo Nordisk, University of Copenhagen, DTU); co-located with EurIPS / NeurIPS
+organizer_country: [europe, usa]
+proceedings: None (non-archival; accepted papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://www.simbiochem.com
+notes:
+- Workshop on machine learning for molecular and biological simulation (learned potentials, differentiable simulation, physically grounded architectures)
+- 1st edition at EurIPS 2025 in Copenhagen (December 6, 2025); 2nd edition at NeurIPS 2026 in Sydney
+- Non-archival with no formal proceedings; camera-ready papers are collected on a proceedings page on the website
+- Previously presented or under-review work is welcome
+- Double-blind review on OpenReview, 5 to 8 pages in NeurIPS format, no rebuttal phase
+- "Acceptance: 29 of 37 papers (2025), 53 of 79 papers (2026)"
+- Five 2025 papers were invited by Nature Portfolio editors to submit extended versions
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  location: Copenhagen, Denmark (EurIPS 2025)
+  url: https://www.simbiochem.com/previous-editions/copenhagen
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Sydney, Australia (NeurIPS 2026)
+  url: https://www.simbiochem.com
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-09-04
+    tz: AoE
+  - kind: notification
+    date: 2026-09-28
+    tz: AoE
+sources:
+- https://www.simbiochem.com
+- https://www.simbiochem.com/call-for-papers
+- https://www.simbiochem.com/previous-editions/copenhagen
+- https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Simbiochem
+- https://neurips.cc/virtual/2026/workshop/137515
+- https://portal.core.edu.au/conf-ranks/?search=SIMBIOCHEM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadlines of the 2025 (EurIPS) edition are not stated on the official page
+- Camera-ready deadline for 2026 not stated
+- No 2027 edition announced as of 2026-11-27

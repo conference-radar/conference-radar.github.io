@@ -1,0 +1,49 @@
+id: rlxf
+name: RLxF
+full_name: "RLxF: Reinforcement Learning from World Feedback (ICML Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from National Taiwan University, Google DeepMind, Ai2, Cornell, Stanford and Leibniz University Hannover; co-located with ICML
+organizer_country: [taiwan, usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [7]
+links:
+  website: https://sites.google.com/view/rlxf-icml2026/
+notes:
+- Workshop on reinforcement learning from world feedback (measurable real-world outcomes such as efficiency, safety and economic signals) instead of human preference feedback
+- First held with ICML 2026 in Seoul
+- Non-archival; papers under review at other venues (e.g. NeurIPS 2026) are welcome
+- Full papers up to 9 pages or short proof-of-concept papers of 2 to 4 pages in ICML or NeurIPS format; double-blind review on OpenReview
+- Sponsored by NTU AI-CoRE
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: With ICML 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, South Korea (co-located with ICML 2026, COEX)
+  url: https://sites.google.com/view/rlxf-icml2026/
+  deadlines:
+  - kind: submission
+    date: 2026-05-13
+    tz: AoE
+  - kind: notification
+    date: 2026-05-31
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-06-26
+    tz: AoE
+sources:
+- https://sites.google.com/view/rlxf-icml2026/
+- https://sites.google.com/view/rlxf-icml2026/call-for-papers
+- https://icml.cc/virtual/2026/workshop/54067
+- https://portal.core.edu.au/conf-ranks/?search=RLxF&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No 2027 edition announced as of 2026-11-27; unknown whether the workshop will recur

@@ -1,0 +1,67 @@
+id: attrib
+name: ATTRIB
+full_name: "Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ATTRIB workshop organizers, held with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://attrib-workshop.cc/
+notes:
+- NeurIPS workshop on attributing model behavior to training data, model components and algorithms (data attribution and provenance)
+- Editions at NeurIPS 2023, 2024 and 2026 (none in 2025)
+- Non-archival; previously published papers may be submitted
+- Main track 3 to 6 pages and idea track 2 to 4 pages, double-blind on OpenReview
+- Reciprocal reviewing; one author per submission must review up to 2 papers or the paper may be desk rejected
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2024
+  label: 2nd edition, with NeurIPS 2024
+  start: 2024-12-14
+  end: 2024-12-14
+  location: Vancouver Convention Center, Vancouver, Canada (with NeurIPS 2024)
+  url: https://attrib-workshop.cc/2024/
+  deadlines:
+  - kind: submission
+    date: 2024-09-25
+    tz: AoE
+  - kind: other
+    date: 2024-10-04
+    tz: AoE
+    label: Final deadline with emergency reviewer
+  - kind: notification
+    date: 2024-10-10
+- year: 2026
+  label: 3rd edition, with NeurIPS 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://attrib-workshop.cc/
+  deadlines:
+  - kind: submission
+    date: 2026-09-05
+    tz: AoE
+  - kind: notification
+    date: 2026-09-29
+  - kind: camera_ready
+    date: 2026-11-13
+sources:
+- https://attrib-workshop.cc/
+- https://attrib-workshop.cc/2024/
+- https://neurips.cc/virtual/2026/workshop/137524
+- https://portal.core.edu.au/conf-ranks/?search=ATTRIB&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No 2027 edition announced

@@ -1,0 +1,50 @@
+id: tae
+name: TAE
+full_name: "Trust-AI-Eval: Can We Trust AI Evaluation? Robustness, Causality, and Risk in Modern AI Assessment"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (University of Melbourne, University of Pavia, Fudan University); co-located with NeurIPS
+organizer_country: [australia, europe, china]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://tai-eval.github.io/
+notes:
+- NeurIPS workshop on the reliability of AI evaluation itself (benchmark auditing, contamination, judge reliability, causal validity, deployment risk)
+- First edition at NeurIPS 2026 in Sydney (rooms MR C2.2 and C2.3); no earlier edition mentioned on the site
+- Non-archival; accepted papers presented as in-person posters
+- Submissions up to 8 pages excluding references and appendices, double-blind review on OpenReview
+- Not on the CORE portal (ICORE2026) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Sydney, Australia (with NeurIPS 2026)
+  url: https://tai-eval.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-08-29
+    tz: AoE
+  - kind: notification
+    date: 2026-09-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-15
+    tz: AoE
+sources:
+- https://tai-eval.github.io/
+- https://tai-eval.github.io/cfp/
+- https://neurips.cc/virtual/2026/workshop/137525
+- https://portal.core.edu.au/conf-ranks/?search=TAE&by=all&source=ICORE2026
+unverified:
+- Dates on the site are labeled indicative
+- Only one edition (NeurIPS 2026) found; no next edition announced as of 2026-11-27
+last_verified: 2026-11-27

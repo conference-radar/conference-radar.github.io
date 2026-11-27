@@ -1,0 +1,68 @@
+id: smace
+name: SmaCE
+full_name: IEEE International Workshop on Smart Circular Economy
+type: workshop
+tier: minor
+areas: [networking, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: Bournemouth University and European partners (General Chair Marios Angelopoulos), with DCOSS-IoT
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [DBLP, Scopus]
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://www.smace-workshop.org/
+notes:
+- Held in conjunction with IEEE DCOSS-IoT; 8th edition on June 24, 2026 in Reykjavik, and listed again for DCOSS-IoT 2027 in Montreal
+- ICT as an enabler for the circular economy (IoT, crowdsensing, low-power networks, blockchain, smart infrastructure, data-driven business models)
+- Papers up to 8 pages in IEEE two-column format plus up to 2 appendix pages at 100 USD per page; single-blind review via EasyChair
+- Papers appear in IEEE Xplore; no-show papers are excluded from the proceedings
+- Sponsored by the 3D Circular project; registration through DCOSS-IoT
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 8th SmaCE (at DCOSS-IoT 2026)
+  start: 2026-06-24
+  end: 2026-06-24
+  location: Reykjavik, Iceland (with DCOSS-IoT 2026)
+  url: https://www.smace-workshop.org/
+  deadlines:
+  - kind: submission
+    date: 2026-05-01
+    tz: AoE
+    label: Extended from 2026-04-07
+  - kind: notification
+    date: 2026-05-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-21
+    tz: AoE
+    label: Firm
+- year: 2027
+  label: 9th SmaCE (at DCOSS-IoT 2027)
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada (with DCOSS-IoT 2027)
+  url: https://dcoss.org/
+sources:
+- https://www.smace-workshop.org/
+- https://www.smace-workshop.org/submission-guidelines
+- https://www.smace-workshop.org/committees
+- https://www.smace-workshop.org/registration
+- https://dcoss.org/
+- https://dcoss.org/dcoss2026/
+- https://dcoss.org/dcoss2026/workshops/
+- https://dcoss.org/dcoss2027/workshops/
+- https://dcoss.org/dcoss2027/call-for-papers/
+- https://dcoss.org/dcoss2026/wp-content/uploads/2026/06/DCOSS-IoT_programme_2026_v04.pdf
+- https://portal.core.edu.au/conf-ranks/?search=SmaCE&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- SmaCE 2027 workshop day and deadlines not yet announced; dates shown are the DCOSS-IoT 2027 conference dates

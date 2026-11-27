@@ -1,0 +1,64 @@
+id: sustain-hpc
+name: SUSTAIN-HPC
+full_name: Workshop on Sustainable Computing for High-Performance and Distributed Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+organizer: SUSTAIN-HPC organizers (A*STAR and National University of Singapore), held with ICPP
+organizer_country: [singapore]
+proceedings: ACM DL (ICPP Workshops proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://icpp2026.github.io/sustain-hpc-2026/
+notes:
+- Half-day workshop on sustainable and green computing for HPC and distributed systems, held with ICPP 2026 in Singapore
+- Long papers up to 10 pages and short or work-in-progress papers up to 6 pages, including references, ACM format
+- Single-blind review through HotCRP; at least three reviews per long paper and two per short paper
+- Accepted papers published in the ACM ICPP Workshops proceedings
+- Four peer-reviewed papers presented in 2026, alongside two keynotes and two invited talks
+- No earlier edition is listed on the workshop page
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-28
+  location: Singapore (with ICPP 2026)
+  url: https://icpp2026.github.io/sustain-hpc-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+    label: Long papers
+  - kind: submission
+    date: 2026-07-20
+    tz: AoE
+    label: Short / work-in-progress papers (extended from 2026-07-10)
+  - kind: notification
+    date: 2026-07-20
+    tz: AoE
+    label: Long papers
+  - kind: notification
+    date: 2026-07-31
+    tz: AoE
+    label: Short / work-in-progress papers
+  - kind: camera_ready
+    date: 2026-07-30
+    tz: AoE
+    label: Long papers
+  - kind: camera_ready
+    date: 2026-08-07
+    tz: AoE
+    label: Short / work-in-progress papers
+sources:
+- https://icpp2026.github.io/sustain-hpc-2026/
+- https://icpp2026.github.io/sustain-hpc-2026/call-for-papers/
+- https://icpp2026.github.io/sustain-hpc-2026/program/
+- https://portal.core.edu.au/conf-ranks/?search=SUSTAIN-HPC&by=all&source=ICORE2026
+unverified:
+- Whether the workshop will run again with ICPP 2027 is not announced
+last_verified: 2026-11-27

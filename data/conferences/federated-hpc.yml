@@ -1,0 +1,51 @@
+id: federated-hpc
+name: Federated HPC
+full_name: International Workshop on Privacy-Preserving & Collaborative High-Performance Computing
+type: workshop
+tier: minor
+areas: [security, ai, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: High-Performance & Trustworthy AI Systems Lab, IIT (BHU) Varanasi, held with IEEE HiPC
+organizer_country: [india]
+proceedings: HiPC Workshops (HiPCW) proceedings
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://hpc-tai.github.io/FederatedHPC/
+notes:
+- Workshop on federated learning and privacy-preserving computing on HPC systems, held with IEEE HiPC in India
+- Topics include FL orchestration on HPC, secure aggregation, differential privacy, homomorphic encryption, MPC, TEEs and poisoning defences
+- Accepted papers appear in the HiPC Workshops (HiPCW 2026) proceedings volume with its own ISBN
+- Full papers of 6 to 10 pages in IEEE double-column format, submitted via Linklings
+- At least one author must present in person with a full main-conference registration
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-16
+  end: 2026-12-16
+  location: Bengaluru, India (with HiPC 2026)
+  url: https://hpc-tai.github.io/FederatedHPC/
+  deadlines:
+  - kind: submission
+    date: 2026-10-09
+    tz: AoE
+    label: Full papers (page also lists 2026-10-04)
+  - kind: notification
+    date: 2026-11-01
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-11-09
+    tz: AoE
+sources:
+- https://hpc-tai.github.io/FederatedHPC/
+- https://www.hipc.org/workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Federated+HPC&by=all&source=ICORE2026
+unverified:
+- Edition number and previous editions are not stated on the page
+- The page lists both 2026-10-04 and 2026-10-09 as the paper deadline; 2026-10-09 appears to be the extension
+- The HiPCW proceedings publisher (IEEE Xplore or other) is not named
+last_verified: 2026-11-27

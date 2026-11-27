@@ -1,0 +1,56 @@
+id: ddcm
+name: DDCM
+full_name: IEEE ICC Workshop on Delay-Doppler and Chirp-Based Modulation for Future Communication Systems
+type: workshop
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (UNSW Sydney, Osaka Metropolitan University, Monash University, University of Arkansas) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws26-6th-workshop-delay-doppler-and-chirp-based-modulation-future-communication-systems.html
+notes:
+- Workshop co-located with IEEE ICC; the ICC 2026 edition in Glasgow (WS26) was the 6th
+- The 5th edition ran at ICC 2025 (WS16) as the Workshop on OTFS and Delay-Doppler Multicarrier Communications for 6G
+- Topics are delay-Doppler domain modulation (OTFS, ODDM, DDMC) and chirp-based modulation (OCDM, AFDM, CSS) for high-mobility links, NTN and ISAC
+- Short name DDCM is used in this list only; the workshop has no official acronym
+- General co-chairs Jinhong Yuan (UNSW), Hai Lin (Osaka Metropolitan University), Yi Hong (Monash) and Jingxian Wu (Arkansas); steering committee includes Lajos Hanzo and Emanuele Viterbo
+- Different from the GLOBECOM workshop on Delay-Doppler Communications, Sensing and Their Integration (ddcs)
+- Accepted and presented papers go into the IEEE ICC workshop proceedings in IEEE Xplore; no-show papers can be removed
+- 6-page limit, submissions via EDAS through the ICC workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://icc2026.ieee-icc.org/workshop/ws26-6th-workshop-delay-doppler-and-chirp-based-modulation-future-communication-systems.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended from 2026-01-18 (firm)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws26-6th-workshop-delay-doppler-and-chirp-based-modulation-future-communication-systems.html
+- https://icc2026.ieee-icc.org/workshop/ws26-6th-workshop-delay-doppler-and-chirp-based-modulation-future-communication-systems-0.html
+- https://icc2026.ieee-icc.org/workshop/ws26-6th-workshop-delay-doppler-and-chirp-based-modulation-future-communication-systems-1.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2025.ieee-icc.org/program/workshops
+- https://icc2027.ieee-icc.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=Delay-Doppler&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=DDCM&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-27 (the ICC 2027 call for workshop papers says "coming soon")
+- Venues and names of the 1st to 4th editions not checked
+- Deadline time zone not stated
+last_verified: 2026-11-27

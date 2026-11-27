@@ -1,0 +1,70 @@
+id: aaba4et
+name: AABA4ET
+full_name: Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: AABA4ET organizers (Carnegie Mellon University, Fujitsu, Keio University, Cohere); co-located with AAAI (2026) and NeurIPS (2026)
+organizer_country: [usa, japan, canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [8, 10]
+  conference_months: [1, 12]
+links:
+  website: https://marscod.github.io/AABA4ET.NeurIPS.2026/
+notes:
+  - Workshop on benchmarking, evaluating and deploying agentic AI systems for enterprise operations
+  - 1st edition at AAAI 2026 in Singapore (26 January 2026); 2nd edition at NeurIPS 2026 in Sydney (11 December 2026)
+  - Host conference changes between editions
+  - Non-archival with double-blind review on OpenReview; dual submission welcome
+  - 2026 NeurIPS edition takes papers up to 4 pages in NeurIPS style, references and appendices unlimited
+  - At least one author must present in person
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with AAAI 2026
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI 2026)
+    url: https://sites.google.com/view/aaba4et/past-workshop/aaai-2026-1st-overview
+    deadlines:
+      - kind: submission
+        date: 2025-10-29
+        tz: AoE
+        label: Papers, extended from 2025-10-22
+      - kind: notification
+        date: 2025-11-13
+  - year: 2026
+    label: 2nd edition, with NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://marscod.github.io/AABA4ET.NeurIPS.2026/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-08-31
+        tz: AoE
+        label: Papers, extended from 2026-08-29
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-10-30
+        tz: AoE
+sources:
+  - https://marscod.github.io/AABA4ET.NeurIPS.2026/
+  - https://marscod.github.io/AABA4ET.NeurIPS.2026/call-for-papers.html
+  - https://marscod.github.io/AABA4ET.NeurIPS.2026/organizers.html
+  - https://marscod.github.io/AABA4ET.NeurIPS.2026/past.html
+  - https://sites.google.com/view/aaba4et/past-workshop/aaai-2026-1st-call-for-papers
+  - https://neurips.cc/virtual/2026/workshop/137523
+  - https://portal.core.edu.au/conf-ranks/?search=AABA4ET&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No 3rd edition announced as of 2026-11-27
+  - Camera-ready date for the AAAI 2026 edition not stated

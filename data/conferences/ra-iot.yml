@@ -1,0 +1,70 @@
+id: ra-iot
+name: RA-IoT
+full_name: International Workshop on Reliable Autonomics and Internet of Things
+type: workshop
+tier: minor
+areas: [networking, systems, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Ulster University and British Telecom Ireland Innovation Centre (workshop chairs); co-located with AINA
+organizer_country: [europe]
+proceedings: Springer Lecture Notes (AINA workshop proceedings)
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://sites.google.com/view/ra-iot/home
+notes:
+- Workshop of AINA (International Conference on Advanced Information Networking and Applications), so it follows AINA around the world
+- 1st edition at AINA-2025 (Barcelona), 2nd at AINA-2026 (Wellington), 3rd at AINA-2027 (Tirana, hybrid)
+- Run by Ulster University and British Telecom researchers in Northern Ireland
+- Papers in Springer Lecture Notes style, submitted via EDAS; 12 pages maximum in 2027, extra fee for pages beyond 10
+- Springer sends the proceedings for Scopus indexing; unpresented papers may be removed from the digital library
+- Selected 2026 papers could be invited to a special issue of MDPI Sensors
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 2nd RA-IoT, with AINA-2026
+  start: 2026-04-08
+  end: 2026-04-10
+  location: Victoria University of Wellington, New Zealand (with AINA-2026)
+  url: https://sites.google.com/view/ra-iot/2026
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-12-18
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-01-25
+- year: 2027
+  label: 3rd RA-IoT, with AINA-2027
+  start: 2027-03-24
+  end: 2027-03-26
+  location: Polytechnic University of Tirana, Albania (with AINA-2027, hybrid)
+  url: https://sites.google.com/view/ra-iot/home
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-01-25
+  - kind: other
+    date: 2027-01-25
+    label: Author registration
+sources:
+- https://sites.google.com/view/ra-iot/home
+- https://sites.google.com/view/ra-iot/2026
+- https://sites.google.com/view/ra-iot/2025
+- https://voyager.ce.fit.ac.jp/conf/aina/2027/
+- https://portal.core.edu.au/conf-ranks/?search=RA-IoT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Time and time zone of deadlines not stated on the official page
+- Exact Springer series not named on the workshop page
+- Not listed in ICORE2026; no CORE rank recorded

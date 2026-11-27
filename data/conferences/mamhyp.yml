@@ -1,0 +1,51 @@
+id: mamhyp
+name: MAMHYP
+full_name: Workshop on Models, Algorithms and Methodologies for Hybrid Parallelism in New HPC Systems
+type: workshop
+tier: minor
+areas: [systems]
+region: europe
+language: english
+frequency: biennial
+organizer: MAMHYP organizers (University of Naples Federico II, University of Naples Parthenope, CNR), workshop of PPAM
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://sites.google.com/view/mamhyp26/
+notes:
+- Workshop of PPAM (International Conference on Parallel Processing and Applied Mathematics), held every two years with PPAM
+- 8th edition in 2026 at PPAM 2026 in Poznan, Poland; earlier editions in Torun 2011, Warsaw 2013, Krakow 2015, Lublin 2017, Bialystok 2019, Gdansk 2022 and Ostrava 2024
+- Covers hybrid and hierarchical parallel algorithms, multi-core, many-core and GPU computing, autotuning, scheduling, HPC cloud, edge and fog computing, RISC-V
+- Organized by Giuliano Laccetti, Marco Lapegna (University of Naples Federico II), Raffaele Montella (University of Naples Parthenope) and Diego Romano (CNR), Italy
+- Papers up to 15 pages in LNCS style via EasyChair, following PPAM rules
+- Presented papers appear in the PPAM post-proceedings in Springer LNCS
+- Extended versions can go to a special issue of The Journal of Supercomputing
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-02
+  location: Poznan, Poland (with PPAM 2026)
+  url: https://sites.google.com/view/mamhyp26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-15
+    label: Extended
+  - kind: notification
+    date: 2026-06-15
+  - kind: camera_ready
+    date: 2026-11-02
+sources:
+- https://sites.google.com/view/mamhyp26/
+- https://portal.core.edu.au/conf-ranks/?search=MAMHYP&by=all&source=ICORE2026
+unverified:
+- Exact workshop day within PPAM 2026 (dates shown are the whole PPAM 2026 conference)
+- Camera-ready date is as listed on the MAMHYP page; PPAM itself moved its final version deadline to 2026-10-16
+- 2028 edition not yet announced
+last_verified: 2026-11-27

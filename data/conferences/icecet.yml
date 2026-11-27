@@ -1,0 +1,57 @@
+id: icecet
+name: ICECET
+full_name: International Conference on Electrical, Computer and Energy Technologies
+type: conference
+tier: minor
+areas: [communications, general]
+region: worldwide
+language: english
+frequency: annual
+organizer: ECER Events Limited (Hong Kong based conference company)
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [Scopus]
+typical:
+  deadline_months: [1]
+  conference_months: [7]
+links:
+  website: https://www.icecet.com/
+notes:
+- Commercially organized broad conference on electrical, computer and energy technologies, run by ECER Events Limited, Hong Kong
+- Accepted papers are submitted to IEEE Xplore and Scopus; the 2026 papers appeared in IEEE Xplore and are indexed by Scopus
+- Held in a different city each year (Cape Town 2021 and 2023, Prague 2022, Sydney 2024, Paris 2025, Rome 2026)
+- Hybrid format; authors can present in person or online
+- Not listed in the ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-09
+  location: Rome, Italy
+  url: https://www.icecet.com/
+- year: 2027
+  start: 2027-07-09
+  end: 2027-07-12
+  url: https://www.icecet.com/
+  deadlines:
+  - kind: submission
+    date: 2027-01-12
+  - kind: notification
+    date: 2027-04-05
+  - kind: camera_ready
+    date: 2027-04-26
+  - kind: other
+    date: 2027-04-09
+    label: Early bird registration
+  - kind: other
+    date: 2027-05-10
+    label: Late registration
+sources:
+- https://www.icecet.com/
+- https://www.icecet.com/past-events
+- https://www.icecet.com/venue
+- https://portal.core.edu.au/conf-ranks/?search=ICECET&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 host city (the venue page describes South Korea but names no city or venue)
+- Deadlines of the 2026 edition

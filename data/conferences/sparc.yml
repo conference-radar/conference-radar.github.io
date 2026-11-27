@@ -1,0 +1,66 @@
+id: sparc
+name: SPARC
+full_name: Workshop on Security, Privacy and Resilience of Critical Assets in Critical Infrastructure
+type: workshop
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: irregular
+organizer: Workshop chairs Neetesh Saxena (Cardiff University, UK) and Muhammad Nouman Nafees (Anglia Ruskin University,
+  UK); co-located with IEEE CSR (2024, 2025) and ACNS (2027)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [3]
+  conference_months: [6, 7]
+links:
+  website: https://sites.google.com/view/sparc2027
+notes:
+- Workshop on security of critical assets in cyber-physical systems (smart grids, EVs and CAVs, UAVs, water treatment,
+  IIoT, PLCs and RTUs)
+- 2024 and 2025 editions were IEEE CSR workshops with papers in IEEE Xplore (London 2024, Chania 2025)
+- 3rd edition in 2027 moves to ACNS at Royal Holloway; papers published by Springer in LNCS
+- Anonymous submissions up to 20 pages excluding references; camera-ready up to 30 pages including references and appendices
+- No 2026 edition listed on the official page
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  start: 2025-08-04
+  end: 2025-08-04
+  location: Chania, Crete, Greece (with IEEE CSR 2025)
+  url: https://www.ieee-csr.org/archive/2025/sparc/index.html
+  deadlines:
+  - kind: submission
+    date: 2025-05-05
+    label: Extended from 2025-04-14
+  - kind: notification
+    date: 2025-05-26
+  - kind: camera_ready
+    date: 2025-06-16
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Egham, UK (with ACNS 2027)
+  url: https://sites.google.com/view/sparc2027
+  label: Within ACNS 2027 (28 Jun to 1 Jul); exact workshop day TBA
+  deadlines:
+  - kind: submission
+    date: 2027-03-28
+  - kind: notification
+    date: 2027-04-28
+  - kind: camera_ready
+    date: 2027-05-15
+sources:
+- https://sites.google.com/view/sparc2027
+- https://acns2027.isg.rhul.ac.uk/workshops
+- https://www.ieee-csr.org/archive/2025/sparc/index.html
+- https://www.ieee-csr.org/archive/2024/sparc/index.html
+- https://portal.core.edu.au/conf-ranks/?search=SPARC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact workshop day within ACNS 2027 (28 Jun to 1 Jul 2027) not yet announced; start and end show the ACNS dates
+- Deadline time zone not stated

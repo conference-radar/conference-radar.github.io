@@ -1,0 +1,51 @@
+id: making-sense-aaai
+name: Making Sense
+full_name: "Making Sense: Foundation Models for Multisensory Intelligence (AAAI-27 Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Making Sense workshop organizers (University of Oxford, Squirrel Ai Learning, Zhejiang Normal University, Griffith University, ETH Zurich); co-located with AAAI
+organizer_country: [europe, china, australia]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://making-sense-workshop.github.io/
+notes:
+  - AAAI workshop on foundation models for sensor data (wearables and biosignals, audio, tactile, industrial telemetry, sensor-language models)
+  - Listed as W42 in the AAAI-27 workshop program
+  - 1st edition at AAAI-27 in Montreal, half day (afternoon, 14:00 to 18:00) on Tuesday 23 February 2027
+  - Research track and demo and dataset track; long papers up to 7 pages and short papers up to 4 pages, AAAI-27 template, unlimited references and appendices
+  - Double-blind review on OpenReview; submissions and reviews are not made public
+  - Non-archival, no proceedings; accepted papers may be listed on the workshop website by opt-in
+  - Best Paper and Best Demo or Dataset awards; in person presentation required
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    start: 2027-02-23
+    end: 2027-02-23
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://making-sense-workshop.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-11-26
+        time: "23:59"
+        tz: AoE
+        label: Papers (extended from Nov 20)
+      - kind: notification
+        date: 2026-12-02
+sources:
+  - https://making-sense-workshop.github.io/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=Making+Sense&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date to be announced
+  - Workshop site still lists the day as February 22 or 23; February 23 (PM) is from the AAAI-27 workshop schedule

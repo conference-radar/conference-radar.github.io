@@ -1,0 +1,55 @@
+id: crystalfreeiot
+name: CrystalFreeIoT
+full_name: Workshop on Crystal-Free/-Less Radio and System-based Research for IoT
+type: workshop
+tier: minor
+areas: [communications, networking, systems]
+region: europe
+language: english
+frequency: annual
+organizer: CrystalFreeIoT co-organizers (Villanova University, HKUST (GZ), Inria)
+organizer_country: [usa, china, europe]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [6, 7]
+  conference_months: [9]
+links:
+  website: https://crystalfreeiot2026.github.io/
+notes:
+- Workshop on crystal-free and crystal-less radios, chip-scale wireless systems and system-level IoT design
+- "Series: invited workshop at Inria Paris (2023), CPS-IoT Week in Hong Kong (2024), EWSN 2025 and EWSN 2026 in Dresden"
+- Co-organized by researchers from Villanova University, HKUST (GZ) and Inria Paris
+- Regular papers up to 6 pages and poster or demo papers up to 2 pages, ACM format, single-blind review via EasyChair
+- Accepted papers are submitted for indexing in the ACM Digital Library with the EWSN proceedings
+- Submission deadline was extended twice in 2026 (June 20 -> July 6 -> July 20)
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-16
+  location: Dresden, Germany (TU Dresden, APB room E001)
+  url: https://crystalfreeiot2026.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-20
+    time: "23:59"
+    tz: AoE
+    label: Paper submission (extended from 2026-06-20, then 2026-07-06)
+  - kind: notification
+    date: 2026-08-10
+    label: Notification (moved from 2026-07-30)
+  - kind: camera_ready
+    date: 2026-08-17
+    label: Camera ready (moved from 2026-08-05)
+sources:
+- https://crystalfreeiot2026.github.io/
+- https://crystalfreeiot2026.github.io/cfp/
+- https://crystalfreeiot2026.github.io/organizers/
+- https://ewsn26.netd.cs.tu-dresden.de/
+- https://portal.core.edu.au/conf-ranks/?search=CrystalFreeIoT&by=all&source=ICORE2026
+unverified:
+- No 2027 edition announced as of 2026-11-27
+- Acceptance rate not published
+last_verified: 2026-11-27

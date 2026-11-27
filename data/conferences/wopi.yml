@@ -1,0 +1,52 @@
+id: wopi
+name: WOPI
+full_name: Workshop on Open Interfaces for 5G-Advanced / 6G Communications
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: south-asia
+language: english
+organizer: Workshop co-chairs from IIT Hyderabad and IIIT Bangalore (workshop of COMSNETS)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1]
+links:
+  website: https://www.comsnets.org/wopi_workshop
+notes:
+- Co-located workshop of COMSNETS 2027 in Bengaluru, India; theme "Realising O-RAN's Open Interfaces from Standards to Systems"
+- O-RAN open interfaces, Near-RT and Non-RT RIC, xApps and rApps, disaggregated RAN, testbeds and field trials, RAN security
+- Workshop papers (regular and invited) appear in the conference proceedings and are submitted to IEEE Xplore
+- Double-blind review; up to 6 pages in IEEE format including references; submission via EDAS
+- Accepted papers presented as posters with spotlight pitches; rest of the programme is invited talks and a panel
+- Deadlines were extended twice (submission 16 Oct -> 30 Oct -> 6 Nov 2026; notification 16 Nov -> 25 Nov -> 30 Nov; camera-ready 30 Nov -> 5 Dec, firm)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-01-09
+  end: 2027-01-09
+  location: Bengaluru, India
+  url: https://www.comsnets.org/wopi_workshop
+  deadlines:
+  - kind: submission
+    date: 2026-11-06
+    tz: AoE
+    label: Paper submission (extended from 2026-10-16 and 2026-10-30)
+  - kind: notification
+    date: 2026-11-30
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-12-05
+    tz: AoE
+sources:
+- https://www.comsnets.org/wopi_workshop
+- https://www.comsnets.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=WOPI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Edition number and whether earlier editions exist not stated on the official page
+- Not listed on the CORE ICORE2026 portal

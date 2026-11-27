@@ -1,0 +1,64 @@
+id: jcice
+name: JCICE
+full_name: International Joint Conference on Information and Communication Engineering
+type: conference
+tier: minor
+areas: [communications, networking, data]
+region: china
+language: english
+frequency: annual
+organizer: Conference secretariat (contact@jcice.org, Chengdu) with a general chair from Beijing Information Science and Technology University in 2027
+organizer_country: [china]
+proceedings: IEEE Xplore (IEEE CPS up to 2024, IEEE from 2025)
+archival: true
+indexing: [EI Compendex, Scopus]
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5, 7]
+links:
+  website: https://www.jcice.org/
+notes:
+- Annual since 2022 (virtual 2022, Chengdu 2023, Fuzhou 2024, Harbin 2025, Chengdu 2026 and 2027)
+- Run by a conference secretariat with a Chengdu contact address (no society or university named as organizer)
+- Proceedings in IEEE Xplore (IEEE CPS for 2022 to 2024, IEEE for 2025 and 2026), indexed by EI Compendex and Scopus
+- Papers of 5 pages are suggested; extra pages are charged at registration
+- Abstract only presentations (oral or poster) are also offered
+- Not listed in the CORE ICORE2026 portal; no CCF rank set
+editions:
+- year: 2026
+  label: 5th JCICE
+  start: 2026-07-17
+  end: 2026-07-19
+  location: Chengdu, China
+- year: 2027
+  label: 6th JCICE
+  start: 2027-05-14
+  end: 2027-05-16
+  location: Chengdu, China
+  url: https://www.jcice.org/
+  status: confirmed
+  deadlines:
+  - kind: abstract
+    date: 2026-12-08
+    label: Second round abstract submission
+  - kind: submission
+    date: 2026-12-22
+    label: Full papers
+  - kind: notification
+    date: 2027-02-03
+  - kind: other
+    date: 2027-03-05
+    label: Registration
+  - kind: camera_ready
+    date: 2027-04-05
+sources:
+- https://www.jcice.org/
+- https://www.jcice.org/cfp.html
+- https://www.jcice.org/Committee27.html
+- https://www.jcice.org/conferencehistory.html
+- https://www.jcice.org/pubinde.html
+- https://portal.core.edu.au/conf-ranks/?search=JCICE&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- Deadlines for the 2026 edition, acceptance rate and fees not found on official pages
+- The 2027 publisher is not named; the site only says proceedings will be submitted to Ei Compendex and Scopus

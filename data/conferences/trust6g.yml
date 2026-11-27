@@ -1,0 +1,56 @@
+id: trust6g
+name: Trust6G
+full_name: "Workshop on Building Trust in 6G: Architectures, Algorithms, and Testbeds"
+type: workshop
+tier: minor
+areas: [communications, security, networking]
+region: worldwide
+language: english
+organizer: Workshop organizers (Tongji University, UCL, University of Athens, University of Manchester, HIT Shenzhen) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws10-workshop-building-trust-6g-architectures-algorithms-and-testbeds.html
+notes:
+- Half-day workshop (WS10) at IEEE ICC 2026 on trustworthy 6G (secure-by-design architectures, ISAC and physical-layer security, AI/ML threats, privacy, testbeds)
+- Co-chaired by Zhongxiang Wei (Tongji), Christos Masouros (UCL), George C. Alexandropoulos (Athens), Kaitao Meng (Manchester) and Nanchi Su (HIT Shenzhen); steering committee includes Athina Petropulu and A. Lee Swindlehurst
+- First edition at ICC 2026 in Glasgow (19 papers in the program); not in the ICC 2025 or GLOBECOM 2025 workshop lists
+- Workshop papers go into the ICC proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: Trust6G 2026 (at ICC 2026)
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws10-workshop-building-trust-6g-architectures-algorithms-and-testbeds.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Workshop home page (the submissions page lists 2026-01-18)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+    label: Workshop home page (the submissions page lists 2026-03-15)
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws10-workshop-building-trust-6g-architectures-algorithms-and-testbeds.html
+- https://icc2026.ieee-icc.org/workshop/ws10-workshop-building-trust-6g-architectures-algorithms-and-testbeds/submissions.html
+- https://icc2026.ieee-icc.org/workshop/ws10-workshop-building-trust-6g-architectures-algorithms-and-testbeds/program.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/program/workshops-0.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://icc2025.ieee-icc.org/program/workshops.html
+- https://globecom2025.ieee-globecom.org/workshops
+- https://portal.core.edu.au/conf-ranks/?search=Trust6G&by=all&source=ICORE2026
+unverified:
+- Short name Trust6G is not used on the official pages
+- The workshop home page and submissions page give different submission and camera-ready dates
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Time zone of the deadlines (not stated)
+- Region and organizer are based on the single 2026 edition
+last_verified: 2026-11-27

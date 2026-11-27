@@ -1,0 +1,56 @@
+id: icsai
+name: ICSAI
+full_name: International Conference on Systems and Informatics
+type: conference
+tier: minor
+areas: [systems, ai, communications, networking, data, software, general]
+region: china
+language: english
+frequency: annual
+organizer: East China Normal University (organizing and finance chairs, conference contact); 2026 venue Suzhou Chien-shiung Institute of Technology
+organizer_country: [china]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus, IEEE Xplore]
+fee: US$550 regular, US$500 IEEE SMCS or Life members or developing countries; RMB 3000 for domestic authors (2026)
+typical:
+  deadline_months: [11]
+  conference_months: [12]
+links:
+  website: https://www.icsai.com.cn/
+notes:
+  - Conference held in China (12th edition in 2026; 7th edition in 2021 held online), run from East China Normal University
+  - 2026 edition at Suzhou Chien-shiung Institute of Technology, Taicang, Jiangsu (near Shanghai)
+  - Proceedings in IEEE Xplore and EI Compendex; the site says all 11 past proceedings were indexed within three months
+  - Broad scope covering control and automation, power and energy, intelligent systems, communications and networking,
+    signal processing, data mining, software engineering and bioinformatics
+  - Papers up to 6 pages, extra pages US$60 each; one full registration per paper
+  - Selected papers invited to SCI journal special issues after extension
+  - Not listed in ICORE2026 or the CCF 2026 list; a small regional venue
+editions:
+  - year: 2026
+    start: 2026-12-19
+    end: 2026-12-21
+    location: Taicang, Suzhou, China (Suzhou Chien-shiung Institute of Technology)
+    url: https://www.icsai.com.cn/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-11-15
+      - kind: notification
+        date: 2026-12-01
+      - kind: camera_ready
+        date: 2026-12-10
+        label: Author registration and final paper submission
+sources:
+  - https://www.icsai.com.cn/
+  - https://www.icsai.com.cn/organizing.html
+  - https://www.icsai.com.cn/venue.html
+  - https://www.icsai.com.cn/registration.html
+  - https://ieeexplore.ieee.org/xpl/conhome/9663731/proceeding
+  - https://portal.core.edu.au/conf-ranks/?search=ICSAI&by=all&source=ICORE2026
+unverified:
+  - ICSAI 2025 (11th) dates, location and deadlines (not on the current official site; IEEE Xplore not checked)
+  - Formal sponsoring institution and IEEE co-sponsorship for 2026 (the site lists ECNU contact and committee only)
+  - Host cities of past editions (region assumed China)
+last_verified: 2026-11-27

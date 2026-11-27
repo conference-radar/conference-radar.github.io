@@ -1,0 +1,54 @@
+id: medvidu
+name: MedVidU
+full_name: Workshop on Medical Video Understanding
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: europe
+language: english
+organizer: Workshop organizers from United Imaging Intelligence, Technical University of Munich and University of Strasbourg (IHU Strasbourg); 2026 edition co-located with ECCV
+organizer_country: [usa, europe]
+proceedings: ECCV Workshops proceedings (Springer LNCS)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://medvidu.github.io/
+notes:
+- Workshop on medical video understanding
+- Half-day (afternoon) workshop at ECCV 2026 in Malmo
+- Accepted papers are intended for the ECCV 2026 workshop proceedings; ECCV author guidelines, submissions on OpenReview
+- Runs a challenge alongside the workshop; challenge participants must submit a paper, others may submit too
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: With ECCV 2026
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026, Quality View Hotel)
+  url: https://medvidu.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-27
+    time: "23:59"
+    tz: AoE
+    label: Papers (extended from 2026-07-13)
+  - kind: other
+    date: 2026-07-27
+    time: "23:59"
+    tz: AoE
+    label: Challenge leaderboard closes
+  - kind: notification
+    date: 2026-08-05
+  - kind: camera_ready
+    date: 2026-08-15
+sources:
+- https://medvidu.github.io/
+- https://eccv.ecva.net/Conferences/2026/Workshops
+- https://portal.core.edu.au/conf-ranks/?search=MedVidU&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The site says papers are intended for the ECCV 2026 workshop proceedings without naming the series; ECCV workshop proceedings are published in Springer LNCS
+- Edition number and any earlier editions not stated on the site
+- Next edition not announced as of 2026-11-27

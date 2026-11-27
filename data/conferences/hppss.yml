@@ -1,0 +1,52 @@
+id: hppss
+name: HPPSS
+full_name: High Performance Python for Science at Scale
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: HPPSS workshop chairs (HPE, University of Delaware, Argonne National Laboratory, NERSC, Appliomics, NVIDIA), held with SC
+organizer_country: [usa]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://hppss.github.io/SC26/
+notes:
+- Half-day workshop on Python in HPC and science (packaging, accelerated computing, distributed workflows, parallelization, AI and agentic workflows, profiling), held with SC
+- Held with SC every year since SC23
+- Invited talks, panels and live demos; the call asks for a short abstract, a presentation description of up to 500 words and an optional demo video on Zenodo
+- Submissions go through the SC submissions portal
+- Accepted submissions do not appear in the SC proceedings; they are linked from the HPPSS website and GitHub
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-17
+  end: 2025-11-17
+  location: St. Louis, MO, USA (with SC25)
+  url: https://hppss.github.io/SC25
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://hppss.github.io/SC26/
+  deadlines:
+  - kind: submission
+    date: 2026-08-21
+    tz: AoE
+    label: Extended
+sources:
+- https://hppss.github.io/SC26/
+- https://hppss.github.io/SC26/callfordemos.html
+- https://hppss.github.io/SC26/organizers.html
+- https://hppss.github.io/SC25
+- https://portal.core.edu.au/conf-ranks/?search=HPPSS&by=all&source=ICORE2026
+unverified:
+- SC26 notification date not recorded; the call page shows "September 4, 2025", apparently a typo
+- SC25 deadlines not shown on the SC25 page
+- SC27 edition not announced yet
+last_verified: 2026-11-27

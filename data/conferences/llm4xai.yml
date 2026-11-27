@@ -1,0 +1,52 @@
+id: llm4xai
+name: LLM4XAI
+full_name: Workshop on Generative Models for Explainable AI Narratives (CIKM Workshop)
+type: workshop
+tier: minor
+areas: [ai, nlp, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: LLM4XAI workshop organizers (Sapienza University of Rome, with Walmart Global Tech and tellmewAI); co-located with CIKM
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://hercolelab.github.io/LLM4XAI/index.html
+notes:
+  - Half-day CIKM workshop on using LLMs to turn XAI artifacts (attributions, counterfactuals) into faithful natural-language explanations
+  - 1st edition at CIKM 2026 in Rome, Italy, 8 November 2026
+  - Full papers 10 pages and short papers 4 pages excluding references, CEUR-WS template, double-blind review via CMT
+  - Proceedings in CEUR-WS, subject to a sufficient number of submissions
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-11-08
+    end: 2026-11-08
+    location: Rome, Italy (with CIKM 2026)
+    url: https://hercolelab.github.io/LLM4XAI/index.html
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-08-31
+        tz: AoE
+        label: Extended from Aug 24
+      - kind: notification
+        date: 2026-09-23
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-09-30
+        tz: AoE
+sources:
+  - https://hercolelab.github.io/LLM4XAI/index.html
+  - https://hercolelab.github.io/LLM4XAI/call-for-papers.html
+  - https://hercolelab.github.io/LLM4XAI/schedule.html
+  - https://portal.core.edu.au/conf-ranks/?search=LLM4XAI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Whether the CEUR-WS volume for 2026 has been published (the CFP makes it subject to enough submissions)
+  - Whether a 2027 edition is planned

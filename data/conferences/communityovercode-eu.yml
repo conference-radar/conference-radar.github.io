@@ -1,0 +1,40 @@
+id: communityovercode-eu
+name: Community Over Code EU
+full_name: Community Over Code Europe (ApacheCon Europe)
+type: industry
+tier: minor
+areas: [software, data, systems]
+region: europe
+language: english
+frequency: irregular
+organizer: The Apache Software Foundation
+organizer_country: [usa]
+proceedings: None (talks only)
+archival: false
+typical:
+  conference_months: [10]
+links:
+  website: https://communityovercode.apache.org/
+notes:
+- European edition of Community Over Code (formerly ApacheCon), the official conference of The Apache Software Foundation
+- Practitioner talks on Apache projects in many tracks (search, big data, IoT, community, geospatial, fintech, ...); 18 tracks and more than 160 sessions in 2026
+- No papers or proceedings; talks only
+- European editions are irregular (Berlin 2019, Glasgow 2026); separate North America, Asia and Sydney editions exist
+- Not listed in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-10-11
+  end: 2026-10-14
+  location: Hilton Glasgow, Glasgow, Scotland, UK
+  url: https://communityovercode.apache.org/events/glasgow-2026
+  deadlines: []
+sources:
+- https://communityovercode.apache.org/
+- https://communityovercode.apache.org/events
+- https://communityovercode.apache.org/events/glasgow-2026
+- https://portal.core.edu.au/conf-ranks/?search=ApacheCon&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Community+Over+Code&by=all&source=ICORE2026
+unverified:
+- Call for proposals deadlines not shown on the official pages
+- Next European edition not yet announced
+last_verified: 2026-11-27

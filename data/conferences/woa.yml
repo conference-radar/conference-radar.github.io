@@ -1,0 +1,52 @@
+id: woa
+name: WOA
+full_name: Workshop From Objects to Agents
+type: conference
+tier: minor
+areas: [ai, software]
+region: europe
+frequency: annual
+organizer: Italian agents community, hosted by a different Italian university each year (2026 -> University of Salerno)
+organizer_country: [europe]
+proceedings: CEUR-WS (CEUR AIxIA series, post-proceedings)
+archival: true
+typical:
+  deadline_months: [4, 5]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/woa2026
+notes:
+- Long-running Italian workshop on agents and multi-agent systems; 2026 was the 27th edition
+- Standalone event held in Italy (earlier editions in Trento, Bologna, Genova, Roma and Bard among others)
+- Topics include multi-agent systems, agent-based simulation, human-agent interaction, agentic AI, trustworthy AI and agents with LLMs
+- Original papers up to 16 pages (CEURART style) go to CEUR post-proceedings in the AIxIA series after presentation
+- Already-published papers can be presented but are not included in the proceedings
+- Selected original papers invited to a journal special issue
+- Registration was free of charge in 2026; a mini-school follows the workshop
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-15
+  end: 2026-06-17
+  location: Salerno, Italy
+  url: https://sites.google.com/view/woa2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-04
+    label: Extended from 2026-04-20
+  - kind: notification
+    date: 2026-05-18
+    label: Extended from 2026-05-04
+  - kind: camera_ready
+    date: 2026-06-08
+sources:
+- https://sites.google.com/view/woa2026
+- https://sites.google.com/view/woa2026/important-dates
+- https://sites.google.com/view/woa2026/submissions
+- https://sites.google.com/view/woa2026/call-for-papers
+- https://sites.google.com/view/woa2026/registration
+- https://portal.core.edu.au/conf-ranks/?search=WOA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- WOA 2027 dates and host not announced yet
+- Organizing body behind the series not stated on the 2026 site

@@ -1,0 +1,48 @@
+id: human-ai-agile
+name: Human-AI Collab
+full_name: Workshop on Human-AI Collaboration in Agile Teams
+type: workshop
+tier: minor
+areas: [software, ai]
+region: latin-america
+language: english
+organizer: Nils Brede Moe (SINTEF) and Viktoria Stray (University of Oslo), held with XP
+organizer_country: [europe]
+proceedings: Springer (XP Workshops post-proceedings, selected revised papers)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4]
+links:
+  website: https://conf.researchr.org/track/xp-2026/xp-2026-human-ai-collaboration
+notes:
+- Research and practice workshop of XP (International Conference on Agile Software Development) on how agile teams work with AI assistants and agents
+- Builds on the earlier autonomous teams workshops at XP
+- First edition at XP 2026 in Sao Paulo, Brazil; XP 2027 is in Tampere, Finland
+- Full papers up to 8 pages including references in Springer LNCS/LNBIP format; short industry contributions as 2-page papers or up to 5 slides
+- All submissions peer reviewed; selected revised papers published in the XP workshop post-proceedings
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Sao Paulo, Brazil (Insper, with XP 2026)
+  url: https://conf.researchr.org/track/xp-2026/xp-2026-human-ai-collaboration
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+sources:
+- https://conf.researchr.org/track/xp-2026/xp-2026-human-ai-collaboration
+- https://conf.researchr.org/track/xp-2027/xp-2027-research-and-practice-workshops
+- https://portal.core.edu.au/conf-ranks/?search=Human-AI&by=all&source=ICORE2026
+unverified:
+- Whether the workshop returns at XP 2027 (workshop proposals due 9 Dec 2026); no 2027 edition announced as of 2026-11-27
+- Workshop day taken from the XP 2026 program (8 Apr 2026); Springer series and publication of the post-proceedings volume not checked
+last_verified: 2026-11-27

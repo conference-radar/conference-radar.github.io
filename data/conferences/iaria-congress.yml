@@ -1,0 +1,70 @@
+id: iaria-congress
+name: IARIA Congress
+full_name: IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications
+type: conference
+tier: minor
+areas: [general, ai, security, networking, communications]
+region: europe
+language: english
+frequency: annual
+organizer: IARIA
+organizer_country: [usa]
+proceedings: IARIA Press (IARIA ThinkMind Digital Library); selected papers extended in IARIA journals; prints via
+  Curran Associates
+archival: true
+typical:
+  deadline_months: [3, 4]
+  conference_months: [7]
+links:
+  website: https://www.iaria.org/conferences2027/IARIACongress27.html
+notes:
+- IARIA's broad annual congress, started in 2022
+- Tracks cover learning, health, human-machine interaction, data, software, systems, cloud, networks, IoT, signal processing, robotics, AI, security, vehicles, smart cities, energy and wireless
+- Published open access in the IARIA ThinkMind library; prints via Curran Associates; selected papers invited to IARIA journals
+- Onsite and online participation options offered in recent editions
+- Held in southern Europe (Nice 2022, Valencia 2023, Porto 2024, Venice 2025, Nice 2026, Valencia 2027), same dates and city as the DigiTech events since 2024
+- Not listed in ICORE2026; IARIA events are generally regarded as low-selectivity
+editions:
+- year: 2026
+  start: 2026-07-05
+  end: 2026-07-09
+  location: Nice, France
+  url: https://www.iaria.org/conferences2026/IARIACongress26.html
+  deadlines:
+  - kind: submission
+    date: 2026-04-03
+  - kind: notification
+    date: 2026-05-04
+  - kind: other
+    date: 2026-05-17
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-05-31
+- year: 2027
+  start: 2027-07-04
+  end: 2027-07-08
+  location: Valencia, Spain
+  url: https://www.iaria.org/conferences2027/IARIACongress27.html
+  deadlines:
+  - kind: submission
+    date: 2027-03-15
+  - kind: notification
+    date: 2027-05-02
+  - kind: other
+    date: 2027-05-16
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-05-30
+sources:
+- https://www.iaria.org/conferences2027/IARIACongress27.html
+- https://www.iaria.org/conferences2026/IARIACongress26.html
+- https://www.iaria.org/conferences2025/IARIACongress25.html
+- https://www.iaria.org/conferences2024/IARIACongress24.html
+- https://www.iaria.org/conferences2023/IARIACongress23.html
+- https://www.iaria.org/conferences2022/IARIACongress22.html
+- https://portal.core.edu.au/conf-ranks/?search=IARIA&by=all&source=ICORE2026
+unverified:
+- Acceptance statistics not checked
+- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- No ICORE2026 entry found for IARIA Congress, so no CORE rank is recorded
+last_verified: 2026-11-27

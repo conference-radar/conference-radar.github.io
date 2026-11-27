@@ -1,0 +1,52 @@
+id: netmob
+name: NetMob
+full_name: NetMob Conference on the Analysis of Mobile Phone Datasets
+type: conference
+tier: minor
+areas: [data, networking]
+region: worldwide
+language: english
+frequency: annual
+organizer: NetMob steering committee
+organizer_country: [international]
+proceedings: None (non-archival; public Book of Abstracts on the NetMob website)
+archival: false
+rank:
+  core: null
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://netmob.org/
+notes:
+- Interdisciplinary conference on the analysis of mobile phone and mobility data (CDRs, location data, Wi-Fi traces, app usage)
+- Submissions are 2-page extended abstracts via JEMS, presented as short talks or posters
+- No formal proceedings; accepted abstracts go into a public Book of Abstracts, and work published elsewhere is welcome
+- Runs a co-located Data Challenge with a released dataset (Niterói bus data in 2026)
+- Fully in-person; remote presentations are not possible (2026)
+- Rotates between Europe and the Americas (Madrid 2023, Washington DC 2024, Paris 2025, Niterói 2026)
+- Deadlines were extended several times in 2026
+editions:
+- year: 2026
+  start: 2026-10-14
+  end: 2026-10-16
+  location: Niterói, Brazil
+  url: https://netmob.org/www26/
+  deadlines:
+  - kind: submission
+    date: 2026-07-21
+    label: Two-page extended abstracts (extended from Jul 1, final grace period)
+  - kind: notification
+    date: 2026-08-10
+  - kind: camera_ready
+    date: 2026-08-30
+sources:
+- https://netmob.org/
+- https://netmob.org/www26/
+- https://netmob.org/www26/files/NetMob26_Book_of_Abstracts.pdf
+- https://portal.core.edu.au/conf-ranks/?search=NetMob&by=all&source=ICORE2026
+unverified:
+- NetMob 2027 not announced yet
+- No time or time zone given for deadlines
+- Not listed in ICORE2026 or the CCF 2026 list
+last_verified: 2026-11-27

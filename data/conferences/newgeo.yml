@@ -1,0 +1,54 @@
+id: newgeo
+name: NewGeo
+full_name: 'NewGeo: New Directions in IP Geolocation Workshop'
+type: workshop
+tier: minor
+areas: [networking, security]
+region: worldwide
+language: english
+organizer: Oliver Gasser (IPinfo) and Robert Beverly (San Diego State University), as an ACM IMC co-located workshop
+organizer_country: [usa]
+proceedings: Workshop website
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [9]
+  conference_months: [10]
+links:
+  website: https://newgeo-workshop.github.io/
+notes:
+- Half-day workshop co-located with ACM IMC; first edition at IMC 2026 in Karlsruhe, Germany
+- Measurement work on IP geolocation (geofeeds, geolocation databases, VPNs, CGNAT, satellite access, privacy), framed as an academic follow-up to the December 2025 IAB workshop on IP address geolocation
+- Short papers up to 4 pages plus references and an optional 1-page appendix, ACM sigconf; double-blind review via HotCRP
+- Camera-ready uses the ACM nonacm option and accepted papers are made available on the workshop website, so treated as non-archival
+- Seven papers in the 2026 program; attendance through the standard IMC registration
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 1st NewGeo (at IMC 2026)
+  start: 2026-10-12
+  end: 2026-10-12
+  location: Karlsruhe, Germany (with ACM IMC 2026)
+  url: https://newgeo-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-09-06
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2026-09-20
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-10-04
+    time: "23:59"
+    tz: AoE
+sources:
+- https://newgeo-workshop.github.io/
+- https://conferences.sigcomm.org/imc/2026/events/newgeo
+- https://portal.core.edu.au/conf-ranks/?search=NewGeo&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No second edition (2027) announced yet; frequency unknown
+- No formal proceedings series stated; papers only posted on the workshop website

@@ -1,0 +1,76 @@
+id: rsdha
+name: RSDHA
+full_name: Workshop on Redefining Scalability for Diversely Heterogeneous Architectures
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers from Colorado School of Mines, Oak Ridge National Laboratory and University of Arizona
+organizer_country: [usa]
+proceedings: ACM DL (SCA/HPCAsia workshop proceedings, 2026)
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [1, 2]
+links:
+  website: https://hpss.mines.edu/rsdha-27/
+notes:
+- Workshop on heterogeneous computing that bridges HPC and embedded, mobile and edge SoCs (vertical and horizontal scaling)
+- 3rd edition with SC'23 in Denver; 4th with SCA/HPCAsia 2026 in Osaka; 5th with HPCAsia 2027 in Seoul
+- Full papers 10 to 18 pages in ACM single-column format go into the proceedings; short papers 4 to 8 pages
+  (position and work in progress) are presented but not included in the proceedings (2026 CFP)
+- SCA/HPCAsia 2026 published a separate workshop proceedings volume in the ACM Digital Library
+- Submission via EasyChair; at least one author must register and attend
+- Invited speakers and a panel; 2026 ran 9:30 to 16:30, 2027 is a half day (9:00 to 12:30 KST)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 4th RSDHA, with SCA/HPCAsia 2026
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Osaka, Japan (with SCA/HPCAsia 2026)
+  url: https://hpss.mines.edu/rsdha-26/
+  deadlines:
+  - kind: submission
+    date: 2025-11-03
+    tz: AoE
+    label: Full and short papers (extended from 2025-10-27)
+  - kind: notification
+    date: 2025-11-26
+  - kind: camera_ready
+    date: 2025-12-11
+- year: 2027
+  label: 5th RSDHA, with HPCAsia 2027
+  start: 2027-02-19
+  end: 2027-02-19
+  location: Seoul, Korea (Yonsei University, with HPCAsia 2027)
+  url: https://hpss.mines.edu/rsdha-27/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    tz: AoE
+    label: Full and short papers
+  - kind: notification
+    date: 2026-12-21
+  - kind: camera_ready
+    date: 2027-01-18
+sources:
+- https://hpss.mines.edu/rsdha-27/
+- https://hpss.mines.edu/rsdha-27/cfp.html
+- https://hpss.mines.edu/rsdha-26/
+- https://hpss.mines.edu/rsdha-26/cfp.html
+- https://hpss.mines.edu/rsdha-26/organization.html
+- https://hpss.mines.edu/rsdha-23/
+- https://www.sc-asia.org/2026/
+- https://www.sc-asia.org/2026/program.html
+- https://hpcasia2027.org/2027/pages_program/workshops.vm
+- https://portal.core.edu.au/conf-ranks/?search=RSDHA&by=all&source=ICORE2026
+unverified:
+- Proceedings publisher not named on the RSDHA pages; ACM DL taken from the SCA/HPCAsia 2026 workshop proceedings
+  announcement, and the 2027 proceedings are not yet announced
+- RSDHA 2027 page says detailed deadlines will be announced while also listing the dates above
+- Dates and hosts of the 1st and 2nd editions not found; no 2024 or 2025 edition found
+last_verified: 2026-11-27

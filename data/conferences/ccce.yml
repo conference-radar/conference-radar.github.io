@@ -1,0 +1,63 @@
+id: ccce
+name: CCCE
+full_name: International Conference on Computer and Communication Engineering
+type: conference
+tier: minor
+areas: [communications, networking, ai, general]
+region: europe
+language: english
+frequency: annual
+proceedings: Springer CCIS
+archival: true
+indexing: [EI, Scopus, DBLP]
+typical:
+  deadline_months: [3]
+  conference_months: [5, 8]
+links:
+  website: https://www.ccce.net/
+notes:
+  - Annual conference since 2021; since 2023 held in a different European city each year (Stockholm, Oslo, Helsinki, Milan, Zagreb)
+  - 2021 (planned for Jeju) and 2022 (planned for Rome) editions were fully virtual; 2023 to 2025 held in March or May,
+    2026 and 2027 in August
+  - Proceedings in Springer CCIS (2022 vol. 1630, 2023 vol. 1823, 2024 vol. 2192, 2025 vol. 2642), indexed in EI and Scopus
+  - Broad scope covering computing, intelligent systems, networking, mobile computing and communication engineering
+  - Organized through a conference service (contact email on 126.com) with a local university committee; 2027 chairs from
+    the University of Zagreb
+  - Not the same as ICCCE (IIUM, Malaysia) or CCET
+  - Not listed in ICORE2026 or the CCF 2026 list
+editions:
+  - year: 2026
+    start: 2026-08-28
+    end: 2026-08-30
+    location: Milan, Italy
+    url: https://www.ccce.net/2026.html
+  - year: 2027
+    start: 2027-08-21
+    end: 2027-08-23
+    location: Zagreb, Croatia
+    url: https://www.ccce.net/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2027-03-10
+      - kind: notification
+        date: 2027-04-10
+      - kind: camera_ready
+        date: 2027-04-25
+        label: Registration and final camera-ready
+sources:
+  - https://www.ccce.net/
+  - https://www.ccce.net/com.html
+  - https://www.ccce.net/2026.html
+  - https://www.ccce.net/2025.html
+  - https://www.ccce.net/2024.html
+  - https://www.ccce.net/2023.html
+  - https://www.ccce.net/2022.html
+  - https://www.ccce.net/2021.html
+  - https://link.springer.com/book/9783032067562
+  - https://portal.core.edu.au/conf-ranks/?search=CCCE&by=all&source=ICORE2026
+unverified:
+  - Organizing society or company and its country (not named on the site)
+  - CCCE 2026 deadlines and proceedings volume (not on the history page)
+  - Acceptance rate and registration fee
+last_verified: 2026-11-27

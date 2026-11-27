@@ -1,0 +1,54 @@
+id: gei-health
+name: GEI-Health
+full_name: IEEE GLOBECOM Workshop on Generative Edge Intelligence and Multimodal IoT for Connected Health
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+organizer: Workshop co-chairs (M. Shamim Hossain, Min Chen, Selwa A.F. Al-Hazzaa, Victor C.M. Leung) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-24-generative-edge-intelligence-and-multimodal-iot-connected-health-0
+notes:
+- Full-day workshop (WS-24) at IEEE GLOBECOM 2026 in Macau on generative edge AI, multimodal IoT and LLMs for connected healthcare
+- 2026 co-chairs are M. Shamim Hossain (King Saud University), Min Chen (SCUT), Selwa A.F. Al-Hazzaa (KACST) and Victor C.M. Leung (Shenzhen University)
+- 2026 program has 19 papers in four sessions, a keynote and a panel
+- First edition at GLOBECOM 2026; not in the GLOBECOM 2025, ICC 2025 or ICC 2026 workshop lists
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-24-generative-edge-intelligence-and-multimodal-iot-connected-health-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: GLOBECOM 2026 workshop call (extended)
+  - kind: notification
+    date: 2026-10-05
+    label: GLOBECOM 2026 workshop call
+  - kind: camera_ready
+    date: 2026-10-14
+    label: GLOBECOM 2026 workshop call
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-24-generative-edge-intelligence-and-multimodal-iot-connected-health-0
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2025.ieee-globecom.org/workshops
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=GEI-Health&by=all&source=ICORE2026
+unverified:
+- Short name GEI-Health is not used on the official pages
+- Workshop page lists no deadlines of its own; dates are from the general GLOBECOM 2026 workshop call
+- Next edition not announced
+- Time zone of the deadlines (not stated)
+- Region and organizer are based on the single 2026 edition
+last_verified: 2026-11-27

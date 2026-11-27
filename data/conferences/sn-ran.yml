@@ -1,0 +1,52 @@
+id: sn-ran
+name: SN-RAN
+full_name: 'IEEE GLOBECOM Workshop on Sensing-Native Radio Access Networks for 6G: From Waves to Services'
+type: workshop
+tier: minor
+areas: [communications, networking]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-34-workshop-sensing-native-radio-access-networks-6g-waves-services-0
+notes:
+- Workshop WS-34 co-located with IEEE GLOBECOM 2026 in Macau
+- Covers sensing as a native RAN capability for 6G (cooperative and multi-modal sensing, sensing-aware resource management, data fusion, service exposure)
+- Program co-chairs include Joerg Widmer, Michele Rossi and Jacopo Pegoraro
+- Accepted and presented papers go into the IEEE GLOBECOM workshop proceedings in IEEE Xplore; in-person presentation required (no-show papers removed)
+- Submissions via EDAS through the GLOBECOM workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-11
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://globecom2026.ieee-globecom.org/events/ws-34-workshop-sensing-native-radio-access-networks-6g-waves-services-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: Firm
+  - kind: notification
+    date: 2026-10-05
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-09-27)
+  - kind: camera_ready
+    date: 2026-10-14
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-10-05)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-34-workshop-sensing-native-radio-access-networks-6g-waves-services-0
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/authors/instructions-final-camera-ready-manuscript-submission
+- https://portal.core.edu.au/conf-ranks/?search=Sensing-Native&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- Exact workshop day within GLOBECOM 2026 (7 to 11 December); program listed as coming soon
+- The acronym SN-RAN is not used on the official pages
+- Appears to be a first edition; no earlier edition located, so recurrence is unknown
+- Deadline time zone not stated
+last_verified: 2026-11-27

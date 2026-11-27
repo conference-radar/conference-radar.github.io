@@ -1,0 +1,46 @@
+id: rtca-neurips
+name: RTCA
+full_name: "Real-Time Conversational Agents: Toward Natural Multimodal Interaction (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, nlp, vision]
+region: worldwide
+language: english
+frequency: irregular
+organizer: RTCA workshop organizers (Tavus, King's College London, University of Verona, Queen Mary University of London); co-located with NeurIPS
+organizer_country: [usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://rtcaneurips26.github.io/
+notes:
+  - NeurIPS workshop on real-time multimodal conversational agents (streaming speech and video generation, turn-taking, latency, evaluation of naturalness)
+  - 1st edition at NeurIPS 2026, ICC Sydney, Room MR C4.11, 12 December 2026, full day in person
+  - Non-archival; authors may publish the work elsewhere
+  - Full papers up to 8 pages, short papers up to 4 pages, demo papers up to 2 pages, NeurIPS 2026 style, double-blind review on OpenReview
+  - Program includes invited talks, posters, live demo booths and a Conversational Agents Showcase
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-12-12
+    end: 2026-12-12
+    location: ICC Sydney, Sydney, Australia (with NeurIPS 2026)
+    url: https://rtcaneurips26.github.io/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-09-10
+        tz: AoE
+        label: Papers and demos (extended from Aug 29)
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+sources:
+  - https://rtcaneurips26.github.io/
+  - https://portal.core.edu.au/conf-ranks/?search=RTCA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Whether a 2027 edition is planned

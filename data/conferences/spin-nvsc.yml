@@ -1,0 +1,48 @@
+id: spin-nvsc
+name: SPIN-NVSC
+full_name: State of Practice in Deploying Supercomputers with NVIDIA Superchips Workshop
+type: workshop
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+organizer: NVIDIA Supercomputing Users Group (NVSUG), held with ICPP
+organizer_country: [international]
+proceedings: ACM DL (ICPP Workshop Proceedings)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://nvsug.github.io/spin-nvsc/
+notes:
+- Full-day workshop held with ICPP 2026 in Singapore, run by the NVIDIA Supercomputing Users Group (NVSUG)
+- Experience reports on deploying and operating supercomputers built on NVIDIA Grace-based superchips
+- Short papers of 6 pages and long papers of 10 pages, including references and appendices
+- Submission through the ICPP Linklings system; blind review follows the ICPP rules
+- Papers published in the ICPP'26 Workshop Proceedings in the ACM Digital Library
+- Co-chairs from Bristol Centre for Supercomputing, Advanced HPC-AI R&D Support Center (Japan) and Pawsey Supercomputing Research Centre
+- No earlier edition is listed on the workshop page
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-28
+  location: Singapore (with ICPP 2026)
+  url: https://nvsug.github.io/spin-nvsc/
+  deadlines:
+  - kind: submission
+    date: 2026-07-08
+    tz: AoE
+    label: Extended from 2026-06-30
+  - kind: notification
+    date: 2026-07-23
+  - kind: camera_ready
+    date: 2026-07-30
+    tz: AoE
+sources:
+- https://nvsug.github.io/spin-nvsc/
+- https://portal.core.edu.au/conf-ranks/?search=SPIN-NVSC&by=all&source=ICORE2026
+unverified:
+- Whether the workshop will run again with ICPP 2027 is not announced
+last_verified: 2026-11-27

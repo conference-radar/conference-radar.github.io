@@ -1,0 +1,56 @@
+id: ethres
+name: ETHReS
+full_name: Ethereum Research Symposium
+type: conference
+tier: minor
+areas: [security, crypto, systems]
+region: europe
+language: english
+frequency: irregular
+organizer: ETHReS organizers (general chair from Brno University of Technology; steering committee with the Ethereum
+  Foundation, ELTE, STU Bratislava and University of Zurich); co-located with ETH Prague
+organizer_country: [europe]
+proceedings: CEUR-WS (planned)
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [5]
+links:
+  website: https://www.ethres.org/
+notes:
+- Academic symposium on blockchain and decentralized systems, Ethereum oriented but open to any blockchain research
+- Co-located with the ETH Prague community event; 2026 held at the Municipal House (Obecni dum), Prague
+- First full edition in 2026, growing out of a poster session at ETH Prague 2025
+- Double-blind review via EasyChair; full papers 10 to 20 pages, short papers 5 to 9 pages, single-column CEURART
+- Accepted papers to be submitted to CEUR-WS; authors may instead publish a 4-page extended abstract with a link
+  to the full paper (then not eligible for best paper awards)
+- Poster track accepts previously published work
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-05-08
+  end: 2026-05-10
+  location: Prague, Czech Republic (with ETH Prague 2026)
+  url: https://www.ethres.org/
+  deadlines:
+  - kind: submission
+    date: 2026-04-24
+    tz: AoE
+    label: Papers (extended from 2026-04-18)
+  - kind: other
+    date: 2026-04-24
+    tz: AoE
+    label: Posters (extended from 2026-04-21)
+  - kind: notification
+    date: 2026-05-01
+sources:
+- https://www.ethres.org/
+- https://www.ethres.org/important-dates
+- https://www.ethres.org/organization
+- https://www.ethres.org/venue
+- https://www.ethres.org/about
+- https://portal.core.edu.au/conf-ranks/?search=ETHReS&by=all&source=ICORE2026
+unverified:
+- 2026 proceedings not yet found on CEUR-WS as of 2026-11-27
+- 2027 edition not announced as of 2026-11-27
+last_verified: 2026-11-27

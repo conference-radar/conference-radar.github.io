@@ -1,0 +1,69 @@
+id: escim
+name: ESCIM
+full_name: European Symposium on Computational Intelligence and Mathematics
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Universidad de Cadiz (Department of Mathematics), Hungarian Fuzzy Association and Szechenyi Istvan University
+organizer_country: [europe]
+proceedings: Springer Studies in Computational Intelligence (best papers); books of abstracts on the ESCIM website
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [5]
+links:
+  website: https://escim2027.uca.es/
+notes:
+- Small European symposium on computational intelligence and mathematics (fuzzy logic, soft computing), continuing the earlier Gyor symposia
+- Full papers up to 6 pages in Springer LNCS style; books of abstracts (full proceedings for 2015 and 2016) are posted on the website
+- Best papers go to a volume of the Springer series Studies in Computational Intelligence; extended best papers are reviewed for a special issue of a JCR journal (IJUFKS for 2026)
+- Moves around Europe each year (Krakow 2024, A Coruna 2025, Timisoara 2026, Porto 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-05-10
+  end: 2026-05-13
+  location: Timisoara, Romania
+  url: https://escim2026.uca.es/
+  deadlines:
+  - kind: submission
+    date: 2026-01-15
+    label: Original
+  - kind: submission
+    date: 2026-01-30
+    label: Extended
+  - kind: notification
+    date: 2026-02-14
+    label: Original
+  - kind: notification
+    date: 2026-02-27
+    label: Extended
+  - kind: camera_ready
+    date: 2026-03-02
+- year: 2027
+  start: 2027-05-23
+  end: 2027-05-26
+  location: Porto, Portugal
+  url: https://escim2027.uca.es/
+  deadlines:
+  - kind: submission
+    date: 2026-12-21
+  - kind: notification
+    date: 2027-02-26
+  - kind: camera_ready
+    date: 2027-03-12
+sources:
+- https://escim2027.uca.es/
+- https://escim2027.uca.es/submission/
+- https://escim2027.uca.es/proceedings/
+- https://escim2026.uca.es/
+- https://escim2026.uca.es/submission/
+- https://portal.core.edu.au/conf-ranks/?search=ESCIM&by=all&source=ICORE2026
+unverified:
+- The 2026 submission page lists two submission and two notification dates; read here as original and extended
+- Publisher of the best-paper volume per year and indexing not stated
+- Registration fees not confirmed
+last_verified: 2026-11-27

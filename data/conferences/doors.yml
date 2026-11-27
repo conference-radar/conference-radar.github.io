@@ -1,0 +1,70 @@
+id: doors
+name: doors
+full_name: Edge Computing Workshop
+type: workshop
+tier: minor
+areas: [systems, networking]
+region: europe
+language: english
+frequency: annual
+organizer: Zhytomyr Polytechnic State University and Kryvyi Rih universities
+organizer_country: [europe]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [4]
+links:
+  website: https://edge.easyscience.education/2027/
+notes:
+- Small one-day standalone edge computing workshop run by Ukrainian universities, held at Zhytomyr Polytechnic State University with online broadcast
+- Proceedings in CEUR-WS (2021, 2023, 2024, 2025; planned for 2027); 2026 proceedings were in ACM ICPS
+- Selected papers invited to post-proceedings in the Journal of Edge Computing after a second review round
+- Blind peer review; at least one author must present
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-04-03
+  end: 2026-04-03
+  location: Zhytomyr, Ukraine
+  url: https://edge.easyscience.education/2026/
+  deadlines:
+  - kind: submission
+    date: 2025-12-18
+    label: Extended from December 12, 2025
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-02-01
+  - kind: other
+    date: 2026-03-22
+    label: Registration
+- year: 2027
+  start: 2027-04-02
+  end: 2027-04-02
+  location: Zhytomyr, Ukraine
+  url: https://edge.easyscience.education/2027/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+  - kind: notification
+    date: 2027-02-14
+  - kind: camera_ready
+    date: 2027-02-28
+    label: Final submission
+  - kind: other
+    date: 2027-03-21
+    label: Registration
+sources:
+- https://edge.easyscience.education/2027/
+- https://edge.easyscience.education/2026/
+- https://edge.easyscience.education/2025/
+- https://doors.easyscience.education/2023/
+- https://ceur-ws.org/Vol-3943/
+- https://ceur-ws.org/Vol-3666/
+- https://ceur-ws.org/Vol-3374/
+- https://portal.core.edu.au/conf-ranks/?search=doors&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- Hybrid or online participation for 2027 not stated

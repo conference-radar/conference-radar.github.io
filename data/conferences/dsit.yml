@@ -1,0 +1,59 @@
+id: dsit
+name: DSIT
+full_name: International Conference on Data Science and Information Technology
+type: conference
+tier: minor
+areas: [data, ai]
+region: china
+language: english
+frequency: annual
+organizer: Host university each year (2026 School of AI and Advanced Computing, Xi'an Jiaotong-Liverpool University); sponsored by IEEE and IEEE Nanjing Section
+organizer_country: [china]
+proceedings: IEEE Xplore (IEEE conference proceedings since 2022; ACM proceedings 2018 to 2021)
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [11]
+  conference_months: [7, 11, 12]
+links:
+  website: https://www.dsit2026.net/
+notes:
+- 9th edition in 2026; held in China since 2021 (Shanghai, Nanjing, Beijing, Taicang) except online in 2022; Seoul in 2019, online in 2020
+- Proceedings published by IEEE in IEEE Xplore since 2022 (2023 via CPS), indexed by EI Compendex and Scopus; ACM proceedings 2018 to 2021
+- Double-blind review with at least 3 reviewers per paper; submissions via Microsoft CMT
+- Dates move around the year (July in 2019 to 2023, December 2024, November 2025 and 2026)
+- Site also promotes free publication in two affiliated quarterly journals with very fast review
+- Not listed in ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-14
+  end: 2025-11-16
+  location: Beijing, China
+  url: https://www.dsit2026.net/DSIT%202025.html
+- year: 2026
+  start: 2026-11-27
+  end: 2026-11-29
+  location: Taicang, China (XJTLU Taicang Campus)
+  url: https://www.dsit2026.net/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+  - kind: notification
+    date: 2026-11-30
+  - kind: other
+    date: 2026-12-05
+    label: Paper registration
+sources:
+- https://www.dsit2026.net/
+- https://www.dsit2026.net/Call%20for%20Papers.html
+- https://www.dsit2026.net/DSIT%202025.html
+- https://www.dsit2026.net/DSIT%202024.html
+- https://www.dsit2026.net/DSIT%202023.html
+- https://www.dsit2026.net/DSIT%202022.html
+- https://www.dsit2026.net/DSIT%202021.html
+- https://portal.core.edu.au/conf-ranks/?search=DSIT&by=all&source=ICORE2026&sort=atitle&page=1
+unverified:
+- 2026 deadlines as posted on the official site fall close to or after the conference dates (submission 2026-11-20, notification 2026-11-30); likely late-round dates
+- 2025 deadlines not recorded
+- 2027 edition not yet announced
+last_verified: 2026-11-27

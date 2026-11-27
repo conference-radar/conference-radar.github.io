@@ -1,0 +1,68 @@
+id: kcgs
+name: KCGS
+full_name: Korea Computer Graphics Society Annual Conference
+name_local: 한국컴퓨터그래픽스학회 학술대회
+type: conference
+tier: domestic
+areas: [vision, ai]
+region: korea
+language: mixed
+frequency: annual
+organizer: KCGS (Korea Computer Graphics Society)
+organizer_country: [korea]
+proceedings: KCGS conference proceedings; full papers go to a special issue of the Journal of the Korea Computer Graphics
+  Society
+archival: false
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5, 6]
+  conference_months: [7]
+links:
+  website: https://www.cg-korea.org/
+notes:
+- Annual summer conference of the Korea Computer Graphics Society, held at a resort in Korea in early July with a
+  summer school just before it
+- Full papers (up to 10 pages) are reviewed, possibly with a revision round, and planned for a special issue of the
+  society's KCI-listed journal
+- Abstracts (up to 2 pages) for new or already published work are presented as oral or poster talks
+- Papers in Korean or English; ongoing research and previously published work are accepted
+- Separate review and awards for papers with an undergraduate first author
+- 2026 also had an AI Creative Showcase session for AI-made works, not included in the proceedings
+- Not to be confused with CAD/Graphics, which the society co-hosts
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2025
+  start: 2025-07-09
+  end: 2025-07-11
+  location: Delfino Resort, Goseong, Korea
+  url: https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=198
+  deadlines:
+  - kind: submission
+    date: 2025-06-13
+    label: Full and abstract papers (extended)
+- year: 2026
+  start: 2026-07-01
+  end: 2026-07-03
+  location: Yeosu The Ocean Resort, Yeosu, Korea
+  url: https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=245
+  deadlines:
+  - kind: submission
+    date: 2026-05-29
+    label: Full papers (extended from May 22) and abstract papers
+  - kind: other
+    date: 2026-06-08
+    time: "23:59"
+    tz: KST
+    label: AI Creative Showcase entries
+sources:
+- https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=245
+- https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=247
+- https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=250
+- https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1&page=view&idx=198
+- https://www.cg-korea.org/index.php?hCode=BOARD&bo_idx=1
+- https://portal.core.edu.au/conf-ranks/?search=KCGS&by=all&source=ICORE2026
+unverified:
+- Registration fees and notification dates not stated in the notices
+- KCGS 2027 not yet announced
+last_verified: 2026-11-27

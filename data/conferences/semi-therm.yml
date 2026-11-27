@@ -1,0 +1,56 @@
+id: semi-therm
+name: SEMI-THERM
+full_name: SEMI-THERM Symposium (Semiconductor Thermal Measurement, Modeling and Management)
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: SEMI-THERM Educational Foundation (STEF)
+organizer_country: [usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [3]
+links:
+  website: https://www.semi-therm.org/
+notes:
+- Symposium and exhibition on electronics and semiconductor thermal management (cooling, thermal measurement and modeling)
+- Sponsored and operated by the SEMI-THERM Educational Foundation (STEF), run by volunteers from the thermal industry
+- First held in December 1984 in Phoenix, Arizona; the 43rd edition is in San Jose, California in March 2027
+- Papers published in IEEE Xplore and the SEMI-THERM Technical Library
+- "Three tracks: peer-reviewed paper, non-peer-reviewed paper, presentation only; all start from a two-page abstract"
+- Strong industry participation, with an exhibition alongside the technical program
+editions:
+- year: 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: San Jose, California, USA
+  url: https://www.semi-therm.org/
+  deadlines:
+  - kind: abstract
+    date: 2026-10-05
+    label: Two-page abstract
+  - kind: notification
+    date: 2026-11-09
+  - kind: submission
+    date: 2026-12-18
+    label: Draft or peer-reviewed manuscripts
+  - kind: other
+    date: 2027-01-11
+    label: Conference registration deadline for authors
+  - kind: camera_ready
+    date: 2027-01-25
+    label: Final paper submission
+sources:
+- https://www.semi-therm.org/
+- https://www.semi-therm.org/authors
+- https://www.semi-therm.org/about
+- https://portal.core.edu.au/conf-ranks/?search=SEMI-THERM&by=all&source=ICORE2026
+unverified:
+- Dates and location of the 2026 (42nd) edition not shown on the official site
+- Deadline time zone not stated
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-11-27

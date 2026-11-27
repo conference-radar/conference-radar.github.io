@@ -1,0 +1,57 @@
+id: eccs
+name: ECCS
+full_name: European Conference on Communication Systems
+type: conference
+tier: minor
+areas: [communications, networking, security]
+region: europe
+language: english
+frequency: annual
+organizer: FH JOANNEUM University of Applied Sciences
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+indexing: [EI, Scopus]
+fee: 550 USD regular author registration, 525 USD student (2027)
+typical:
+  deadline_months: [1]
+  conference_months: [5, 6]
+links:
+  website: http://www.eccs.net
+notes:
+- Communication systems conference held in Vienna, Austria every year since 2021, organized by FH JOANNEUM
+- Not the same venue as ICECCS (Engineering of Complex Computer Systems)
+- Proceedings for 2022 to 2025 in IEEE Xplore; the 2027 site names no publisher and says only EI Compendex and Scopus indexing
+- Papers 4 to 10 pages; one regular registration covers 5 pages, extra pages 50 USD each
+- Submission through the zmeeting.org system; abstract-only presentations allowed but not published
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-17
+  end: 2026-06-19
+  location: Vienna, Austria
+  url: http://www.eccs.net/eccs2026.html
+- year: 2027
+  start: 2027-06-02
+  end: 2027-06-04
+  location: Vienna, Austria
+  url: http://www.eccs.net
+  deadlines:
+  - kind: submission
+    date: 2027-01-05
+  - kind: notification
+    date: 2027-02-05
+  - kind: camera_ready
+    date: 2027-02-20
+sources:
+- http://www.eccs.net
+- http://www.eccs.net/history.html
+- http://www.eccs.net/eccs2026.html
+- http://www.eccs.net/committee.html
+- http://www.eccs.net/reg.html
+- https://ieeexplore.ieee.org/xpl/conhome/11223284/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ECCS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Publisher of the 2026 and 2027 proceedings not stated on the site (IEEE Xplore confirmed for 2022 to 2025)
+- 2026 deadlines no longer shown on the site

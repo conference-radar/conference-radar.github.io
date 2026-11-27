@@ -1,0 +1,50 @@
+id: nesy-fm-aaai
+name: NeSy-FM
+full_name: Neuro-Symbolic AI in Large Foundation Models (AAAI-27 Workshop)
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: north-america
+language: english
+frequency: irregular
+organizer: NeSy-FM workshop organizers (National University of Singapore, UCLA, University of Oxford, Idiap, IBM Research, CMU); co-located with AAAI
+organizer_country: [singapore, usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://llm-symbol.github.io/NeSy-FM-AAAI2027/
+notes:
+  - AAAI workshop on integrating foundation models with symbolic AI (verification, program synthesis, theorem proving, symbolic memory, constraint-guided learning)
+  - Listed as W31 in the AAAI-27 workshop program
+  - 1st edition at AAAI-27 in Montreal, half day (afternoon) on Tuesday 23 February 2027
+  - Non-archival; full papers up to 8 pages and short papers up to 4 pages in the AAAI 2027 template, appendices unlimited
+  - Position papers, benchmarks, system descriptions and work in progress also welcome
+  - Submitted via OpenReview, three reviews per paper planned with senior meta-review
+  - Accepted papers presented as posters, selected ones as orals; in person only
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    start: 2027-02-23
+    end: 2027-02-23
+    location: Montreal, Canada (with AAAI-27)
+    url: https://llm-symbol.github.io/NeSy-FM-AAAI2027/
+    deadlines:
+      - kind: submission
+        date: 2026-11-30
+        tz: AoE
+      - kind: notification
+        date: 2026-12-10
+        tz: AoE
+sources:
+  - https://llm-symbol.github.io/NeSy-FM-AAAI2027/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=NeSy-FM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date not stated
+  - Workshop site still lists the day as February 22 or 23; February 23 (PM) is from the AAAI-27 workshop schedule

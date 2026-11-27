@@ -1,0 +1,63 @@
+id: wqcc
+name: WQCC
+full_name: Workshop on Quantum Computing and Communication
+type: workshop
+tier: minor
+areas: [communications, systems]
+region: europe
+language: english
+frequency: biennial
+organizer: Poznan Supercomputing and Networking Center (PSNC), held with PPAM
+organizer_country: [europe]
+proceedings: Springer LNCS (PPAM post-proceedings)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [9]
+links:
+  website: https://quantum.psnc.pl/wqcc26/
+notes:
+- One-day workshop on quantum computing and quantum communication (NISQ devices, hybrid HPC+QC, quantum ML and optimization, QKD), held with the biennial PPAM conference
+- Organized by the Poznan Supercomputing and Networking Center; editions in 2022 (Gdansk), 2024 (Ostrava) and 2026 (Poznan)
+- Full papers up to 15 pages in LNCS style (12 pages until 2024), or 2-page abstracts for presentation only
+- Presented papers appear in the PPAM proceedings, published by Springer in LNCS after the conference
+- Camera-ready deadline comes after the conference (November)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2024
+  start: 2024-09-08
+  end: 2024-09-11
+  location: Ostrava, Czech Republic (with PPAM 2024)
+  url: https://quantum.psnc.pl/wqcc24/
+  deadlines:
+  - kind: submission
+    date: 2024-05-30
+    label: Extended
+  - kind: notification
+    date: 2024-07-08
+  - kind: camera_ready
+    date: 2024-11-02
+- year: 2026
+  start: 2026-08-30
+  end: 2026-09-02
+  location: Poznan, Poland (with PPAM 2026)
+  url: https://quantum.psnc.pl/wqcc26/
+  deadlines:
+  - kind: submission
+    date: 2026-05-20
+    label: Extended from 2026-05-11
+  - kind: notification
+    date: 2026-06-15
+    label: Moved from 2026-05-31
+  - kind: camera_ready
+    date: 2026-11-02
+sources:
+- https://quantum.psnc.pl/wqcc26/
+- https://quantum.psnc.pl/wqcc24/
+- https://quantum.psnc.pl/wqcc/
+- https://ppam.edu.pl/
+- https://portal.core.edu.au/conf-ranks/?search=WQCC&by=all&source=ICORE2026
+unverified:
+- Edition dates are the PPAM conference dates; the exact workshop day is not stated
+- PPAM 2028 and a fourth workshop edition not yet announced
+last_verified: 2026-11-27

@@ -1,0 +1,49 @@
+id: spot-iclr
+name: SPOT
+full_name: Workshop on Scaling Post-Training for LLMs
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: SPOT workshop organizers (UT Austin, UC Berkeley, Google DeepMind, Microsoft, Meta); co-located with ICLR
+organizer_country: [usa]
+proceedings: None (non-archival; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://spoticlr.github.io/
+notes:
+  - ICLR workshop on scaling post-training of large language models (RL, fine-tuning and related methods)
+  - 1st edition at ICLR 2026 in Rio de Janeiro, 27 April 2026
+  - Non-archival; no formal proceedings, accepted papers appear on OpenReview
+  - Long papers up to 8 pages and short papers up to 4 pages, excluding references and appendices; ICLR style, double-blind review
+  - 64 papers accepted in 2026
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: 1st edition, with ICLR 2026
+    start: 2026-04-27
+    end: 2026-04-27
+    location: Rio de Janeiro, Brazil (with ICLR 2026)
+    url: https://spoticlr.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-02-05
+        tz: AoE
+      - kind: notification
+        date: 2026-03-01
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-04-01
+        tz: AoE
+sources:
+  - https://spoticlr.github.io/
+  - https://iclr.cc/virtual/2026/workshop/10000802
+  - https://portal.core.edu.au/conf-ranks/?search=SPOT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No 2027 edition announced as of 2026-11-27

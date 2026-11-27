@@ -1,0 +1,50 @@
+id: wm-pai
+name: WM-PAI
+full_name: World Models in Physical AI (NeurIPS Workshop)
+type: workshop
+tier: minor
+areas: [ai, vision]
+region: worldwide
+language: english
+frequency: irregular
+organizer: WM-PAI workshop organizers (NVIDIA, UT Austin); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://www.worldmodels-physicalai.com/
+notes:
+  - NeurIPS workshop on world models for physical AI such as robotics and embodied agents
+  - 2026 edition at NeurIPS 2026, Sydney (room C4.1), 11 December 2026
+  - Organized by researchers from NVIDIA and UT Austin
+  - Non-archival; accepted work is managed on OpenReview and may later go to an archival venue
+  - Papers up to 8 pages excluding references, NeurIPS 2026 template
+  - At least one author per submission must agree to review
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://www.worldmodels-physicalai.com/
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        tz: AoE
+        label: Extended deadline
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+sources:
+  - https://www.worldmodels-physicalai.com/
+  - https://neurips.cc/virtual/2026/workshop/137511
+  - https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/WM_PAI
+  - https://portal.core.edu.au/conf-ranks/?search=WM-PAI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date given only as November 2026
+  - No 2027 edition announced as of 2026-11-27

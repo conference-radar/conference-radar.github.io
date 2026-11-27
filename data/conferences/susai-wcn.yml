@@ -1,0 +1,69 @@
+id: susai-wcn
+name: SusAI-WCN
+full_name: IEEE GLOBECOM Workshop on Sustainable AI for Next-Generation Wireless Communications and Networking
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop co-chairs (Yan Kyaw Tun, Nguyen Van Huynh, Dusit Niyato and others) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-32-sustainable-ai-next-generation-wireless-communications-and-networking-0
+notes:
+- Workshop on energy-efficient and trustworthy AI for wireless communications and networking, co-located with IEEE GLOBECOM
+- Held at GLOBECOM 2025 (WS-09, Taipei, afternoon session) and GLOBECOM 2026 (WS-32, Macau, half day)
+- 2026 co-chairs are Yan Kyaw Tun, Nguyen Van Huynh, Dusit Niyato, Yaru Fu, Viet Quoc Pham and Zhu Han
+- 2026 program has 9 papers in two sessions
+- Workshop papers go into the GLOBECOM proceedings and IEEE Xplore
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2025
+  start: 2025-12-12
+  end: 2025-12-12
+  location: Taipei, Taiwan
+  url: https://globecom2025.ieee-globecom.org/workshop/ws-09-sustainable-ai-next-generation-wireless-communications-and-networking.html
+  deadlines:
+  - kind: submission
+    date: 2025-08-07
+    label: GLOBECOM 2025 workshop call, extended from 2025-07-15
+  - kind: notification
+    date: 2025-09-10
+    label: GLOBECOM 2025 workshop call, moved from 2025-09-01
+  - kind: camera_ready
+    date: 2025-10-01
+- year: 2026
+  start: 2026-12-11
+  end: 2026-12-11
+  location: Macau, China
+  url: https://globecom2026.ieee-globecom.org/events/ws-32-sustainable-ai-next-generation-wireless-communications-and-networking-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+  - kind: notification
+    date: 2026-09-27
+    label: Workshop page (GLOBECOM workshop call says 2026-10-05)
+  - kind: camera_ready
+    date: 2026-10-05
+    label: Workshop page (GLOBECOM workshop call says 2026-10-14)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-32-sustainable-ai-next-generation-wireless-communications-and-networking-0
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2025.ieee-globecom.org/workshop/ws-09-sustainable-ai-next-generation-wireless-communications-and-networking.html
+- https://globecom2025.ieee-globecom.org/workshops
+- https://globecom2025.ieee-globecom.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=SusAI-WCN&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Sustainable+AI&by=all&source=ICORE2026
+unverified:
+- Short name SusAI-WCN is not used on the official pages
+- Whether editions before 2025 exist
+- 2027 edition not announced
+- Time zone of the deadlines (not stated)
+last_verified: 2026-11-27

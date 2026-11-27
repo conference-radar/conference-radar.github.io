@@ -1,0 +1,53 @@
+id: 4d-mobnet
+name: 4D-MobNet
+full_name: "Future 4D Transportation Networks: Testbed-Driven Communications, Sensing and Modeling with the SWaP-Constrained Platforms"
+type: workshop
+tier: minor
+areas: [communications]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop co-chairs (NTU Singapore, University of Pisa, Southeast University, University of Exeter, Nanchang University) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws08-future-4d-transportation-networks-testbed-driven-communications-sensing-and-modeling.html
+notes:
+- Workshop co-located with IEEE ICC 2026 (Glasgow, WS08); first edition, not held at ICC 2024 or 2025
+- The ICC workshop programme lists it as "Future 4D Mobility Networks"; the workshop page says "Future 4D Transportation Networks"
+- Focus on testbed-validated work for ground, UAV, stratospheric and LEO satellite mobility networks with size, weight and power (SWaP) limits
+- Topics include vehicle and satellite antennas, RIS, ISAC, channel measurement and radio maps, UAV detection and AI-driven resource management
+- Co-chairs include Yufei Zhao, Marco Moretti, Haiming Wang, Wen-Xuan Long, Wang Miao and Deyu Lin
+- Papers up to 6 pages in IEEE double-column format (a 7th page costs 100 USD); submissions via EDAS
+- Accepted and presented papers go into the IEEE ICC workshop proceedings in IEEE Xplore; in-person presentation required (no-show papers removed)
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  label: WS08 at IEEE ICC 2026
+  start: 2026-05-24
+  end: 2026-05-24
+  location: Glasgow, UK (with IEEE ICC 2026)
+  url: https://icc2026.ieee-icc.org/workshop/ws08-future-4d-transportation-networks-testbed-driven-communications-sensing-and-modeling.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws08-future-4d-transportation-networks-testbed-driven-communications-sensing-and-modeling.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://icc2025.ieee-icc.org/program/workshops
+- https://icc2024.ieee-icc.org/program/workshops
+- https://icc2027.ieee-icc.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=Transportation+Networks&by=all&source=ICORE2026
+unverified:
+- Whether a 2027 edition will run (the ICC 2027 call for workshop papers said "coming soon" on 2026-11-27)
+- Deadline time zone not stated
+last_verified: 2026-11-27

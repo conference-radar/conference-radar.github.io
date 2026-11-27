@@ -1,0 +1,62 @@
+id: astad
+name: ASTAD
+full_name: Workshop on Automated Spatial and Temporal Anomaly Detection
+type: workshop
+tier: minor
+areas: [ai, data, vision]
+region: worldwide
+language: english
+frequency: annual
+organizer: iSMART Lab, McGill University and Mila (chair Narges Armanfard)
+organizer_country: [canada]
+proceedings: Archival proceedings intended for 2027 (not yet confirmed, series not named)
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1, 2]
+links:
+  website: https://ismart.ece.mcgill.ca/astad4/
+notes:
+- Workshop series on AI for anomaly detection in spatial, temporal and multimodal data, organized by the iSMART Lab at McGill University
+- "Editions so far: WACV 2024, WACV 2025, AAAI 2026, AAAI 2027"
+- Follows its host conference (Singapore 2026, Montreal 2027)
+- Full papers up to 7 pages plus 2 pages of references in the AAAI-27 format, double-blind review on OpenReview
+- No dual submission; in-person presentation required, no remote talks
+- The workshop says papers from the previous edition appear in archival proceedings and that 2027 papers are intended to be archival, not yet confirmed
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-01-26
+  end: 2026-01-26
+  location: Singapore (with AAAI-26)
+  url: https://ismart.ece.mcgill.ca/astad3/
+  deadlines:
+  - kind: submission
+    date: 2025-10-22
+  - kind: notification
+    date: 2025-11-05
+  - kind: camera_ready
+    date: 2025-11-10
+- year: 2027
+  start: 2027-02-22
+  end: 2027-02-22
+  location: Palais des congres, Montreal, Canada (with AAAI-27)
+  url: https://ismart.ece.mcgill.ca/astad4/
+  deadlines:
+  - kind: submission
+    date: 2026-11-20
+  - kind: notification
+    date: 2026-12-02
+sources:
+- https://ismart.ece.mcgill.ca/astad4/
+- https://ismart.ece.mcgill.ca/astad3/
+- https://ismart.ece.mcgill.ca/astad/
+- https://aaai.org/conference/aaai/aaai-27/workshop-program/
+- https://portal.core.edu.au/conf-ranks/?search=ASTAD&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Publication series of the archival proceedings (2026 and 2027) not named on the workshop pages
+- Camera-ready date for 2027 not yet announced
+- Workshop day 2027 taken from the AAAI-27 workshop program (Feb 22); the workshop page says Feb 22-23

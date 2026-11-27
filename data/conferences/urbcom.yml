@@ -1,0 +1,63 @@
+id: urbcom
+name: UrbCom
+full_name: International Workshop on Urban Computing
+type: workshop
+tier: minor
+areas: [data, networking, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: General chairs from the University of Campinas, Federal University of Ouro Preto, University of Toronto and
+  INRIA
+organizer_country: [other, canada, europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://sites.google.com/view/urbcom2027
+notes:
+- Co-located workshop of IEEE DCOSS-IoT; not the KDD UrbComp workshop (urbcomp)
+- Papers appear in the same volume as the DCOSS-IoT proceedings (IEEE Xplore)
+- Chairs mostly from Brazilian universities (Campinas, Ouro Preto) plus Toronto and INRIA
+- 8 pages including references, IEEE two-column format
+- Best papers invited to submit extended versions to the Journal of Internet Services and Applications
+- Online in 2020 to 2022; 2023 Coral Bay, Cyprus; 2024 Abu Dhabi, 2025 Lucca, 2026 Reykjavik, 2027 Montreal
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-22
+  end: 2026-06-24
+  location: Reykjavik, Iceland
+  url: https://sites.google.com/view/urbcom2026/home
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+  - kind: notification
+    date: 2026-05-15
+  - kind: camera_ready
+    date: 2026-05-22
+    label: Moved from 2026-05-20
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://sites.google.com/view/urbcom2027
+sources:
+- https://sites.google.com/view/urbcom2026/home
+- https://sites.google.com/view/urbcom2026/submission-instructions
+- https://sites.google.com/view/urbcom2026/past-edition
+- https://sites.google.com/view/urbcom2025/
+- https://sites.google.com/view/urbcom2027
+- https://www.dcoss.org/
+- https://dcoss.org/dcoss2026/
+- https://portal.core.edu.au/conf-ranks/?search=UrbCom&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Workshop site does not name the publisher; IEEE Xplore inferred from the DCOSS-IoT proceedings and camera-ready instructions
+- 2027 deadlines only given as months (submission April 2027, notification and camera-ready May 2027)
+- Deadline times and time zone not stated on the official site
+- Exact workshop day within the DCOSS-IoT dates not stated

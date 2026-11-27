@@ -1,0 +1,56 @@
+id: cyberaccess
+name: CyberAccess
+full_name: International Workshop on Accessible and Inclusive Cybersecurity and Privacy
+type: workshop
+tier: minor
+areas: [security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Information Security Group, Royal Holloway, University of London, with Samsung R&D (ACNS workshop)
+organizer_country: [europe]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://cyberaccess-acns2027.github.io
+notes:
+- ACNS satellite workshop; 1st edition with ACNS 2027 at Royal Holloway, Egham, UK
+- Program co-chairs Waleed Bin Shahid and Maryam Mehrnezhad (Royal Holloway) and Ehsan Toreini (Samsung R&D)
+- Topics include security and privacy for people with disabilities, older adults and children, assistive technology
+  security, technology-facilitated abuse and inclusive research methods
+- Papers in Springer LNCS format; page limit and review policy not yet announced
+- Accepted papers appear in the ACNS 2027 workshop post-proceedings in Springer LNCS
+- In-person presentation required; one author must register for ACNS 2027 at the author rate
+- Eligible for the ACNS best workshop paper award (EUR 500)
+editions:
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Royal Holloway, University of London, Egham, UK
+  url: https://cyberaccess-acns2027.github.io
+  deadlines:
+  - kind: submission
+    date: 2027-02-19
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-03-21
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-06-14
+    time: "23:59"
+    tz: AoE
+sources:
+- https://cyberaccess-acns2027.github.io
+- https://acns2027.isg.rhul.ac.uk/workshops
+- https://portal.core.edu.au/conf-ranks/?search=CyberAccess&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact workshop day within ACNS 2027 (28 June to 1 July) not yet announced; start and end are the ACNS dates
+- Page limit and review policy not yet announced
+- Whether the workshop will be held again after 2027
+- Not listed in CORE ICORE2026 and not found in the CCF 2026 list

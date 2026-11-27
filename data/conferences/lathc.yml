@@ -1,0 +1,65 @@
+id: lathc
+name: LATHC
+full_name: Languages, Architectures, and Tools for Heterogeneous Computing Workshop
+type: workshop
+tier: minor
+areas: [systems, software]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop co-chairs from the University of Alberta and Huawei Canada; co-located with IEEE/ACM CGO
+organizer_country: [canada]
+proceedings: None (non-archival, slides posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [12, 1]
+  conference_months: [2, 3]
+links:
+  website: https://jnamaral.github.io/LATHC27/
+notes:
+- One-day workshop co-located with IEEE/ACM CGO on programming models, compilers, accelerators and ML systems for heterogeneous computing
+- Talk-based; submit a title, abstract and presenter biography via EasyChair, no manuscript
+- Non-archival; no proceedings, presenters share slides that are posted on the website
+- Work does not need to be original; recently published or submitted work is welcome
+- Held since 2023 with CGO (Montreal 2023, Edinburgh 2024, Las Vegas 2025, Sydney 2026, Salt Lake City 2027)
+- Co-chaired by J. Nelson Amaral (University of Alberta) and Yaoqing Gao (Huawei Canada); Huawei has sponsored past editions
+- Not listed in the CORE ICORE2026 portal and not on the CCF 2026 list
+editions:
+- year: 2026
+  label: 4th LATHC, with CGO 2026
+  start: 2026-02-01
+  end: 2026-02-01
+  location: Sydney, Australia (with CGO 2026)
+  url: https://jnamaral.github.io/LATHC26/
+  deadlines:
+  - kind: abstract
+    date: 2025-12-10
+  - kind: notification
+    date: 2025-12-15
+- year: 2027
+  label: 5th LATHC, with CGO 2027
+  start: 2027-03-21
+  end: 2027-03-21
+  location: Salt Lake City, Utah, USA (with CGO 2027)
+  url: https://jnamaral.github.io/LATHC27/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-15
+  - kind: notification
+    date: 2027-01-22
+sources:
+- https://jnamaral.github.io/LATHC27/
+- https://jnamaral.github.io/LATHC27/call/
+- https://jnamaral.github.io/LATHC26/
+- https://jnamaral.github.io/LATHC26/call/
+- https://jnamaral.github.io/LATHC26/program/
+- https://jnamaral.github.io/LATHC26/organization/
+- https://jnamaral.github.io/LATHC25/
+- https://jnamaral.github.io/LATHC24/
+- https://jnamaral.github.io/LATHC23/
+- https://portal.core.edu.au/conf-ranks/?search=LATHC&by=all&source=ICORE2026
+unverified:
+- Deadline times and time zones are not stated on the official pages
+- The 2027 call page still lists the 2025 dates (December 10 and 15, 2025); 2027 dates are taken from the 2027 home page
+- The 2027 home page gives the workshop date as Sunday, March 21 without a year; 2027 assumed from CGO 2027 (March 20 to 24, 2027)
+last_verified: 2026-11-27

@@ -1,0 +1,72 @@
+id: iaria-smart-accessibility
+name: SMART ACCESSIBILITY
+full_name: International Conference on Universal Accessibility in the Internet of Things and Smart Environments
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: IARIA
+organizer_country: [usa]
+proceedings: IARIA Press (IARIA ThinkMind Digital Library); prints via Curran Associates; selected papers extended in
+  IARIA journals
+archival: true
+typical:
+  deadline_months: [12, 2, 3]
+  conference_months: [4, 5]
+links:
+  website: https://www.iaria.org/conferences2027/SMARTACCESSIBILITY27.html
+notes:
+- Organized by IARIA as part of the DigitalWorld congress, co-located with ICDS, ACHI, eTELEMED, eKNOW, ALLSENSORS and other IARIA events (12th edition in 2027)
+- Covers accessibility and inclusive design for IoT and smart environments, assistive technology, accessible interaction and accessibility testing
+- Published open access in the IARIA ThinkMind library (ISSN 2519-8378); prints via Curran Associates; selected papers invited to IARIA journals
+- Not listed in ICORE2026; IARIA events are generally regarded as low-selectivity
+- Held in southern Europe (Nice, Porto, Venice, Barcelona in recent years); onsite and online participation options
+- IARIA deadlines are often extended after the initial date
+editions:
+- year: 2026
+  start: 2026-05-24
+  end: 2026-05-28
+  location: Venice, Italy
+  url: https://www.iaria.org/conferences2026/SMARTACCESSIBILITY26.html
+  deadlines:
+  - kind: submission
+    date: 2026-02-25
+  - kind: notification
+    date: 2026-03-23
+  - kind: other
+    date: 2026-04-05
+    label: Author registration
+  - kind: camera_ready
+    date: 2026-04-19
+- year: 2027
+  start: 2027-04-18
+  end: 2027-04-22
+  location: Lisbon, Portugal
+  url: https://www.iaria.org/conferences2027/SMARTACCESSIBILITY27.html
+  deadlines:
+  - kind: submission
+    date: 2026-12-28
+  - kind: notification
+    date: 2027-02-24
+  - kind: other
+    date: 2027-03-10
+    label: Author registration
+  - kind: camera_ready
+    date: 2027-03-14
+sources:
+- https://www.iaria.org/conferences2027/SMARTACCESSIBILITY27.html
+- https://www.iaria.org/conferences2026/SMARTACCESSIBILITY26.html
+- https://www.iaria.org/conferences2025/SMARTACCESSIBILITY25.html
+- https://www.iaria.org/conferences2024/SMARTACCESSIBILITY24.html
+- https://www.iaria.org/conferences2023/SMARTACCESSIBILITY23.html
+- https://www.iaria.org/conferences2022/SMARTACCESSIBILITY22.html
+- https://www.iaria.org/conferences2021/SMARTACCESSIBILITY21.html
+- https://portal.core.edu.au/conf-ranks/?search=SMART+ACCESSIBILITY&by=all&source=ICORE2026
+unverified:
+- Acceptance statistics not checked
+- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- No ICORE2026 entry found for SMART ACCESSIBILITY, so no CORE rank is recorded
+- Not found in the CCF 2026 list, so no CCF rank is recorded
+last_verified: 2026-11-27

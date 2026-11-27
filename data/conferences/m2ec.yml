@@ -1,0 +1,69 @@
+id: m2ec
+name: M2EC
+full_name: International Workshop on Recent Advances for Multi-Clouds and Mobile Edge Computing
+type: workshop
+tier: minor
+areas: [networking, systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: SimulaMet (Simula Metropolitan Centre for Digital Engineering) workshop chairs (co-located workshop of AINA)
+organizer_country: [europe]
+proceedings: Springer (AINA workshop proceedings; the workshop site names the series Advances in Intelligent Systems and Computing)
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [3, 4]
+links:
+  website: https://www.nntb.no/workshops/m2ec-2027
+notes:
+- Workshop of the IEEE-sponsored AINA conference (International Conference on Advanced Information Networking and Applications); follows AINA around the world
+- Held every year since 2019 (Matsue 2019, virtual 2020 to 2023, Kitakyushu 2024, Barcelona 2025, Wellington 2026, Tirana 2027)
+- Run from the NorNet testbed project at SimulaMet in Oslo; general chair Thomas Dreibholz
+- Topics are multi-cloud and cross-cloud systems, cloud federation networking, mobile edge computing, 5G, resilience and low-latency transport
+- Papers go into the Springer AINA workshop proceedings; the site says the series is submitted to ISI Proceedings, EI-Compendex, DBLP and Scopus
+- Small workshop with full papers and a poster session; 4 papers in one session in 2026
+- Deadline is usually late December and announced as a hard deadline
+- Not listed in CORE ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Wellington, New Zealand
+  url: https://www.nntb.no/workshops/m2ec-2026
+  deadlines:
+  - kind: submission
+    date: 2025-12-25
+  - kind: notification
+    date: 2026-01-15
+  - kind: camera_ready
+    date: 2026-01-31
+  - kind: other
+    date: 2026-01-31
+    label: Author registration
+- year: 2027
+  start: 2027-03-24
+  end: 2027-03-26
+  location: Tirana, Albania
+  url: https://www.nntb.no/workshops/m2ec-2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-25
+    label: Papers (extended, hard)
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-01-25
+  - kind: other
+    date: 2027-01-25
+    label: Author registration
+sources:
+- https://www.nntb.no/workshops/m2ec-2027
+- https://www.nntb.no/workshops/m2ec-2026
+- https://www.nntb.no/workshops/m2ec-2025
+- https://portal.core.edu.au/conf-ranks/?search=M2EC&by=all&source=ICORE2026
+unverified:
+- Proceedings series not confirmed; the workshop site says Advances in Intelligent Systems and Computing, while recent AINA volumes appear in Springer LNDECT
+- Exact workshop day within AINA 2027 (only the conference dates Mar 24 to 26 are given)
+- Deadline time and time zone not stated
+last_verified: 2026-11-27

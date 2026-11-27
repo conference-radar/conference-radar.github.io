@@ -1,0 +1,47 @@
+id: medic-ws
+name: MEDIC
+full_name: International Workshop on Model Engineering for Digital Innovation in Healthcare
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+organizer: MEDIC workshop chairs (BTU Cottbus-Senftenberg, Adelaide University, PlantingSpace), co-located with MODELS
+organizer_country: [europe, australia]
+proceedings: MODELS Companion proceedings (ACM 2026)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [10]
+links:
+  website: https://medic-workshop.github.io/
+notes:
+- Workshop on model-driven engineering for digital health and healthcare systems, co-located with MODELS
+- First edition in 2026 with MODELS 2026 in Malaga
+- Accepted papers go into the MODELS 2026 Companion proceedings published by ACM
+- Regular papers up to 10 pages and position papers up to 5 pages, ACM sigconf format
+- Single-blind review with at least three PC members per paper; in-person presentation required
+- Not listed in the CORE portal (ICORE2026)
+editions:
+- year: 2026
+  label: 1st edition, with MODELS 2026
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Malaga, Spain (co-located with MODELS 2026)
+  url: https://medic-workshop.github.io/
+  deadlines:
+  - kind: submission
+    date: 2026-07-03
+    tz: AoE
+  - kind: notification
+    date: 2026-07-31
+  - kind: camera_ready
+    date: 2026-08-14
+sources:
+- https://medic-workshop.github.io/
+- https://conf.researchr.org/track/models-2026/models-2026-workshops
+- https://portal.core.edu.au/conf-ranks/?search=MEDIC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The workshop site header, programme and the MODELS programme give 6 October 2026, but its Important Dates list says Tue, 7 October 2026
+- No 2027 edition announced; frequency unknown

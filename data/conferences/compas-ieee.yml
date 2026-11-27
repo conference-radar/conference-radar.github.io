@@ -1,0 +1,61 @@
+id: compas-ieee
+name: COMPAS
+full_name: IEEE International Conference on Computing, Applications and Systems
+type: conference
+tier: minor
+areas: [general, ai, nlp, vision, data, networking, security, systems]
+region: south-asia
+language: english
+frequency: annual
+organizer: IEEE Computer Society Bangladesh Chapter
+organizer_country: [other]
+proceedings: IEEE Xplore
+archival: true
+fee: 350 USD non-member, 300 USD IEEE member, 250 USD IEEE CS member (2026, international authors); local authors
+  10,000 to 14,000 BDT
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://www.compasconf.org/
+notes:
+- Organized by the IEEE Computer Society Bangladesh Chapter; a different Bangladeshi university hosts each edition
+  (CUET Chattogram 2024, Islamic University Kushtia 2025, University of Dhaka 2026)
+- 2024 proceedings are in IEEE Xplore; accepted papers of later editions are considered for IEEE Xplore
+- Broad computing scope with eight tracks, including learning theory, NLP, vision, data analytics, edge systems,
+  distributed systems, networks and security, and quantum computing
+- Submission via Microsoft CMT
+- 40% discount on registration for up to two additional papers by the same authors
+- Not the ACM COMPASS (Computing and Sustainable Societies) or the French Compas conference
+editions:
+- year: 2026
+  label: 3rd COMPAS
+  start: 2026-10-09
+  end: 2026-10-10
+  location: University of Dhaka, Dhaka, Bangladesh
+  url: https://compas-2026.pages.dev/
+  deadlines:
+  - kind: submission
+    date: 2026-07-31
+    label: Extended (originally 2026-07-15)
+  - kind: notification
+    date: 2026-08-31
+  - kind: camera_ready
+    date: 2026-09-12
+  - kind: other
+    date: 2026-09-15
+    label: Registration
+sources:
+- https://compas-2026.pages.dev/
+- https://compas-2026.pages.dev/importantdates
+- https://compas-2026.pages.dev/call-papers
+- https://compas-2026.pages.dev/registration-info
+- https://www.compasconf.org/
+- https://2025.compasconf.org/
+- https://2024.compasconf.org/
+- https://api.crossref.org/works?query.container-title=Conference+on+Computing,+Applications+and+Systems+COMPAS
+unverified:
+- 2027 edition not yet announced
+- Acceptance rate not published; DBLP and indexing not checked
+- IEEE Xplore inclusion of the 2025 and 2026 proceedings not checked
+last_verified: 2026-11-27

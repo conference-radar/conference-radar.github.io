@@ -1,0 +1,44 @@
+id: gsr-vlm
+name: GSR-VLM
+full_name: AAAI Workshop on Geometric and Spatial Reasoning in Vision-Language Models
+type: workshop
+tier: minor
+areas: [ai, vision, nlp]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers from the University of Southern California, Carnegie Mellon University and Arizona State University; co-located with AAAI
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://gsr-vlm.org
+notes:
+  - AAAI workshop on geometric and spatial reasoning in vision-language models
+  - Full-day workshop with AAAI-27 in Montreal; the workshop site says details are subject to confirmation
+  - Long papers up to 7 pages and short or position papers up to 4 pages in the AAAI-27 template
+  - Double-blind review on OpenReview; previously published papers can be presented via a separate form
+  - Non-archival; all accepted papers are presented as posters, selected ones as orals
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    location: Montreal, Canada (with AAAI-27)
+    url: https://gsr-vlm.org
+    deadlines:
+      - kind: submission
+        date: 2026-11-20
+        tz: AoE
+      - kind: notification
+        date: 2026-12-01
+        tz: AoE
+sources:
+  - https://gsr-vlm.org
+  - https://portal.core.edu.au/conf-ranks/?search=GSR-VLM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day is listed as to be announced on the workshop site, so no start date is recorded
+  - Camera-ready date not stated

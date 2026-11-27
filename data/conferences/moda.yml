@@ -1,0 +1,66 @@
+id: moda
+name: MODA
+full_name: International Workshop on Monitoring, Observability, and Operational Data Analytics
+type: workshop
+tier: minor
+areas: [systems, data]
+region: europe
+language: english
+frequency: annual
+organizer: University of Basel (organizers from University of Basel and NVIDIA, steering board from University of Basel, HPE and TU Munich), held with ISC High Performance
+organizer_country: [europe]
+proceedings: Springer LNCS (ISC High Performance workshop post-proceedings)
+archival: true
+typical:
+  deadline_months: [2, 3]
+  conference_months: [6]
+links:
+  website: https://moda.dmi.unibas.ch/
+notes:
+- Workshop on monitoring and operational data analytics for HPC systems and data centers (telemetry, AI/ML for operations, energy efficiency, observability), held with ISC High Performance in Hamburg
+- Held every year since 2020 (MODA20); 2026 was the 7th edition, renamed from "Monitoring & Operational Data Analytics" to add Observability
+- Full papers of 6 to 12 pages in LNCS format, plus 1-page lightning talk abstracts; peer reviewed by the program committee
+- Accepted and presented papers appear in the post-conference ISC workshop proceedings in Springer LNCS
+- Submissions through the ISC Linklings system; in-person presentation required
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-06-13
+  end: 2025-06-13
+  location: Hamburg, Germany (with ISC 2025)
+  url: https://moda.dmi.unibas.ch/wp-content/uploads/2025/12/index25.html
+  deadlines:
+  - kind: submission
+    date: 2025-03-09
+    tz: AoE
+    label: Extended from 2025-02-28
+  - kind: notification
+    date: 2025-04-03
+  - kind: camera_ready
+    date: 2025-04-30
+    tz: AoE
+- year: 2026
+  start: 2026-06-26
+  end: 2026-06-26
+  location: Hamburg, Germany (with ISC 2026)
+  url: https://moda.dmi.unibas.ch/
+  deadlines:
+  - kind: submission
+    date: 2026-03-30
+    tz: AoE
+    label: Extended
+  - kind: notification
+    date: 2026-04-19
+  - kind: camera_ready
+    date: 2026-05-26
+sources:
+- https://moda.dmi.unibas.ch/
+- https://moda.dmi.unibas.ch/submission/
+- https://moda.dmi.unibas.ch/committee/
+- https://moda.dmi.unibas.ch/previous-editions/
+- https://moda.dmi.unibas.ch/wp-content/uploads/2025/12/index25.html
+- https://portal.core.edu.au/conf-ranks/?search=MODA&by=all&source=ICORE2026
+unverified:
+- A 2027 edition with ISC 2027 is not yet announced
+- Original (pre-extension) 2026 submission deadline not shown on the official page
+last_verified: 2026-11-27

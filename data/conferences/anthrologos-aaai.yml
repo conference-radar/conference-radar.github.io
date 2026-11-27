@@ -1,0 +1,39 @@
+id: anthrologos-aaai
+name: ANTHROLOGOS
+full_name: "ANTHROLOGOS: To Be or Not to Be, Anthropomorphism in AI, Mechanism or Illusion? (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: ANTHROLOGOS workshop organizers (BITS Pilani Goa, AIISC University of South Carolina, Google, Google DeepMind, Tesla, DRDO); co-located with AAAI
+organizer_country: [india, usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [2]
+links:
+  website: https://pragyaai.github.io/anthrologos/
+notes:
+  - AAAI workshop on anthropomorphism in AI (mechanistic interpretability, alignment faking, agency and intent, human-AI interaction, governance)
+  - 1st edition at AAAI-27 in Montreal, one day on Monday 22 February 2027
+  - Includes the ANTHRO-ALIGN shared task on oversight-conditioned behavioral divergence of LLMs and a closing debate
+  - Full papers up to 6 pages, short or position papers up to 4 pages, extended abstracts up to 2 pages, AAAI format, excluding references
+  - Review on OpenReview with at least three reviewers per paper
+  - Non-archival
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    start: 2027-02-22
+    end: 2027-02-22
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://pragyaai.github.io/anthrologos/
+sources:
+  - https://pragyaai.github.io/anthrologos/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=ANTHROLOGOS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Submission, notification and camera-ready deadlines not stated on the workshop site (AAAI-27 general workshop deadline was November 20, 2026)

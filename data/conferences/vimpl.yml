@@ -1,0 +1,58 @@
+id: vimpl
+name: VIMPL
+full_name: Workshop on Value Independence in Modern Programming Languages
+type: workshop
+tier: minor
+areas: [software]
+region: worldwide
+language: english
+frequency: annual
+organizer: VIMPL organizing committee (EPFL and HES-SO Valais/Wallis), co-located with ‹Programming›
+organizer_country: [europe]
+proceedings: ACM DL (‹Programming› companion proceedings)
+archival: true
+typical:
+  deadline_months: [12, 1]
+  conference_months: [3]
+links:
+  website: https://2027.programming-conference.org/home/vimpl-2027
+notes:
+- Workshop on value independence in programming languages (formal systems, compilers, runtimes, libraries and applications), held with ‹Programming› since 2023
+- Research papers up to 10 pages, extended abstracts or position papers of 2 pages, and 2 page tutorials, ACM sigconf format
+- Papers appear in the ‹Programming› companion proceedings in the ACM DL
+- Follows ‹Programming›; Tokyo 2023, Lund 2024, Prague 2025, Munich 2026, Kyoto 2027
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 5th edition
+  start: 2026-03-16
+  end: 2026-03-16
+  location: LMU Munich, Germany (with ‹Programming› 2026)
+  url: https://2026.programming-conference.org/home/vimpl-2026
+  deadlines:
+  - kind: submission
+    date: 2026-01-09
+    tz: AoE
+  - kind: notification
+    date: 2026-02-02
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-02-06
+    tz: AoE
+- year: 2027
+  label: 6th edition
+  location: Kyoto University, Kyoto, Japan (with ‹Programming› 2027, 15 to 19 March)
+  url: https://2027.programming-conference.org/home/vimpl-2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-14
+    tz: AoE
+sources:
+- https://2027.programming-conference.org/home/vimpl-2027
+- https://2026.programming-conference.org/home/vimpl-2026
+- https://2026.programming-conference.org/series/vimpl
+- https://portal.core.edu.au/conf-ranks/?search=VIMPL&by=all&source=ICORE2026
+unverified:
+- Exact VIMPL 2027 workshop day within ‹Programming› 2027 (15 to 19 March) not announced
+- VIMPL 2027 notification and camera-ready dates not announced
+last_verified: 2026-11-27

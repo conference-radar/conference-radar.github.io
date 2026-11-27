@@ -1,0 +1,43 @@
+id: sega
+name: SEGA
+full_name: Workshop on Software Engineering for Generative Art
+type: workshop
+tier: minor
+areas: [software]
+region: north-america
+language: english
+organizer: SEGA organizers (University of Montreal, Grand Valley State University, Vrije Universiteit Amsterdam); co-located with ACM FSE
+organizer_country: [canada, usa]
+proceedings: Open-source web zine on the workshop GitHub repository
+archival: false
+typical:
+  deadline_months: [3]
+  conference_months: [7]
+links:
+  website: https://sega-workshop.github.io/2026/
+notes:
+- Workshop on software engineering for generative art, algorithmic art and creative coding (tools, languages, art code maintenance and preservation, SE education through art)
+- First edition co-located with ACM FSE 2026 in Montreal on the afternoon of 6 July 2026
+- One-page submissions (Arsclassica LaTeX template) proposing a demo, presentation or performance, submitted via HotCRP
+- Proceedings are an open-source web zine hosted on GitHub, not a formal publication
+- Follows an IEEE Computer special issue on software engineering in generative art
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-07-06
+  end: 2026-07-06
+  location: Montreal, Canada (co-located with ACM FSE 2026)
+  url: https://sega-workshop.github.io/2026/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+  - kind: notification
+    date: 2026-04-12
+sources:
+- https://sega-workshop.github.io/2026/
+- https://conf.researchr.org/home/fse-2026/sega-2026
+- https://portal.core.edu.au/conf-ranks/?search=SEGA&by=all&source=ICORE2026
+unverified:
+- Only one edition so far; frequency and a 2027 edition not announced
+- Time zone of the 2026 deadlines not stated
+last_verified: 2026-11-27

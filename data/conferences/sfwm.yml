@@ -1,0 +1,54 @@
+id: sfwm
+name: SFWM
+full_name: International Workshop for Software Frameworks and Workload Management on Quantum and HPC Ecosystems
+type: workshop
+tier: minor
+areas: [systems, software]
+region: north-america
+language: english
+frequency: annual
+organizer: SFWM organizers (ORNL, University of Kansas, LBNL, NC State, University of Naples Federico II, Munich Quantum Valley), held with SC
+organizer_country: [usa, europe]
+proceedings: SC Workshops Proceedings (ACM DL for SC25)
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [11]
+links:
+  website: https://sfwqhe.github.io/sfwm-sc26/
+notes:
+- Workshop on software frameworks, programming models, compilation and workload management for integrated quantum and HPC systems, held with SC
+- First edition at SC25 (St. Louis, half day); second edition at SC26 (Chicago, full day, hybrid)
+- Peer-reviewed papers of 5 to 8 pages excluding references (2025 call)
+- Listed among the SC26 workshops with proceedings; accepted papers appear in the SC workshop proceedings, open access
+- "SC25 edition: 22 submissions, 9 accepted papers, about 103 attendees"
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-11-21
+  end: 2025-11-21
+  location: St. Louis, MO, USA (with SC25)
+  url: https://sfwqhe.github.io/sfwm-qhpce
+  deadlines:
+  - kind: submission
+    date: 2025-08-15
+  - kind: notification
+    date: 2025-09-05
+  - kind: camera_ready
+    date: 2025-09-12
+- year: 2026
+  start: 2026-11-15
+  end: 2026-11-15
+  location: Chicago, IL, USA (with SC26)
+  url: https://sfwqhe.github.io/sfwm-sc26/
+sources:
+- https://sfwqhe.github.io/sfwm-sc26/
+- https://sfwqhe.github.io/sfwm-qhpce
+- https://dl.acm.org/doi/proceedings/10.1145/3731599
+- https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
+- https://portal.core.edu.au/conf-ranks/?search=SFWM&by=all&source=ICORE2026
+unverified:
+- The 2026 site leaves the submission, notification and proceedings deadlines blank
+- The 2025 deadlines are given without a time zone
+- Next edition (2027) not announced as of 2026-11-27
+last_verified: 2026-11-27

@@ -1,0 +1,72 @@
+id: cug
+name: CUG
+full_name: Cray User Group Conference
+type: conference
+tier: minor
+areas: [systems]
+region: worldwide
+language: english
+frequency: annual
+organizer: Cray User Group (CUG), with a member site as host each year
+organizer_country: [international]
+proceedings: ACM ICPS
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4, 5]
+links:
+  website: https://cug.org/
+notes:
+- Annual conference of the Cray User Group, a non-profit, self-governing international organization of member
+  sites running HPE and Cray HPC systems, independent of HPE; founded in 1978
+- User group conference, so HPC operations and experience reports dominate; borderline for academic research
+- Selected CUG 2027 papers published in the ACM International Conference Proceedings Series (ICPS), with an
+  ACM Open article processing charge for some authors; 2013 to 2025 proceedings hosted on cug.org
+- "Submission types: paper, presentation, lightning talk, BoF and tutorial; only papers go to ACM ICPS"
+- "Hosted by a member site each year: NERSC (2022), CSC Finland (2023), Stony Brook IACS (2025), CINES (2026),
+  ExxonMobil (2027)"
+editions:
+- year: 2026
+  start: 2026-04-26
+  end: 2026-04-30
+  location: Nice, France
+  url: https://cug.org/cug-2026/
+- year: 2027
+  start: 2027-05-09
+  end: 2027-05-13
+  location: Houston, Texas, USA
+  url: https://cug.org/cug-2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-21
+    time: "23:59"
+    tz: AoE
+    label: Papers, presentations, BoFs and tutorials
+  - kind: notification
+    date: 2027-02-18
+  - kind: submission
+    date: 2027-03-18
+    time: "23:59"
+    tz: AoE
+    label: Full papers for ACM ICPS
+  - kind: notification
+    date: 2027-04-23
+    label: ACM ICPS invitation
+  - kind: camera_ready
+    date: 2027-05-03
+    label: Camera-ready papers and slides
+sources:
+- https://cug.org/
+- https://cug.org/cug-2027/
+- https://cug.org/cug-2027-call-for-papers/
+- https://cug.org/cug-2026/
+- https://cug.org/cug-2025/
+- https://cug.org/previous-events/
+- https://cug.org/about-us/
+- https://cug.org/proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=CUG&by=all&source=ICORE2026
+unverified:
+- Publisher of the 2026 papers not stated on the CUG 2026 page
+- CUG 2026 deadlines not checked
+- Not listed in the CORE ICORE2026 portal or the CCF list
+last_verified: 2026-11-27

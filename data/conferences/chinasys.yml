@@ -1,0 +1,74 @@
+id: chinasys
+name: ChinaSys
+full_name: ACM SIGOPS China Workshop on Computer Systems
+name_local: 中国计算机系统研讨会
+type: conference
+tier: domestic
+areas: [systems, networking, data, security]
+region: china
+language: mixed
+frequency: multiple-per-year
+organizer: ACM SIGOPS China Chapter (ChinaSys), with rotating host universities
+organizer_country: [china]
+proceedings: None (talks, posters and demos only)
+archival: false
+fee: 1200 CNY regular, 800 CNY student (2026 Spring and 2026 Winter)
+typical:
+  deadline_months: [4, 10]
+  conference_months: [5, 11, 12]
+links:
+  website: https://chinasys.org/
+notes:
+- Community workshop of the ACM SIGOPS China Chapter, held twice a year (spring and winter) since 2011
+- Host universities rotate around China; 2026 Spring in Xi'an (Northwest University and SJTU), 2026 Winter in Changsha (NUDT and Central South University)
+- Submissions through HotCRP with a program committee; work already published elsewhere, work in progress, demos and industry reports are all accepted
+- Accepted work is presented as oral talks or spotlight posters; no proceedings are published
+- Program mixes invited keynotes, paper sessions, demos and an industry forum; talks in Chinese and English
+- Covers operating systems, storage, distributed and cloud systems, databases, ML systems, HPC, networking, architecture and system security
+- Not in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2026
+  label: 30th ChinaSys (2026 Spring)
+  start: 2026-05-30
+  end: 2026-05-31
+  location: Xi'an, China (Northwest University, Chang'an campus)
+  url: https://chinasys-2026spring.nwu.edu.cn/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-04-26
+  - kind: notification
+    date: 2026-05-10
+- year: 2026
+  label: 31st ChinaSys (2026 Winter)
+  start: 2026-11-28
+  end: 2026-11-29
+  location: Changsha, China (Central South University, Tianxin campus)
+  url: https://chinasys-winter-2026.github.io/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-25
+  - kind: notification
+    date: 2026-11-12
+sources:
+- https://chinasys.org/doku.php
+- https://chinasys.org/doku.php?id=conferences
+- https://chinasys-2026spring.nwu.edu.cn/
+- https://chinasys-2026spring.nwu.edu.cn/cfp.html
+- https://chinasys-2026spring.nwu.edu.cn/program.html
+- https://chinasys-2026spring.nwu.edu.cn/organizers.html
+- https://chinasys-2026spring.nwu.edu.cn/venue.html
+- https://chinasys-2026spring.nwu.edu.cn/reg.html
+- https://chinasys-winter-2026.github.io/index.html
+- https://chinasys-winter-2026.github.io/callforparer.html
+- https://chinasys-winter-2026.github.io/organizers.html
+- https://chinasys-winter-2026.github.io/venue.html
+- https://chinasys-winter-2026.github.io/reg.html
+- https://chinasys-winter-2026.github.io/program.html
+- https://portal.core.edu.au/conf-ranks/?search=ChinaSys&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No submission deadline time or time zone stated for either 2026 edition
+- The 2026 Spring program page lists May 29 to 31 (May 29 is check-in only); the home page and the ChinaSys conference list give May 30 to 31
+- Host and dates of the 2027 Spring edition not announced yet

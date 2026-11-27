@@ -1,0 +1,49 @@
+id: pudm
+name: PUDM
+full_name: "Physical Understanding for Decision-Making: Bridging Foundation Models and Reliable Agents (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: PUDM workshop organizers (Google DeepMind, McGill University, Apple, University of Bristol); co-located with NeurIPS
+organizer_country: [usa, canada, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://sites.google.com/view/neurips-2026-workshop-pudm
+notes:
+  - NeurIPS workshop on physical understanding for decision-making agents, linking foundation and world models to planning, control and sim-to-real
+  - 2026 edition at NeurIPS 2026, Sydney (Grand Ballroom B2-B3), 11 December 2026, in person
+  - Non-archival; papers under review elsewhere are welcome, published or accepted work is not
+  - Tiny papers up to 4 pages and full papers up to 9 pages, NeurIPS 2026 format, unlimited references and appendix
+  - Double-blind review on OpenReview, aiming for at least 3 reviews per submission
+  - Acronym PUDM taken from the workshop site URL
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://sites.google.com/view/neurips-2026-workshop-pudm
+    deadlines:
+      - kind: submission
+        date: 2026-09-01
+        tz: AoE
+        label: Extended deadline
+      - kind: notification
+        date: 2026-09-29
+sources:
+  - https://sites.google.com/view/neurips-2026-workshop-pudm
+  - https://sites.google.com/view/neurips-2026-workshop-pudm/submit
+  - https://neurips.cc/virtual/2026/workshop/137526
+  - https://portal.core.edu.au/conf-ranks/?search=PUDM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date listed as TBD
+  - No 2027 edition announced as of 2026-11-27

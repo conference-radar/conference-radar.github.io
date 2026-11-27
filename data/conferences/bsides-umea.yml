@@ -1,0 +1,58 @@
+id: bsides-umea
+name: BSides Umeå
+full_name: Security BSides Umeå
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+frequency: annual
+organizer: Academic Computer Club (ACC), Umeå
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [3, 4]
+  conference_months: [6]
+links:
+  website: https://indico.neic.no/category/29/
+notes:
+- Community conference on IT security and related fields in Umeå, Sweden, part of the global Security BSides community
+- Run by the Academic Computer Club (accum.se) in Umeå; held at Umeå University
+- Held every June since 2023; the 2027 edition is the fifth
+- Talks in English for an international audience; call for abstracts runs on the event's Indico site with staged acceptance rounds
+- Talks only, no proceedings
+editions:
+- year: 2026
+  start: 2026-06-16
+  end: 2026-06-17
+  location: Umeå University (Hummelhonung, Biblioteksgränd 5), Umeå, Sweden
+  url: https://indico.neic.no/event/287/
+  deadlines:
+  - kind: submission
+    date: 2026-03-31
+    time: "15:09"
+    tz: CEST
+    label: Call for abstracts closes
+- year: 2027
+  start: 2027-06-22
+  end: 2027-06-23
+  location: Umeå University (MIT.A.121, Campustorget 5), Umeå, Sweden
+  url: https://indico.neic.no/event/302/
+  deadlines:
+  - kind: submission
+    date: 2027-04-06
+    time: "15:09"
+    tz: CEST
+    label: Call for abstracts closes
+sources:
+- https://indico.neic.no/category/29/
+- https://indico.neic.no/event/287/
+- https://indico.neic.no/event/287/abstracts/
+- https://indico.neic.no/event/302/
+- https://indico.neic.no/event/302/abstracts/
+- https://bsides.org/event/bsidesumea-2/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+unverified:
+- "Deadline times are given by Indico in the Europe/Copenhagen zone; the 2027 call notes a first acceptance round towards the end of January"
+last_verified: 2026-11-27

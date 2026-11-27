@@ -1,0 +1,50 @@
+id: meta-agents
+name: Meta-Agents
+full_name: "Managing Agents that Manage Agents: Workshop on Responsible Use of Meta-Agents (NeurIPS Workshop)"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Meta-Agents workshop organizers (Stanford University, Northeastern University, Carnegie Mellon University, Google DeepMind); co-located with NeurIPS
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://meta-agents-workshop.github.io/
+notes:
+  - NeurIPS workshop on meta-agents that build, optimize, supervise and train other agents, and their responsible use
+  - 2026 edition at NeurIPS 2026, Sydney (Hall 3), 11 December 2026, in person
+  - Non-archival; papers under review elsewhere are welcome, work already published at NeurIPS or other archival ML venues is not
+  - Full papers up to 9 pages and short papers up to 4 pages (10 and 5 for camera-ready), excluding references and appendix
+  - Submissions on OpenReview
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://meta-agents-workshop.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-05
+        tz: AoE
+        label: Extended from 2026-08-29
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-11-20
+        tz: AoE
+sources:
+  - https://meta-agents-workshop.github.io/
+  - https://neurips.cc/virtual/2026/workshop/137510
+  - https://portal.core.edu.au/conf-ranks/?search=Meta-Agents&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No 2027 edition announced as of 2026-11-27

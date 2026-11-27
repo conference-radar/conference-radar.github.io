@@ -1,0 +1,59 @@
+id: aibc
+name: AIBC
+full_name: International Artificial Intelligence and Blockchain Conference
+type: conference
+tier: minor
+areas: [ai, security]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Conference secretariat with a host university (Ritsumeikan University in 2026)
+organizer_country: [other]
+proceedings: ACM DL
+archival: true
+indexing: [EI, Scopus]
+typical:
+  deadline_months: [10]
+  conference_months: [9, 10, 11]
+links:
+  website: http://www.aibc.org/
+notes:
+- Smaller commercially organized conference on AI and blockchain; secretariat contact uses an acm-sg.org address
+- Proceedings in the ACM Digital Library (2024 and 2025 volumes), indexed by EI Compendex and Scopus
+- Double-blind review; abstract-only submissions are presented but not published
+- Online 2020 to 2022, then held in Japan (Aizu 2023, Tokyo 2024 and 2025, Osaka 2026)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2025
+  start: 2025-09-17
+  end: 2025-09-19
+  location: Tokyo, Japan
+  url: http://www.aibc.org/2025.html
+- year: 2026
+  start: 2026-11-20
+  end: 2026-11-22
+  location: Osaka, Japan
+  url: http://www.aibc.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-05
+  - kind: notification
+    date: 2026-10-20
+  - kind: other
+    date: 2026-11-05
+    label: Registration
+sources:
+- http://www.aibc.org/
+- http://www.aibc.org/com.html
+- http://www.aibc.org/sub.html
+- http://www.aibc.org/venue.html
+- http://www.aibc.org/2025.html
+- http://www.aibc.org/2024.html
+- http://www.aibc.org/2023.html
+- https://dl.acm.org/doi/proceedings/10.1145/3775043
+- https://portal.core.edu.au/conf-ranks/?search=AIBC&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- 2027 edition not announced yet
+- Acceptance rate and fees not checked

@@ -1,0 +1,54 @@
+id: icefront
+name: ICEFronT
+full_name: International Conference on Engineering and Frontier Technologies
+type: conference
+tier: minor
+areas: [general, ai, security, software, data, networking]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Faculty of Engineering, Mawlana Bhashani Science and Technology University (MBSTU)
+organizer_country: [other]
+proceedings: ACM ICPS
+archival: true
+fee: 150 USD international, 100 USD SAARC, 4,000 to 7,000 BDT local (2026, authors)
+typical:
+  deadline_months: [3]
+  conference_months: [12]
+links:
+  website: https://icefront.mbstu.ac.bd/
+notes:
+- Run by the Faculty of Engineering, MBSTU, Tangail, Bangladesh; technically co-sponsored by the BUET ACM Chapter
+- Proceedings published in the ACM International Conference Proceedings Series (ICPS)
+- Broad engineering scope with tracks on AI and ML, software engineering and data science, cybersecurity and
+  privacy, IoT and smart systems
+- Double-blind review via Microsoft CMT; 6 to 8 pages in the ACM sigconf template
+- Online presentation allowed for authors who cannot attend in person
+- First edition in 2026; originally planned for June 25-26, 2026 and moved to December
+editions:
+- year: 2026
+  start: 2026-12-19
+  end: 2026-12-20
+  location: Tangail, Bangladesh
+  url: https://icefront.mbstu.ac.bd/
+  deadlines:
+  - kind: submission
+    date: 2026-03-16
+    label: Final extension (originally 2026-03-07, then 2026-03-14)
+  - kind: notification
+    date: 2026-10-29
+  - kind: camera_ready
+    date: 2026-11-21
+  - kind: other
+    date: 2026-11-28
+    label: Registration
+sources:
+- https://icefront.mbstu.ac.bd/
+- https://icefront.mbstu.ac.bd/2026/imp_dates
+- https://icefront.mbstu.ac.bd/2026/cfp
+- https://icefront.mbstu.ac.bd/2026/author_instruction
+- https://icefront.mbstu.ac.bd/2026/registration
+unverified:
+- Whether the conference will continue annually after 2026 is not stated
+- Acceptance rate not published
+last_verified: 2026-11-27

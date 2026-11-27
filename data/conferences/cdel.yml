@@ -1,0 +1,74 @@
+id: cdel
+name: CDEL
+full_name: Workshop on Curated Data for Efficient Learning
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers (MIT, Princeton, National University of Singapore, Carnegie Mellon University)
+organizer_country: [usa, singapore]
+proceedings: ICCV / ECCV Workshops proceedings (archival track; ICCV 2025 papers in CVF Open Access)
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://curateddata.github.io/
+notes:
+  - Workshop on data-centric efficient learning (dataset distillation, data pruning, synthetic data, data selection)
+  - 1st edition at ICCV 2025 (Honolulu, 34 accepted papers, 13 in CVF Open Access); 2nd at ECCV 2026 (Malmo)
+  - Archival papers 4 to 14 pages in ECCV format; non-archival track accepts other templates and work under review or accepted elsewhere
+  - Submissions via OpenReview; full-day workshop
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: 1st edition, with ICCV 2025
+    start: 2025-10-20
+    end: 2025-10-20
+    location: Honolulu, Hawaii, USA (with ICCV 2025)
+    url: https://curateddata.github.io/iccv2025/
+    deadlines:
+      - kind: submission
+        date: 2025-07-07
+        label: Archival track
+      - kind: notification
+        date: 2025-07-11
+        label: Archival track
+      - kind: camera_ready
+        date: 2025-08-18
+        label: Archival track
+      - kind: submission
+        date: 2025-08-29
+        label: Non-archival track
+      - kind: notification
+        date: 2025-09-12
+        label: Non-archival track
+      - kind: camera_ready
+        date: 2025-09-19
+        label: Non-archival track
+  - year: 2026
+    label: 2nd edition, with ECCV 2026
+    start: 2026-09-09
+    end: 2026-09-09
+    location: Malmo, Sweden (with ECCV 2026, Malmo Arena Panorama 2)
+    url: https://curateddata.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-07-29
+        tz: AoE
+        label: Archival and non-archival
+      - kind: notification
+        date: 2026-08-07
+sources:
+  - https://curateddata.github.io/
+  - https://curateddata.github.io/iccv2025/
+  - https://openaccess.thecvf.com/ICCV2025_workshops/CDEL
+  - https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/CDEL
+  - https://portal.core.edu.au/conf-ranks/?search=CDEL&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date for 2026 listed as TBD
+  - Whether 2026 archival papers appear in the ECCV 2026 Workshops proceedings (Springer LNCS) is not stated explicitly
+  - Next edition not announced yet

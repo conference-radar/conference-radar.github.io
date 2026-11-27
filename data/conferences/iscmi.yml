@@ -1,0 +1,46 @@
+id: iscmi
+name: ISCMI
+full_name: International Conference on Soft Computing & Machine Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: India International Congress on Computational Intelligence (IICCI)
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  conference_months: [9, 11]
+links:
+  website: https://www.iscmi.us/
+notes:
+- Soft computing and machine intelligence conference run by IICCI, held since 2014; 2027 is the 14th
+- Proceedings of the 2014 to 2025 editions are in IEEE Xplore; accepted papers are submitted to Ei Compendex and Scopus
+- 2027 edition technically co-sponsored by the IEEE Fiji Subsection (Region 10)
+- Moves between countries each year (Rio de Janeiro 2025, Vienna 2026, Nadi 2027)
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-11-18
+  end: 2026-11-20
+  location: Vienna, Austria
+  url: https://www.iscmi.us/ISCMI2026.html
+- year: 2027
+  start: 2027-09-21
+  end: 2027-09-23
+  location: Nadi, Fiji
+  url: https://www.iscmi.us/
+sources:
+- https://www.iscmi.us/
+- https://www.iscmi.us/cfp.html
+- https://www.iscmi.us/history.html
+- https://www.iscmi.us/ISCMI2026.html
+- https://www.iscmi.us/ISCMI2025.html
+- https://portal.core.edu.au/conf-ranks/?search=ISCMI&by=all&source=ICORE2026
+unverified:
+- 'The 2027 site lists submission April 25, notification May 25, registration and camera-ready June 10 without a year; not recorded'
+- 2027 proceedings publisher not named yet (earlier editions in IEEE Xplore)
+- Registration fees not confirmed
+last_verified: 2026-11-27

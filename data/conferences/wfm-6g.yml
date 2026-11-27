@@ -1,0 +1,50 @@
+id: wfm-6g
+name: WFM-6G
+full_name: IEEE ICC Workshop on Wireless Foundation Models for AI-native 6G and Beyond
+type: workshop
+tier: minor
+areas: [communications, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Southeast University, SUTD, UNSW, HKUST, UCL) with IEEE ICC (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws22-workshop-wireless-foundation-models-ai-native-6g-and-beyond.html
+notes:
+- Workshop on wireless foundation models (large AI models for PHY, MAC, ISAC and semantic communications, LLM/VLM adaptation, agentic AI, standardization)
+- General co-chairs Shi Jin (Southeast University), Tony Q.S. Quek (SUTD) and Wei Zhang (UNSW); workshop co-chairs Xiao Li (Southeast University), Jun Zhang (HKUST) and Christos Masouros (UCL)
+- WS22 at IEEE ICC 2026 (Glasgow), held on 28 May 2026
+- Workshop papers go into the ICC proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws22-workshop-wireless-foundation-models-ai-native-6g-and-beyond.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-22
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws22-workshop-wireless-foundation-models-ai-native-6g-and-beyond.html
+- https://icc2026.ieee-icc.org/workshop/ws22-workshop-wireless-foundation-models-ai-native-6g-and-beyond/committees.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://portal.core.edu.au/conf-ranks/?search=WFM-6G&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Foundation+Models&by=all&source=ICORE2026
+unverified:
+- Short name WFM-6G is not used on the official pages
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Earlier editions not found (the GLOBECOM 2025 foundation model workshop FMComNet has different organizers)
+- Deadline time zone not stated
+last_verified: 2026-11-27

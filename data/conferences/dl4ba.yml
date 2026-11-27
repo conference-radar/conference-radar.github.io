@@ -1,0 +1,69 @@
+id: dl4ba
+name: DL4BA
+full_name: International Workshop on Deep Learning for Biometrics and its Applications
+type: workshop
+tier: minor
+areas: [ai, vision, security]
+region: worldwide
+language: english
+frequency: annual
+organizer: Larbi Boubchir, LIASD, University of Paris 8 (workshop and program chair); co-located with IEEE BigData
+organizer_country: [europe]
+proceedings: IEEE Xplore (IEEE BigData workshop proceedings)
+archival: true
+typical:
+  deadline_months: [10]
+  conference_months: [12]
+links:
+  website: https://dl4ba2026.sciencesconf.org/
+notes:
+- Workshop at the IEEE International Conference on Big Data (IEEE BigData)
+- 1st edition at BigData 2025 (Macau, workshop held online), 2nd at BigData 2026 (Phoenix, hybrid)
+- Topics include deep biometric features, spoofing and deepfake detection, multimodal and soft biometrics, and biometric security and privacy
+- Full papers up to 10 pages, short papers 5 to 7 pages, IEEE two-column format, submitted via the BigData CyberChair system
+- Accepted papers appear in the IEEE BigData workshop proceedings in IEEE Xplore; one full registration per paper required
+- Program committee mostly from France and Algeria
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2025
+  label: 1st DL4BA, with IEEE BigData 2025
+  start: 2025-12-08
+  end: 2025-12-11
+  location: Online (with IEEE BigData 2025, Macau SAR, China)
+  url: https://dl4ba2025.sciencesconf.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2025-10-26
+  - kind: notification
+    date: 2025-11-15
+  - kind: camera_ready
+    date: 2025-11-23
+- year: 2026
+  label: 2nd DL4BA, with IEEE BigData 2026
+  start: 2026-12-14
+  end: 2026-12-17
+  location: Phoenix, Arizona, USA (with IEEE BigData 2026, hybrid)
+  url: https://dl4ba2026.sciencesconf.org/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-10-01
+  - kind: notification
+    date: 2026-11-04
+  - kind: camera_ready
+    date: 2026-11-25
+sources:
+- https://dl4ba2026.sciencesconf.org/
+- https://dl4ba2026.sciencesconf.org/resource/page/id/1
+- https://dl4ba2026.sciencesconf.org/resource/page/id/2
+- https://dl4ba2026.sciencesconf.org/resource/page/id/6
+- https://dl4ba2025.sciencesconf.org/
+- https://bigdataieee.org/BigData2026/
+- https://portal.core.edu.au/conf-ranks/?search=DL4BA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact workshop day within 2026-12-14 to 2026-12-17 not yet stated (program TBD)
+- 2026 home page says both 1st and 2nd edition; the 2025 site confirms 2026 is the 2nd
+- Not listed in ICORE2026; no CORE rank recorded
+- 'Submission deadlines are stated as 11:59 pm CST without saying whether US Central or China Standard Time; time and zone left out'

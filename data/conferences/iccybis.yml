@@ -1,0 +1,70 @@
+id: iccybis
+name: ICCybIS
+full_name: International Conference on Cybersecurity and Intelligent Systems
+type: conference
+tier: minor
+areas: [security, ai]
+region: southeast-asia
+language: english
+frequency: annual
+organizer: School of Computer Science, Nusa Putra University, with the IEEE Computational Intelligence Society Indonesia
+  Chapter
+organizer_country: [indonesia]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://iconcis.idnns.org/
+notes:
+- Hosted by the School of Computer Science, Nusa Putra University; co-hosts for 2027 are Universitas Paradita,
+  Universitas Pertahanan (Indonesia) and University of Buraimi (Oman)
+- The IEEE Indonesia Section conference list names the IEEE CIS Indonesia Chapter as organizer and uses the acronym
+  IConCIS
+- Accepted and presented papers are to be submitted for inclusion in IEEE conference proceedings; IEEE Xplore and
+  Scopus inclusion listed as pending
+- Three tracks (cybersecurity, artificial intelligence, intelligent systems)
+- Single-blind review with at least 3 reviewers; 5 to 6 pages in the IEEE template; submission via SimplyConf
+- 2027 edition is held at Menara Merdeka, Jakarta, and is listed as hybrid by IEEE Indonesia Section
+editions:
+- year: 2027
+  start: 2027-06-03
+  end: 2027-06-04
+  location: Jakarta, Indonesia
+  url: https://iconcis.idnns.org/
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-03-01
+  - kind: camera_ready
+    date: 2027-04-15
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-04-16
+    time: "23:59"
+    tz: AoE
+    label: Early bird registration
+  - kind: other
+    date: 2027-05-07
+    time: "23:59"
+    tz: AoE
+    label: Final registration
+sources:
+- https://iconcis.idnns.org/
+- https://iconcis.idnns.org/important-dates.html
+- https://iconcis.idnns.org/call-for-papers.html
+- https://iconcis.idnns.org/about.html
+- https://iconcis.idnns.org/previous-events.html
+- https://cmanis.ieee.id/showsallconference
+unverified:
+- The previous events page lists 2024 (Bandung) and 2025 (Surabaya) editions with IEEE Xplore proceedings, but no
+  such proceedings were found in Crossref; those editions are not confirmed
+- IEEE Indonesia Section list gives a submission deadline of 2027-02-13, while the conference site gives 2026-12-20
+- Final registration deadline is 2027-05-07 on the important dates page but 2027-05-02 on the home page
+- Registration fees not yet announced
+last_verified: 2026-11-27

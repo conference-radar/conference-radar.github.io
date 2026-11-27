@@ -1,0 +1,49 @@
+id: wss-icml
+name: WSS
+full_name: "ICML Workshop on Weight-Space Symmetries: from Foundations to Practical Applications"
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+organizer: Workshop organizers from University of Calgary, Samsung AI Lab Montreal, Mila, ELLIS Institute Tuebingen and ETH Zurich; co-located with ICML
+organizer_country: [canada, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [4, 5]
+  conference_months: [7]
+links:
+  website: https://weightsymmetry.com/
+notes:
+- Workshop on symmetries of neural network weight spaces (loss landscapes, linear mode connectivity, model merging, weight-space learning)
+- First held with ICML 2026 in Seoul
+- Short name WSS taken from the OpenReview group ID; the site does not use an acronym
+- Non-archival; accepted papers are public on OpenReview but there are no formal proceedings; recently published or concurrently submitted papers are allowed
+- Papers up to 4 pages in ICML style, double-blind, at least three reviews each; best paper award
+- Not listed in ICORE2026 and not on the CCF list
+editions:
+- year: 2026
+  label: With ICML 2026
+  start: 2026-07-10
+  end: 2026-07-10
+  location: Seoul, South Korea (co-located with ICML 2026, COEX Room 403)
+  url: https://weightsymmetry.com/
+  deadlines:
+  - kind: submission
+    date: 2026-05-08
+    tz: AoE
+    label: Extended from 2026-04-30
+  - kind: notification
+    date: 2026-05-22
+    tz: AoE
+sources:
+- https://weightsymmetry.com/
+- https://weightsymmetry.com/cfp
+- https://weightsymmetry.com/organizers
+- https://openreview.net/group?id=ICML.cc/2026/Workshop/WSS
+- https://portal.core.edu.au/conf-ranks/?search=WSS&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Camera-ready deadline not stated on the site
+- No 2027 edition announced as of 2026-11-27; unknown whether the workshop will recur

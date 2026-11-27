@@ -1,0 +1,70 @@
+id: icdsai
+name: DSAI
+full_name: International Conference on Data Science and Artificial Intelligence
+type: conference
+tier: minor
+areas: [ai, data, nlp, vision]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: Asian Institute of Technology and Leiden University, with a rotating host university (UTM in 2026)
+organizer_country: [thailand, europe]
+proceedings: Springer CCIS
+archival: true
+fee: 350 to 400 USD international, 250 to 300 USD developing countries, 1000 to 1200 MYR local (2026, regular)
+typical:
+  deadline_months: [6, 7]
+  conference_months: [11]
+links:
+  website: https://icdsai.utm.my/
+notes:
+- Series started in 2023 at AIT Bangkok; hosts so far Bangkok 2023, Medan (USU) 2024, Peradeniya 2025, Kuala Lumpur (UTM) 2026
+- Main organising committee from the Asian Institute of Technology (Thailand), Leiden University (Netherlands) and the host university
+- Proceedings in Springer Communications in Computer and Information Science (CCIS) every year since 2023
+- Aims at capacity building for data science and AI in developing countries; reduced fees for developing countries
+- Websites use both DSAI and ICDSAI; not to be confused with the unrelated DSAI 2025 held in Gorakhpur, India
+- Not in the CORE ICORE2026 portal or the CCF 2026 list
+editions:
+- year: 2025
+  label: 3rd DSAI
+  start: 2025-11-19
+  end: 2025-11-21
+  location: Peradeniya, Sri Lanka (University of Peradeniya)
+  url: https://icdsai.pdn.ac.lk/
+  status: confirmed
+- year: 2026
+  label: 4th DSAI
+  start: 2026-11-12
+  end: 2026-11-14
+  location: Kuala Lumpur, Malaysia (Menara Razak, UTM)
+  url: https://icdsai.utm.my/
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2026-07-09
+    label: Extended from 2026-06-29
+  - kind: notification
+    date: 2026-08-26
+  - kind: camera_ready
+    date: 2026-09-06
+  - kind: other
+    date: 2026-09-15
+    label: Early bird registration
+  - kind: other
+    date: 2026-11-01
+    label: Regular registration
+sources:
+- https://icdsai.utm.my/
+- https://icdsai.utm.my/important-dates/
+- https://icdsai.utm.my/call-for-papers/
+- https://icdsai.utm.my/organising-committee/
+- https://icdsai.pdn.ac.lk/
+- https://icdsai.usu.ac.id/
+- https://icdsai.cs.ait.ac.th/
+- https://link.springer.com/conference/dsai
+- https://portal.core.edu.au/conf-ranks/?search=DSAI&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=ICDSAI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- No deadline time or time zone stated for 2026 (the 2024 edition used AoE)
+- DSAI 2027 host and dates not announced yet

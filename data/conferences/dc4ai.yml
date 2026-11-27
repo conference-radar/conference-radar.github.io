@@ -1,0 +1,53 @@
+id: dc4ai
+name: DC4AI
+full_name: International Workshop on Data Compression for AI and Big Data Applications
+type: workshop
+tier: minor
+areas: [ai, systems, data]
+region: worldwide
+language: english
+frequency: annual
+organizer: DC4AI organizers, co-located with ICPP, in cooperation with ACM
+organizer_country: [usa, china]
+proceedings: ACM DL
+archival: true
+typical:
+  deadline_months: [7]
+  conference_months: [9]
+links:
+  website: https://hpc-and-ai.github.io/DC4AI-2026/
+notes:
+- Organized by Xiaoyi Lu (University of Florida), Xiaodong Yu (Stevens Institute of Technology) and Zhaorui Zhang (Hong Kong Polytechnic University)
+- Half-day workshop held with ICPP 2026 (International Conference on Parallel Processing) in Singapore
+- Data compression for LLM training, fine-tuning and inference, HPC data movement and hardware co-design (GPUs, FPGAs, CXL, PIM)
+- Accepted papers published in the ACM Digital Library; extended versions can go to the collaborating journal Electronics
+- Full papers up to 10 pages and short papers up to 6 pages including references, ACM format, at least 3 reviewers, submitted via the ICPP Linklings system
+- USD 200 awards for the best full paper and best short paper
+- Not listed in ICORE2026 (portal search returns no results) or the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-09-28
+  end: 2026-09-28
+  location: NTU@one-north, Singapore (with ICPP 2026)
+  url: https://hpc-and-ai.github.io/DC4AI-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-07-10
+    tz: AoE
+  - kind: notification
+    date: 2026-07-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-07-30
+    tz: AoE
+sources:
+- https://hpc-and-ai.github.io/DC4AI-2026/
+- https://icpp2026.github.io/
+- https://icpp2026.github.io/workshops/
+- https://icpp2026.github.io/schedule/
+- https://portal.core.edu.au/conf-ranks/?search=DC4AI&by=all&source=ICORE2026
+- https://www.ccf.org.cn/Academic_Evaluation/By_category/
+last_verified: 2026-11-27
+unverified:
+- 2026 appears to be the first DC4AI edition (no earlier DC4AI site found); region and annual frequency follow ICPP, which rotates worldwide
+- DC4AI 2027 not announced as of 2026-11-27

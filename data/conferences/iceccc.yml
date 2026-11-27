@@ -1,0 +1,58 @@
+id: iceccc
+name: ICECCC
+full_name: International Conference on Electronics, Computing, Communication and Control Technology
+type: conference
+tier: minor
+areas: [communications, ai, general]
+region: south-asia
+language: english
+frequency: annual
+organizer: CMR Institute of Technology (CMRIT), Bengaluru
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+fee: 500 INR per page for Indian authors, 10 USD per page for foreign authors, up to 6 pages (2027)
+typical:
+  deadline_months: [3]
+  conference_months: [8]
+links:
+  website: https://sites.google.com/view/iceccc/home
+notes:
+- Organized and hosted by CMR Institute of Technology (CMRIT), Bengaluru, India
+- Accepted and presented papers submitted to IEEE Xplore; the 2024, 2025 and 2026 proceedings are in Xplore
+- 2027 is the 4th edition, themed on AI-driven smart electronics and next-generation communication technologies
+- Each paper reviewed by three reviewers; submission via Microsoft CMT
+- Scope covers AI in electronics and VLSI, embedded computing, 5G/6G networking, control and cyber-physical systems
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2027
+  label: 4th ICECCC
+  start: 2027-08-13
+  end: 2027-08-14
+  location: Bengaluru, India
+  url: https://sites.google.com/view/iceccc/home
+  deadlines:
+  - kind: submission
+    date: 2027-03-01
+    label: Full paper submission
+  - kind: notification
+    date: 2027-04-01
+    label: Notifications from this date
+  - kind: camera_ready
+    date: 2027-06-20
+  - kind: other
+    date: 2027-06-20
+    label: Registration
+sources:
+- https://sites.google.com/view/iceccc/home
+- https://sites.google.com/view/iceccc/about-conference
+- https://sites.google.com/view/iceccc/timeline
+- https://sites.google.com/view/iceccc/call-for-papers
+- https://sites.google.com/view/iceccc/registration-details
+- https://sites.google.com/view/iceccc/submission
+- https://ieeexplore.ieee.org/xpl/conhome/11632285/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=ICECCC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Dates of the 2024, 2025 and 2026 editions not shown on the official site
+- Whether a base registration fee applies on top of the per-page charge is not clear

@@ -1,0 +1,60 @@
+id: intellisym
+name: IntelliSym
+full_name: "Intelligence Symbiosis: Emergent Ethics and Infrastructure for Human-AI Co-existence (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: annual
+organizer: Intelligence Symbiosis workshop organizers (Chiba Institute of Technology, University of Tokyo, Hokkaido University, AI Alignment Network); co-located with AAAI
+organizer_country: [japan]
+proceedings: CEUR-WS
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [1, 2]
+links:
+  website: https://intelligence-symbiosis.net/en/events/aaai-2027-workshop
+notes:
+  - AAAI workshop on machine ethics, AI alignment and infrastructure for human-AI co-existence
+  - Third workshop of the series at AAAI, after Post-Singularity Symbiosis (AAAI-25) and Machine Ethics, from formal methods to emergent machine ethics (AAAI-26)
+  - Supported by the AI Alignment Network and CHAIN, Hokkaido University
+  - 2027 accepted papers are published in workshop proceedings on CEUR-WS
+  - Full papers up to 9 pages and extended abstracts up to 4 pages in AAAI-27 format; double-blind review on Microsoft CMT
+  - Fast track for papers rejected from AAAI-27, submitted with their AAAI reviews and a response letter
+  - "Acceptance rate: 48% (2026, 11/23)"
+  - In person only; at least one author must register and present
+editions:
+  - year: 2026
+    start: 2026-01-27
+    end: 2026-01-27
+    location: Singapore (with AAAI-26)
+    url: https://intelligence-symbiosis.net/en/events/aaai-2026-workshop
+  - year: 2027
+    location: Montreal, Canada (with AAAI-27)
+    url: https://intelligence-symbiosis.net/en/events/aaai-2027-workshop
+    deadlines:
+      - kind: submission
+        date: 2026-11-20
+        tz: AoE
+        label: Regular papers
+      - kind: submission
+        date: 2026-12-03
+        tz: AoE
+        label: Fast track
+      - kind: notification
+        date: 2026-12-02
+        label: Regular papers
+      - kind: notification
+        date: 2026-12-09
+        label: Fast track
+sources:
+  - https://intelligence-symbiosis.net/en/events/aaai-2027-workshop
+  - https://intelligence-symbiosis.net/en/events/aaai-2026-workshop
+  - https://portal.core.edu.au/conf-ranks/?search=IntelliSym&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day (February 22 or 23, 2027) is not fixed on the workshop site, so no start date is recorded
+  - Camera-ready date given only as mid-January 2027
+  - Proceedings of the 2026 edition not stated on the report page

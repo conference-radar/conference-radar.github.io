@@ -1,0 +1,63 @@
+id: icgec
+name: ICGEC
+full_name: International Conference on Genetic and Evolutionary Computing
+type: conference
+tier: minor
+areas: [ai, vision, data]
+region: asia-pacific
+language: english
+frequency: annual
+organizer: ICGEC steering committee (Jeng-Shyang Pan and colleagues); 2026 hosted by Feng Chia University
+organizer_country: [taiwan, china]
+proceedings: Springer Smart Innovation, Systems and Technologies (SIST)
+archival: true
+indexing: [EI, Scopus]
+rank:
+  core: Unranked
+fee: 550 USD onsite early bird, 500 USD student, 450 USD online (2026)
+typical:
+  deadline_months: [6, 9]
+  conference_months: [11]
+links:
+  website: https://icgec-2026.pages.dev/
+notes:
+- Series started in 2006; the 2026 edition in Taichung was the 18th
+- "Proceedings: Springer Smart Innovation, Systems and Technologies, stated as EI and Scopus indexed"
+- Papers not presented at the conference are excluded from the proceedings
+- Tracks cover evolutionary computing, fuzzy systems, big data, computer vision and smart healthcare/AIoT
+- Paper deadline was extended twice in 2026 (June 30 -> July 31 -> September 15)
+- Online presentation option offered
+- Not listed in the CORE ICORE2026 portal or the CCF list
+editions:
+- year: 2026
+  start: 2026-11-04
+  end: 2026-11-06
+  location: Millennium Hotel Taichung, Taichung, Taiwan
+  url: https://icgec-2026.pages.dev/
+  deadlines:
+  - kind: other
+    date: 2026-05-30
+    label: Invited session proposals
+  - kind: submission
+    date: 2026-09-15
+    time: "23:59"
+    tz: AoE
+    label: Final call (extended from June 30 and July 31)
+  - kind: camera_ready
+    date: 2026-09-30
+    time: "23:59"
+    tz: AoE
+sources:
+- https://icgec-2026.pages.dev/
+- https://icgec-2026.pages.dev/about/
+- https://icgec-2026.pages.dev/call-for-papers/
+- https://icgec-2026.pages.dev/important-dates/
+- https://icgec-2026.pages.dev/committee/
+- https://icgec-2026.pages.dev/registration/
+- https://portal.core.edu.au/conf-ranks/?search=ICGEC&by=all&source=ICORE2026
+unverified:
+- Final 2026 notification date (the important dates page shows only struck-through dates)
+- Call for papers also mentions the Springer LNEE template; the about page names SIST as the series
+- Locations of earlier editions (used for region) not confirmed on an official page
+- ICGEC 2027 dates and location not yet announced
+last_verified: 2026-11-27

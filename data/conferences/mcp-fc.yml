@@ -1,0 +1,55 @@
+id: mcp-fc
+name: MCP (FC)
+full_name: Workshop on Multiple Concurrent Proposers
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop program chairs, in association with FC (IFCA)
+organizer_country: [international]
+proceedings: Workshop proceedings (series not stated)
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://fc27.ifca.ai/mcp/
+notes:
+- Affiliated workshop of Financial Cryptography and Data Security (FC); 1st edition at FC 2027 in Barbados
+- Scope covers blockchain consensus with many concurrent block proposers, censorship resistance, MEV, transaction fee
+  mechanisms and threshold encryption for mempool privacy
+- Program chairs from industry and academia (Category Labs, Sei Labs and University of Portsmouth, Anza, Mysten Labs
+  and UCL)
+- Two submission types, papers (15 pages, LNCS format, anonymous) and talks (4 pages, not anonymous)
+- Accepted papers appear in the workshop proceedings; talks are non-archival
+- Submission via EasyChair; all deadlines AoE
+editions:
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados
+  url: https://fc27.ifca.ai/mcp/
+  deadlines:
+  - kind: submission
+    date: 2026-12-01
+    tz: AoE
+    label: Extended from 2026-11-24
+  - kind: notification
+    date: 2026-12-22
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-12
+    tz: AoE
+sources:
+- https://fc27.ifca.ai/mcp/
+- https://fc27.ifca.ai/mcp/cfp.html
+- https://fc27.ifca.ai/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=MCP&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- The CfP says only "workshop proceedings" (LNCS format); the series is not named, though other FC affiliated
+  workshops appear in Springer LNCS
+- Whether the workshop will be held again after 2027
+- Not listed in CORE ICORE2026 and not found in the CCF 2026 list

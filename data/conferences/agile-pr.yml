@@ -1,0 +1,50 @@
+id: agile-pr
+name: Agile PR
+full_name: Agile Practice & Research Workshop
+type: workshop
+tier: minor
+areas: [software]
+region: europe
+language: english
+frequency: annual
+organizer: Agile PR workshop organizers, co-located with XP (universities in Germany, New Zealand and Brazil)
+organizer_country: [europe, new-zealand, other]
+proceedings: Springer (XP post-conference proceedings, open access)
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [4, 6]
+links:
+  website: https://conf.researchr.org/track/xp-2026/xp-2026-pr-workshop
+notes:
+- Workshop on closing the gap between agile practice and research, co-located with the XP conference
+- 1st edition at XP 2025 in Brugg-Windisch (no call for papers); 2nd edition at XP 2026 in Sao Paulo
+- 2026 accepted research papers up to 8 pages (Springer LNCS/LNBIP template) and short presentations
+- Accepted research papers and a workshop summary go into the Springer open access XP post-conference proceedings; short presentations are not published
+- Not listed in ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 2nd edition, with XP 2026
+  start: 2026-04-08
+  end: 2026-04-08
+  location: Sao Paulo, Brazil (Insper, with XP 2026)
+  url: https://conf.researchr.org/track/xp-2026/xp-2026-pr-workshop
+  deadlines:
+  - kind: submission
+    date: 2026-01-30
+    tz: AoE
+  - kind: notification
+    date: 2026-02-20
+    tz: AoE
+  - kind: camera_ready
+    date: 2026-05-15
+    tz: AoE
+sources:
+- https://conf.researchr.org/track/xp-2026/xp-2026-pr-workshop
+- https://conf.researchr.org/home/xp-2025/agilepr-2025
+- https://conf.researchr.org/track/xp-2027/xp-2027-research-and-practice-workshops
+- https://portal.core.edu.au/conf-ranks/?search=Agile%20PR&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2027 edition not announced (XP 2027 workshop proposals due 2026-12-09)
+- Springer series of the XP 2026 post-conference proceedings not named on the workshop page

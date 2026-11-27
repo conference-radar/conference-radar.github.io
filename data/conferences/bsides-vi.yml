@@ -1,0 +1,39 @@
+id: bsides-vi
+name: BSidesVI
+full_name: Security BSides Vancouver Island
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: Vancouver Island Security Research Society (VISRS)
+organizer_country: [canada]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [9]
+links:
+  website: https://bsidesvi.com/
+notes:
+- Community Security BSides conference in Victoria, BC, Canada, run by the Vancouver Island Security Research Society
+- Separate from BSides Vancouver, which is held on the mainland
+- 2026 edition was one day at the Victoria Conference Centre with two talk tracks
+- Past editions listed on the official site are 2019, 2023, 2024 and 2025
+- Talks only, no proceedings
+editions:
+- year: 2026
+  start: 2026-09-25
+  end: 2026-09-25
+  location: Victoria Conference Centre, Victoria, BC, Canada
+  url: https://bsidesvi.com/
+sources:
+- https://bsidesvi.com/
+- https://bsidesvi.com/bsidesvi26-agenda
+- https://bsidesvi.com/past-events
+- https://bsides.org/event/bsidesvi-vancouver-island-bc-canada/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+unverified:
+- No call for papers dates are published on the official site
+- 2027 edition not yet announced
+last_verified: 2026-11-27

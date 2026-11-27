@@ -1,0 +1,73 @@
+id: clip-aaai
+name: CLIP-AAAI
+full_name: AAAI Workshop on Creative AI for Live Interactive Performances
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: CLIP workshop organizers (chair at the University of Nottingham); co-located with AAAI
+organizer_country: [europe]
+proceedings: Springer CCIS
+archival: true
+typical:
+  deadline_months: [10, 11]
+  conference_months: [1, 2]
+links:
+  website: https://sites.google.com/view/clip27
+notes:
+  - AAAI workshop on creative AI for live interactive performances (music, dance, real-time generative models, live demos)
+  - Not the MICCAI CLIP workshop (clip-miccai)
+  - 1st edition at AAAI-26 in Singapore (26 January 2026); 2nd edition at AAAI-27 in Montreal
+  - Accepted original full papers can be published in Springer CCIS (2026 edition in CCIS volume 2865)
+  - Full papers up to 15 pages excluding references in Springer format, or extended abstracts up to 300 words presented as posters
+  - Submission via EasyChair
+  - Invitation-based attendance, up to about 30 participants; presentations in person only
+  - Submission deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    start: 2026-01-26
+    end: 2026-01-26
+    location: Singapore (with AAAI-26)
+    url: https://sites.google.com/view/aaai26clip
+    deadlines:
+      - kind: submission
+        date: 2025-11-20
+        tz: AoE
+        label: Papers (extended from Oct 22)
+      - kind: notification
+        date: 2025-11-27
+        label: Extended submissions
+      - kind: camera_ready
+        date: 2025-12-03
+        label: Extended submissions
+  - year: 2027
+    start: 2027-02-22
+    end: 2027-02-22
+    location: Palais des congres, Montreal, Canada (with AAAI-27)
+    url: https://sites.google.com/view/clip27
+    deadlines:
+      - kind: submission
+        date: 2026-11-20
+        tz: AoE
+        label: Full papers
+      - kind: submission
+        date: 2026-12-02
+        tz: AoE
+        label: Extended abstracts (posters, extended from Nov 20)
+      - kind: notification
+        date: 2026-12-09
+      - kind: camera_ready
+        date: 2026-12-23
+sources:
+  - https://sites.google.com/view/clip27
+  - https://sites.google.com/view/aaai26clip
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/
+  - https://aaai.org/conference/aaai/aaai-27/workshop-program/list/
+  - https://portal.core.edu.au/conf-ranks/?search=CLIP&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop site still shows the day as February 22/23 (TBC); February 22 is from the AAAI-27 workshop schedule
+  - Springer CCIS publication for 2027 is stated by the AAAI-27 workshop list, not on the workshop site

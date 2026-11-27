@@ -1,0 +1,57 @@
+id: ukci
+name: UKCI
+full_name: UK Workshop on Computational Intelligence
+type: conference
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Host UK university (Coventry University in 2026)
+organizer_country: [europe]
+proceedings: Springer AISC
+archival: true
+fee: "GBP 370 academic / 270 student early bird, 410 / 310 full (2026, covers one paper)"
+typical:
+  deadline_months: [5, 6]
+  conference_months: [9]
+links:
+  website: https://ukci2026.coventry.ac.uk/
+notes:
+- Yearly UK workshop on computational intelligence running since 2001; 25th edition in 2026
+- Hosted by a different UK university each year (Aston 2023, Ulster 2024, Edinburgh Napier 2025, Coventry 2026)
+- Accepted papers published by Springer in Advances in Intelligent Systems and Computing (AISC)
+- Full papers up to 12 pages, short papers (position or work in progress) up to 6 pages
+- Registration covers one paper; each extra paper by the same author costs GBP 100 (2026)
+- Not listed in CORE ICORE2026 or the CCF 2026 list
+editions:
+- year: 2026
+  label: 25th UKCI
+  start: 2026-09-09
+  end: 2026-09-11
+  location: Coventry University, Coventry, UK
+  url: https://ukci2026.coventry.ac.uk/
+  deadlines:
+  - kind: submission
+    date: 2026-06-14
+    time: "23:59"
+    tz: UTC+1
+    label: Papers (23:59 BST, extended from 2026-05-31)
+  - kind: notification
+    date: 2026-07-20
+    label: Extended
+  - kind: camera_ready
+    date: 2026-08-04
+    label: Extended
+sources:
+- https://ukci2026.coventry.ac.uk/
+- https://ukci2026.coventry.ac.uk/call-for-papers/
+- https://ukci2026.coventry.ac.uk/important-dates/
+- https://ukci2026.coventry.ac.uk/registration/
+- https://ukci2026.coventry.ac.uk/previous-ukci-hosts/
+- https://ukci2026.coventry.ac.uk/conference-proceedings/
+- https://portal.core.edu.au/conf-ranks/?search=UKCI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- UKCI 2027 host, dates and deadlines not announced as of 2026-11-27
+- Original (pre-extension) notification and camera-ready dates for 2026

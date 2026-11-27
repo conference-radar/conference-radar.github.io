@@ -1,0 +1,51 @@
+id: interpscience
+name: InterpScience
+full_name: "Interpretability as a Science: Toward Rigorous Foundations for Understanding LLMs"
+type: workshop
+tier: minor
+areas: [ai, nlp]
+region: worldwide
+language: english
+organizer: Workshop organizers from Mila and Universite de Montreal, University of Maryland, MPI-IS Tuebingen, Rutgers University and Cold Spring Harbor Laboratory; co-located with NeurIPS
+organizer_country: [canada, usa, europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [9]
+  conference_months: [12]
+links:
+  website: https://interpscience.github.io/
+notes:
+  - NeurIPS 2026 workshop on putting interpretability research on rigorous scientific foundations, focused on LLMs
+  - Held at NeurIPS 2026 in Sydney on 11 December 2026
+  - Short papers up to 5 pages or long papers up to 9 pages, research or position papers
+  - Double-blind review on OpenReview; each submission must provide a reciprocal reviewer
+  - Non-archival; accepted papers are presented as posters, some as contributed talks
+  - Separate from the Mechanistic Interpretability Workshop (mechinterp)
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2026
+    label: With NeurIPS 2026
+    start: 2026-12-11
+    end: 2026-12-11
+    location: Sydney, Australia (with NeurIPS 2026)
+    url: https://interpscience.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-09-01
+        tz: AoE
+      - kind: notification
+        date: 2026-09-29
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-11-15
+        tz: AoE
+sources:
+  - https://interpscience.github.io/
+  - https://interpscience.github.io/cfp
+  - https://interpscience.github.io/program
+  - https://neurips.cc/virtual/2026/workshop/137527
+  - https://portal.core.edu.au/conf-ranks/?search=Interpretability&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - No earlier edition found; whether the workshop will recur after 2026 is not stated

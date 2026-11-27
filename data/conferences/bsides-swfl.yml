@@ -1,0 +1,39 @@
+id: bsides-swfl
+name: BSides SWFL
+full_name: Security BSides Southwest Florida
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+organizer: BSides SWFL (community team)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [2]
+links:
+  website: https://bsidesswfl.org/
+notes:
+- Community-driven Security BSides conference in Southwest Florida, USA
+- Previous edition held at Florida SouthWestern State College (year not stated in the page text)
+- "Official site reports 300+ participants, 25+ speakers and 5+ tracks"
+- Official site says "See You in 2027"
+- No proceedings
+editions:
+- year: 2027
+  start: 2027-02-26
+  end: 2027-02-27
+  location: Fort Myers, FL, USA
+  url: https://bsidesswfl.org/
+sources:
+- https://bsidesswfl.org/
+- https://bsidesswfl.org/aboutus
+- https://bsidesswfl.org/sponsors
+- https://bsides.org/event/bsidesswfl-southwest-florida-fort-myers-fl-usa/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact dates of the 2025 edition are not stated on the official site
+- 2027 dates come from the BSides Global event listing; the official site only says "See You in 2027"
+- No 2027 call for papers or venue announced yet

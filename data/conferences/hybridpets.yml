@@ -1,0 +1,55 @@
+id: hybridpets
+name: HybridPETs
+full_name: International Workshop on Hybrid Privacy-Enhancing Technologies
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: europe
+language: english
+frequency: annual
+organizer: ACNS satellite workshop; PC chairs Ajith Suresh (Technology Innovation Institute, UAE) and Hossein Yalame
+  (Bosch Research, Germany)
+organizer_country: [other, europe]
+proceedings: Springer LNCS
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [2]
+  conference_months: [6, 7]
+links:
+  website: https://hybridpets.github.io
+notes:
+- New ACNS satellite workshop, 1st edition in 2027 at Royal Holloway, University of London
+- "Scope: protocols that combine several PETs (MPC with HE, TEEs with cryptography or DP, secure aggregation, ZKPs\
+  \ for verifiability), including hybrid PETs for ML and LLMs; work on a single PET in isolation is out of scope"
+- Double-blind review, unmodified LNCS template, up to 18 pages excluding references and appendices (24 pages total)
+- Accepted papers appear in the joint ACNS 2027 workshop post-proceedings in Springer LNCS
+- Full-day, in-person workshop; papers also eligible for the ACNS best workshop paper award (EUR 500, sponsored by
+  Springer)
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-01
+  location: Egham, UK (with ACNS 2027)
+  url: https://hybridpets.github.io
+  label: Within ACNS 2027 (28 Jun to 1 Jul); exact workshop day TBA
+  deadlines:
+  - kind: submission
+    date: 2027-02-19
+    tz: AoE
+  - kind: notification
+    date: 2027-03-21
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-06-14
+    tz: AoE
+sources:
+- https://hybridpets.github.io
+- https://acns2027.isg.rhul.ac.uk/workshops
+- https://portal.core.edu.au/conf-ranks/?search=HybridPETs&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact workshop day within ACNS 2027 (28 Jun to 1 Jul 2027) not yet announced; start and end show the ACNS dates
+- Whether the workshop continues after 2027 (1st edition), so region and frequency are assumptions

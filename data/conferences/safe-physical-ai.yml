@@ -1,0 +1,49 @@
+id: safe-physical-ai
+name: Safe Physical AI
+full_name: IJCAI Workshop on Safe Physical AI
+type: workshop
+tier: minor
+areas: [ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Safe Physical AI organizers (University of Bremen, Bielefeld University, Chalmers, Carnegie Mellon University, TU Hamburg)
+organizer_country: [europe, usa]
+proceedings: None (informal proceedings)
+archival: false
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: https://safephysicalai.github.io
+notes:
+- Workshop on safety of embodied and physical AI systems such as robots, first held at IJCAI-ECAI 2026 in Bremen (WS17)
+- Two-day workshop at the University of Bremen
+- Presented papers are shared as informal proceedings; previously published or under-review work is accepted
+- Short papers (4 pages) and extended abstracts (1 page) excluding references, IEEE two-column template
+- Single-blind review
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: 1st edition, with IJCAI-ECAI 2026
+  start: 2026-08-15
+  end: 2026-08-16
+  location: Bremen, Germany
+  url: https://safephysicalai.github.io
+  deadlines:
+  - kind: submission
+    date: 2026-05-14
+    time: "23:59"
+    tz: CET
+    label: Extended from May 7
+  - kind: notification
+    date: 2026-06-07
+  - kind: camera_ready
+    date: 2026-07-20
+sources:
+- https://safephysicalai.github.io
+- https://2026.ijcai.org/accepted-workshops/
+- https://portal.core.edu.au/conf-ranks/?search=Safe+Physical&by=all&source=ICORE2026
+unverified:
+- Safe Physical AI 2027 not announced yet
+last_verified: 2026-11-27

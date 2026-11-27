@@ -1,0 +1,73 @@
+id: easi-explimed
+name: EASi-EXPLIMED
+full_name: Joint Workshop on Explainable AI in Space and Explainable Artificial Intelligence for the Medical Domain
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: "EXPLIMED: University of Bari Aldo Moro and Polish Academy of Sciences; EASi: KP Labs, Silesian University of Technology, Warsaw and Poznan universities, ESA"
+organizer_country: [europe]
+proceedings: Springer CCIS (EASi track); CEUR-WS (EXPLIMED track)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8, 10]
+links:
+  website: https://sites.google.com/view/easi-explimed
+notes:
+  - Joint workshop of two tracks at IJCAI-ECAI 2026, EASi (explainable AI in space) and EXPLIMED (explainable AI for medicine)
+  - EXPLIMED started at ECAI 2024 (Santiago de Compostela) and ran again at ECAI 2025 (Bologna); proceedings in CEUR-WS Vol-3831 and Vol-4059
+  - "EXPLIMED track: regular papers 10-20 pages, short papers 5-9 pages, CEUR one-column style, double-blind; published in CEUR-WS under CC-BY 4.0"
+  - "EASi track: up to 20 pages plus 2 pages of references, double-blind; published in Springer CCIS"
+  - EASi runs an AI competition alongside the workshop; competition papers had a later deadline (2026-06-01)
+  - In person; one-day workshop on 2026-08-17
+  - Not listed in ICORE2026 and not on the CCF list
+editions:
+  - year: 2025
+    start: 2025-10-25
+    end: 2025-10-25
+    location: Bologna, Italy (EXPLIMED 2025 with ECAI 2025)
+    url: https://ceur-ws.org/Vol-4059/
+  - year: 2026
+    start: 2026-08-17
+    end: 2026-08-17
+    location: Bremen, Germany (with IJCAI-ECAI 2026)
+    url: https://sites.google.com/view/easi-explimed
+    deadlines:
+      - kind: submission
+        date: 2026-05-15
+        tz: AoE
+        label: EXPLIMED (extended from 2026-05-08)
+      - kind: submission
+        date: 2026-05-29
+        tz: AoE
+        label: EASi (final extension from 2026-05-08)
+      - kind: notification
+        date: 2026-06-08
+        tz: AoE
+        label: EXPLIMED
+      - kind: notification
+        date: 2026-06-12
+        tz: AoE
+        label: EASi
+sources:
+  - https://sites.google.com/view/easi-explimed
+  - https://sites.google.com/view/easi-explimed/authors-guidelines/important-dates
+  - https://sites.google.com/view/easi-explimed/explimed/author-guidelines
+  - https://sites.google.com/view/easi-explimed/easi/author-guidelines
+  - https://sites.google.com/view/easi-explimed/explimed/committees
+  - https://sites.google.com/view/easi-explimed/easi/committtees
+  - https://sites.google.com/view/easi-explimed/easi/past-editions
+  - https://ceur-ws.org/Vol-4059/
+  - https://ceur-ws.org/Vol-3831/
+  - https://2026.ijcai.org/accepted-workshops/
+  - https://portal.core.edu.au/conf-ranks/?search=EXPLIMED&by=all&source=ICORE2026
+  - https://portal.core.edu.au/conf-ranks/?search=EASi&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Camera-ready date was "to be announced" on the official page
+  - 2026 CEUR-WS and CCIS volumes not yet found
+  - Earlier EASi editions and their proceedings not confirmed
+  - No 2027 edition announced as of 2026-11-27

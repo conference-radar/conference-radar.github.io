@@ -1,0 +1,43 @@
+id: cale-ai
+name: CALE-AI
+full_name: "Evaluating AI Interventions: Causal and Longitudinal Human Effects (AAAI Workshop)"
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers from the University of Oulu, University of Bergen and National University of Singapore; co-located with AAAI
+organizer_country: [europe, singapore]
+proceedings: None (papers posted on the workshop website with author permission)
+archival: false
+typical:
+  deadline_months: [11]
+  conference_months: [2]
+links:
+  website: https://caleai.github.io/
+notes:
+  - AAAI workshop on evaluating the causal and longitudinal effects of AI interventions on people
+  - One-day in-person workshop with AAAI-27 in Montreal; organizers expect 40 to 60 participants
+  - Full papers up to 8 pages, short papers up to 6, position papers 4 to 6, demo and dataset papers up to 4, extended abstracts up to 2
+  - Submissions on EasyChair; at least two reviews per paper
+  - Non-archival; accepted papers appear on the workshop website subject to author permission
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    location: Montreal, Canada (with AAAI-27)
+    url: https://caleai.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-11-27
+      - kind: notification
+        date: 2026-12-02
+      - kind: camera_ready
+        date: 2026-12-10
+sources:
+  - https://caleai.github.io/
+  - https://portal.core.edu.au/conf-ranks/?search=CALE-AI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day not fixed on the workshop site (lists February 22 and 23, 2027), so no start date is recorded
+  - Deadline time zone not stated

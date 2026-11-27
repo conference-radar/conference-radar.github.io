@@ -1,0 +1,57 @@
+id: tsalm
+name: TSALM
+full_name: ICLR Workshop on Time Series in the Age of Large Models
+type: workshop
+tier: minor
+areas: [ai, data]
+region: worldwide
+language: english
+frequency: irregular
+organizer: TSALM workshop organizers (Amazon Web Services, Mila, JP Morgan AI Research, CMU, Datadog, Google Research); co-located with ICLR
+organizer_country: [usa, canada]
+proceedings: None (non-archival; accepted papers on OpenReview)
+archival: false
+typical:
+  deadline_months: [2]
+  conference_months: [4]
+links:
+  website: https://tsalm-workshop.github.io/
+notes:
+  - Workshop on foundation models and large models for time series forecasting and analysis
+  - First held at NeurIPS 2024 in Vancouver (15 December 2024), then as the 1st ICLR workshop at ICLR 2026 in Rio de Janeiro
+  - Non-archival; no formal proceedings, accepted papers appear on OpenReview
+  - Research track up to 4 pages and industry and applications track up to 2 pages, plus references and appendices; double-blind review on OpenReview
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2024
+    label: With NeurIPS 2024
+    start: 2024-12-15
+    end: 2024-12-15
+    location: Vancouver, Canada (with NeurIPS 2024)
+    url: https://tsalm-workshop.github.io/neurips-2024/
+  - year: 2026
+    label: 1st ICLR edition, with ICLR 2026
+    start: 2026-04-26
+    end: 2026-04-26
+    location: Rio de Janeiro, Brazil (Riocentro, with ICLR 2026)
+    url: https://tsalm-workshop.github.io/
+    deadlines:
+      - kind: submission
+        date: 2026-02-14
+        time: "23:59"
+        tz: AoE
+      - kind: notification
+        date: 2026-03-01
+        time: "23:59"
+        tz: AoE
+sources:
+  - https://tsalm-workshop.github.io/
+  - https://tsalm-workshop.github.io/call-for-papers/
+  - https://tsalm-workshop.github.io/organizers/
+  - https://tsalm-workshop.github.io/neurips-2024/
+  - https://iclr.cc/virtual/2026/workshop/10000785
+  - https://portal.core.edu.au/conf-ranks/?search=TSALM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Deadlines of the NeurIPS 2024 edition not stated on the official site
+  - No 2027 edition announced as of 2026-11-27

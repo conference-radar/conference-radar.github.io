@@ -1,0 +1,49 @@
+id: suscom
+name: SusCom
+full_name: "SusCom: IEEE ICC Workshop on Artificial Intelligence in Communications and Internet of Things for Sustainability"
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (Chaoyang University of Technology, New York Institute of Technology, NJIT) with IEEE ICC (IEEE ComSoc)
+organizer_country: [taiwan, usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws23-suscom-workshop-artificial-intelligence-communications-and-internet-things.html
+notes:
+- Workshop on AI, IoT, sensing and communications for sustainability and climate action (green networks, environmental monitoring, LLMs for environmental policy, digital twins)
+- Chaired in 2026 by Chuan-Bi Lin (Chaoyang University of Technology), Ziqian Dong (NYIT) and Roberto Rojas-Cessa (NJIT)
+- WS23 at IEEE ICC 2026 (Glasgow), held on 28 May 2026
+- Workshop papers go into the ICC proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws23-suscom-workshop-artificial-intelligence-communications-and-internet-things.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: Extended
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-15
+    label: Workshop page (ICC workshop call says 2026-03-22)
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws23-suscom-workshop-artificial-intelligence-communications-and-internet-things.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://portal.core.edu.au/conf-ranks/?search=SusCom&by=all&source=ICORE2026
+unverified:
+- Next edition not announced (not in the GLOBECOM 2026 workshop list; ICC 2027 workshop list not yet published)
+- Earlier editions not checked
+- Deadline time zone not stated
+last_verified: 2026-11-27

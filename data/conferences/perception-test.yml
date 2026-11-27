@@ -1,0 +1,53 @@
+id: perception-test
+name: Perception Test
+full_name: Perception Test Challenge Workshop
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Perception Test team (Google DeepMind) with co-organizers from TTIC, University of Bristol and University of Oxford; co-located with ECCV or ICCV
+organizer_country: [international]
+proceedings: None (challenge technical reports and a summary report on arXiv)
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [9, 10]
+links:
+  website: https://perception-test-challenge.github.io/
+notes:
+- Challenge workshop on the Perception Test video benchmark, held with the major computer vision conference of the year
+- Computer Perception workshop at ECCV 2022, then challenges at ICCV 2023, ECCV 2024, ICCV 2025 (Honolulu) and ECCV 2026 (Malmo)
+- "2026 tracks: Unified VQA, Grounded VQA, KilometerVision and KilometerAudio (hour-long walking-tour videos)"
+- Prizes totalling 20K EUR in 2026 (50K EUR across 6 tracks in 2025)
+- No paper track; participants submit technical reports and the organizers publish a challenge summary report on arXiv
+- Organized by Viorica Patraucean, Joao Carreira and colleagues at Google DeepMind with Shiry Ginosar, Dima Damen and Andrew Zisserman
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  label: "4th Perception Test Challenge (Spatial Intelligence: from Table-top to City-scale), with ECCV 2026"
+  start: 2026-09-09
+  end: 2026-09-09
+  location: Malmo, Sweden (with ECCV 2026)
+  url: https://perception-test-challenge.github.io/
+  deadlines:
+  - kind: other
+    date: 2026-08-27
+    label: Challenge result submission
+  - kind: submission
+    date: 2026-08-31
+    label: Technical reports
+  - kind: notification
+    date: 2026-09-03
+sources:
+- https://perception-test-challenge.github.io/
+- https://perception-test-challenge.github.io/challenge2025.html
+- https://ptchallenge-workshop.github.io/
+- https://ptchallenge-workshop.github.io/challenge2023.html
+- https://computerperception.github.io/
+- https://portal.core.edu.au/conf-ranks/?search=Perception&by=all&source=ICORE2026
+unverified:
+- Next edition (2027) not announced yet
+- Deadline times and time zone not stated
+last_verified: 2026-11-27

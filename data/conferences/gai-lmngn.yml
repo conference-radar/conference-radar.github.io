@@ -1,0 +1,70 @@
+id: gai-lmngn
+name: GAI-LMNGN
+full_name: IEEE ICC Workshop on Generative AI and Large Model Empowered Next Generation Networks
+type: workshop
+tier: minor
+areas: [communications, networking, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organizers (BUPT, Pengcheng Laboratory, University of Miami, University of Macau) with IEEE ICC / GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [1, 8]
+  conference_months: [5, 12]
+links:
+  website: https://icc2026.ieee-icc.org/workshop/ws20-ieee-icc-workshop-generative-ai-and-large-model-empowered-next-generation-networks.html
+notes:
+- Workshop on generative AI and large models for 6G networks (resource allocation, semantic communication, space-air-ground and vehicular networks, in-network training and inference, security)
+- Co-chaired in 2026 by Sihua Wang (BUPT), Liang Li (Pengcheng Laboratory), Ye Hu and Mingzhe Chen (University of Miami) and Biqian Feng (University of Macau); steering committee Zhu Han, Shuguang Cui, Kai-Kit Wong and Arumugam Nallanathan
+- WS20 at IEEE ICC 2026 (Glasgow); the same chairs run WS-40 "Generative AI Empowered Next-Generation Networks" at IEEE GLOBECOM 2026 (Macau)
+- Workshop papers go into the ICC or GLOBECOM proceedings and IEEE Xplore; no-show papers are removed
+- Not listed in ICORE2026 or in the CCF 2026 list
+editions:
+- year: 2026
+  label: ICC 2026 (WS20)
+  start: 2026-05-28
+  end: 2026-05-28
+  location: Glasgow, UK
+  url: https://icc2026.ieee-icc.org/workshop/ws20-ieee-icc-workshop-generative-ai-and-large-model-empowered-next-generation-networks.html
+  deadlines:
+  - kind: submission
+    date: 2026-01-31
+    label: ICC workshop call, extended from 2026-01-18 (workshop page still says 2026-01-18)
+  - kind: notification
+    date: 2026-03-08
+  - kind: camera_ready
+    date: 2026-03-15
+    label: Workshop page (ICC workshop call says 2026-03-22)
+- year: 2026
+  label: GLOBECOM 2026 (WS-40)
+  start: 2026-12-07
+  end: 2026-12-11
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://globecom2026.ieee-globecom.org/events/ws-40-ieee-globecom-workshop-generative-ai-empowered-next-generation-networks-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: Firm
+  - kind: notification
+    date: 2026-10-05
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-09-27)
+  - kind: camera_ready
+    date: 2026-10-14
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-10-05)
+sources:
+- https://icc2026.ieee-icc.org/workshop/ws20-ieee-icc-workshop-generative-ai-and-large-model-empowered-next-generation-networks.html
+- https://icc2026.ieee-icc.org/program/workshops.html
+- https://icc2026.ieee-icc.org/authors/instructions-final-camera-ready-manuscripts.html
+- https://globecom2026.ieee-globecom.org/events/ws-40-ieee-globecom-workshop-generative-ai-empowered-next-generation-networks-0
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://portal.core.edu.au/conf-ranks/?search=GAI-LMNGN&by=all&source=ICORE2026
+- https://portal.core.edu.au/conf-ranks/?search=Generative+AI&by=all&source=ICORE2026
+unverified:
+- Short name GAI-LMNGN is not used on the official pages
+- Exact workshop day within GLOBECOM 2026 (7 to 11 December)
+- Editions before 2026 not checked
+- Deadline time zone not stated
+last_verified: 2026-11-27

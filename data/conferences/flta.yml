@@ -1,0 +1,69 @@
+id: flta
+name: FLTA
+full_name: IEEE International Conference on Federated Learning Technologies and Applications
+type: conference
+tier: minor
+areas: [ai, systems, security]
+region: europe
+language: english
+frequency: annual
+organizer: FLTA steering committee, in cooperation with the IEEE section of the host country
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: null
+  ccf: null
+typical:
+  deadline_months: [7, 8]
+  conference_months: [9, 10]
+links:
+  website: https://flta-conference.org/
+notes:
+- Conference on federated learning methods, systems, security and applications
+- 2026 edition in cooperation with the IEEE France Section; 2023, 2024 and 2025 proceedings are in IEEE Xplore
+- Held in Europe (2023 Tartu, 2024 Valencia, 2025 Dubrovnik, 2026 Paris)
+- Hosts co-located workshops and symposia (FL4Industry, iEDGE and FedSecAI in 2026) and a federated learning summer school
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2025
+  start: 2025-10-14
+  end: 2025-10-17
+  location: Dubrovnik, Croatia
+  url: https://flta-conference.org/flta-2025/
+- year: 2026
+  start: 2026-10-27
+  end: 2026-10-30
+  location: Paris, France
+  url: https://flta-conference.org/flta-2026/
+  deadlines:
+  - kind: submission
+    date: 2026-08-05
+    label: Full papers (extended, final)
+  - kind: notification
+    date: 2026-09-08
+    label: Full papers
+  - kind: camera_ready
+    date: 2026-09-25
+    label: Full papers
+  - kind: submission
+    date: 2026-08-02
+    label: Workshop and special session papers
+  - kind: notification
+    date: 2026-09-15
+    label: Workshop and special session papers
+  - kind: camera_ready
+    date: 2026-09-25
+    label: Workshop and special session papers
+sources:
+- https://flta-conference.org/flta-2026/
+- https://flta-conference.org/flta-2026/dates.php
+- https://flta-conference.org/flta-2026/versions.php
+- https://flta-conference.org/flta-2026/committee.php
+- https://ieeexplore.ieee.org/xpl/conhome/11335414/proceeding
+- https://portal.core.edu.au/conf-ranks/?search=FLTA&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- FLTA 2027 not announced yet
+- 2026 proceedings not yet confirmed in IEEE Xplore
+- 2025 deadlines not checked

@@ -1,0 +1,55 @@
+id: trustfm-dcoss
+name: TrustFM
+full_name: International Workshop on Trustworthy, Adaptive and Efficient Foundation Models for Distributed Smart Systems
+type: workshop
+tier: minor
+areas: [ai, systems, networking, security]
+region: north-america
+language: english
+organizer: Organisers from the National Technical University of Athens (NTUA-ICCS), Greece
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [4]
+  conference_months: [6]
+links:
+  website: https://trustfm-dcoss.github.io/2027/
+notes:
+- New workshop co-located with IEEE DCOSS-IoT 2027 in Montreal; 1st edition in 2027
+- Not the same venue as the WWW workshop TrustFM (Trustworthy Foundation Models for Web Intelligence)
+- Papers appear in the DCOSS-IoT 2027 workshop proceedings in IEEE Xplore
+- Foundation models for sensor, time-series and multimodal data, robustness, explainability, efficient and federated FMs
+- Single-blind, at least three reviews; regular papers up to 6 pages, short or position papers up to 4 pages
+- Submission via EasyChair (opens soon per the CFP); deadlines 23:59 AoE
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://trustfm-dcoss.github.io/2027/
+  deadlines:
+  - kind: submission
+    date: 2027-04-09
+    time: "23:59"
+    tz: AoE
+  - kind: notification
+    date: 2027-05-03
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-05-21
+    time: "23:59"
+    tz: AoE
+sources:
+- https://trustfm-dcoss.github.io/2027/
+- https://dcoss.org/
+- https://portal.core.edu.au/conf-ranks/?search=TrustFM&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Exact workshop day within DCOSS-IoT 2027 (June 21 to 23) not announced
+- Region set from the single 2027 edition; later editions follow DCOSS-IoT, which rotates worldwide
+- Not listed on the CORE ICORE2026 portal

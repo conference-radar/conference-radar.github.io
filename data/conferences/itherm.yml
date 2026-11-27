@@ -1,0 +1,66 @@
+id: itherm
+name: ITherm
+full_name: Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems
+type: conference
+tier: major
+areas: [general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Electronics Packaging Society (EPS)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [9]
+  conference_months: [5, 6]
+links:
+  website: https://www.ieee-itherm.net/
+notes:
+- Sponsored by the IEEE Electronics Packaging Society; leading conference on thermal and thermomechanical issues in electronic devices, packages and systems
+- Held together with ECTC, with discounted joint registration (Orlando 2026, Denver 2027)
+- Two-step submission; a 500-word abstract in September, then a draft paper (5 to 8 pages, at most 10) in January for peer review
+- All papers are peer reviewed and published in the ITherm proceedings on IEEE Xplore
+- About 220 technical papers and presentations in five tracks in 2026; the 2026 meeting was the 25th conference
+- Student first authors can apply for travel grants; also has a cold plate design competition and student poster session
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  location: JW Marriott Grande Lakes, Orlando, FL, USA
+  url: https://www.ieee-itherm.net/2026-itherm-final-program/
+- year: 2027
+  start: 2027-06-01
+  end: 2027-06-04
+  location: Gaylord Rockies Resort & Convention Center, Denver, CO, USA (with ECTC 2027)
+  url: https://www.ieee-itherm.net/important-dates-2027/
+  deadlines:
+  - kind: abstract
+    date: 2026-09-28
+  - kind: notification
+    date: 2026-10-26
+    label: Abstract acceptance
+  - kind: submission
+    date: 2027-01-04
+    label: Draft paper
+  - kind: other
+    date: 2027-02-08
+    label: Reviews returned
+  - kind: camera_ready
+    date: 2027-03-08
+    label: Final paper
+sources:
+- https://www.ieee-itherm.net/
+- https://www.ieee-itherm.net/important-dates-2027/
+- https://www.ieee-itherm.net/2027-about-us/
+- https://www.ieee-itherm.net/abstract-submission-2027/
+- https://www.ieee-itherm.net/draft-paper-submission/
+- https://www.ieee-itherm.net/2026-prior-conferences/
+- https://www.ieee-itherm.net/2026-itherm-final-program/
+- https://www.ieee-itherm.net/wp-content/uploads/ITherm-Final-Program-2026.pdf
+- https://portal.core.edu.au/conf-ranks/?search=ITherm&by=all&source=ICORE2026
+unverified:
+- Author registration (April 2027) and early bird (May 2027) deadlines are given only as months
+- Region judged from the co-location with ECTC in the USA; earlier host cities not checked on official pages
+last_verified: 2026-11-27

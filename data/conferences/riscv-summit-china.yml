@@ -1,0 +1,54 @@
+id: riscv-summit-china
+name: RISC-V Summit China
+full_name: RISC-V Summit China
+name_local: RISC-V 中国峰会
+type: industry
+tier: minor
+areas: [systems]
+region: china
+language: mixed
+frequency: annual
+organizer: RISC-V International Open-Source Laboratory (RIOS Lab), co-hosted by the RISC-V Working Committee in China
+organizer_country: [china]
+proceedings: None
+archival: false
+typical:
+  deadline_months: [8]
+  conference_months: [10]
+links:
+  website: https://riscv-summit-china.org/
+notes:
+- Main RISC-V community summit in China, hosted by RIOS Lab; 2026 was the sixth edition
+- Call for presentations (talks), not papers; no proceedings are mentioned on the official site
+- 2026 tracks -> AI, datacenter and HPC, software ecosystem, chip design and verification, automotive/industrial/robotics, embedded and IoT, industry-academia collaboration
+- Each track accepts academic research and industrial deployment talks; work already presented at peer-reviewed venues (ISCA, MICRO, HPCA, ASPLOS, DAC, ...) is in scope
+- Large event with keynotes and an expo (2026 expected 3600+ onsite attendees and 450+ exhibitors)
+- Sibling events are RISC-V Summit Europe and RISC-V Summit North America
+- Not listed in CORE ICORE2026
+editions:
+- year: 2026
+  start: 2026-10-18
+  end: 2026-10-20
+  location: Shenzhen Convention and Exhibition Center (Futian), Shenzhen, China
+  url: https://riscv-summit-china.org/
+  deadlines:
+  - kind: submission
+    date: 2026-08-31
+    tz: AoE
+    label: Talk proposals
+  - kind: notification
+    date: 2026-09-21
+  - kind: other
+    date: 2026-10-11
+    tz: AoE
+    label: Materials from accepted speakers
+sources:
+- https://riscv-summit-china.org/
+- https://riscv-summit-china.org/cfp/
+- https://riscv-summit-china.org/en/cfp/
+- https://portal.core.edu.au/conf-ranks/?search=RISC-V&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Dates and locations of the first five editions not found on the official site
+- 2027 edition not announced yet
+- Official site does not state explicitly that no proceedings are published

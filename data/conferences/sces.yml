@@ -1,0 +1,54 @@
+id: sces
+name: SCES
+full_name: Students' Conference on Engineering and Systems
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: south-asia
+language: english
+frequency: irregular
+organizer: Department of Electrical Engineering, MNNIT Allahabad
+organizer_country: [india]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [3]
+links:
+  website: https://mnnit.ac.in/sces2027/
+notes:
+- Organized by the Department of Electrical Engineering, Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj, India
+- Earlier editions technically sponsored by the IEEE Uttar Pradesh Section and co-sponsored by the IEEE Joint Society Chapter of IE/PEL/CS
+- Accepted and presented papers considered for IEEE Xplore; earlier editions are in Xplore
+- Student conference; the first author of each paper must be a student
+- Held in person at MNNIT Allahabad
+- Editions in 2012, 2013, 2014, 2015, 2019, 2020, 2022, 2024 and 2027 (9th)
+- EE focus (power, energy and control; electronics, communication and signal processing; computational intelligence and machine learning; mechanical systems; applied sciences)
+- Papers up to 6 pages including references, submitted via Microsoft CMT
+- Not listed in ICORE2026; not on the CCF list
+editions:
+- year: 2027
+  label: 9th SCES
+  start: 2027-03-12
+  end: 2027-03-14
+  location: Prayagraj, India
+  url: https://mnnit.ac.in/sces2027/
+  deadlines:
+  - kind: submission
+    date: 2026-11-30
+    label: Paper submission (extended from 2026-11-15)
+  - kind: notification
+    date: 2027-01-10
+  - kind: camera_ready
+    date: 2027-02-10
+sources:
+- https://mnnit.ac.in/sces2027/
+- https://mnnit.ac.in/sces2027/sections/call-for-paper.html
+- https://mnnit.ac.in/sces2027/sections/paper-submition-guidline.html
+- https://www.mnnit.ac.in/sces2026
+- https://portal.core.edu.au/conf-ranks/?search=SCES&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Important dates for SCES 2027 are marked tentative on the official site
+- SCES 2024 dates not confirmed; the archived 2024 site is no longer online
+- Whether the IEEE UP Section sponsors the 2027 edition not stated

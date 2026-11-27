@@ -1,0 +1,61 @@
+id: pesgm
+name: IEEE PES GM
+full_name: IEEE Power & Energy Society General Meeting
+type: conference
+tier: major
+areas: [communications, general]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE Power & Energy Society (PES)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [11]
+  conference_months: [7]
+links:
+  website: https://pes-gm.org/
+notes:
+- Flagship annual conference of the IEEE Power & Energy Society, covering all topics in electric power and energy systems
+- Conference papers are at most 5 pages; up to about 800 papers are accepted, most presented in the Monday evening poster session
+- The top 60 to 80 papers are presented in Best Conference Paper Sessions; a few become Conference Prize Papers
+- Accepted PES Transactions papers can also be presented; only their abstracts go into the proceedings
+- Papers appear in IEEE Xplore only if presented at the meeting; one author registration covers up to 2 papers
+- Held in North America every July (Montreal 2026, San Francisco 2027, Washington DC 2028, Milwaukee 2029)
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  location: Palais des congres de Montreal, Montreal, Canada
+  url: https://pes-gm.org/2026-montreal/
+  deadlines:
+  - kind: submission
+    date: 2025-11-10
+    label: Full papers (submission opened 2025-10-06)
+- year: 2027
+  start: 2027-07-25
+  end: 2027-07-29
+  location: Hilton San Francisco Union Square, San Francisco, CA, USA
+  url: https://pes-gm.org/2027-san-francisco/2027-call-for-papers
+  deadlines:
+  - kind: submission
+    date: 2026-11-13
+    label: Full papers, max 5 pages (submission opened 2026-10-06)
+- year: 2028
+  start: 2028-07-23
+  end: 2028-07-27
+  location: Marriott Marquis, Washington, D.C., USA
+  url: https://pes-gm.org/
+sources:
+- https://pes-gm.org/
+- https://pes-gm.org/2027-san-francisco/2027-call-for-papers
+- https://pes-gm.org/2026-montreal/
+- https://portal.core.edu.au/conf-ranks/?search=PESGM&by=all&source=ICORE2026
+unverified:
+- 2027 notification is stated only as mid March 2027; no exact date or camera-ready deadline found
+- An older block on the 2026 site lists the 2027 meeting as 18 to 23 July 2027; the current home page and the 2027 call for papers say 25 to 29 July 2027
+- Region judged from the 2026 to 2029 editions on the official site; earlier host cities not checked on official pages
+- Not expected in the CCF 2026 list (power engineering venue); rank.ccf left out
+last_verified: 2026-11-27

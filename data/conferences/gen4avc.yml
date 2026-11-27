@@ -1,0 +1,74 @@
+id: gen4avc
+name: Gen4AVC
+full_name: Workshop on Generative AI for Audio-Visual Content Creation
+type: workshop
+tier: minor
+areas: [vision, ai]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop organizers led by Sony AI, with UIUC, Adobe Research, Luma AI, University of Maryland and Australian National University
+organizer_country: [japan, usa, australia]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [7]
+  conference_months: [9, 10]
+links:
+  website: https://gen4avc.github.io/eccv2026/
+notes:
+  - Workshop on audio-visual generation (joint generation, video-to-audio and audio-to-video, editing, evaluation)
+  - 1st edition at ICCV 2025 (Honolulu), 2nd at ECCV 2026 (Malmo), half-day morning session
+  - Non-archival; regular track papers up to 4 pages in CVPR style, double-blind review via OpenReview
+  - Invited track for papers already accepted at ECCV 2026 or recent top venues, no formal review
+  - A different workshop from AVGenL
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2025
+    label: 1st edition, with ICCV 2025
+    start: 2025-10-19
+    end: 2025-10-19
+    location: Honolulu, Hawaii, USA (with ICCV 2025)
+    url: https://gen4avc.github.io/iccv2025/
+    deadlines:
+      - kind: submission
+        date: 2025-07-09
+        time: "23:59"
+        tz: AoE
+        label: Regular track
+      - kind: notification
+        date: 2025-08-08
+      - kind: camera_ready
+        date: 2025-08-22
+        time: "23:59"
+        tz: AoE
+  - year: 2026
+    label: 2nd edition, with ECCV 2026
+    start: 2026-09-08
+    end: 2026-09-08
+    location: Malmo, Sweden (with ECCV 2026, Quality View Oresundslokalen 3)
+    url: https://gen4avc.github.io/eccv2026/
+    deadlines:
+      - kind: submission
+        date: 2026-07-09
+        time: "23:59"
+        tz: AoE
+        label: Regular track (extended from Jul 2)
+      - kind: notification
+        date: 2026-08-09
+      - kind: camera_ready
+        date: 2026-08-17
+        time: "23:59"
+        tz: AoE
+      - kind: other
+        date: 2026-08-17
+        time: "23:59"
+        tz: AoE
+        label: Invited track application (extended from Aug 10)
+sources:
+  - https://gen4avc.github.io/eccv2026/
+  - https://gen4avc.github.io/iccv2025/
+  - https://portal.core.edu.au/conf-ranks/?search=Gen4AVC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Next edition not announced yet

@@ -1,0 +1,59 @@
+id: itec
+name: IEEE ITEC
+full_name: IEEE Transportation Electrification Conference and Expo
+type: conference
+tier: minor
+areas: [communications]
+region: north-america
+language: english
+frequency: annual
+organizer: IEEE, technically co-sponsored by IEEE PELS, IEEE PES and IEEE IAS
+organizer_country: [international, usa]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [12]
+  conference_months: [6]
+links:
+  website: https://itec-conf.com/
+notes:
+- IEEE conference on electrified vehicles, aircraft and ships, held every June in the United States since 2012
+- Mostly in Michigan (Dearborn, Detroit, Novi) with some editions in California and Illinois; 2020 and 2021 virtual
+- Double-blind review of 3 to 5 page digests; final papers in IEEE two-column format
+- Presented papers with a full regular registration go into IEEE Xplore; no-shows are excluded
+- One full registration covers up to two papers; each extra paper 195 USD (2027)
+- Presented papers can be extended for IEEE Transactions on Industry Applications and IEEE Transactions on Transportation Electrification
+- Co-located with an exhibition and the IEEE Electrified Aircraft Technologies Symposium (2027)
+- Separate regional series (ITEC Asia-Pacific, ITEC India) are not covered by this entry
+- Not listed in the CORE ICORE2026 portal and not on the CCF list
+editions:
+- year: 2026
+  start: 2026-06-10
+  end: 2026-06-12
+  location: Novi, Michigan, USA
+  url: https://itec-conf.com/history/
+- year: 2027
+  start: 2027-06-16
+  end: 2027-06-18
+  location: Novi, Michigan, USA (VIBE Credit Union Showplace)
+  url: https://itec-conf.com/
+  deadlines:
+  - kind: submission
+    date: 2026-12-04
+    label: Paper proposal digest
+  - kind: notification
+    date: 2027-03-01
+  - kind: camera_ready
+    date: 2027-04-01
+    label: Final manuscript and author registration
+sources:
+- https://itec-conf.com/
+- https://itec-conf.com/authors/
+- https://itec-conf.com/authors/call-for-papers/
+- https://itec-conf.com/history/
+- https://portal.core.edu.au/conf-ranks/?search=ITEC&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Deadline times and time zones not stated on the call for papers
+- ITEC 2026 deadlines not recorded (2026 call no longer online)
+- CCF 2026 list not checked directly; power and transportation engineering venue, not expected in the CCF CS list

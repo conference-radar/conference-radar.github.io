@@ -1,0 +1,55 @@
+id: therminic
+name: THERMINIC
+full_name: International Workshop on Thermal Investigations of ICs and Systems
+type: conference
+tier: minor
+areas: [general]
+region: europe
+language: english
+frequency: annual
+organizer: THERMINIC Steering Committee, conference office at mcc Agentur fuer Kommunikation (Berlin)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [4]
+  conference_months: [9]
+links:
+  website: https://therminic.eu/
+notes:
+- Major European workshop on thermal and thermo-mechanical reliability issues in electronic components and systems, held since 1995
+- Standalone event run by a European steering committee with academic and industry members
+- Submission is a 2-page abstract, double-blind reviewed; accepted authors then submit a paper for the workshop proceedings
+- Proceedings archived in IEEE Xplore
+- Oral and poster presentations, keynotes and a short course the day before; best paper and best poster awards
+- Held in a different European city each year (Budapest 2023, Toulouse 2024, Naples 2025, Berlin 2026, Graz 2027)
+- Not ranked by CORE (not listed in ICORE2026) or CCF
+editions:
+- year: 2026
+  start: 2026-09-16
+  end: 2026-09-18
+  location: Berlin, Germany
+  url: https://therminic.eu/past-events/
+- year: 2027
+  start: 2027-09-22
+  end: 2027-09-24
+  location: University of Graz, Graz, Austria
+  url: https://therminic.eu/
+  deadlines:
+  - kind: abstract
+    date: 2027-04-02
+    label: 2-page abstract (submission system opens December 2026)
+  - kind: notification
+    date: 2027-06-07
+  - kind: camera_ready
+    date: 2027-08-07
+    label: Paper for the workshop proceedings
+sources:
+- https://therminic.eu/
+- https://therminic.eu/submissions/
+- https://therminic.eu/past-events/
+- https://therminic.eu/chairs-steering-committee/
+- https://portal.core.edu.au/conf-ranks/?search=THERMINIC&by=all&source=ICORE2026
+unverified:
+- 2026 deadlines not recorded; the 2026 call for papers was not checked
+last_verified: 2026-11-27

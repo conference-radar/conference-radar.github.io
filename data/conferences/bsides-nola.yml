@@ -1,0 +1,57 @@
+id: bsides-nola
+name: BSides NOLA
+full_name: Security BSides New Orleans
+type: industry
+tier: minor
+areas: [security]
+region: north-america
+language: english
+frequency: annual
+organizer: BSidesNOLA (volunteer community team)
+organizer_country: [usa]
+proceedings: None (non-archival)
+archival: false
+typical:
+  deadline_months: [1]
+  conference_months: [5]
+links:
+  website: https://nolabsides.com/
+notes:
+- "Call for papers deadline stated as 11:59 PM CST (US Central, UTC-6)"
+- All-volunteer, community-driven Security BSides conference in New Orleans, Louisiana, USA
+- Annual one-day event covering all of cybersecurity, with a strong OT/ICS and critical infrastructure thread
+- 2026 edition held at the InterContinental New Orleans with lockpick and career villages and a custom PCB badge
+- Talks selected through a call for papers on a Google Form; first-time speakers are encouraged
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-05-12
+  end: 2026-05-12
+  location: InterContinental New Orleans, 444 St Charles Ave, New Orleans, LA, USA
+  url: https://nolabsides.com/
+- year: 2027
+  start: 2027-05-11
+  end: 2027-05-11
+  location: New Orleans, LA, USA
+  url: https://nolabsides.com/
+  deadlines:
+  - kind: submission
+    date: 2027-01-17
+    time: "23:59"
+    tz: UTC-6
+    label: Call for papers
+  - kind: notification
+    date: 2027-02-03
+  - kind: other
+    date: 2027-02-11
+    label: Agenda announcement
+sources:
+- https://nolabsides.com/
+- https://bsidesnola.notion.site/Home-315249e7315f802298e5c97d61538355
+- https://docs.google.com/forms/d/e/1FAIpQLSfAiTWrc-6qcIO5OmvDyNQVBYMVUrLemdCpVxMdSksyC39BqQ/viewform
+- https://bsides.org/event/bsides-nola/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- 2026 date and venue taken from the BSides Global event listing; the official site no longer shows them
+- 2027 venue not yet announced

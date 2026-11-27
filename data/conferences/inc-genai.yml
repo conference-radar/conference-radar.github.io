@@ -1,0 +1,52 @@
+id: inc-genai
+name: INC-GenAI
+full_name: IEEE GLOBECOM Workshop on Integrated Networking and Computing for GenAI Serving at the Wireless Edge
+type: workshop
+tier: minor
+areas: [networking, communications, ai]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop co-chairs (Hang Seng University of Hong Kong, HKUST, University of Virginia) with IEEE GLOBECOM (IEEE ComSoc)
+organizer_country: [international]
+proceedings: IEEE Xplore
+archival: true
+typical:
+  deadline_months: [8]
+  conference_months: [12]
+links:
+  website: https://globecom2026.ieee-globecom.org/events/ws-06-integrated-networking-and-computing-genai-serving-wireless-edge-0
+notes:
+- WS-06 at IEEE GLOBECOM 2026 in Macau, a short session (14:00 to 15:30) on 7 December 2026 with five papers
+- Listed as INC-GenAIatWirelessEdge on the GLOBECOM workshop list
+- Topics are edge LLM and multimodal inference over wireless networks (prefill and decoding, KV-cache management, model placement, split computing, network slicing for AI services)
+- Co-chairs Tan Li (Hang Seng University of Hong Kong), Shenghui Song (HKUST) and Cong Shen (University of Virginia); steering committee Yuguang Fang, Zhiguo Ding and Jun Zhang
+- Accepted and presented papers go into the IEEE GLOBECOM 2026 Conference Proceedings and IEEE Xplore; no-show papers can be removed
+- Submissions via EDAS through the GLOBECOM workshop call
+- Not listed in ICORE2026
+editions:
+- year: 2026
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Macau, China (with IEEE GLOBECOM 2026)
+  url: https://globecom2026.ieee-globecom.org/events/ws-06-integrated-networking-and-computing-genai-serving-wireless-edge-0
+  deadlines:
+  - kind: submission
+    date: 2026-08-19
+    label: Extended date (firm)
+  - kind: notification
+    date: 2026-10-05
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-09-27)
+  - kind: camera_ready
+    date: 2026-10-14
+    label: New date on the GLOBECOM workshop call (workshop page says 2026-10-05)
+sources:
+- https://globecom2026.ieee-globecom.org/events/ws-06-integrated-networking-and-computing-genai-serving-wireless-edge-0
+- https://globecom2026.ieee-globecom.org/authors/call-workshop-papers
+- https://globecom2026.ieee-globecom.org/workshops
+- https://globecom2026.ieee-globecom.org/submission-guidelines
+- https://portal.core.edu.au/conf-ranks/?search=GenAI+Serving&by=all&source=ICORE2026
+unverified:
+- Edition number and whether earlier or later editions exist
+- Deadline time zone not stated
+last_verified: 2026-11-27

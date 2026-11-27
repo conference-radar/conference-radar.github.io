@@ -1,0 +1,44 @@
+id: bsides-goteborg
+name: BSides Göteborg
+full_name: Security BSides Göteborg
+type: industry
+tier: minor
+areas: [security]
+region: europe
+language: english
+organizer: BSides Göteborg (community team)
+organizer_country: [europe]
+proceedings: None (non-archival)
+archival: false
+typical:
+  conference_months: [2, 10]
+links:
+  website: https://bsidesgbg.com/
+notes:
+- Community-driven Security BSides conference in Gothenburg, Sweden
+- 2026 events on 20 February and 23 October
+- All talks and slides must be in English
+- Encourages university researchers to present alongside practitioners; talks selected on merit through a call for papers
+- Ticket registration through Zoom Events
+- No proceedings
+editions:
+- year: 2026
+  start: 2026-02-20
+  end: 2026-02-20
+  location: Gothenburg, Sweden
+  url: https://bsidesgbg.com/
+- year: 2026
+  start: 2026-10-23
+  end: 2026-10-23
+  location: Gothenburg, Sweden
+  url: https://bsidesgbg.com/
+sources:
+- https://bsidesgbg.com/
+- https://bsides.org/event/bsides-goteborg-2026/
+- https://bsides.org/event/bsides-goteborg/
+- https://portal.core.edu.au/conf-ranks/?search=BSides&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- "October 2026 call for papers: the official site gives two conflicting windows (1 July to 1 September and 4 July to 10 September)"
+- Frequency not settled yet (two events in 2026); no 2027 date announced
+- Venue not stated on the official site

@@ -1,0 +1,74 @@
+id: icaiit
+name: ICAIIT
+full_name: International Conference on Applied Innovations in IT
+type: conference
+tier: minor
+areas: [general, communications, ai]
+region: europe
+language: english
+frequency: annual
+organizer: Anhalt University of Applied Sciences
+organizer_country: [europe]
+proceedings: Proceedings of the International Conference on Applied Innovations in IT (ISSN 2199-8876, Edition Hochschule Anhalt, open access)
+archival: true
+fee: 120 EUR per accepted paper, 40 EUR for guests without papers (2027); 7 pages included, 50 EUR per extra page
+typical:
+  deadline_months: [1]
+  conference_months: [3]
+links:
+  website: https://icaiit.org/
+notes:
+- Run by Anhalt University of Applied Sciences; held once a year in March in Koethen, Germany, since 2013
+- One-day conference; in-person attendance and presentation are mandatory, no online talks
+- Papers appear in the conference's own open access proceedings journal (ISSN 2199-8876); the April issue holds the conference papers
+- The same journal also runs publication-only issues and special issues for other conferences
+- Double-blind review; papers up to 7 pages in the ICAIIT template
+- Broad scope covering networks, embedded systems, security, AI, automation and energy, plus IT applied in other fields
+- Not listed in the CORE ICORE2026 portal; no CCF rank set
+editions:
+- year: 2026
+  start: 2026-03-12
+  end: 2026-03-12
+  location: Koethen, Germany
+  url: https://icaiit.org/dates.shtml
+  deadlines:
+  - kind: submission
+    date: 2026-01-25
+  - kind: notification
+    date: 2026-02-02
+    label: Preliminary acceptance
+  - kind: notification
+    date: 2026-02-22
+    label: Final acceptance (after reviewers' corrections)
+  - kind: camera_ready
+    date: 2026-02-26
+- year: 2027
+  start: 2027-03-11
+  end: 2027-03-11
+  location: Koethen, Germany
+  url: https://icaiit.org/call_conf.shtml
+  status: confirmed
+  deadlines:
+  - kind: submission
+    date: 2027-01-10
+  - kind: notification
+    date: 2027-01-25
+    label: Preliminary acceptance (January 15 to 25)
+  - kind: notification
+    date: 2027-02-10
+    label: Final acceptance (after reviewers' corrections)
+  - kind: camera_ready
+    date: 2027-02-16
+  - kind: other
+    date: 2027-02-26
+    label: Payment (February 16 to 26)
+sources:
+- https://icaiit.org/call_conf.shtml
+- https://icaiit.org/dates.shtml
+- https://icaiit.org/index.shtml
+- https://icaiit.org/committee.shtml
+- https://portal.core.edu.au/conf-ranks/?search=ICAIIT&by=all&source=ICORE2026&sort=atitle&page=1
+last_verified: 2026-11-27
+unverified:
+- Edition numbering is inconsistent on the site (2026 issues say 14th ICAIIT, the 2027 call also says 14th)
+- Indexing of the proceedings journal not confirmed on official pages

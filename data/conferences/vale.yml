@@ -1,0 +1,58 @@
+id: vale
+name: VALE
+full_name: International Workshop on Value Engineering in AI
+type: workshop
+tier: minor
+areas: [ai]
+region: europe
+language: english
+frequency: annual
+organizer: Workshop co-chairs from IIIA-CSIC, Ghent University, IMIM and VUB; co-located with ECAI or IJCAI-ECAI
+organizer_country: [europe]
+proceedings: Springer LNAI (post-proceedings)
+archival: true
+typical:
+  deadline_months: [5]
+  conference_months: [8]
+links:
+  website: http://vale2026.iiia.csic.es/
+notes:
+  - Workshop on engineering human values into AI systems
+  - 4th edition in 2026 at IJCAI-ECAI 2026 in Bremen; earlier editions at ECAI 2023, 2024 and 2025
+  - Post-proceedings planned with Springer in the LNAI series, following previous editions; pre-proceedings PDF on the site
+  - Papers up to 7 pages plus references in the IJCAI-ECAI template, single-blind review, submitted via ChairingTool
+  - Each submitting author is expected to review one other paper; at least one author must attend in person
+  - "2026 acceptance: 16 papers, 76% acceptance rate"
+  - Supported by the EU VALAWAI project and the Spanish EVASAI project
+  - Not ranked in ICORE2026 and not on the CCF list
+acceptance_rate: 76% (2026, 16 accepted)
+editions:
+  - year: 2026
+    label: 4th VALE at IJCAI-ECAI 2026
+    start: 2026-08-15
+    end: 2026-08-15
+    location: Bremen, Germany (IJCAI-ECAI 2026)
+    url: http://vale2026.iiia.csic.es/
+    status: confirmed
+    deadlines:
+      - kind: submission
+        date: 2026-05-18
+        tz: AoE
+        label: Papers (extended from 15 May)
+      - kind: notification
+        date: 2026-06-10
+        tz: AoE
+      - kind: camera_ready
+        date: 2026-07-15
+        tz: AoE
+sources:
+  - http://vale2026.iiia.csic.es/
+  - http://vale2026.iiia.csic.es/call-for-papers
+  - http://vale2026.iiia.csic.es/submission
+  - http://vale2026.iiia.csic.es/committees
+  - http://vale2025.iiia.csic.es/
+  - https://portal.core.edu.au/conf-ranks/?search=VALE&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Springer LNAI post-proceedings are stated as planned; the published volume was not checked
+  - 2027 edition not announced as of 2026-11-27

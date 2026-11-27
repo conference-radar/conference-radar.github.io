@@ -1,0 +1,57 @@
+id: ti-dcoss
+name: TI
+full_name: Workshop on Next Generation IoT and AI systems for Trusted, Human-Centered Intelligence
+type: workshop
+tier: minor
+areas: [ai, networking, systems, security]
+region: worldwide
+language: english
+frequency: irregular
+organizer: Workshop organisers from INESC TEC/ISEP (Portugal) and GFT (Italy)
+organizer_country: [europe]
+proceedings: IEEE Xplore
+archival: true
+rank:
+  core: Unranked
+typical:
+  deadline_months: [5]
+  conference_months: [6]
+links:
+  website: https://workshops.unparallel.pt/ti-2026
+notes:
+- Co-located workshop of IEEE DCOSS-IoT; editions in 2023 (Pafos), 2025 (Lucca) and 2026 (Reykjavik), none in 2024; TI 2027 announced for Montreal
+- Papers appear in the DCOSS-IoT conference proceedings and are submitted to IEEE Xplore
+- Agentic and multi-agent IoT/AI, edge LLMs, digital twins, explainable AI, security, safety and privacy
+- IEEE two-column format, up to 8 pages including references plus up to 2 appendix pages at 100 USD per page
+- 2026 deadlines were extended; the original dates are not shown
+- Not listed in ICORE2026 or the CCF list
+editions:
+- year: 2026
+  start: 2026-06-23
+  end: 2026-06-23
+  location: Reykjavik, Iceland
+  url: https://workshops.unparallel.pt/ti-2026
+  deadlines:
+  - kind: submission
+    date: 2026-05-03
+    label: Paper submission (extended)
+  - kind: notification
+    date: 2026-05-18
+  - kind: camera_ready
+    date: 2026-05-22
+- year: 2027
+  start: 2027-06-21
+  end: 2027-06-23
+  location: Montreal, Canada
+  url: https://dcoss.org/
+sources:
+- https://workshops.unparallel.pt/ti-2026
+- https://workshops.unparallel.pt/ti-2025
+- https://workshops.unparallel.pt/ti-2023
+- https://workshops.unparallel.pt/
+- https://dcoss.org/
+- https://portal.core.edu.au/conf-ranks/?search=TI&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- TI 2027 is listed as a DCOSS-IoT 2027 workshop (Montreal, June 21 to 23, 2027), but no CFP, deadlines or exact workshop day yet
+- Not listed on the CORE ICORE2026 portal

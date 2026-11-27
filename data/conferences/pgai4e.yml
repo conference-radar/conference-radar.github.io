@@ -1,0 +1,45 @@
+id: pgai4e
+name: PGAI4E
+full_name: AAAI Workshop on Physics-Governed AI for Energy
+type: workshop
+tier: minor
+areas: [ai]
+region: north-america
+language: english
+frequency: irregular
+organizer: Workshop organizers from the University of Calgary, KTH Royal Institute of Technology and Nordic RCC; co-located with AAAI
+organizer_country: [canada, europe]
+proceedings: None (papers posted on the workshop website)
+archival: false
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://pgai4e.github.io
+notes:
+  - AAAI workshop on physics-informed and physics-governed machine learning for energy systems
+  - Held with AAAI-27 in Montreal, February 22 or 23, 2027 (day assigned by AAAI)
+  - Full papers up to 7 pages and in-progress papers of 3 to 4 pages in the AAAI-27 author kit
+  - Double-blind review on OpenReview
+  - Non-archival; accepted papers are posted on the workshop website and can be submitted elsewhere later
+  - All deadlines AoE
+  - Not listed in ICORE2026 or the CCF list
+editions:
+  - year: 2027
+    location: Montreal, Canada (with AAAI-27)
+    url: https://pgai4e.github.io
+    deadlines:
+      - kind: submission
+        date: 2026-12-02
+        tz: AoE
+        label: Papers (extended from Nov 20)
+      - kind: notification
+        date: 2026-12-10
+        tz: AoE
+sources:
+  - https://pgai4e.github.io
+  - https://portal.core.edu.au/conf-ranks/?search=PGAI4E&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+  - Workshop day (February 22 or 23, 2027) is not fixed on the workshop site, so no start date is recorded
+  - Camera-ready date not stated

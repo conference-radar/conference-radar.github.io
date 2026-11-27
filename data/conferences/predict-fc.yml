@@ -1,0 +1,52 @@
+id: predict-fc
+name: PREDICT (FC)
+full_name: Workshop on Prediction Markets
+type: workshop
+tier: minor
+areas: [security, crypto]
+region: worldwide
+language: english
+frequency: annual
+organizer: Workshop program chairs, in association with FC (IFCA)
+organizer_country: [international]
+proceedings: Springer LNCS
+archival: true
+typical:
+  deadline_months: [11, 12]
+  conference_months: [2]
+links:
+  website: https://fc27.ifca.ai/predict/
+notes:
+- Affiliated workshop of Financial Cryptography and Data Security (FC); 1st edition (PREDICT'27) at FC 2027 in Barbados
+- Program chairs 2027 Jeremy Clark (Concordia University) and Lucianna Kiffer (IMDEA Networks Institute)
+- Interdisciplinary scope covering market design, automated market makers, manipulation, oracles and outcome
+  resolution, privacy and security, decentralized prediction markets and AI agents
+- Research papers (15 pages), short papers (8 pages) and SoK papers (20 pages) in LNCS format, double-blind review
+- Accepted papers are published in Springer LNCS after the conference; 1-page research talks get no individual
+  publication
+- Submission via EasyChair
+editions:
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados
+  url: https://fc27.ifca.ai/predict/
+  deadlines:
+  - kind: submission
+    date: 2026-12-01
+    time: "23:59"
+    tz: AoE
+    label: Extended from 2026-11-24
+  - kind: notification
+    date: 2026-12-22
+sources:
+- https://fc27.ifca.ai/predict/
+- https://fc27.ifca.ai/predict/cfp.html
+- https://fc27.ifca.ai/workshops.html
+- https://portal.core.edu.au/conf-ranks/?search=PREDICT&by=all&source=ICORE2026
+last_verified: 2026-11-27
+unverified:
+- Camera-ready deadline is TBD on the CfP page
+- The submission section of the CfP still shows 2026-11-24; the key dates list the extension to 2026-12-01
+- Whether the workshop will be held again after 2027
+- Not listed in CORE ICORE2026 and not found in the CCF 2026 list
