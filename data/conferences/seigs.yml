@@ -22,7 +22,7 @@ notes:
 - Full papers up to 8 pages, short papers and experience reports up to 4 pages, extended abstracts up to 5 pages; ACM format, double-blind review
 - 2026 papers published by ACM; extended abstracts are APC free, other papers need an ACM Open agreement or APC (250 USD members, 350 USD non-members)
 - At least one author must register and present in person
-- Not on the ICSE 2027 workshop list, so the next edition is not announced yet
+- 2027 edition announced as an ICSE 2027 track (Dublin); 2027 organizers from Eindhoven University of Technology, Makerere University and University of Bayreuth
 - Not listed in the CORE portal (ICORE2026) or on the CCF 2026 list
 editions:
 - year: 2026
@@ -40,7 +40,21 @@ editions:
   - kind: camera_ready
     date: 2026-01-26
     tz: AoE
+- year: 2027
+  location: Dublin, Ireland
+  url: https://conf.researchr.org/track/icse-2027/seigs-2027
+  deadlines:
+  - kind: submission
+    date: 2027-01-05
+    tz: AoE
+  - kind: notification
+    date: 2027-01-19
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-01-29
+    tz: AoE
 sources:
+- https://conf.researchr.org/track/icse-2027/seigs-2027
 - https://conf.researchr.org/home/icse-2026/seigs-2026
 - https://conf.researchr.org/track/icse-2026/icse-2026-workshops
 - https://conf.researchr.org/track/icse-2027/icse-2027-workshops
@@ -49,6 +63,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=SEiGS&by=all&source=ICORE2026
 unverified:
 - Editions between ICSE 2018 and ICSE 2025 not confirmed, so the frequency is unknown
-- No 2027 edition announced as of 2026-11-20; SEiGS is not among the ICSE 2027 workshops and the researchr series has no 2027 entry
+- Exact SEiGS 2027 day not given (ICSE 2027 runs 25 April to 1 May 2027 in Dublin); submission requirements and proceedings for 2027 still to be announced
 - Acceptance rate not found on an official page
-last_verified: 2026-11-20
+last_verified: 2026-11-27

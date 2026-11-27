@@ -51,21 +51,22 @@ editions:
   url: https://lats.tttc-events.org/
   deadlines:
   - kind: abstract
-    date: 2026-11-23
-    label: Title and abstract
+    date: 2026-12-04
+    label: Title and abstract (extended from 2026-11-23)
   - kind: submission
-    date: 2026-11-30
-    label: Full paper
+    date: 2026-12-11
+    label: Full paper (extended from 2026-11-30)
   - kind: notification
-    date: 2027-01-20
-  - kind: camera_ready
     date: 2027-01-30
+  - kind: camera_ready
+    date: 2027-02-10
 sources:
 - https://cas.polito.it/LATS2026/
 - https://lats.tttc-events.org/
+- https://lats.tttc-events.org/key-dates
 - https://portal.core.edu.au/conf-ranks/?search=LATS&by=all&source=ICORE2026
 unverified:
 - The 2027 site page header still shows placeholder dates (2027-03-17 to 2027-03-20, Florianopolis); the call for papers on the same site gives Lima, Peru, April 13 to 16, 2027
 - Deadline time zones not stated
 - dblp page could not be opened (bot check); link taken as conf/latw
-last_verified: 2026-11-20
+last_verified: 2026-11-27

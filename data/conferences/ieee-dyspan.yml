@@ -78,7 +78,36 @@ editions:
   - kind: other
     date: 2026-03-27
     label: Posters and demos submission
+- year: 2027
+  start: 2027-05-17
+  end: 2027-05-20
+  location: Brookstreet Hotel, Kanata (Ottawa), Canada
+  url: https://dyspan2027.ieee-dyspan.org/
+  deadlines:
+  - kind: other
+    date: 2026-12-07
+    label: Workshop and tutorial proposals
+  - kind: submission
+    date: 2026-12-07
+    label: Main conference papers
+  - kind: other
+    date: 2027-01-15
+    label: Poster and demo abstract submission
+  - kind: other
+    date: 2027-02-14
+    label: Workshop and tutorial paper submission
+  - kind: notification
+    date: 2027-02-15
+    label: Main conference papers
+  - kind: camera_ready
+    date: 2027-03-05
+    label: Main conference papers
 sources:
+- https://dyspan2027.ieee-dyspan.org/
+- https://dyspan2027.ieee-dyspan.org/authors
+- https://dyspan2027.ieee-dyspan.org/call-papers
+- https://dyspan2027.ieee-dyspan.org/authors/call-posters-and-demos
+- https://dyspan2027.ieee-dyspan.org/authors/call-workshops-and-tutorials
 - https://dyspan2026.ieee-dyspan.org/
 - https://dyspan2026.ieee-dyspan.org/important-dates
 - https://dyspan2026.ieee-dyspan.org/call-papers
@@ -94,8 +123,8 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=DySPAN&by=all&source=ICORE2026&sort=atitle&page=1
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
 unverified:
-- DySPAN 2027 not yet announced (dyspan2027.ieee-dyspan.org is not public)
+- DySPAN 2027 deadlines give no time or time zone
 - Whether the 2026 deadlines were extended (the important dates page shows one date each)
 - Acceptance rate not found in an official source
 - dblp key not verified (dblp blocked automated access)
-last_verified: 2026-10-04
+last_verified: 2026-11-27

@@ -24,11 +24,26 @@ notes:
 - Submissions are 2-page talk abstracts or 1-page poster abstracts via Microsoft CMT; published work may be presented
 - All reasonable posters are accepted; talks are limited by the number of speaking slots
 - Held in January in 2025 and 2026 (May 2024, March 2023); hosts 2023 Northeastern, 2024 Boston University, 2025
-  Brandeis, 2026 UMass Boston
+  Brandeis, 2026 UMass Boston, 2027 Harvard
 - Nominal registration fee of 100 USD for non-students and 25 USD for students (2026)
 - Industry sponsors include Google, Microsoft, Intel and Oracle (2026)
 - Not listed in CORE ICORE2026 and not on the CCF list
 editions:
+- year: 2027
+  label: 17th NEDB Day
+  start: 2027-01-15
+  end: 2027-01-15
+  location: Science and Engineering Complex (SEC), Harvard University, 150 Western Avenue, Boston, MA, USA
+  url: https://nedbday.github.io/2027/
+  deadlines:
+  - kind: submission
+    date: 2026-12-18
+    label: Talk and poster abstracts
+  - kind: notification
+    date: 2026-12-30
+  - kind: other
+    date: 2027-01-08
+    label: Last day of registration
 - year: 2026
   label: 16th NEDB Day
   start: 2026-01-16
@@ -43,6 +58,8 @@ editions:
     date: 2025-12-29
 sources:
 - https://nedbday.github.io/
+- https://nedbday.github.io/2027/
+- https://nedbday.github.io/2027/templates/content_home.tmpl
 - https://nedbday.github.io/2026/
 - https://nedbday.github.io/2026/templates/content_home.tmpl
 - https://nedbday.github.io/2026/templates/content_history.tmpl
@@ -53,6 +70,5 @@ sources:
 unverified:
 - The site does not state explicitly that no proceedings are published; treated as non-archival because only abstracts
   and talk slides are posted
-- NEDB Day 2027 not announced yet (no 2027 page as of 2026-11-20)
-- 2026 deadline time and time zone not stated (2025 used 11:59 PM EST)
-last_verified: 2026-11-20
+- 2026 and 2027 deadline time and time zone not stated (2025 used 11:59 PM EST)
+last_verified: 2026-11-27

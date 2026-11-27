@@ -48,7 +48,7 @@ editions:
   url: https://www.iaria.org/conferences2027/AIVR27.html
   deadlines:
   - kind: submission
-    date: 2026-12-01
+    date: 2026-12-04
   - kind: notification
     date: 2027-01-03
   - kind: other
@@ -65,7 +65,7 @@ sources:
 - https://www.ccf.org.cn/Academic_Evaluation/By_category/
 unverified:
 - Acceptance statistics not checked
-- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- IARIA deadlines are often extended; the 2027 submission deadline already moved from 2026-12-01 to 2026-12-04 and may move again
 - No ICORE2026 entry and not on the CCF 2026 list, so no rank is recorded
 - DBLP page not checked (dblp.org blocked automated access)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

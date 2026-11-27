@@ -67,9 +67,9 @@ editions:
   url: https://ict4awe.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended from 2026-11-17)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -117,7 +117,7 @@ sources:
 - https://ict4awe.scitevents.org/?y=2023
 - https://portal.core.edu.au/conf-ranks/?search=ICT4AWE&by=all&source=ICORE2026
 unverified:
-- ICT4AWE 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-14
+- ICT4AWE 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-27
 - Springer CCIS book for 2027 marked final approval pending on the official site
 - Acceptance rate not found on official pages
-last_verified: 2026-11-14
+last_verified: 2026-11-27

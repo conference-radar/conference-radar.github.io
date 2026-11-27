@@ -62,6 +62,31 @@ editions:
     date: 2026-01-30
   - kind: camera_ready
     date: 2026-02-10
+- year: 2027
+  label: 9th edition, with COLING 2027
+  start: 2027-05-13
+  end: 2027-05-13
+  location: Macau, China
+  url: https://sigtyp.github.io/workshop.html
+  deadlines:
+  - kind: submission
+    date: 2027-01-05
+    time: "23:59"
+    tz: AoE
+    label: Direct submission
+  - kind: notification
+    date: 2027-02-06
+    time: "23:59"
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-03-05
+    time: "23:59"
+    tz: AoE
+  - kind: other
+    date: 2027-04-15
+    time: "23:59"
+    tz: AoE
+    label: Pre-recorded video (hard deadline)
 sources:
 - https://sigtyp.github.io/
 - https://sigtyp.github.io/workshop.html
@@ -72,7 +97,8 @@ sources:
 - https://aclanthology.org/volumes/2026.sigtyp-main/
 - https://aclanthology.org/volumes/2025.sigtyp-1/
 - https://portal.core.edu.au/conf-ranks/?search=SIGTYP&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-10-17
+last_verified: 2026-11-27
 unverified:
-- 2027 workshop (host conference and dates) not announced yet
+- 2027 pre-reviewed (ARR) commitment deadline listed as TBA
+- 2027 workshop day May 13 is from the page header; COLING 2027 runs May 9-14, 2027
 - Acceptance rate not published

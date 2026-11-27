@@ -23,7 +23,7 @@ notes:
 - Broad computer science and applications conference; editions in 2017, 2018 and every year since 2022
 - Proceedings published in IEEE Xplore (IEEE conference record 70833 in 2026); the site says ICCA 2025 proceedings were indexed by Scopus in May 2026
 - Not listed in the CORE ICORE2026 portal; the site itself says it holds no CORE rank and only describes itself as comparable to CORE C
-- Very short cycle in 2026 (submission Nov 30, notification Dec 11, camera-ready Dec 17, conference Dec 21-24)
+- Very short cycle in 2026 (submission Dec 11 after the earlier Nov 30 date, notification Dec 15, camera-ready Dec 17, conference Dec 21-24)
 - Large volume; the site claims about 600 papers from 50 countries per edition
 - Single-blind review via EDAS; papers up to six IEEE pages, fee covers one paper only
 - Held in the Middle East (Arab Open University Bahrain 2025 hybrid, British University in Egypt Cairo 2026)
@@ -48,9 +48,10 @@ editions:
   url: https://icca-conf.info/
   deadlines:
   - kind: submission
-    date: 2026-11-30
-  - kind: notification
     date: 2026-12-11
+    label: Papers (moved from 2026-11-30)
+  - kind: notification
+    date: 2026-12-15
   - kind: camera_ready
     date: 2026-12-17
 - year: 2027
@@ -76,4 +77,5 @@ unverified:
 - dblp page (the site links dblp conf/icca3) not checked; dblp blocked automated access
 - IEEE Xplore proceedings pages not checked (IEEE Xplore blocked automated access)
 - The 2027 page does not say whether the 2027 edition keeps IEEE sponsorship
-last_verified: 2026-11-20
+- The 2027 page lists a 2027-04-30 submission deadline but also shows a banner with the 2026-12-11 deadline of the 2026 edition
+last_verified: 2026-11-27

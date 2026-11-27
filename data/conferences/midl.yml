@@ -71,10 +71,10 @@ editions:
     tz: AoE
     label: Full paper registration
   - kind: submission
-    date: 2026-12-04
+    date: 2026-12-11
     time: "23:59"
     tz: AoE
-    label: Full papers
+    label: Full papers (extended from 2026-12-04)
   - kind: notification
     date: 2027-02-12
     label: Full papers
@@ -93,5 +93,5 @@ sources:
 - https://proceedings.mlr.press/v301/
 - https://portal.core.edu.au/conf-ranks/?search=MIDL&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- MIDL 2027 short paper deadlines (TBD on the official site as of 2026-11-20)
-last_verified: 2026-11-20
+- MIDL 2027 short paper deadlines (TBD on the official site as of 2026-11-27)
+last_verified: 2026-11-27

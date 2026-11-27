@@ -58,11 +58,21 @@ editions:
     time: "23:59"
     tz: AoE
     label: Workshop proposals
+  - kind: other
+    date: 2026-12-15
+    time: "23:59"
+    tz: AoE
+    label: Grand challenge proposals
   - kind: submission
     date: 2026-12-22
     time: "23:59"
     tz: AoE
     label: Reproducibility papers
+  - kind: other
+    date: 2027-01-15
+    time: "23:59"
+    tz: AoE
+    label: Tutorial proposals
   - kind: submission
     date: 2027-01-31
     time: "23:59"
@@ -72,7 +82,7 @@ editions:
     date: 2027-02-13
     time: "23:59"
     tz: AoE
-    label: Demonstrations and challenges
+    label: Demonstrations
   - kind: submission
     date: 2027-03-01
     time: "23:59"
@@ -102,4 +112,4 @@ unverified:
 - 2026 deadline time and zone not stated on the call for papers page
 - Acceptance rate not stated on the official sites
 - 2027 registration fees not announced yet
-last_verified: 2026-10-04
+last_verified: 2026-11-27

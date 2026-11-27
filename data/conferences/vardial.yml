@@ -16,7 +16,7 @@ typical:
   deadline_months: [1]
   conference_months: [1, 3, 6]
 links:
-  website: https://sites.google.com/view/vardial-2026/
+  website: https://aclsigvar.org/vardial2027
 notes:
 - Workshop on computational methods and language resources for closely related languages, language varieties and dialects
 - Held every year since 2014, alternating between COLING and ACL-family conferences (EACL 2023, NAACL 2024, COLING 2025, EACL 2026)
@@ -41,13 +41,33 @@ editions:
     date: 2026-01-28
   - kind: camera_ready
     date: 2026-02-09
+- year: 2027
+  label: Fourteenth VarDial, with EACL 2027 (hybrid)
+  start: 2027-03-14
+  end: 2027-03-14
+  location: Athens, Greece
+  url: https://aclsigvar.org/vardial2027
+  deadlines:
+  - kind: submission
+    date: 2026-12-15
+    label: Direct submissions
+  - kind: notification
+    date: 2027-01-20
+  - kind: camera_ready
+    date: 2027-01-29
+  - kind: other
+    date: 2027-02-08
+    label: Presenting author registration via EACL
 sources:
+- https://aclsigvar.org/vardial2027
+- https://aclsigvar.org/vardial2027/cfp
+- https://2027.eacl.org/program/workshops/
 - https://sites.google.com/view/vardial-2026/
 - https://sites.google.com/view/vardial-2026/call-for-papers
 - https://2026.eacl.org/program/workshops/
 - https://aclanthology.org/venues/vardial/
 - https://portal.core.edu.au/conf-ranks/?search=VarDial&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
-- No 2027 edition or host conference announced as of 2026-11-20 (no VarDial 2027 site found)
+- VarDial 2027 deadlines for ARR pre-reviewed and non-archival submissions are still to be determined (as of 2026-11-27)
 - Acceptance rate not published

@@ -97,6 +97,9 @@ editions:
   - kind: other
     date: 2027-03-09
     label: PhD Symposium notification
+  - kind: other
+    date: 2027-04-06
+    label: PhD Symposium camera-ready
 sources:
 - https://websci27.webscience.org/
 - https://websci27.webscience.org/important-dates
@@ -115,4 +118,4 @@ sources:
 unverified:
 - Region judged from past host cities (Europe and USA alternate); earlier editions not checked on official pages
 - Not found in the ICORE2026 portal (searched WebSci and Web Science), so no CORE rank is given
-last_verified: 2026-11-20
+last_verified: 2026-11-27

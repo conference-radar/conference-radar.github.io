@@ -42,10 +42,18 @@ editions:
   end: 2027-04-22
   location: HCC Heidelberg, Heidelberg, Germany
   url: https://pycon.de/
-  deadlines: []
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    time: "23:59"
+    tz: CET
+    label: Talk proposals (CFP opened 2026-11-04)
+  - kind: notification
+    date: 2027-02-10
 sources:
 - https://pycon.de/
 - https://pycon.de/blog/announcing-2027/
+- https://pycon.de/call-for-proposals/
 - https://pycon.de/imprint/
 - https://2026.pycon.de/
 - https://2026.pycon.de/venue/
@@ -56,6 +64,5 @@ sources:
 - https://2023.pycon.de/
 - https://portal.core.edu.au/conf-ranks/?search=PyCon&by=all&source=ICORE2026
 unverified:
-- 2027 call for proposals announced for November 2026 without exact dates
 - Not listed in the CORE ICORE2026 portal
-last_verified: 2026-10-17
+last_verified: 2026-11-27

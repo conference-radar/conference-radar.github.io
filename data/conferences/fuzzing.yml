@@ -28,7 +28,7 @@ notes:
   choose; 2025 papers went to the ISSTA'25 workshop proceedings
 - Double-anonymous review; registered reports up to 8 pages excluding references (NDSS template, 2026)
 - Not listed in ICORE2026 or the CCF list
-- 2027 edition not announced yet (the workshop site says it is in preparation); NDSS 2027 is in Seoul, Korea (March 22 to 26, 2027)
+- 2027 edition in preparation; the workshop site says it will tentatively be co-located with ISSTA 2027 (Singapore, September 7 to 10, 2027)
 editions:
 - year: 2026
   start: 2026-02-27
@@ -55,8 +55,9 @@ sources:
 - https://fuzzing-workshop.github.io/editions/index.html
 - https://fuzzing-workshop.github.io/editions/2025/index.html
 - https://www.ndss-symposium.org/ndss2027/
+- https://conf.researchr.org/track/issta-2027/issta-2027-workshops
 - https://portal.core.edu.au/conf-ranks/?search=fuzzing&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- FUZZING 2027 host conference, dates and deadlines (not announced as of 2026-11-20; the workshop site says the next edition is in preparation and NDSS has not published its 2027 co-located events)
+- FUZZING 2027 dates and deadlines not announced as of 2026-11-27; co-location with ISSTA 2027 is tentative and depends on the ISSTA workshop proposal decision (2027-01-05)
 - Acceptance rate and registration fee not found
-last_verified: 2026-11-20
+last_verified: 2026-11-27

@@ -118,8 +118,14 @@ editions:
     label: Demonstrations (extended from 2026-11-23)
   - kind: submission
     date: 2026-12-01
-    time: '17:00'
+    time: '23:59'
     tz: PST
+    label: Industry and applications
+  - kind: notification
+    date: 2027-02-15
+    label: Industry and applications
+  - kind: camera_ready
+    date: 2027-03-03
     label: Industry and applications
 sources:
 - https://icde2027.github.io/
@@ -128,6 +134,7 @@ sources:
 - https://icde2027.github.io/cf-demonstrations.html
 - https://icde2027.github.io/cf-future.html
 - https://icde2027.github.io/cf-tkde-poster.html
+- https://icde2027.github.io/cf-industry-track.html
 - https://icde2026.github.io/
 - https://icde2026.github.io/important-dates.html
 - https://icde2026.github.io/cf-research-papers.html
@@ -136,4 +143,5 @@ unverified:
 - ICDE acceptance rate (no official figure found)
 - ICDE 2027 notification dates are approximate per the site
 - ICDE 2027 demo and DEFT deadline times conflict (Important Dates says 5 pm Pacific, the Demonstrations and DEFT CFPs say 23:59 AoE); AoE from the track pages used
-last_verified: 2026-11-20
+- ICDE 2027 industry track deadline time conflicts (Important Dates says 5 pm Pacific, the Industry and Applications CFP says 11:59 pm Pacific); the track page used
+last_verified: 2026-11-27

@@ -51,11 +51,11 @@ editions:
     label: Last date of registration
 sources:
 - https://iatmsi.iiitm.ac.in/
-- https://iatmsi.iiitm.ac.in/assets/index-CpNLzAiF.js
+- https://iatmsi.iiitm.ac.in/assets/index-PJ65UE9-.js
 - https://portal.core.edu.au/conf-ranks/?search=IATMSI&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
 - Deadlines of the 2026 edition are no longer shown on the official site
 - Exact dates of the 2024 and 2025 editions not listed on the official site
 - IEEE Xplore pages not opened directly
-- One card on the official site still says "May 20-22, 2027 at ABV-IIITM, Gwalior" while the venue section names The Malla Hotel, Kathmandu
+- The page meta description still says "20-22 May 2027 at ABV-IIITM, Gwalior" while the venue section names The Malla Hotel, Kathmandu

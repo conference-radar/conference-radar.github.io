@@ -18,12 +18,36 @@ links:
   website: https://loreslm.github.io/
 notes:
 - Workshop on building, adapting and evaluating language models and LLMs for low-resource languages and dialects
-- Started in 2025; first edition at COLING 2025 in Abu Dhabi, UAE (January 20, 2025), second at EACL 2026 in Rabat, Morocco (March 29, 2026)
+- Started in 2025; first edition at COLING 2025 in Abu Dhabi, UAE (January 20, 2025), second at EACL 2026 in Rabat, Morocco (March 29, 2026), third at EACL 2027 in Athens, Greece (March 14, 2027)
 - Proceedings in the ACL Anthology (37 papers in 2025, 57 in 2026)
 - Long papers up to 8 pages and short papers up to 4 pages; 2026 submissions through OpenReview
 - Organizers also run a related special issue in the journal Natural Language Processing (Cambridge)
 - Not ranked in ICORE2026 and not on the CCF list
 editions:
+- year: 2027
+  start: 2027-03-14
+  end: 2027-03-14
+  location: Athens, Greece (with EACL 2027)
+  url: https://loreslm.github.io/
+  deadlines:
+  - kind: submission
+    date: 2027-01-07
+    time: '23:59'
+    tz: AoE
+    label: Direct paper submission
+  - kind: other
+    date: 2027-01-07
+    time: '23:59'
+    tz: AoE
+    label: ARR commitment
+  - kind: notification
+    date: 2027-01-28
+    time: '23:59'
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-02-04
+    time: '23:59'
+    tz: AoE
 - year: 2026
   start: 2026-03-29
   end: 2026-03-29
@@ -43,8 +67,8 @@ sources:
 - https://loreslm.github.io/2025/home.html
 - https://aclanthology.org/venues/loreslm/
 - https://portal.core.edu.au/conf-ranks/?search=LoResLM&by=all&source=ICORE2026&sort=atitle&page=1
-last_verified: 2026-10-17
+last_verified: 2026-11-27
 unverified:
-- No 2027 edition or host conference announced as of 2026-10-17
+- 2027 dates are marked subject to change on the official page
 - Time zone of the 2026 deadlines not stated
 - Acceptance rate not published

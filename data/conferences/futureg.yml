@@ -23,7 +23,7 @@ notes:
 - Full papers up to 8 pages and short papers up to 4 pages in NDSS format; double-blind review
 - Official proceedings, with an option to opt out ('No proceedings')
 - Includes a panel on 6G security and privacy; steering committee includes Yongdae Kim (KAIST)
-- NDSS 2027 will be held in Seoul, Korea (March 22 to 26, 2027); a FutureG 2027 edition has not been announced yet
+- FutureG 2027 is listed as a Monday workshop (March 22, 2027) of NDSS 2027 in Seoul, Korea; details not yet published
 editions:
 - year: 2025
   start: 2025-02-24
@@ -57,6 +57,11 @@ editions:
     date: 2026-02-10
     time: '23:59'
     tz: AoE
+- year: 2027
+  start: 2027-03-22
+  end: 2027-03-22
+  location: Seoul, Korea (with NDSS 2027)
+  url: https://www.ndss-symposium.org/ndss2027/co-located-events/
 sources:
 - https://www.ndss-symposium.org/ndss2026/co-located-events/futureg/
 - https://www.ndss-symposium.org/ndss2026/submissions/cfp-futureg/
@@ -68,7 +73,8 @@ sources:
 - https://www.ndss-symposium.org/ndss2025/co-located-events/futureg/leadership/
 - https://www.ndss-symposium.org/ndss2027/
 - https://www.ndss-symposium.org/ndss2027/submissions/
+- https://www.ndss-symposium.org/ndss2027/co-located-events/
 unverified:
-- Whether FutureG will run with NDSS 2027 in Seoul (NDSS 2027 call for co-located workshops still open)
+- FutureG 2027 call for papers and deadlines not yet published (NDSS 2027 co-located events page says more details will be shared soon, as of 2026-11-27)
 - Registration fee and acceptance rate
-last_verified: 2026-09-28
+last_verified: 2026-11-27

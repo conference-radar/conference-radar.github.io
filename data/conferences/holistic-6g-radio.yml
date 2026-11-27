@@ -41,9 +41,11 @@ sources:
 - https://wcnc2026.ieee-wcnc.org/authors
 - https://wcnc2026.ieee-wcnc.org/call-workshop-papers
 - https://wcnc2026.ieee-wcnc.org/instructions-final-workshop-paper-submissions
+- https://wcnc2027.ieee-wcnc.org/authors/call-workshop-papers
+- https://www.eucnc.eu/
 - https://portal.core.edu.au/conf-ranks/?search=Holistic%206G&by=all&source=ICORE2026
 unverified:
 - 2026 workshop paper submission deadline (the WCNC 2026 site lists 28 February 2026, after the notification date, so it is not usable)
-- Whether a 2027 edition will run (the WCNC 2027 workshop pages returned errors (503) on 2026-11-14 and could not be reached on 2026-11-20)
+- No 2027 edition announced; it is not among the 15 workshops in the IEEE WCNC 2027 call for workshop papers (Panama City, April 2027), and EuCNC & 6G Summit 2027 (Dublin, June 2027) has not listed workshops yet, as of 2026-11-27
 - Host conference of the next edition
-last_verified: 2026-11-20
+last_verified: 2026-11-27

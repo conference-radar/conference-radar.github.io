@@ -88,7 +88,8 @@ editions:
   url: https://mcsoc-forum.org/2027/
   deadlines:
   - kind: submission
-    date: 2026-11-30
+    date: 2026-12-31
+    label: Full papers (extended from 2026-11-30)
   - kind: notification
     date: 2027-01-31
   - kind: camera_ready
@@ -119,8 +120,6 @@ unverified:
   the earlier CFP PDF printed 2027-03-31 and 2027-04-10
 - 2027 conference dates (10 to 13 May 2027) come from the 2027 site header banner and the November 2026 CFP flyer; the
   home page text gives no dates, the September 2026 CFP PDF is no longer online, and this file earlier listed 12 to 15 May
-- The November 2026 CFP flyer lists a Round 1 paper submission deadline of 2026-12-31, while the 2027 home page still
-  says 2026-11-30
 - The 2026 site (mcsoc-forum.org/site) currently hosts unrelated injected spam posts; conference pages themselves
   look intact
-last_verified: 2026-11-20
+last_verified: 2026-11-27

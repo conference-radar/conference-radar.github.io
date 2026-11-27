@@ -51,6 +51,23 @@ editions:
   end: 2027-05-12
   location: Provo, Utah, USA
   url: https://www.fccm.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-10
+    tz: AoE
+  - kind: submission
+    date: 2027-01-17
+    tz: AoE
+  - kind: other
+    date: 2027-02-23
+    tz: AoE
+    label: Rebuttal period (until 2027-02-27)
+  - kind: notification
+    date: 2027-03-14
+    tz: AoE
+  - kind: camera_ready
+    date: 2027-04-04
+    tz: AoE
 sources:
 - https://www.fccm.org/
 - https://www.fccm.org/call-for-papers-2027/
@@ -61,7 +78,7 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=FCCM&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list mirror)
 unverified:
-- FCCM 2027 deadlines (listed as TBD, AoE)
+- FCCM 2027 artifact form, early registration and Demo Night deadlines (listed as TBD)
 - Acceptance rate (not stated on the official pages)
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list, not on ccf.org.cn directly (site behind a captcha)
-last_verified: 2026-10-11
+last_verified: 2026-11-27

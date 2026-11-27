@@ -49,16 +49,19 @@ editions:
   label: NLP2027 (33rd)
   start: 2027-03-15
   end: 2027-03-19
-  location: Fukuoka, Japan
-  url: https://www.anlp.jp/guide/nenji.html
-  deadlines: []
+  location: Fukuoka International Congress Center, Fukuoka, Japan
+  url: https://www.anlp.jp/nlp2027/
+  deadlines:
+  - kind: submission
+    date: 2027-01-15
+    time: '15:00'
+    tz: JST
+    label: Presentation application and full paper (applications open 2026-12-18)
 sources:
 - https://www.anlp.jp/guide/nenji.html
+- https://www.anlp.jp/nlp2027/
 - https://www.anlp.jp/nlp2026/
 - https://www.anlp.jp/nlp2026/submit.html
 - https://anlp.jp/nlp2025/
 - https://portal.core.edu.au/conf-ranks/?search=Natural+Language+Processing&by=all&source=ICORE2026
-unverified:
-- NLP2027 deadlines not yet announced (www.anlp.jp/nlp2027/ not open as of 2026-09-28; past deadlines were in early
-  January)
-last_verified: 2026-09-28
+last_verified: 2026-11-27

@@ -56,6 +56,8 @@ editions:
     date: 2026-09-25
 - year: 2027
   label: AI on HPC at SCA27
+  start: 2027-03-01
+  end: 2027-03-01
   location: Singapore (with Supercomputing Asia 2027)
   url: https://ai-on-hpc.github.io/sca27/
   deadlines:
@@ -75,5 +77,5 @@ sources:
 - https://sc26.supercomputing.org/2026/04/a-gold-standard-sc26-welcomes-50-workshops-to-chicago/
 - https://portal.core.edu.au/conf-ranks/?search=AI+on+HPC&by=all&source=ICORE2026
 unverified:
-- SCA27 workshop day and location not yet announced (site says tba, 1 and 4 March 2027)
-last_verified: 2026-11-20
+- SCA27 workshop venue within Singapore not yet announced
+last_verified: 2026-11-27

@@ -73,9 +73,9 @@ editions:
   url: https://closer.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -96,6 +96,10 @@ editions:
     date: 2027-02-15
     tz: AoE
     label: Position/regular papers (2nd stage)
+  - kind: submission
+    date: 2027-02-16
+    tz: AoE
+    label: Special session papers
   - kind: abstract
     date: 2027-02-16
     tz: AoE
@@ -107,11 +111,11 @@ editions:
   - kind: notification
     date: 2027-03-02
     tz: AoE
-    label: Abstracts track
+    label: Special session papers and abstracts track
   - kind: camera_ready
     date: 2027-03-10
     tz: AoE
-    label: Abstracts track, with registration
+    label: Special session papers and abstracts track, with registration
 sources:
 - https://closer.scitevents.org/
 - https://closer.scitevents.org/ImportantDates.aspx
@@ -123,6 +127,6 @@ sources:
 - https://closer.scitevents.org/?y=2023
 - https://portal.core.edu.au/conf-ranks/?search=CLOSER&by=all&source=ICORE2026
 unverified:
-- CLOSER 2027 late-breaking paper deadline not yet listed as of 2026-11-14
+- CLOSER 2027 late-breaking paper deadline not yet listed as of 2026-11-27
 - Whether the 2026 deadlines shown were extended from earlier dates (the 2026 page shows one date per item)
-last_verified: 2026-11-14
+last_verified: 2026-11-27

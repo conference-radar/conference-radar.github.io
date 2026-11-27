@@ -110,6 +110,19 @@ editions:
     tz: AoE
     label: Mining Challenge
   - kind: notification
+    date: 2027-01-11
+    label: Industry track
+  - kind: notification
+    date: 2027-01-19
+    label: Mining Challenge
+  - kind: camera_ready
+    date: 2027-01-22
+    tz: AoE
+    label: Industry track
+  - kind: camera_ready
+    date: 2027-01-26
+    label: Mining Challenge
+  - kind: notification
     date: 2027-01-08
     label: Technical papers
   - kind: camera_ready
@@ -120,6 +133,9 @@ sources:
 - https://2027.msrconf.org/track/msr-2027-technical-papers
 - https://2027.msrconf.org/track/msr-2027-data-and-tool-showcase-track
 - https://conf.researchr.org/dates/icse-2027
+- https://conf.researchr.org/dates/msr-2027
+- https://2027.msrconf.org/track/msr-2027-mining-challenge
+- https://2027.msrconf.org/track/msr-2027-industry-track
 - https://2027.msrconf.org/
 - https://2026.msrconf.org/track/msr-2026-technical-papers
 - https://2026.msrconf.org/
@@ -128,4 +144,4 @@ sources:
 unverified:
 - Recent acceptance rate not found in an official source
 - No extension of the Data and Tool Showcase deadlines announced as of 2026-10-31
-last_verified: 2026-11-20
+last_verified: 2026-11-27

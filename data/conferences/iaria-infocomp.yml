@@ -48,7 +48,7 @@ editions:
   url: https://www.iaria.org/conferences2027/INFOCOMP27.html
   deadlines:
   - kind: submission
-    date: 2026-12-01
+    date: 2026-12-04
   - kind: notification
     date: 2027-01-03
   - kind: other
@@ -67,5 +67,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=INFOCOMP&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - Acceptance statistics not checked
-- IARIA deadlines are often extended; dates are as listed on 2026-11-20
-last_verified: 2026-11-20
+- IARIA deadlines are often extended; dates are as listed on 2026-11-27 (submission already moved from 2026-12-01 to 2026-12-04)
+last_verified: 2026-11-27

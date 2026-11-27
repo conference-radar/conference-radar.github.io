@@ -124,13 +124,106 @@ editions:
   - kind: notification
     date: 2026-10-19
     label: Round 3 (accept/reject/revision)
+  - kind: other
+    date: 2026-11-19
+    label: Round 3 revised paper submission
+  - kind: notification
+    date: 2026-12-12
+    label: Round 3 final decision
   - kind: notification
     date: 2027-01-19
     label: Round 4 (accept/reject/revision)
+  - kind: other
+    date: 2027-02-19
+    label: Round 4 revised paper submission
   - kind: notification
     date: 2027-03-12
     label: Round 4 final decision
+- year: 2028
+  start: 2028-06-17
+  end: 2028-06-23
+  location: COEX, Seoul, Korea
+  url: https://2028.sigmod.org/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-10
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: submission
+    date: 2027-01-17
+    time: '23:59'
+    tz: AoE
+    label: Round 1
+  - kind: notification
+    date: 2027-04-25
+    label: Round 1 (accept/reject/revision)
+  - kind: other
+    date: 2027-05-25
+    label: Round 1 revised paper submission
+  - kind: notification
+    date: 2027-06-18
+    label: Round 1 final decision
+  - kind: abstract
+    date: 2027-04-10
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: submission
+    date: 2027-04-17
+    time: '23:59'
+    tz: AoE
+    label: Round 2
+  - kind: notification
+    date: 2027-07-28
+    label: Round 2 (accept/reject/revision)
+  - kind: other
+    date: 2027-08-27
+    label: Round 2 revised paper submission
+  - kind: notification
+    date: 2027-09-20
+    label: Round 2 final decision
+  - kind: abstract
+    date: 2027-07-10
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: submission
+    date: 2027-07-17
+    time: '23:59'
+    tz: AoE
+    label: Round 3
+  - kind: notification
+    date: 2027-10-23
+    label: Round 3 (accept/reject/revision)
+  - kind: other
+    date: 2027-11-22
+    label: Round 3 revised paper submission
+  - kind: notification
+    date: 2027-12-16
+    label: Round 3 final decision
+  - kind: abstract
+    date: 2027-10-10
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+  - kind: submission
+    date: 2027-10-17
+    time: '23:59'
+    tz: AoE
+    label: Round 4
+  - kind: notification
+    date: 2028-01-23
+    label: Round 4 (accept/reject/revision)
+  - kind: other
+    date: 2028-02-22
+    label: Round 4 revised paper submission
+  - kind: notification
+    date: 2028-03-17
+    label: Round 4 final decision
 sources:
+- https://2028.sigmod.org/
+- https://2028.sigmod.org/calls_papers_sigmod_research.shtml
 - https://2027.sigmod.org/calls_papers_sigmod_research.shtml
 - https://2027.sigmod.org/
 - https://2026.sigmod.org/
@@ -140,5 +233,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=SIGMOD&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - SIGMOD 2026 acceptance rate
-- SIGMOD 2028 location and dates (2028.sigmod.org is under construction)
-last_verified: 2026-10-17
+- SIGMOD 2028 notification dates may vary slightly (the CFP says so); submission deadlines are fixed
+last_verified: 2026-11-27

@@ -72,9 +72,9 @@ editions:
   url: https://improve.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended from 2026-11-17)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -134,4 +134,4 @@ unverified:
 - 2026 location given only as the Melia Villaitana hotel on the Costa Blanca (Benidorm)
 - CCF absence checked via the CCFrank4dblp mirror of the CCF list, not on ccf.org.cn directly
 - Acceptance rate not found on official pages
-last_verified: 2026-11-14
+last_verified: 2026-11-27

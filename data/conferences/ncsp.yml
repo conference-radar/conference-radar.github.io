@@ -61,8 +61,8 @@ editions:
   url: https://ncsp.jp/NCSP27/
   deadlines:
   - kind: submission
-    date: 2026-11-27
-    label: 1-page summary and special session proposals
+    date: 2026-12-04
+    label: 1-page summary and special session proposals (extended from 2026-11-27)
   - kind: notification
     date: 2026-12-24
   - kind: camera_ready
@@ -87,4 +87,4 @@ unverified:
 - NCSP 2027 registration fees and proceedings issue date not yet published as of 2026-11-14
 - Indexing of the proceedings
 - Acceptance rate
-last_verified: 2026-11-20
+last_verified: 2026-11-27

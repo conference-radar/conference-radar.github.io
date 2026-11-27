@@ -79,6 +79,10 @@ editions:
     time: '23:59'
     tz: AoE
     label: Workshop proposals
+  - kind: other
+    date: 2026-12-05
+    tz: AoE
+    label: Competition proposals
   - kind: abstract
     date: 2026-11-05
     time: '23:59'
@@ -111,6 +115,14 @@ editions:
     time: '23:59'
     tz: AoE
     label: Demonstrations
+  - kind: abstract
+    date: 2026-12-31
+    tz: AoE
+    label: Doctoral Consortium
+  - kind: submission
+    date: 2027-01-08
+    tz: AoE
+    label: Doctoral Consortium
   - kind: notification
     date: 2027-01-21
     label: Blue Sky Ideas track Phase 2 notification
@@ -119,6 +131,14 @@ editions:
     time: '23:59'
     tz: AoE
     label: Main track
+  - kind: notification
+    date: 2027-01-27
+    label: Demonstrations
+  - kind: camera_ready
+    date: 2027-02-11
+    time: '23:59'
+    tz: AoE
+    label: Demonstrations
   - kind: camera_ready
     date: 2027-02-11
     time: '23:59'
@@ -128,6 +148,8 @@ sources:
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-demonstrations/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-victor-doctoral-consortium/
+- https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-competition/
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/findings/
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/qa/
 - https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/instructions/
@@ -139,4 +161,4 @@ unverified:
 - AAMAS 2027 author registration deadline (TBD on site); early registration 17 March 2027 is marked tentative
 - The AAMAS 2026 website now returns 'page not found'; 2026 dates confirmed via Web Archive copies and the IFAAMAS
   proceedings
-last_verified: 2026-11-07
+last_verified: 2026-11-27

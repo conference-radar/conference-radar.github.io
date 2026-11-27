@@ -71,7 +71,8 @@ sources:
 - https://www.ndss-symposium.org/ndss-program/madweb-2026/
 - https://portal.core.edu.au/conf-ranks/?search=MADWeb&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
+- "The MADWeb 2027 HotCRP site shows the deadline as Dec 10, 2026, 06:59:59 AM EST (Dec 9 23:59 AoE), earlier than the Dec 10 AoE stated on the workshop page; the workshop page is used"
 - MADWeb 2027 has no separate abstract registration deadline listed; the 2027 page on the NDSS site was not yet published as of 2026-10-31
 - Not found in the ICORE2026 portal and not in the CCF list, so no rank is given
 - Acceptance rate, registration fee and DBLP indexing not confirmed from an official page
-last_verified: 2026-11-20
+last_verified: 2026-11-27

@@ -65,11 +65,15 @@ editions:
   url: https://fc27.ifca.ai/voting/
   deadlines:
   - kind: abstract
-    date: 2026-11-23
+    date: 2026-12-01
+    tz: AoE
+    label: Extended from 2026-11-23
   - kind: submission
     date: 2026-12-01
+    tz: AoE
   - kind: notification
     date: 2026-12-22
+    tz: AoE
   - kind: other
     date: 2027-02-01
     label: Discussion panel extended abstracts (rolling deadline)
@@ -88,7 +92,6 @@ sources:
 - https://fc27.ifca.ai/workshops.html
 - https://portal.core.edu.au/conf-ranks/?search=voting&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- Time zone of the Voting 2027 deadlines not stated on the CFP (submission via EasyChair, voting27)
 - Springer LNCS volume for the FC 2025 and FC 2026 workshops not checked; LNCS taken from the official CFP
 - Acceptance rate not published
-last_verified: 2026-11-20
+last_verified: 2026-11-27

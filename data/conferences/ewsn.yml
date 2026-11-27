@@ -83,6 +83,8 @@ editions:
   deadlines:
   - kind: submission
     date: 2026-12-10
+    time: "23:59"
+    tz: AoE
     label: Winter round
   - kind: submission
     date: 2027-03-25
@@ -95,12 +97,13 @@ sources:
 - https://ewsn26.netd.cs.tu-dresden.de/calls/posters-demos
 - https://ewsn27.diag.uniroma1.it/
 - https://ewsn27.diag.uniroma1.it/call-for-papers
+- https://ewsn27.hotcrp.com/
 - https://portal.core.edu.au/conf-ranks/?search=EWSN&by=all&source=ICORE2026&sort=atitle&page=1
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankFull.js
 unverified:
-- EWSN 2027 abstract, notification and camera-ready dates and the deadline time zone (only the two submission dates
-  are announced so far)
+- EWSN 2027 abstract, notification and camera-ready dates (only the two submission dates are announced so far); the
+  winter time comes from HotCRP (Dec 11, 2026, 06:59:59 EST, which is Dec 10 23:59 AoE), spring time zone not stated
 - Absence from the CCF list checked via a mirror of the CCF list, not on ccf.org.cn directly (site blocks automated
   access)
 - Acceptance rate (not stated on the official pages)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

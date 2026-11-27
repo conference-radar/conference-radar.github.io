@@ -38,8 +38,9 @@ editions:
 sources:
 - https://lamarr-institute.github.io/tempxai25/
 - https://ecmlpkdd.org/2026/workshops-tutorials/
+- https://ecmlpkdd.org/2027/
 - https://portal.core.edu.au/conf-ranks/?search=TempXAI&by=all&source=ICORE2026
 unverified:
 - First edition (2024) not documented on the official site
-- No TempXAI edition found for 2026; next edition not announced as of 2026-11-20
-last_verified: 2026-11-20
+- No TempXAI edition found for 2026; next edition not announced as of 2026-11-27
+last_verified: 2026-11-27

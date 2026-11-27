@@ -42,7 +42,7 @@ editions:
   - kind: abstract
     date: 2026-12-22
     time: "23:59"
-    tz: UTC+8
+    tz: PST
     label: Two-page abstract
   - kind: notification
     date: 2027-02-01
@@ -63,7 +63,7 @@ sources:
 - https://www.iwcn.info/past-events
 - http://iwcn2025.com/
 - https://portal.core.edu.au/conf-ranks/?search=IWCN&by=all&source=ICORE2026
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
 - IEEE Xplore inclusion of the 2027 papers (the site says "submitted for inclusion")
 - Deadlines of the 2025 edition

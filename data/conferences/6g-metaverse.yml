@@ -7,7 +7,7 @@ areas: [communications, networking]
 region: worldwide
 language: english
 frequency: annual
-organizer: 6G Metaverse organizers with IEEE INFOCOM (IEEE ComSoc)
+organizer: 6G Metaverse organizers with IEEE INFOCOM (IEEE ComSoc), since 2026 with IEEE VTC (IEEE VTS)
 organizer_country: [international]
 proceedings: IEEE Xplore
 archival: true
@@ -23,6 +23,8 @@ notes:
 - Topics are massive and immersive 6G communications for the Metaverse, mmWave/THz, extremely large MIMO, RIS, ISAC and semantic communication
 - General co-chairs from Birmingham City University, Beijing Institute of Technology, UNSW, Khalifa University and Imperial College London
 - Not on the IEEE INFOCOM 2026 or IEEE INFOCOM 2027 workshop lists
+- Moved to IEEE VTC; 2026 edition was workshop W12 at IEEE VTC2026-Spring in Nice, billed as the second VTC edition and the seventh across venues
+- VTC2026-Spring workshop papers were 5 pages plus up to 2 extra pages
 - Not listed in ICORE2026
 editions:
 - year: 2025
@@ -39,15 +41,36 @@ editions:
   - kind: camera_ready
     date: 2025-02-26
     label: Firm
+- year: 2026
+  start: 2026-06-09
+  end: 2026-06-12
+  location: Nice, France (with IEEE VTC2026-Spring)
+  url: https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w12-emerging-metaverse-and-6g-massive-immersive-communications-6g-metaverse/
+  deadlines:
+  - kind: submission
+    date: 2026-02-18
+    label: Extended, common VTC2026-Spring workshop deadline
+  - kind: notification
+    date: 2026-03-18
+  - kind: camera_ready
+    date: 2026-04-07
+    label: Extended
 sources:
 - https://infocom2025.ieee-infocom.org/second-workshop-emerging-metaverse-and-6g-massiveimmersive-communications-6g-metaverse-call-papers.html
 - https://infocom2025.ieee-infocom.org/second-workshop-emerging-metaverse-and-6g-massiveimmersive-communications-6g-metaverse-committee.html
 - https://infocom2026.ieee-infocom.org/workshops
+- https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/
+- https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w12-emerging-metaverse-and-6g-massive-immersive-communications-6g-metaverse/
+- https://events.vtsociety.org/vtc2026-spring/
+- https://events.vtsociety.org/vtc2027-spring/
 - https://infocom2027.ieee-infocom.org/call-workshop-papers
 - https://portal.core.edu.au/conf-ranks/?search=6G%20Metaverse&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- Whether a later edition exists; the workshop is not among the IEEE INFOCOM 2026 workshops or the seven IEEE INFOCOM 2027 workshops listed as of 2026-11-20
+- 2027 edition not announced; not among the eleven IEEE INFOCOM 2027 workshops listed as of 2026-11-27, and no VTC2027-Spring workshop list yet
+- Exact day of the 2026 workshop within VTC2026-Spring (9 to 12 June) and the original pre-extension deadline
+- 2026 submission deadline conflict; the VTC2026-Spring workshops page extends all workshops to 18 February 2026, but the W12 page still says extended to 8 February 2026
+- First VTC edition (VTC 2025) not checked
 - Host conference of the first edition not checked
 - Time zone of the deadlines (not stated on the workshop page)
 - CCF 2026 list not checked on ccf.org.cn directly; workshop not expected to be listed
-last_verified: 2026-11-20
+last_verified: 2026-11-27

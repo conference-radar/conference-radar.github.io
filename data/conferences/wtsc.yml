@@ -27,7 +27,7 @@ notes:
 - Revised papers appear in the FC workshops post-proceedings volume of Springer LNCS (2025 -> LNCS 15753, shared with
   CAAW)
 - At least one registration at the FC general or academic rate is required per accepted paper
-- Held at the FC venue, which rotates worldwide (2025 Miyakojima, Japan; 2026 St. Kitts)
+- Held at the FC venue, which rotates worldwide (2025 Miyakojima, Japan; 2026 St. Kitts; 2027 Barbados)
 editions:
 - year: 2025
   start: 2025-04-18
@@ -59,6 +59,42 @@ editions:
   - kind: notification
     date: 2026-02-18
     label: Late notification (moved from 13 Feb)
+- year: 2027
+  start: 2027-02-12
+  end: 2027-02-12
+  location: Accra Beach Hotel & Spa, Barbados (with FC 2027)
+  url: https://fc27.ifca.ai/wtsc/
+  deadlines:
+  - kind: abstract
+    date: 2026-11-05
+    time: "23:59"
+    tz: AoE
+    label: Early abstract registration
+  - kind: submission
+    date: 2026-11-20
+    time: "23:59"
+    tz: AoE
+    label: Early paper submission
+  - kind: notification
+    date: 2026-12-07
+    time: "23:59"
+    tz: AoE
+    label: Early notification
+  - kind: abstract
+    date: 2026-12-30
+    time: "23:59"
+    tz: AoE
+    label: Late abstract registration
+  - kind: submission
+    date: 2027-01-04
+    time: "23:59"
+    tz: AoE
+    label: Late paper submission
+  - kind: notification
+    date: 2027-01-20
+    time: "23:59"
+    tz: AoE
+    label: Late notification
 sources:
 - https://fc26.ifca.ai/wtsc/
 - https://fc26.ifca.ai/wtsc/cfp.html
@@ -67,10 +103,12 @@ sources:
 - https://fc25.ifca.ai/wtsc/
 - https://link.springer.com/book/10.1007/978-3-032-00492-5
 - https://fc27.ifca.ai/
+- https://fc27.ifca.ai/wtsc/
+- https://fc27.ifca.ai/wtsc/cfp.html
 - https://portal.core.edu.au/conf-ranks/?search=WTSC&by=all&source=ICORE2026
-last_verified: 2026-10-04
+last_verified: 2026-11-27
 unverified:
-- WTSC 2027 not yet announced; FC 2027 (Barbados, Feb 2027) has not published its workshop list
+- WTSC 2027 final pre-proceedings and final paper dates are TBD
 - The 2026 CFP gives the final pre-proceedings date as February 26, 2025 (year typo), so it is left out
 - WTSC 2026 post-proceedings volume not yet found
 - Not listed in ICORE2026 (no result for WTSC) and not found in the CCF 2026 list

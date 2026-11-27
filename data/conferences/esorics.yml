@@ -56,15 +56,22 @@ editions:
   - kind: camera_ready
     date: 2026-06-26
     label: Spring cycle
+- year: 2027
+  start: 2027-09-13
+  end: 2027-09-17
+  location: Vienna, Austria (University of Vienna)
+  url: https://www.esorics2027.org/
+  deadlines: []
 sources:
 - https://sites.google.com/di.uniroma1.it/esorics2026/home
 - https://sites.google.com/di.uniroma1.it/esorics2026/call-for/papers
 - https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration
 - https://conf.laas.fr/esorics/
+- https://www.esorics2027.org/
 - https://portal.core.edu.au/conf-ranks/?search=ESORICS&by=all&source=ICORE2026&sort=atitle&page=1
 - http://jianying.space/conference-ranking.html
 unverified:
-- ESORICS 2027 location and dates not yet announced
+- ESORICS 2027 submission deadlines not yet announced (main conference 13 to 15 September, workshops 16 to 17 September 2027)
 - Full registration fee table for 2026 not available (online registration closed)
 - Acceptance rate taken from Jianying Zhou's statistics page
-last_verified: 2026-09-28
+last_verified: 2026-11-27

@@ -33,6 +33,9 @@ editions:
   deadlines:
   - kind: submission
     date: 2026-11-28
+  - kind: other
+    date: 2026-12-20
+    label: Tutorial proposals
   - kind: notification
     date: 2027-01-15
   - kind: camera_ready
@@ -45,7 +48,7 @@ sources:
 - https://www.comsoc.org/conferences-events/ieee-latin-american-conference-internet-things-2027
 - https://www.proceedings.com/82113.html
 - https://portal.core.edu.au/conf-ranks/?search=LatinIoT&by=all&source=ICORE2026
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
 - Frequency inferred from the 2025 and 2027 editions; no 2026 edition was held
 - 2025 edition dates taken from the IEEE proceedings listing because the 2025 website is not publicly reachable

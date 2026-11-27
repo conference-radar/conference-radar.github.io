@@ -48,7 +48,8 @@ editions:
   url: https://www.iaria.org/conferences2027/ACCSE27.html
   deadlines:
   - kind: submission
-    date: 2026-12-01
+    date: 2026-12-04
+    label: Extended from 2026-12-01
   - kind: notification
     date: 2027-01-03
   - kind: other
@@ -68,6 +69,6 @@ sources:
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
 unverified:
 - Acceptance statistics not checked
-- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- IARIA deadlines are often extended; as of 2026-11-27 the 2027 page gives Dec 04, 2026 for submission (earlier Dec 01, 2026)
 - DBLP page not checked (dblp.org blocked automated access)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

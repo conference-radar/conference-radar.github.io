@@ -32,7 +32,8 @@ editions:
   url: https://www.icsmdi.com/2027/
   deadlines:
   - kind: submission
-    date: 2026-11-26
+    date: 2026-12-02
+    label: Full paper
   - kind: notification
     date: 2026-12-24
   - kind: other
@@ -44,7 +45,7 @@ sources:
 - https://www.icsmdi.com/2027/venue.php
 - https://link.springer.com/book/10.1007/978-3-032-25627-0
 - https://portal.core.edu.au/conf-ranks/?search=ICSMDI&by=all&source=ICORE2026
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
 - Dates and host of the 2026 edition could not be read from the official site or the Springer book page
 - Region judged from the organizers, not from the last six editions

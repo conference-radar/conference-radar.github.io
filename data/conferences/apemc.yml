@@ -49,12 +49,11 @@ editions:
   url: https://www.apemc2027.org/
   deadlines:
   - kind: other
-    date: 2026-10-16
-    label: Special session and workshop/tutorial proposals
+    date: 2026-11-16
+    label: Special session and workshop/tutorial proposals (extended from 2026-10-16)
   - kind: submission
-    date: 2026-11-30
-    time: "23:59"
-    tz: KST
+    date: 2026-12-14
+    label: Extended from 2026-11-30
   - kind: notification
     date: 2027-02-01
   - kind: camera_ready
@@ -72,4 +71,4 @@ sources:
 unverified:
 - Not listed in the CORE ICORE2026 portal; acceptance rate and fees not checked
 - List of host cities for 2020 to 2025 not confirmed from an official page (apemc.org was unreachable)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

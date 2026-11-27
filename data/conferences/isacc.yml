@@ -35,8 +35,8 @@ editions:
   url: https://www.isacc.in
   deadlines:
   - kind: submission
-    date: 2026-11-30
-    label: Papers (extended)
+    date: 2026-12-10
+    label: Papers (extended, hard deadline)
   - kind: notification
     date: 2027-01-15
   - kind: camera_ready
@@ -52,4 +52,4 @@ unverified:
 - IEEE technical co-sponsorship for 2027 still pending approval
 - Original (pre-extension) 2027 submission deadline not shown
 - Venue of the 2025 edition not stated on the official site
-last_verified: 2026-11-20
+last_verified: 2026-11-27

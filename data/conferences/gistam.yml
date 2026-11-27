@@ -65,9 +65,9 @@ editions:
   url: https://gistam.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -118,4 +118,4 @@ unverified:
 - Whether 2027 full proceedings appear in Springer CCIS or SCITEPRESS is not yet stated
 - DBLP page not checked (dblp.org blocked automated access)
 - CCF list not checked against GISTAM (no matching full name expected)
-last_verified: 2026-11-14
+last_verified: 2026-11-27

@@ -23,8 +23,27 @@ notes:
 - Full papers (up to 16 pages) and short papers (up to 5 pages), double-blind review, LNCS format, English or Norwegian
 - Accepted papers appear in the open access NIKT Journal (ISSN 1892-0721, Norwegian level 1 channel); extended abstracts are not part of the proceedings
 - NISK 2025 proceedings had seven full articles and one short paper
-- Host rotates within Norway (Trondheim 2021, Kristiansand 2022, Stavanger 2023, Bergen 2024, Halden 2025)
+- Host rotates within Norway (Trondheim 2021, Kristiansand 2022, Stavanger 2023, Bergen 2024, Halden 2025, Levanger 2026)
+- NIKT 2026 fee 5,000 NOK for the 3-day conference (2,500 NOK for one day)
 editions:
+- year: 2026
+  start: 2026-11-25
+  end: 2026-11-27
+  location: Levanger, Norway (NIKT 2026, Nord University, Campus Røstad)
+  url: https://www.nord.no/en/events/conferenceseminar/nikt-2026
+  deadlines:
+  - kind: abstract
+    date: 2026-09-01
+  - kind: submission
+    date: 2026-09-22
+    label: Full and short papers (NISK CFP PDF says 2026-09-15; NIKT page says 2026-09-22)
+  - kind: notification
+    date: 2026-10-15
+  - kind: camera_ready
+    date: 2026-11-01
+  - kind: other
+    date: 2026-11-05
+    label: Registration
 - year: 2025
   start: 2025-11-24
   end: 2025-11-26
@@ -41,6 +60,9 @@ editions:
   - kind: camera_ready
     date: 2025-10-25
 sources:
+- https://www.nord.no/en/events/conferenceseminar/nikt-2026
+- https://www.nord.no/sites/default/files/2026-11/NISK2026_Call-for-papers.pdf
+- https://www.ntnu.no/ojs/index.php/nikt/issue/view/605
 - https://nikt.org/
 - https://nikt.org/konferanser/
 - https://www.hiof.no/iio/itk/om/konferanser/NIKT2025/
@@ -50,7 +72,7 @@ sources:
 - https://www.ntnu.no/ojs/index.php/nikt/issue/view/573
 - https://portal.core.edu.au/conf-ranks/?search=NISK&by=all&source=ICORE2026
 unverified:
-- NIKT 2026 host, dates and deadlines not found on nikt.org or the NIKT journal site as of 2026-11-20
-- Notification and camera-ready dates are from the NISK 2025 CFP and may have moved after the deadline extension
+- NIKT 2027 host and dates not announced as of 2026-11-27
+- NISK 2025 notification and camera-ready dates are from the NISK 2025 CFP and may have moved after the deadline extension
 - Not listed in ICORE2026 or the CCF 2026 list
-last_verified: 2026-11-20
+last_verified: 2026-11-27

@@ -68,6 +68,9 @@ editions:
   - kind: other
     date: 2027-01-28
     label: Early reject notification
+  - kind: other
+    date: 2027-02-24
+    label: Rebuttal period starts (until 2027-03-01)
   - kind: notification
     date: 2027-03-18
   - kind: camera_ready
@@ -83,4 +86,4 @@ sources:
 - http://jianying.space/conference-ranking.html
 unverified:
 - Acceptance rate taken from Jianying Zhou's statistics page
-last_verified: 2026-11-20
+last_verified: 2026-11-27

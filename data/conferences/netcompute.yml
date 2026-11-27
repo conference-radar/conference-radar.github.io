@@ -47,9 +47,10 @@ editions:
 sources:
 - https://netcompute.org
 - https://infocom2026.ieee-infocom.org/workshop-computation-over-heterogeneous-networks-netcompute-call-papers
+- https://infocom2027.ieee-infocom.org/call-workshop-papers
 - https://portal.core.edu.au/conf-ranks/?search=NetCompute&by=all&source=ICORE2026
-last_verified: 2026-10-17
+last_verified: 2026-11-27
 unverified:
-- Whether a 2027 edition will be held at IEEE INFOCOM 2027; the INFOCOM 2027 workshop list is not out yet
+- No 2027 edition announced as of 2026-11-27; NetCompute is not among the IEEE INFOCOM 2027 workshops listed so far and netcompute.org still shows 2026
 - Camera-ready date is 2026-03-04 on the workshop site but 2026-02-16 on the INFOCOM workshop CFP page
 - Region follows the host conference, which rotates worldwide

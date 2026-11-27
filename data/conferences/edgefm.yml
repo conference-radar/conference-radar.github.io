@@ -57,6 +57,6 @@ sources:
 - https://doi.org/10.1145/3662006
 - https://portal.core.edu.au/conf-ranks/?search=EdgeFM&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- EdgeFM 2026 or 2027 not announced as of 2026-11-20 (workshop site still shows 2025, edgefm.github.io/2026/ returns 404; not in the MobiCom 2026 workshop program
+- EdgeFM 2026 or 2027 not announced as of 2026-11-27 (workshop site still shows 2025, edgefm.github.io/2026/ returns 404; not in the MobiCom 2026 workshop program
   or the MobiSys 2026 accepted workshops)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

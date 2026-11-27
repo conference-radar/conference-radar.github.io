@@ -70,9 +70,9 @@ editions:
   url: https://enase.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -119,7 +119,7 @@ sources:
 - https://enase.scitevents.org/?y=2023
 - https://portal.core.edu.au/conf-ranks/?search=ENASE&by=all&source=ICORE2026
 unverified:
-- ENASE 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-14
+- ENASE 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-27
 - Acceptance rate not found on official pages
 - CCF 2026 list checked only via the ccfddl and CCFrank4dblp mirrors, which have no ENASE entry
-last_verified: 2026-11-14
+last_verified: 2026-11-27

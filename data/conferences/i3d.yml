@@ -46,12 +46,13 @@ editions:
   - kind: camera_ready
     date: 2026-03-31
 sources:
+- https://i3dsymposium.org/2027/
 - https://i3dsymposium.org/2026/
 - https://i3dsymposium.org/2026/cfp.html
 - https://i3dsymposium.org/2026/conference.html
 - https://portal.core.edu.au/conf-ranks/?search=I3D&by=all&source=ICORE2026
 unverified:
-- I3D 2027 not yet announced
+- I3D 2027 dates, location and deadlines not announced (the 2027 site lists all as TBD as of 2026-11-27)
 - The 2026 CFP labels the 23:59 deadline as Pacific Time "UTC -7" although January is PST (UTC-8)
 - CCF rank not checked (CCF list page not reachable)
-last_verified: 2026-10-11
+last_verified: 2026-11-27

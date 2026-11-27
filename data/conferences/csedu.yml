@@ -72,9 +72,9 @@ editions:
   url: https://csedu.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -98,7 +98,7 @@ editions:
   - kind: submission
     date: 2027-02-16
     tz: AoE
-    label: Special session papers
+    label: Workshop and special session papers
   - kind: abstract
     date: 2027-02-16
     tz: AoE
@@ -110,11 +110,11 @@ editions:
   - kind: notification
     date: 2027-03-02
     tz: AoE
-    label: Special session papers and abstracts track
+    label: Workshop papers, special session papers and abstracts track
   - kind: camera_ready
     date: 2027-03-10
     tz: AoE
-    label: Special session papers and abstracts track, with registration
+    label: Workshop papers, special session papers and abstracts track, with registration
 sources:
 - https://csedu.scitevents.org/
 - https://csedu.scitevents.org/ImportantDates.aspx
@@ -126,7 +126,7 @@ sources:
 - https://csedu.scitevents.org/?y=2024
 - https://csedu.scitevents.org/?y=2023
 - https://portal.core.edu.au/conf-ranks/?search=CSEDU&by=all&source=ICORE2026
-last_verified: 2026-11-14
+last_verified: 2026-11-27
 unverified:
-- CSEDU 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-14
+- CSEDU 2027 late-breaking paper deadline not listed on the Important Dates page as of 2026-11-27
 - Acceptance rate not found on the official pages

@@ -27,10 +27,16 @@ editions:
   location: Montreal, Canada
   url: https://unet-conf.org/
   deadlines:
+  - kind: other
+    date: 2026-11-30
+    label: Special session proposals
   - kind: submission
     date: 2026-12-15
   - kind: notification
     date: 2027-02-05
+  - kind: other
+    date: 2027-02-15
+    label: Panel proposals
   - kind: camera_ready
     date: 2027-03-15
 sources:
@@ -45,4 +51,4 @@ unverified:
   page; the latest edition confirmed is UNet 2023 (1 to 3 November 2023, Clermont-Ferrand, Springer LNCS)
 - The 2027 site still shows placeholder committee names and an old venue page, and its footer marks the IEEE
   proceedings as pending
-last_verified: 2026-11-20
+last_verified: 2026-11-27

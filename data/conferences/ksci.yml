@@ -63,8 +63,24 @@ editions:
   - kind: other
     date: 2026-07-03
     label: Pre-registration closes (opened 2026-06-22)
+- year: 2027
+  label: 75th Winter Conference
+  start: 2027-01-14
+  end: 2027-01-16
+  location: Cheonan (Kongju National University Cheonan Campus), Korea
+  url: https://ksci.re.kr/board/snotice/article/288281
+  deadlines:
+  - kind: submission
+    date: 2026-12-20
+    label: Papers
+  - kind: notification
+    date: 2026-12-23
+  - kind: other
+    date: 2027-01-08
+    label: Pre-registration closes (opens 2026-12-23)
 sources:
 - https://ksci.re.kr/board/snotice/article/288281
+- https://ksci.re.kr/board/downloadBoardImage?uploadedFileId=232378
 - https://ksci.re.kr/board/snotice/article/277674
 - https://ksci.re.kr/board/downloadBoardImage?uploadedFileId=213430
 - https://ksci.re.kr/board/snotice/article/271124
@@ -73,7 +89,4 @@ sources:
 - https://ksci.re.kr/board/snotice/article.json
 - https://ksci.re.kr/
 - https://portal.core.edu.au/conf-ranks/?search=KSCI&by=all&source=ICORE2026&sort=atitle&page=1
-unverified:
-- 75th Winter Conference (2027) call for papers posted on 2026-11-16, but dates, venue and deadlines are only in an
-  attached HWP file that could not be read as of 2026-11-20
-last_verified: 2026-11-20
+last_verified: 2026-11-27

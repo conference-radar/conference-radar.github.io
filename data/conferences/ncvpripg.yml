@@ -22,14 +22,30 @@ links:
 notes:
 - Indian national computer vision, pattern recognition, image processing and graphics conference run with IUPRAI,
   hosted by a different Indian institute each time
-- Editions in 2017 (Mandi), 2019 (Hubballi), 2023 (Jodhpur), 2024 (Thiruvananthapuram) and 2025 (Jammu); 10th edition
-  in 2025
-- Proceedings in Springer CCIS in 2025 (CCIS 2684 and 2685, revised selected papers); Springer LNEE in 2023
+- Editions in 2017 (Mandi), 2019 (Hubballi), 2023 (Jodhpur), 2024 (Thiruvananthapuram), 2025 (Jammu) and 2026
+  (LNMIIT Jaipur, 11th edition)
+- Proceedings in Springer CCIS in 2025 (CCIS 2684 and 2685, revised selected papers) and announced for CCIS again in 2026; Springer LNEE in 2023
 - The 2024 edition had no paper proceedings in a formal series; it ran a student research symposium (abstracts only),
   workshops, tutorials and challenges
 - Papers 10 to 15 pages in Springer format, submitted via Microsoft CMT; extra pages charged
 - Not listed in ICORE2026 or in the CCF list
 editions:
+- year: 2026
+  label: 11th NCVPRIPG
+  start: 2026-07-22
+  end: 2026-07-24
+  location: Jaipur (LNMIIT), India
+  url: https://ncvpripg2026.lnmiit.ac.in/
+  deadlines:
+  - kind: submission
+    date: 2026-04-30
+    label: Final extension (originally 2026-03-31, then 2026-04-07 and 2026-04-15)
+  - kind: notification
+    date: 2026-06-23
+    label: Review results (moved from 2026-06-20)
+  - kind: camera_ready
+    date: 2026-07-08
+    label: End of camera-ready window (June 23 to July 08)
 - year: 2025
   label: 10th NCVPRIPG
   start: 2025-07-16
@@ -48,6 +64,8 @@ editions:
     date: 2025-07-05
     label: Author registration deadline
 sources:
+- https://ncvpripg2026.lnmiit.ac.in/
+- https://ncvpripg2026.lnmiit.ac.in/call-for-papers
 - https://ncvpripg25.github.io/ncvpripg25/
 - https://ncvpripg25.github.io/ncvpripg25/call_for_papers.html
 - https://ncvpripg25.github.io/ncvpripg25/submission.html
@@ -59,6 +77,7 @@ sources:
 - https://link.springer.com/book/10.1007/978-981-97-5212-6
 - https://portal.core.edu.au/conf-ranks/?search=NCVPRIPG&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
-- No 2026 or 2027 NCVPRIPG edition found as of 2026-11-20 (IUPRAI events page lists 2025 as latest); next host, dates and deadlines unknown
+- No 2027 NCVPRIPG edition announced as of 2026-11-27; next host, dates and deadlines unknown
+- 2026 deadline times and time zones not stated on the site
 - Whether the venue stays annual; editions were biennial or less frequent before 2023
-last_verified: 2026-11-20
+last_verified: 2026-11-27

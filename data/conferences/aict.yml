@@ -46,7 +46,8 @@ editions:
   url: https://www.iaria.org/conferences2027/AICT27.html
   deadlines:
   - kind: submission
-    date: 2026-12-01
+    date: 2026-12-04
+    label: Extended from 2026-12-01
   - kind: notification
     date: 2027-01-03
   - kind: other
@@ -65,6 +66,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=AICT&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - Acceptance statistics not checked
-- IARIA deadlines are often extended; as of 2026-11-20 the AICT 2027 page gives Dec 01, 2026 for submission (earlier listed as Nov 16, 2026)
+- IARIA deadlines are often extended; as of 2026-11-27 the AICT 2027 page gives Dec 04, 2026 for submission (earlier Nov 16, then Dec 01, 2026)
 - No ICORE2026 entry found for AICT, so no CORE rank is recorded
-last_verified: 2026-11-20
+last_verified: 2026-11-27

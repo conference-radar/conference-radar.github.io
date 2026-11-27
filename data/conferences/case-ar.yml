@@ -39,6 +39,7 @@ editions:
   location: UTN Facultad Regional San Rafael, Mendoza, Argentina
   url: https://case.ar/?page_id=5309
 sources:
+- https://case.ar/
 - https://case.ar/?page_id=5309
 - https://case.ar/?page_id=4733
 - https://case.ar/?page_id=4249
@@ -48,5 +49,5 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=CASE&by=all&source=ICORE2026
 unverified:
 - CASE 2026 submission deadline no longer shown on the official page
-- No CASE 2027 edition announced as of 2026-11-14
-last_verified: 2026-11-14
+- No CASE 2027 edition announced as of 2026-11-27 (case.ar lists editions up to CASE2026)
+last_verified: 2026-11-27

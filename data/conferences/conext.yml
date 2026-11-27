@@ -106,6 +106,9 @@ editions:
   - kind: notification
     date: 2027-03-31
     label: December cycle
+  - kind: camera_ready
+    date: 2027-04-30
+    label: December cycle
   - kind: abstract
     date: 2027-05-28
     time: "23:59"
@@ -131,4 +134,4 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=CoNEXT&by=all&source=ICORE2026&sort=atitle&page=1
 unverified:
 - CoNEXT 2027 dates are marked 'to be confirmed'
-last_verified: 2026-11-20
+last_verified: 2026-11-27

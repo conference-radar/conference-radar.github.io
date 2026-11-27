@@ -59,8 +59,8 @@ editions:
     label: Cycle 2
 - year: 2027
   start: 2027-06-05
-  end: 2027-06-11
-  location: Atlanta, Georgia, USA
+  end: 2027-06-08
+  location: Hyatt Regency Atlanta, Atlanta, Georgia, USA
   url: https://klab-ai3.github.io/ics2027/
   deadlines:
   - kind: abstract
@@ -77,17 +77,25 @@ editions:
     date: 2027-03-12
     tz: AoE
     label: Final decisions
+  - kind: other
+    date: 2026-12-20
+    tz: AoE
+    label: Workshop proposals
+  - kind: other
+    date: 2027-01-20
+    tz: AoE
+    label: Workshop proposal notification
 sources:
 - https://www.ics-conference.org/
 - https://www.ics-conference.org/archive.html
 - https://klab-ai3.github.io/ics2027/
+- https://klab-ai3.github.io/ics2027/calls-cfp.html
 - https://dipsa-qub.github.io/ICS2026-webpage/
 - https://dipsa-qub.github.io/ICS2026-webpage/call-for/call-for-papers.html
 - https://dipsa-qub.github.io/ICS2026-webpage/attending/venue.html
 - https://portal.core.edu.au/conf-ranks/?search=ICS&by=all&source=ICORE2026
 - https://raw.githubusercontent.com/WenyanLiu/CCFrank4dblp/master/data/ccfRankUrl.js (CCF list mirror)
 unverified:
-- ICS 2027 dates June 5 to 11 are the FCRC 2027 window given on the ICS 2027 site; exact ICS days and venue not announced as of 2026-11-14
 - ICS 2026 deadlines were stated without a time zone
 - CCF rank checked via the CCFrank4dblp mirror, not on ccf.org.cn directly
-last_verified: 2026-11-20
+last_verified: 2026-11-27

@@ -55,8 +55,8 @@ editions:
     date: 2026-09-10
     label: Workshop and special session proposals
   - kind: submission
-    date: 2026-12-01
-    label: Conference papers
+    date: 2026-12-15
+    label: Conference papers (extended from 2026-12-01)
   - kind: notification
     date: 2027-02-22
   - kind: camera_ready
@@ -67,13 +67,16 @@ editions:
   - kind: notification
     date: 2027-03-26
     label: Workshop papers
+  - kind: camera_ready
+    date: 2027-04-02
+    label: Workshop papers
 sources:
 - https://ie2027.mk/
 - https://ie2026.pt/
 - https://ie2026.pt/index.php/paper-submission/
 - https://ie2026.pt/index.php/venue/
 - https://portal.core.edu.au/conf-ranks/?search=IE&by=all&source=ICORE2026
-last_verified: 2026-11-20
+last_verified: 2026-11-27
 unverified:
 - Locations of editions before 2024 not checked on official pages
 - Not checked against the CCF 2026 list

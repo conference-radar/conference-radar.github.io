@@ -58,8 +58,8 @@ editions:
         date: 2026-10-15
         label: Invited/special session proposals
       - kind: submission
-        date: 2026-11-27
-        label: Oral papers
+        date: 2026-12-11
+        label: Oral papers (extended from 2026-11-27, firm)
       - kind: notification
         date: 2027-01-15
         label: Oral papers
@@ -87,4 +87,4 @@ sources:
 unverified:
   - Registration fees (registration page for 2027 not open yet)
   - Whether proceedings are distributed beyond registrants (the site only says they are available on the registration page)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

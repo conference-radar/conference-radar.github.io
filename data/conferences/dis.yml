@@ -27,7 +27,7 @@ notes:
 - Papers and pictorials share one deadline in January with an abstract one to two weeks earlier; no page limit,
   about 7,000 to 8,000 words expected; anonymized review
 - In-person only in 2026; papers not presented in person may be withdrawn from the ACM DL
-- Rotates worldwide (Pittsburgh 2023, Copenhagen 2024, Funchal 2025, Singapore 2026)
+- Rotates worldwide (Pittsburgh 2023, Copenhagen 2024, Funchal 2025, Singapore 2026, Stockholm 2027)
 - CORE A (ICORE2026); CCF C (HCI and ubiquitous computing category)
 editions:
 - year: 2025
@@ -65,8 +65,27 @@ editions:
     date: 2026-04-08
     tz: AoE
     label: Full papers and pictorials
+- year: 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  location: Stockholm, Sweden (KTH Royal Institute of Technology)
+  url: https://dis.acm.org/2027/
+  deadlines:
+  - kind: abstract
+    date: 2027-01-11
+    tz: AoE
+    label: Title and abstract, papers and pictorials
+  - kind: submission
+    date: 2027-01-18
+    tz: AoE
+    label: Papers and pictorials
+  - kind: notification
+    date: 2027-03-19
+    label: Papers and pictorials
 sources:
 - https://dis.acm.org/
+- https://dis.acm.org/2027/
+- https://dis.acm.org/2027/call-for-papers/
 - https://dis.acm.org/2026/
 - https://dis.acm.org/2026/papers/
 - https://dis.acm.org/2025/
@@ -75,6 +94,6 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=DIS&by=all&source=ICORE2026
 - https://github.com/ccfddl/ccf-deadlines (CCF 2026 list PDF)
 unverified:
-- DIS 2027 dates and location not yet announced on dis.acm.org as of 2026-10-11
+- DIS 2027 camera-ready and other track deadlines not yet stated
 - CCF rank checked via the ccfddl mirror of the CCF 2026 list PDF, not on ccf.org.cn directly (site behind a captcha)
-last_verified: 2026-10-11
+last_verified: 2026-11-27

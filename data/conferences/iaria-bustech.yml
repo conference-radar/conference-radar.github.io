@@ -46,7 +46,7 @@ editions:
   url: https://www.iaria.org/conferences2027/BUSTECH27.html
   deadlines:
   - kind: submission
-    date: 2026-12-01
+    date: 2026-12-04
   - kind: notification
     date: 2027-01-03
   - kind: other
@@ -64,8 +64,8 @@ sources:
 - https://portal.core.edu.au/conf-ranks/?search=BUSTECH&by=all&source=ICORE2026
 unverified:
 - Acceptance statistics not checked
-- IARIA deadlines are often extended; the 2027 dates shown are the initial ones
+- IARIA deadlines are often extended; the 2027 submission deadline already moved from 2026-12-01 to 2026-12-04 and may move again
 - The 2026 deadlines shown are those on the official page after the event (possibly extended)
 - No ICORE2026 entry found for BUSTECH, so no CORE rank is recorded
 - DBLP page not checked (dblp.org blocked automated access)
-last_verified: 2026-11-20
+last_verified: 2026-11-27

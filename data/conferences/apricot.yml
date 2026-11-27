@@ -54,6 +54,12 @@ editions:
     time: '23:59'
     tz: UTC+8
     label: Fellowship application
+  - kind: submission
+    date: 2027-01-25
+    label: Call for Presentations final deadline (slots filled earlier on a first come, first served basis)
+  - kind: other
+    date: 2027-02-26
+    label: Final slides
 - year: 2028
   label: APRICOT 2028 (late February)
   location: Bangkok, Thailand
@@ -64,12 +70,12 @@ sources:
 - https://www.apricot.net
 - https://2027.apricot.net
 - https://2027.apricot.net/fellowship/keydates
+- https://2027.apricot.net/programme/callforpresentations
 - https://2026.apricot.net
 - https://2026.apricot.net/programme/callforpresentations
 - https://2026.apricot.net/register/feeschedule
 - https://portal.core.edu.au/conf-ranks/
 unverified:
-- APRICOT 2027 Call for Presentations deadlines not yet published
-- APRICOT 2027 registration fees (registration expected to open late October 2026)
+- APRICOT 2027 registration fee amounts not checked (early bird to 2026-11-15, standard to 2027-02-06)
 - Exact dates of APRICOT 2028
-last_verified: 2026-09-28
+last_verified: 2026-11-27

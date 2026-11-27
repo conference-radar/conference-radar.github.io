@@ -72,9 +72,9 @@ editions:
   url: https://smartgreens.scitevents.org/
   deadlines:
   - kind: submission
-    date: 2026-11-17
+    date: 2026-12-01
     tz: AoE
-    label: Regular papers (1st stage)
+    label: Regular papers (1st stage, extended from 2026-11-17)
   - kind: other
     date: 2026-11-27
     tz: AoE
@@ -123,4 +123,4 @@ sources:
 unverified:
 - Acceptance rate (not shown on the conference site)
 - Springer CCIS book for 2027 extended papers is pending final approval
-last_verified: 2026-11-14
+last_verified: 2026-11-27

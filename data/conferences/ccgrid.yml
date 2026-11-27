@@ -42,11 +42,13 @@ editions:
   url: https://hpcclab.org/ccgrid27/
   deadlines:
   - kind: abstract
-    date: 2026-11-24
-    tz: AoE
-  - kind: submission
     date: 2026-12-01
     tz: AoE
+    label: Extended from 2026-11-24
+  - kind: submission
+    date: 2026-12-08
+    tz: AoE
+    label: Extended from 2026-12-01
   - kind: notification
     date: 2027-02-01
   - kind: camera_ready
@@ -61,4 +63,4 @@ unverified:
 - CCGrid 2026 deadlines not recorded; the 2026 site could not be opened (access denied), dates taken from the steering committee history page
 - CORE lists the venue under its old name (Cluster, Cloud and Grid Computing)
 - CCF rank checked in the CCF 2026 list PDF mirrored by ccfddl (ccf.org.cn blocks automated access)
-last_verified: 2026-11-20
+last_verified: 2026-11-27
